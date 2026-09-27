@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SciMaster Gr.6 - ข้อสอบประเมินผลวิทยาศาสตร์ ป.6 ฉบับออนไลน์</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Prompt:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="dark-theme">
+  <!-- Dynamic Glowing Background Orbs -->
+  <div class="bg-mesh">
+    <div class="glow-orb orb-1"></div>
+    <div class="glow-orb orb-2"></div>
+    <div class="glow-orb orb-3"></div>
+  </div>
+
+  <div id="app" class="app-layout">
+    <!-- Top Global Header -->
+    <header class="app-header">
+      <div class="header-left">
+        <div class="brand-badge" id="brandBadge">
+          <i class="fa-solid fa-atom pulse-icon" id="brandIcon"></i>
+          <span id="brandTitle">SCIMASTER GR.6</span>
+        </div>
+        <h1 class="portal-title" id="portalTitle">ระบบทดสอบวัดผลการเรียนรู้วิทยาศาสตร์ ป.6</h1>
+        <!-- Subject Switcher Pills -->
+        <div class="subject-selector">
+          <button class="subject-pill active" id="subSciBtn" data-subject="science" title="สลับไปวิชาวิทยาศาสตร์">
+            <i class="fa-solid fa-flask"></i> วิทยาศาสตร์
+          </button>
+          <button class="subject-pill" id="subMathBtn" data-subject="math" title="สลับไปวิชาคณิตศาสตร์">
+            <i class="fa-solid fa-calculator"></i> คณิตศาสตร์
+          </button>
+        </div>
+      </div>
+
+      <div class="header-center">
+        <!-- Live Countdown Timer -->
+        <div class="timer-card" id="timerBox">
+          <i class="fa-regular fa-clock"></i>
+          <span class="timer-label">เวลาคงเหลือ:</span>
+          <span class="timer-display" id="timerDisplay">60:00</span>
+          <button id="toggleTimerBtn" class="btn-icon-subtle" title="หยุด/เริ่มจับเวลา">
+            <i class="fa-solid fa-pause"></i>
+          </button>
+          <button id="editTimerBtn" class="btn-icon-subtle" title="ตั้งเวลาทำข้อสอบ">
+            <i class="fa-solid fa-pen"></i>
+          </button>
+        </div>
+      </div>
+
+      <div class="header-right">
+        <div class="progress-pill">
+          <span class="progress-text"><span id="answeredCount">0</span>/115 ข้อ</span>
+          <div class="progress-bar-bg">
+            <div class="progress-bar-fill" id="overallProgressBar" style="width: 0%"></div>
+          </div>
+        </div>
+        <button id="finishExamBtn" class="btn-primary-finish">
+          <i class="fa-solid fa-flag-checkered"></i> ส่งข้อสอบ
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Exam Container -->
+    <div class="exam-body">
+      <!-- Left / Question Area -->
+      <main class="question-main-pane">
+        <!-- Section Tabs Navigation -->
+        <nav class="section-tabs">
+          <button class="tab-btn active" data-section="ALL">
+            <i class="fa-solid fa-layer-group"></i> ทั้งหมด (115)
+          </button>
+          <button class="tab-btn" data-section="MCQ">
+            <i class="fa-solid fa-list-check"></i> ส่วน A: ปรนัย (60)
+          </button>
+          <button class="tab-btn" data-section="TF">
+            <i class="fa-solid fa-circle-check"></i> ส่วน B: ถูก/ผิด (30)
+          </button>
+          <button class="tab-btn" data-section="Scenario">
+            <i class="fa-solid fa-flask-vial"></i> ส่วน C: สถานการณ์ (15)
+          </button>
+          <button class="tab-btn" data-section="ShortAnswer">
+            <i class="fa-solid fa-pen-to-square"></i> ส่วน D: อัตนัย (10)
+          </button>
+        </nav>
+
+        <!-- Question Viewport Card -->
+        <div class="question-card" id="questionCard">
+          <div class="q-header">
+            <div class="q-badges">
+              <span class="badge badge-section" id="qSectionBadge">Section A: ปรนัย</span>
+              <span class="badge badge-topic" id="qTopicBadge">การแยกสารผสม</span>
+              <span class="badge badge-diff" id="qDiffBadge">ปานกลาง</span>
+              <span class="badge badge-lo" id="qLoBadge">LO-S1</span>
+            </div>
+            <div class="q-actions">
+              <button id="bookmarkBtn" class="btn-icon" title="บุ๊กมาร์กข้อนี้ไว้ทบทวน">
+                <i class="fa-regular fa-bookmark"></i>
+              </button>
+              <span class="q-points" id="qPointsBadge">1 คะแนน</span>
+            </div>
+          </div>
+
+          <!-- Scenario Box if applicable -->
+          <div class="scenario-box" id="scenarioContainer" style="display: none;">
+            <div class="scenario-header">
+              <i class="fa-solid fa-briefcase"></i> สถานการณ์จำลอง
+            </div>
+            <p id="scenarioText" class="scenario-body"></p>
+          </div>
+
+          <!-- Question Prompt -->
+          <div class="q-content">
+            <div class="q-number-bubble" id="qNumberDisplay">ข้อที่ 1</div>
+            <h2 class="q-text" id="qTextDisplay">กำลังโหลดข้อสอบ...</h2>
+          </div>
+
+          <!-- Answer Input Area -->
+          <div class="answer-interactive-zone" id="answerContainer">
+            <!-- Dynamic Options (Radio, TF buttons, Textarea) -->
+          </div>
+
+          <!-- Immediate Feedback (Revealed in Practice Mode or after submit) -->
+          <div class="explanation-box" id="explanationBox" style="display: none;">
+            <div class="exp-header">
+              <i class="fa-solid fa-lightbulb"></i> คำอธิบายและเฉลยละเอียด
+            </div>
+            <div class="exp-correct-ans" id="expCorrectAnswer"></div>
+            <p class="exp-text" id="expText"></p>
+          </div>
+
+          <!-- Question Footer Navigation -->
+          <div class="q-footer">
+            <button id="prevBtn" class="btn-secondary">
+              <i class="fa-solid fa-arrow-left"></i> ข้อก่อนหน้า
+            </button>
+
+            <button id="nextBtn" class="btn-primary">
+              ข้อถัดไป <i class="fa-solid fa-arrow-right"></i>
+            </button>
+          </div>
+        </div>
+      </main>
+
+      <!-- Right / Navigation Drawer & Palette -->
+      <aside class="sidebar-palette">
+        <div class="palette-header">
+          <div class="palette-title">
+            <i class="fa-solid fa-table-cells"></i> ผังข้อสอบ (Question Map)
+          </div>
+          <div class="palette-legend">
+            <span class="leg-item"><span class="dot answered"></span> ตอบแล้ว</span>
+            <span class="leg-item"><span class="dot current"></span> ปัจจุบัน</span>
+            <span class="leg-item"><span class="dot bookmarked"></span> มาร์กไว้</span>
+            <span class="leg-item"><span class="dot unvisited"></span> ยังไม่ตอบ</span>
+          </div>
+        </div>
+
+        <!-- Filter bar in palette -->
+        <div class="palette-filter">
+          <button class="filter-chip active" data-filter="all">ทั้งหมด (115)</button>
+          <button class="filter-chip" data-filter="unanswered">ยังไม่ทำ</button>
+          <button class="filter-chip" data-filter="bookmarked"><i class="fa-solid fa-bookmark"></i> ที่บันทึกไว้</button>
+        </div>
+
+        <!-- 115 Question Grid -->
+        <div class="question-grid" id="questionGrid">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <!-- Palette Footer Utilities -->
+        <div class="palette-footer">
+          <button id="resetSessionBtn" class="btn-outline-danger">
+            <i class="fa-solid fa-rotate-left"></i> ล้างคำตอบเริ่มใหม่
+          </button>
+          <button id="summaryNotesBtn" class="btn-outline-info">
+            <i class="fa-solid fa-book-open"></i> สรุปเนื้อหาและ 5 จุดเน้น
+          </button>
+        </div>
+      </aside>
+    </div>
+
+    <!-- Modal: Results & Analytics Scorecard -->
+    <div class="modal-backdrop" id="resultModal" style="display: none;">
+      <div class="modal-card modal-lg">
+        <div class="modal-header">
+          <h2><i class="fa-solid fa-trophy"></i> ผลการทดสอบประเมินความรู้ (Assessment Scorecard)</h2>
+          <button class="close-modal-btn" id="closeResultModal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <!-- Main Score Highlight Banner -->
+          <div class="score-banner" id="scoreBanner">
+            <div class="score-circle">
+              <span class="big-score" id="resTotalScore">0</span>
+              <span class="score-total">/ 150</span>
+            </div>
+            <div class="score-status">
+              <h3 id="resPassStatus" class="status-pass">ผ่านเกณฑ์ยอดเยี่ยม</h3>
+              <p id="resPercentage" class="percentage-sub">คิดเป็น 0.0% (เกณฑ์ผ่าน 80% = 120 คะแนน)</p>
+              <div class="time-spent-badge" id="resTimeSpent"><i class="fa-regular fa-clock"></i> ใช้เวลา: 0 นาที</div>
+            </div>
+          </div>
+
+          <!-- Section Breakdown Cards -->
+          <div class="section-breakdown-grid">
+            <div class="breakdown-card">
+              <h4>ส่วน A: ปรนัย (MCQ)</h4>
+              <div class="card-bar-bg"><div class="card-bar-fill" id="barSecA" style="width: 0%"></div></div>
+              <div class="card-stat"><span id="scoreSecA">0/60</span> (<span id="pctSecA">0%</span>)</div>
+            </div>
+            <div class="breakdown-card">
+              <h4>ส่วน B: ถูก/ผิด (TF)</h4>
+              <div class="card-bar-bg"><div class="card-bar-fill" id="barSecB" style="width: 0%"></div></div>
+              <div class="card-stat"><span id="scoreSecB">0/30</span> (<span id="pctSecB">0%</span>)</div>
+            </div>
+            <div class="breakdown-card">
+              <h4>ส่วน C: สถานการณ์ (Scenario)</h4>
+              <div class="card-bar-bg"><div class="card-bar-fill" id="barSecC" style="width: 0%"></div></div>
+              <div class="card-stat"><span id="scoreSecC">0/30</span> (<span id="pctSecC">0%</span>)</div>
+            </div>
+            <div class="breakdown-card">
+              <h4>ส่วน D: อัตนัย (Short Answer)</h4>
+              <div class="card-bar-bg"><div class="card-bar-fill" id="barSecD" style="width: 0%"></div></div>
+              <div class="card-stat"><span id="scoreSecD">0/30</span> (<span id="pctSecD">0%</span>)</div>
+            </div>
+          </div>
+
+          <!-- Knowledge Gap & Revision Advice -->
+          <div class="analysis-section">
+            <h3><i class="fa-solid fa-triangle-exclamation"></i> การวิเคราะห์จุดบกพร่อง (Knowledge Gap Analysis)</h3>
+            <ul class="gap-list" id="gapList">
+              <li><strong>การแยกสารละลาย:</strong> ข้อผิดพลาดที่พบบ่อยคือการใช้กระดาษกรองแยกเกลือออกจากน้ำ ซึ่งในความเป็นจริงต้องใช้การระเหยแห้งเท่านั้น</li>
+              <li><strong>บทบาทของสารส้ม:</strong> สารส้มช่วยให้อนุภาคแขวนลอยรวมกลุ่มกันตกตะกอน ไม่ได้มีหน้าที่ทำละลายโคลนหรือฆ่าเชื้อโรค</li>
+              <li><strong>อัตราการเย็นตัวของหินอัคนี:</strong> แมกมาใต้ดินเย็นช้า = ผลึกใหญ่ (หินแกรนิต) ส่วนลาวาบนผิวโลกเย็นเร็ว = ผลึกเล็ก/เนื้อแก้ว (หินพัมมิซ, หินออบซิเดียน)</li>
+              <li><strong>การแปรสภาพของหิน:</strong> หินปูนกลายเป็นหินอ่อน และหินทรายกลายเป็นหินควอร์ตไซต์</li>
+            </ul>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button class="btn-secondary" id="reviewAllAnswersBtn"><i class="fa-solid fa-magnifying-glass"></i> ดูเฉลยและทบทวนทุกข้อ</button>
+          <button class="btn-primary" id="retryExamBtn"><i class="fa-solid fa-rotate-right"></i> สอบใหม่อีกครั้ง</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal: Study Guide & Summary -->
+    <div class="modal-backdrop" id="summaryModal" style="display: none;">
+      <div class="modal-card modal-lg">
+        <div class="modal-header">
+          <h2><i class="fa-solid fa-graduation-cap"></i> สรุปประเด็นหลัก & 5 หัวข้อสำคัญที่ควรทบทวน</h2>
+          <button class="close-modal-btn" id="closeSummaryModal">&times;</button>
+        </div>
+        <div class="modal-body guide-scrollable">
+          <div class="guide-box">
+            <h3>1. สรุป 8 วิธีการแยกสารผสม (Separation of Mixtures)</h3>
+            <div class="table-responsive">
+              <table class="guide-table">
+                <thead>
+                  <tr>
+                    <th>วิธีการ</th>
+                    <th>สถานะของสาร</th>
+                    <th>สมบัติที่ใช้แยก</th>
+                    <th>ตัวอย่างในชีวิตประจำวัน</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><strong>การหยิบออก</strong></td>
+                    <td>ของแข็ง + ของแข็ง</td>
+                    <td>ขนาด สี หรือรูปร่างต่างกันชัดเจนและใหญ่พอ</td>
+                    <td>หยิบกรวดออกจากข้าวสาร, แยกเมล็ดถั่วแดงจากถั่วเขียว</td>
+                  </tr>
+                  <tr>
+                    <td><strong>การร่อน</strong></td>
+                    <td>ของแข็ง + ของแข็ง</td>
+                    <td>ขนาดของแข็งต่างกัน ลอดผ่านรูตะแกรง</td>
+                    <td>ร่อนแป้งทำขนม, ร่อนทรายออกจากกรวด, การฝัดข้าว</td>
+                  </tr>
+                  <tr>
+                    <td><strong>การระเหิด</strong></td>
+                    <td>ของแข็ง + ของแข็ง</td>
+                    <td>สารหนึ่งระเหิดเป็นไอได้โดยไม่ผ่านของเหลว</td>
+                    <td>การบูรผสมเกลือ, ลูกเหม็น, พิมเสน, เกล็ดไอโอดีน</td>
+                  </tr>
+                  <tr>
+                    <td><strong>แม่เหล็กดึงดูด</strong></td>
+                    <td>สารแม่เหล็ก + สารอื่น</td>
+                    <td>แม่เหล็กดูดสาร ferromagnetic ได้</td>
+                    <td>แยกผงตะไบเหล็กจากทราย, คัดเศษเหล็กในโรงรีไซเคิล</td>
+                  </tr>
+                  <tr>
+                    <td><strong>การรินออก</strong></td>
+                    <td>ของแข็ง + ของเหลว</td>
+                    <td>ของแข็งไม่ละลายและจมอยู่ก้นภาชนะ</td>
+                    <td>รินน้ำซาวข้าว, รินน้ำแช่ถั่วเหลืองทิ้ง</td>
+                  </tr>
+                  <tr>
+                    <td><strong>การกรอง</strong></td>
+                    <td>ของแข็ง + ของเหลว/แก๊ส</td>
+                    <td>อนุภาคใหญ่กว่ารูพรุนกระดาษกรอง/ผ้า</td>
+                    <td>คั้นกะทิด้วยผ้าขาวบาง, กรองกากชา, เครื่องดูดฝุ่น</td>
+                  </tr>
+                  <tr>
+                    <td><strong>การตกตะกอน</strong></td>
+                    <td>ของแข็งแขวนลอย + ของเหลว</td>
+                    <td>อนุภาคจมตามแรงโน้มถ่วง (เร่งด้วยสารส้ม)</td>
+                    <td>ระบบผลิตน้ำประปา, แกว่งสารส้มในน้ำโคลน, บำบัดน้ำเสีย</td>
+                  </tr>
+                  <tr>
+                    <td><strong>การระเหยแห้ง</strong></td>
+                    <td>ของแข็งละลายในของเหลว</td>
+                    <td>จุดเดือดต่างกัน ของเหลวระเหยหมด</td>
+                    <td>การทำนาเกลือสมุทร, การต้มแยกเกลือจากน้ำเกลือ</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="guide-box">
+            <h3>2. หิน 3 ประเภท และกระบวนการเกิด (Rocks & Genesis)</h3>
+            <div class="rocks-grid">
+              <div class="rock-info-card">
+                <h4><i class="fa-solid fa-volcano"></i> 1. หินอัคนี (Igneous)</h4>
+                <p><strong>หินอัคนีแทรกซอน:</strong> แมกมาเย็นตัวช้าใต้เปลือกโลก ผลึกใหญ่ หยาบ แน่น (หินแกรนิต, ไดออไรต์, แกบโบร)</p>
+                <p><strong>หินอัคนีพุ:</strong> ลาวาเย็นตัวเร็วบนผิวโลก ผลึกละเอียด (ไรโอไลต์, บะซอลต์), เนื้อแก้ววาว (ออบซิเดียน), รูพรุนลอยน้ำได้ (พัมมิซ)</p>
+              </div>
+              <div class="rock-info-card">
+                <h4><i class="fa-solid fa-layer-group"></i> 2. หินตะกอน (Sedimentary)</h4>
+                <p>เกิดจากการผุพัง สึกกร่อน ทับถม และเชื่อมประสาน หรือตกผลึกทางเคมี มักเรียงเป็นชั้นๆ และพบ <strong>ซากดึกดำบรรพ์</strong> (หินทราย, หินปูน, หินดินดาน, หินกรวดมน)</p>
+              </div>
+              <div class="rock-info-card">
+                <h4><i class="fa-solid fa-fire"></i> 3. หินแปร (Metamorphic)</h4>
+                <p>เกิดจากความร้อน ความดัน และสารละลายน้ำร้อนใต้ดินแปรสภาพหินเดิม</p>
+                <ul>
+                  <li>หินปูน &rarr; <strong>หินอ่อน</strong></li>
+                  <li>หินทราย &rarr; <strong>หินควอร์ตไซต์</strong></li>
+                  <li>หินดินดาน &rarr; <strong>หินชนวน</strong> (แซะเป็นแผ่นได้)</li>
+                  <li>หินแกรนิต &rarr; <strong>หินไนส์</strong> (มีริ้วขนานสลับสี)</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

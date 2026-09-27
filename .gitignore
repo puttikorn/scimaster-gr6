@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+
+# PDF files (ไม่ต้อง push ขึ้น GitHub)
+*.pdf
+
+# Large image files
+*.jpg
+*.png
+
+# Extracted text folders
+extracted_pages_txt/
+extracted_text/
+extracted_text_tha/
+
+# Temp
+deploy/
+math_pdf_content.txt

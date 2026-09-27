@@ -1,0 +1,1916 @@
+{
+  "title": "แบบทดสอบประเมินผลความรู้คณิตศาสตร์ ชั้น ป.6 (คณิตศาสตร์ Gr6 - MidFinal)",
+  "meta": {
+    "totalQuestions": 115,
+    "totalScore": 150,
+    "passingPercentage": 80,
+    "passingScore": 120,
+    "sections": [
+      {
+        "key": "MCQ",
+        "name": "Section A: Multiple Choice (ปรนัย)",
+        "count": 60,
+        "pointsPerQuestion": 1,
+        "totalPoints": 60
+      },
+      {
+        "key": "TF",
+        "name": "Section B: True / False (ถูก / ผิด)",
+        "count": 30,
+        "pointsPerQuestion": 1,
+        "totalPoints": 30
+      },
+      {
+        "key": "Scenario",
+        "name": "Section C: Scenario-Based (สถานการณ์จำลอง)",
+        "count": 15,
+        "pointsPerQuestion": 2,
+        "totalPoints": 30
+      },
+      {
+        "key": "ShortAnswer",
+        "name": "Section D: Short Answer (อัตนัย / อธิบายความรู้)",
+        "count": 10,
+        "pointsPerQuestion": 3,
+        "totalPoints": 30
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4a",
+      "difficulty": "Easy",
+      "question": "ในห้องเรียนมีนักเรียนชาย 12 คน และนักเรียนหญิง 18 คน อัตราส่วนของนักเรียนชายต่อนักเรียนหญิง คือข้อใด",
+      "options": {
+        "ก": "2 : 3",
+        "ข": "3 : 2",
+        "ค": "1 : 2",
+        "ง": "2 : 1"
+      },
+      "correctAnswer": "ก",
+      "explanation": "อัตราส่วนชาย:หญิง = 12:18 = 12÷6 : 18÷6 = 2:3",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Easy",
+      "question": "อัตราส่วนที่เท่ากับ 2 : 5 คือข้อใด",
+      "options": {
+        "ก": "4 : 10",
+        "ข": "3 : 8",
+        "ค": "6 : 13",
+        "ง": "10 : 20"
+      },
+      "correctAnswer": "ก",
+      "explanation": "2:5 = 2×2 : 5×2 = 4:10 เพราะคูณทั้งสองพจน์ด้วย 2 เท่ากัน",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Easy",
+      "question": "อัตราส่วน 16 : 80 ในรูปอย่างต่ำ คือข้อใด",
+      "options": {
+        "ก": "1 : 5",
+        "ข": "2 : 5",
+        "ค": "4 : 20",
+        "ง": "8 : 40"
+      },
+      "correctAnswer": "ก",
+      "explanation": "16:80 = 16÷16 : 80÷16 = 1:5",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Medium",
+      "question": "ถ้า 6 : 7 = 42 : □ แล้ว □ มีค่าเท่ากับเท่าใด",
+      "options": {
+        "ก": "43",
+        "ข": "48",
+        "ค": "49",
+        "ง": "56"
+      },
+      "correctAnswer": "ค",
+      "explanation": "จาก 6:7 = 42:□ → 6/7 = 42/□ → □ = 42×7÷6 = 49",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Medium",
+      "question": "ถ้า 25 : 40 = □ : 8 แล้ว □ มีค่าเท่ากับเท่าใด",
+      "options": {
+        "ก": "3",
+        "ข": "4",
+        "ค": "5",
+        "ง": "6"
+      },
+      "correctAnswer": "ค",
+      "explanation": "25:40 = □:8 → ทำให้เท่ากันโดยหาร: 40÷8=5 ดังนั้น □ = 25÷5 = 5",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Medium",
+      "question": "รถยนต์ใช้น้ำมัน 1 ลิตร วิ่งได้ระยะทาง 14 กิโลเมตร ถ้าต้องการเดินทางไปจังหวัดพระนครศรีอยุธยา ซึ่งมีระยะทาง 84 กิโลเมตร จะต้องใช้น้ำมันกี่ลิตร",
+      "options": {
+        "ก": "4 ลิตร",
+        "ข": "5 ลิตร",
+        "ค": "6 ลิตร",
+        "ง": "7 ลิตร"
+      },
+      "correctAnswer": "ค",
+      "explanation": "อัตราส่วน น้ำมัน:ระยะทาง = 1:14 → □:84 → □ = 84÷14 = 6 ลิตร",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Medium",
+      "question": "แผนผังบ้านใช้มาตราส่วน 1 ซม. : 1.5 ม. ถ้าบ้านมีความสูงในแผนผัง 5 ซม. บ้านหลังนี้มีความสูงจริงเท่าไร",
+      "options": {
+        "ก": "6.5 เมตร",
+        "ข": "7 เมตร",
+        "ค": "7.5 เมตร",
+        "ง": "8 เมตร"
+      },
+      "correctAnswer": "ค",
+      "explanation": "ความสูงจริง = 5 × 1.5 = 7.5 เมตร",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Medium",
+      "question": "แผนผังใช้มาตราส่วน 1 ซม. : 300 ม. ร้านค้าและโรงพยาบาลอยู่ห่างกัน 3,000 เมตร ระยะห่างของทั้งสองบนแผนผังยาวกี่เซนติเมตร",
+      "options": {
+        "ก": "8 ซม.",
+        "ข": "9 ซม.",
+        "ค": "10 ซม.",
+        "ง": "12 ซม."
+      },
+      "correctAnswer": "ค",
+      "explanation": "ระยะบนแผนผัง = 3,000 ÷ 300 = 10 เซนติเมตร",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Easy",
+      "question": "เขียน 12 : 25 ในรูปร้อยละ ได้เท่าไร",
+      "options": {
+        "ก": "ร้อยละ 12",
+        "ข": "ร้อยละ 25",
+        "ค": "ร้อยละ 48",
+        "ง": "ร้อยละ 52"
+      },
+      "correctAnswer": "ค",
+      "explanation": "12/25 = (12×4)/(25×4) = 48/100 = ร้อยละ 48",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Easy",
+      "question": "เขียน 90 : 300 ในรูปร้อยละ ได้เท่าไร",
+      "options": {
+        "ก": "ร้อยละ 10",
+        "ข": "ร้อยละ 30",
+        "ค": "ร้อยละ 90",
+        "ง": "ร้อยละ 300"
+      },
+      "correctAnswer": "ข",
+      "explanation": "90/300 = 30/100 = ร้อยละ 30",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Easy",
+      "question": "แม่มีไข่ไก่ 4 ฟอง และไข่เป็ด 6 ฟอง รวม 10 ฟอง ไข่ไก่คิดเป็นร้อยละเท่าไรของจำนวนไข่ทั้งหมด",
+      "options": {
+        "ก": "ร้อยละ 30",
+        "ข": "ร้อยละ 40",
+        "ค": "ร้อยละ 60",
+        "ง": "ร้อยละ 80"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ไข่ไก่/ทั้งหมด = 4/10 = 40/100 = ร้อยละ 40",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "ร้อยละ 40 ของจำนวนคน 200 คน คิดเป็นกี่คน",
+      "options": {
+        "ก": "40 คน",
+        "ข": "60 คน",
+        "ค": "80 คน",
+        "ง": "100 คน"
+      },
+      "correctAnswer": "ค",
+      "explanation": "40/100 × 200 = 80 คน",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "ในการแข่งขันโยนบอลลงตะกร้า จะต้องโยนบอลทั้งหมด 10 ลูก อมโยนบอลลงตะกร้าได้ร้อยละ 80 ของจำนวนบอลที่ต้องโยนทั้งหมด อมโยนลงตะกร้าได้กี่ลูก",
+      "options": {
+        "ก": "6 ลูก",
+        "ข": "7 ลูก",
+        "ค": "8 ลูก",
+        "ง": "9 ลูก"
+      },
+      "correctAnswer": "ค",
+      "explanation": "ร้อยละ 80 ของ 10 = 80/100 × 10 = 8 ลูก",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "ทรายโยนบอลลงตะกร้าได้น้อยกว่าอม 2 ลูก ทรายโยนลงตะกร้าได้ร้อยละเท่าไรของจำนวนบอลที่ต้องโยนทั้งหมด 10 ลูก",
+      "options": {
+        "ก": "ร้อยละ 50",
+        "ข": "ร้อยละ 60",
+        "ค": "ร้อยละ 70",
+        "ง": "ร้อยละ 80"
+      },
+      "correctAnswer": "ข",
+      "explanation": "อมโยนได้ 8 ลูก ทรายโยนได้น้อยกว่า 2 ลูก = 8-2 = 6 ลูก → 6/10 = 60/100 = ร้อยละ 60",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "เขียน 7 : 10 ในรูปร้อยละ ได้ค่าใด",
+      "options": {
+        "ก": "ร้อยละ 7",
+        "ข": "ร้อยละ 17",
+        "ค": "ร้อยละ 70",
+        "ง": "ร้อยละ 100"
+      },
+      "correctAnswer": "ค",
+      "explanation": "7/10 = (7×10)/(10×10) = 70/100 = ร้อยละ 70",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "เขียน 17 : 20 ในรูปร้อยละ ได้เท่าไร",
+      "options": {
+        "ก": "ร้อยละ 17",
+        "ข": "ร้อยละ 34",
+        "ค": "ร้อยละ 68",
+        "ง": "ร้อยละ 85"
+      },
+      "correctAnswer": "ง",
+      "explanation": "17/20 = (17×5)/(20×5) = 85/100 = ร้อยละ 85",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "เขียน 72 : 200 ในรูปร้อยละ ได้เท่าไร",
+      "options": {
+        "ก": "ร้อยละ 36",
+        "ข": "ร้อยละ 72",
+        "ค": "ร้อยละ 200",
+        "ง": "ร้อยละ 144"
+      },
+      "correctAnswer": "ก",
+      "explanation": "72/200 = 36/100 = ร้อยละ 36",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "เขียน 33 : 100 ในรูปร้อยละ ได้เท่าไร",
+      "options": {
+        "ก": "ร้อยละ 3.3",
+        "ข": "ร้อยละ 33",
+        "ค": "ร้อยละ 67",
+        "ง": "ร้อยละ 133"
+      },
+      "correctAnswer": "ข",
+      "explanation": "33:100 = 33/100 = ร้อยละ 33 โดยตรง",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "เขียนร้อยละ 20 ในรูปอัตราส่วนอย่างต่ำ ได้ข้อใด",
+      "options": {
+        "ก": "1 : 4",
+        "ข": "1 : 5",
+        "ค": "2 : 5",
+        "ง": "20 : 100"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ร้อยละ 20 = 20/100 = 1/5 = 1:5",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "เขียนร้อยละ 60 ในรูปอัตราส่วนอย่างต่ำ ได้ข้อใด",
+      "options": {
+        "ก": "3 : 5",
+        "ข": "6 : 10",
+        "ค": "12 : 20",
+        "ง": "60 : 100"
+      },
+      "correctAnswer": "ก",
+      "explanation": "ร้อยละ 60 = 60/100 = 3/5 = 3:5",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Medium",
+      "question": "แผนที่ใช้มาตราส่วน 1 ซม. : 120 ม. บ้านมดและบ้านจอยบนแผนที่ห่างกัน 6 ซม. ระยะทางจริงระหว่างบ้านทั้งสองเท่าไร",
+      "options": {
+        "ก": "600 เมตร",
+        "ข": "720 เมตร",
+        "ค": "1,200 เมตร",
+        "ง": "1,260 เมตร"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ระยะทางจริง = 6 × 120 = 720 เมตร",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Hard",
+      "question": "มาตราส่วน 1 ซม. : 120 ม. บ้านมดถึงบ้านจอย 6 ซม. บ้านจอยถึงวัด 4.5 ซม. มดขี่จักรยานจากบ้านมดไปบ้านจอย แล้วต่อไปวัด มดขี่จักรยานระยะทางจริงทั้งหมดกี่กิโลเมตร",
+      "options": {
+        "ก": "1 กิโลเมตร",
+        "ข": "1.26 กิโลเมตร",
+        "ค": "1.5 กิโลเมตร",
+        "ง": "2.4 กิโลเมตร"
+      },
+      "correctAnswer": "ข",
+      "explanation": "รวมระยะบนแผนที่ = 6 + 4.5 = 10.5 ซม. → ระยะจริง = 10.5 × 120 = 1,260 เมตร = 1.26 กม.",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Easy",
+      "question": "แบบรูปของจำนวน: 10, 12, 16, 22, 30, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "36",
+        "ข": "38",
+        "ค": "40",
+        "ง": "42"
+      },
+      "correctAnswer": "ค",
+      "explanation": "ความแตกต่าง: +2, +4, +6, +8, +10 ดังนั้นจำนวนถัดไป = 30 + 10 = 40",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Easy",
+      "question": "แบบรูปของจำนวน: 1, 7, 49, 343, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "1,000",
+        "ข": "1,029",
+        "ค": "2,401",
+        "ง": "3,087"
+      },
+      "correctAnswer": "ค",
+      "explanation": "แบบรูป: ×7 ทุกครั้ง → 343 × 7 = 2,401",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Easy",
+      "question": "รูปที่ 1 มีสี่เหลี่ยมขนมเปียกปูน 1×1 = 1 รูป, รูปที่ 2 มี 2×2 = 4 รูป, รูปที่ 3 มี 3×3 = 9 รูป รูปที่ 9 จะมีกี่รูป",
+      "options": {
+        "ก": "64 รูป",
+        "ข": "72 รูป",
+        "ค": "81 รูป",
+        "ง": "90 รูป"
+      },
+      "correctAnswer": "ค",
+      "explanation": "รูปที่ n มี n×n รูป → รูปที่ 9 = 9×9 = 81 รูป",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "รูปที่ 1 มีสามเหลี่ยม 1 รูป, รูปที่ 2 มี 3 รูป, รูปที่ 3 มี 5 รูป, รูปที่ 4 มี 7 รูป รูปที่ 10 จะมีสามเหลี่ยมกี่รูป",
+      "options": {
+        "ก": "15 รูป",
+        "ข": "17 รูป",
+        "ค": "19 รูป",
+        "ง": "21 รูป"
+      },
+      "correctAnswer": "ค",
+      "explanation": "รูปที่ n = 2n-1 → รูปที่ 10 = 2×10-1 = 19 รูป",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "รูปที่ 7 ในแบบรูปสามเหลี่ยม (รูปที่ n = 2n-1) จะมีสามเหลี่ยมกี่รูป",
+      "options": {
+        "ก": "11 รูป",
+        "ข": "13 รูป",
+        "ค": "14 รูป",
+        "ง": "15 รูป"
+      },
+      "correctAnswer": "ข",
+      "explanation": "รูปที่ 7 = 2×7-1 = 13 รูป",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "ร้านอาหารจัดโต๊ะโดยรูปที่ 1 มีโต๊ะ 1 ตัว เก้าอี้ 4 ตัว รูปที่ 2 มีโต๊ะ 2 ตัว เก้าอี้ 6 ตัว รูปที่ 3 มีโต๊ะ 3 ตัว เก้าอี้ 8 ตัว ถ้ามีโต๊ะ 12 ตัว จะต้องใช้เก้าอี้กี่ตัว",
+      "options": {
+        "ก": "24 ตัว",
+        "ข": "26 ตัว",
+        "ค": "28 ตัว",
+        "ง": "30 ตัว"
+      },
+      "correctAnswer": "ข",
+      "explanation": "เก้าอี้ = 2n+2 → n=12: เก้าอี้ = 2×12+2 = 26 ตัว",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "question": "เก่งออกแบบลายอิฐบล็อกโดยรูปที่ n มีบล็อกสีชมพู n ก้อน และบล็อกสีเหลือง n×6 ก้อน ถ้าเก่งต้องการใช้บล็อกสีชมพู 9 ก้อน จะต้องใช้บล็อกสีเหลืองทั้งหมดกี่ก้อน",
+      "options": {
+        "ก": "45 ก้อน",
+        "ข": "50 ก้อน",
+        "ค": "54 ก้อน",
+        "ง": "63 ก้อน"
+      },
+      "correctAnswer": "ค",
+      "explanation": "บล็อกสีชมพู 9 = รูปที่ 9 → บล็อกสีเหลือง = 9×6 = 54 ก้อน",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "แบบรูปของจำนวน: 2, 5, 10, 17, 26, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "35",
+        "ข": "37",
+        "ค": "38",
+        "ง": "40"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ความแตกต่าง: +3, +5, +7, +9, +11 ดังนั้นถัดไป = 26+11 = 37",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4a",
+      "difficulty": "Easy",
+      "question": "ถ้ามีส้ม 5 ผล และมะม่วง 3 ผล อัตราส่วนของมะม่วงต่อส้ม คือข้อใด",
+      "options": {
+        "ก": "5 : 3",
+        "ข": "3 : 8",
+        "ค": "3 : 5",
+        "ง": "8 : 3"
+      },
+      "correctAnswer": "ค",
+      "explanation": "อัตราส่วนมะม่วง:ส้ม = 3:5 (ตามลำดับที่โจทย์กำหนด)",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Medium",
+      "question": "น้ำเชื่อมทำจากน้ำตาลและน้ำในอัตราส่วน 2 : 5 ถ้าต้องการใช้น้ำตาล 6 ช้อน จะต้องใช้น้ำกี่ช้อน",
+      "options": {
+        "ก": "12 ช้อน",
+        "ข": "13 ช้อน",
+        "ค": "15 ช้อน",
+        "ง": "18 ช้อน"
+      },
+      "correctAnswer": "ค",
+      "explanation": "2:5 = 6:□ → □ = 6×5÷2 = 15 ช้อน",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Easy",
+      "question": "อัตราส่วนใดต่อไปนี้เท่ากับ 3 : 4",
+      "options": {
+        "ก": "6 : 9",
+        "ข": "9 : 12",
+        "ค": "12 : 15",
+        "ง": "15 : 16"
+      },
+      "correctAnswer": "ข",
+      "explanation": "3:4 = 3×3 : 4×3 = 9:12",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "ในชั้นเรียนมีนักเรียน 40 คน มาเรียน 34 คน นักเรียนที่มาเรียนคิดเป็นร้อยละเท่าไร",
+      "options": {
+        "ก": "ร้อยละ 34",
+        "ข": "ร้อยละ 75",
+        "ค": "ร้อยละ 80",
+        "ง": "ร้อยละ 85"
+      },
+      "correctAnswer": "ง",
+      "explanation": "34/40 × 100 = 85% = ร้อยละ 85",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "ร้านค้าขายเสื้อราคาตัวละ 250 บาท ลดราคา ร้อยละ 20 จะได้ราคาที่ลดลงกี่บาท",
+      "options": {
+        "ก": "40 บาท",
+        "ข": "50 บาท",
+        "ค": "200 บาท",
+        "ง": "210 บาท"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ลดราคา = 250 × 20/100 = 50 บาท",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "ราคาตั้งเสื้อ 250 บาท ลดร้อยละ 20 ราคาที่ต้องจ่ายจริงเท่าไร",
+      "options": {
+        "ก": "180 บาท",
+        "ข": "190 บาท",
+        "ค": "200 บาท",
+        "ง": "210 บาท"
+      },
+      "correctAnswer": "ค",
+      "explanation": "ส่วนลด = 250 × 20% = 50 บาท → ราคาจริง = 250 - 50 = 200 บาท",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Hard",
+      "question": "โรงงานผลิตสินค้า A กับสินค้า B ในอัตราส่วน 3 : 5 ถ้าผลิตสินค้า A จำนวน 450 ชิ้น จะผลิตสินค้า B ได้กี่ชิ้น",
+      "options": {
+        "ก": "270 ชิ้น",
+        "ข": "500 ชิ้น",
+        "ค": "750 ชิ้น",
+        "ง": "900 ชิ้น"
+      },
+      "correctAnswer": "ค",
+      "explanation": "3:5 = 450:□ → □ = 450×5÷3 = 750 ชิ้น",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "question": "แบบรูปของจำนวน: 3, 6, 12, 24, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "36",
+        "ข": "40",
+        "ค": "48",
+        "ง": "52"
+      },
+      "correctAnswer": "ค",
+      "explanation": "แบบรูป: ×2 ทุกครั้ง → 24×2 = 48",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "แบบรูปของจำนวน: 100, 96, 88, 76, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "60",
+        "ข": "62",
+        "ค": "64",
+        "ง": "68"
+      },
+      "correctAnswer": "ก",
+      "explanation": "ความแตกต่าง: -4, -8, -12, -16 ดังนั้น 76-16 = 60",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Medium",
+      "question": "ปูนซีเมนต์ : ทราย = 1 : 3 ถ้าใช้ทราย 15 ถัง จะต้องใช้ปูนซีเมนต์กี่ถัง",
+      "options": {
+        "ก": "3 ถัง",
+        "ข": "5 ถัง",
+        "ค": "8 ถัง",
+        "ง": "12 ถัง"
+      },
+      "correctAnswer": "ข",
+      "explanation": "1:3 = □:15 → □ = 15÷3 = 5 ถัง",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "ร้อยละ 25 ของ 200 บาท เท่ากับเท่าไร",
+      "options": {
+        "ก": "25 บาท",
+        "ข": "40 บาท",
+        "ค": "50 บาท",
+        "ง": "75 บาท"
+      },
+      "correctAnswer": "ค",
+      "explanation": "25/100 × 200 = 50 บาท",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "สวนผลไม้มีพื้นที่ 400 ตารางเมตร ปลูกมะม่วง 100 ตารางเมตร มะปราง 80 ตารางเมตร และส่วนที่เหลือปลูกทุเรียน พื้นที่ปลูกทุเรียนคิดเป็นร้อยละเท่าไรของพื้นที่ทั้งหมด",
+      "options": {
+        "ก": "ร้อยละ 45",
+        "ข": "ร้อยละ 50",
+        "ค": "ร้อยละ 55",
+        "ง": "ร้อยละ 60"
+      },
+      "correctAnswer": "ค",
+      "explanation": "พื้นที่ทุเรียน = 400-100-80 = 220 ตร.ม. → 220/400 × 100 = 55%",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Medium",
+      "question": "อัตราส่วน 225 : 500 ในรูปอย่างต่ำ คือข้อใด",
+      "options": {
+        "ก": "9 : 20",
+        "ข": "11 : 20",
+        "ค": "45 : 100",
+        "ง": "22 : 40"
+      },
+      "correctAnswer": "ก",
+      "explanation": "225:500 = 225÷25 : 500÷25 = 9:20",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Medium",
+      "question": "อัตราส่วน 33 : 300 ในรูปอย่างต่ำ คือข้อใด",
+      "options": {
+        "ก": "1 : 9",
+        "ข": "11 : 100",
+        "ค": "3 : 30",
+        "ง": "33 : 100"
+      },
+      "correctAnswer": "ข",
+      "explanation": "33:300 = 33÷3 : 300÷3 = 11:100",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Easy",
+      "question": "แบบรูปของจำนวน: 5, 8, 11, 14, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "16",
+        "ข": "17",
+        "ค": "18",
+        "ง": "19"
+      },
+      "correctAnswer": "ข",
+      "explanation": "เพิ่มทีละ 3 → 14+3 = 17",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Easy",
+      "question": "แบบรูปของจำนวน: 50, 43, 36, 29, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "20",
+        "ข": "22",
+        "ค": "24",
+        "ง": "26"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ลดทีละ 7 → 29-7 = 22",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "แบบรูปของจำนวน: 1, 4, 9, 16, 25, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "30",
+        "ข": "34",
+        "ค": "36",
+        "ง": "38"
+      },
+      "correctAnswer": "ค",
+      "explanation": "กำลังสอง: 1², 2², 3², 4², 5², 6² = 36",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "ราคาสินค้า 1,200 บาท หากร้านลดราคาลงร้อยละ 15 ต้องจ่ายเงินจริงเท่าไร",
+      "options": {
+        "ก": "980 บาท",
+        "ข": "1,000 บาท",
+        "ค": "1,020 บาท",
+        "ง": "1,050 บาท"
+      },
+      "correctAnswer": "ค",
+      "explanation": "ส่วนลด = 1,200 × 15/100 = 180 บาท → จ่ายจริง = 1,200-180 = 1,020 บาท",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "คนงานในโรงงานมี 500 คน เดินทางมาทำงานด้วยรถประจำทาง 180 คน คิดเป็นร้อยละเท่าไรของคนงานทั้งหมด",
+      "options": {
+        "ก": "ร้อยละ 18",
+        "ข": "ร้อยละ 36",
+        "ค": "ร้อยละ 40",
+        "ง": "ร้อยละ 45"
+      },
+      "correctAnswer": "ข",
+      "explanation": "180/500 × 100 = 36%",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Medium",
+      "question": "แผนผังสวนสาธารณะมาตราส่วน 1 ซม. : 50 ม. ถ้าสระน้ำในแผนผังมีความยาว 4 ซม. สระน้ำจริงยาวกี่เมตร",
+      "options": {
+        "ก": "150 เมตร",
+        "ข": "200 เมตร",
+        "ค": "250 เมตร",
+        "ง": "300 เมตร"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ระยะจริง = 4 × 50 = 200 เมตร",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Hard",
+      "question": "ถนน 2 สาย ในแผนที่ยาว 3.5 ซม. และ 2 ซม. ตามลำดับ มาตราส่วน 1 ซม. : 200 ม. ถนนสองสายรวมกันยาวจริงกี่เมตร",
+      "options": {
+        "ก": "900 เมตร",
+        "ข": "1,000 เมตร",
+        "ค": "1,100 เมตร",
+        "ง": "1,200 เมตร"
+      },
+      "correctAnswer": "ค",
+      "explanation": "รวม = (3.5+2) × 200 = 5.5 × 200 = 1,100 เมตร",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "รูปที่ 1 มีไม้ขีดทำเป็นสี่เหลี่ยม 4 อัน, รูปที่ 2 มี 7 อัน, รูปที่ 3 มี 10 อัน รูปที่ 8 จะต้องใช้ไม้ขีดกี่อัน",
+      "options": {
+        "ก": "22 อัน",
+        "ข": "24 อัน",
+        "ค": "25 อัน",
+        "ง": "27 อัน"
+      },
+      "correctAnswer": "ค",
+      "explanation": "รูปที่ n = 3n+1 → รูปที่ 8 = 3×8+1 = 25 อัน",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "question": "ต่อบล็อกเป็นรูปสามเหลี่ยม 7 ชั้น ชั้นที่ 1 มีบล็อก 1 ก้อน, ชั้นที่ 2 มี 3 ก้อน, ชั้นที่ 3 มี 5 ก้อน รวมทั้งหมดต้องใช้บล็อกกี่ก้อน",
+      "options": {
+        "ก": "42 ก้อน",
+        "ข": "47 ก้อน",
+        "ค": "49 ก้อน",
+        "ง": "52 ก้อน"
+      },
+      "correctAnswer": "ค",
+      "explanation": "1+3+5+7+9+11+13 = 49 ก้อน (7² = 49)",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "ในการสอบครั้งหนึ่ง มีนักเรียน 25 คน ผ่านเกณฑ์ 20 คน นักเรียนที่ผ่านเกณฑ์คิดเป็นร้อยละเท่าไร",
+      "options": {
+        "ก": "ร้อยละ 70",
+        "ข": "ร้อยละ 75",
+        "ค": "ร้อยละ 80",
+        "ง": "ร้อยละ 85"
+      },
+      "correctAnswer": "ค",
+      "explanation": "20/25 × 100 = 80%",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4a",
+      "difficulty": "Easy",
+      "question": "มีดินสอสีแดง 6 แท่ง และสีน้ำเงิน 9 แท่ง อัตราส่วนของดินสอสีแดงต่อดินสอทั้งหมด คือข้อใด",
+      "options": {
+        "ก": "2 : 3",
+        "ข": "2 : 5",
+        "ค": "6 : 15",
+        "ง": "3 : 2"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ทั้งหมด = 6+9 = 15 → อัตราส่วน = 6:15 = 2:5",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Easy",
+      "question": "เขียน 24 : 25 ในรูปร้อยละ ได้เท่าไร",
+      "options": {
+        "ก": "ร้อยละ 24",
+        "ข": "ร้อยละ 48",
+        "ค": "ร้อยละ 96",
+        "ง": "ร้อยละ 120"
+      },
+      "correctAnswer": "ค",
+      "explanation": "24/25 = (24×4)/(25×4) = 96/100 = ร้อยละ 96",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "แบบรูปของจำนวน: 2, 6, 18, 54, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "108",
+        "ข": "144",
+        "ค": "162",
+        "ง": "216"
+      },
+      "correctAnswer": "ค",
+      "explanation": "แบบรูป: ×3 ทุกครั้ง → 54×3 = 162",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Hard",
+      "question": "เครื่องจักร A และ B ผลิตชิ้นงานในอัตราส่วน 4 : 7 ถ้าเครื่องจักร B ผลิตได้ 350 ชิ้น เครื่องจักร A ผลิตได้กี่ชิ้น",
+      "options": {
+        "ก": "180 ชิ้น",
+        "ข": "200 ชิ้น",
+        "ค": "220 ชิ้น",
+        "ง": "250 ชิ้น"
+      },
+      "correctAnswer": "ข",
+      "explanation": "4:7 = □:350 → □ = 350×4÷7 = 200 ชิ้น",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "question": "ร้านอาหารบริการจัดส่งอาหารถึงบ้าน คิดค่าบริการเริ่มต้น 10 บาท และเพิ่มขึ้นกิโลเมตรละ 9 บาท ถ้าบ้านอยู่ห่าง 5 กิโลเมตร จะต้องจ่ายค่าส่งทั้งหมดกี่บาท",
+      "options": {
+        "ก": "45 บาท",
+        "ข": "50 บาท",
+        "ค": "55 บาท",
+        "ง": "60 บาท"
+      },
+      "correctAnswer": "ค",
+      "explanation": "ค่าส่ง = 10 + (5×9) = 10+45 = 55 บาท",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "แบบรูปของจำนวน: 4, 7, 10, 13, __ จำนวนถัดไปคือข้อใด",
+      "options": {
+        "ก": "14",
+        "ข": "15",
+        "ค": "16",
+        "ง": "17"
+      },
+      "correctAnswer": "ค",
+      "explanation": "เพิ่มทีละ 3 → 13+3 = 16",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4a",
+      "difficulty": "Easy",
+      "question": "อัตราส่วน 4 : 6 เท่ากับ 2 : 3",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "4:6 = 4÷2 : 6÷2 = 2:3",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Easy",
+      "question": "ร้อยละ 50 ของ 80 เท่ากับ 40",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "50/100 × 80 = 40",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Easy",
+      "question": "6 : 7 = 42 : 49 เพราะ 6×7 = 42 และ 7×7 = 49",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "6×7=42 และ 7×7=49 ดังนั้น 6:7 = 42:49",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Easy",
+      "question": "เขียน 3 : 5 ในรูปร้อยละ ได้ร้อยละ 35",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "3/5 = 60/100 = ร้อยละ 60 ไม่ใช่ร้อยละ 35",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Medium",
+      "question": "มาตราส่วน 1 ซม. : 2 ม. ถ้าแผนผังยาว 3 ซม. ระยะจริงยาว 6 เมตร",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ระยะจริง = 3 × 2 = 6 เมตร",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Easy",
+      "question": "แบบรูปของจำนวน 2, 4, 8, 16 จำนวนถัดไปคือ 24",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "แบบรูป: ×2 ทุกครั้ง → 16×2 = 32 ไม่ใช่ 24",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "นักเรียน 40 คน เข้าเรียน 30 คน นักเรียนที่มาเรียนคิดเป็นร้อยละ 75",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "30/40 × 100 = 75%",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Medium",
+      "question": "รถใช้น้ำมัน 2 ลิตร วิ่ง 30 กม. ถ้าจะวิ่ง 90 กม. ต้องใช้น้ำมัน 5 ลิตร",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "2:30 = □:90 → □ = 90×2÷30 = 6 ลิตร ไม่ใช่ 5 ลิตร",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "ร้อยละ 42 ของ 200 คือ 84",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "42/100 × 200 = 84",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "แบบรูปของจำนวน 10, 12, 16, 22, 30 ต่างจากเดิมทีละ 2 ทุกครั้ง",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ความแตกต่าง: +2, +4, +6, +8 เพิ่มขึ้นทีละ 2 ไม่ใช่คงที่",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Easy",
+      "question": "อัตราส่วน 1 : 5 มีค่าเท่ากับ 5 : 25",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "1:5 = 1×5 : 5×5 = 5:25",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "ร้อยละ 33 เขียนในรูปอัตราส่วนอย่างต่ำได้ 33 : 100",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "33 กับ 100 ไม่มีตัวหารร่วมมากนอกจาก 1 ดังนั้น 33:100 เป็นอัตราส่วนอย่างต่ำแล้ว",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Medium",
+      "question": "ถ้าระยะทางจริง 600 เมตร มาตราส่วน 1 ซม. : 100 ม. ระยะบนแผนที่ยาว 6 ซม.",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ระยะบนแผนที่ = 600 ÷ 100 = 6 เซนติเมตร",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "รูปที่ n ในแบบรูปสามเหลี่ยม มีจำนวนสามเหลี่ยม = 2n-1 ดังนั้นรูปที่ 5 มีสามเหลี่ยม 9 รูป",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "รูปที่ 5 = 2(5)-1 = 9 รูป",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "ลดราคาร้อยละ 15 จากราคา 400 บาท จะจ่ายเงินจริง 340 บาท",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ส่วนลด = 400 × 15% = 60 บาท → จ่ายจริง = 400-60 = 340 บาท",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Hard",
+      "question": "ถ้าส่วนผสมแป้ง:น้ำตาล = 3:2 และใช้แป้ง 9 ถ้วย ควรใช้น้ำตาล 7 ถ้วย",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "3:2 = 9:□ → □ = 9×2÷3 = 6 ถ้วย ไม่ใช่ 7 ถ้วย",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "question": "แบบรูปของจำนวน 3, 6, 12, 24, 48 จำนวนถัดไปคือ 96",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "×2 ทุกครั้ง → 48×2 = 96",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "นักเรียน 500 คน สอบผ่าน 425 คน คิดเป็นร้อยละ 84",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "425/500 × 100 = 85% ไม่ใช่ร้อยละ 84",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Easy",
+      "question": "อัตราส่วน 5 : 8 ในรูปอย่างต่ำคือ 5 : 8",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "5 และ 8 ไม่มีตัวหารร่วมมากนอกจาก 1 ดังนั้น 5:8 เป็นรูปอย่างต่ำแล้ว",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "question": "รูปที่ n ในแบบรูปสี่เหลี่ยมขนมเปียกปูน มีจำนวนรูป = n² ดังนั้น รูปที่ 7 มีสี่เหลี่ยม 49 รูป",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "รูปที่ 7 = 7² = 49 รูป",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "ร้อยละ 53 เขียนในรูปอัตราส่วนได้ 53 : 100",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "53 กับ 100 ไม่มีตัวหารร่วมมาก ดังนั้น 53:100 คือรูปอย่างต่ำแล้ว",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Medium",
+      "question": "อัตราส่วน 15 : 20 = 3 : 4",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "15:20 = 15÷5 : 20÷5 = 3:4",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "แบบรูป 100, 96, 88, 76 มีความสัมพันธ์ -4, -8, -12 ดังนั้นจำนวนถัดไปคือ 60",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ลดลงเพิ่มขึ้นทีละ 4: -4, -8, -12, -16 → 76-16 = 60",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Hard",
+      "question": "แผนผังมาตราส่วน 1 ซม. : 500 ม. สนามฟุตบอลในแผนผังกว้าง 0.2 ซม. สนามฟุตบอลจริงกว้าง 100 เมตร",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "0.2 × 500 = 100 เมตร",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "ราคาตั้ง 500 บาท ลดร้อยละ 10 แล้วลดอีกร้อยละ 10 ราคาที่จ่ายจริงคือ 400 บาท",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ลดครั้งแรก 500×10%=50 → เหลือ 450 บาท → ลดอีก 450×10%=45 → เหลือ 405 บาท ไม่ใช่ 400 บาท",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4a",
+      "difficulty": "Easy",
+      "question": "นมกล่อง 3 กล่อง น้ำผลไม้ 4 กล่อง อัตราส่วนของนมต่อเครื่องดื่มทั้งหมด คือ 3 : 7",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ทั้งหมด = 3+4 = 7 → อัตราส่วนนม:ทั้งหมด = 3:7",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Medium",
+      "question": "รูปที่ n ของแบบรูปไม้ขีด (สี่เหลี่ยม) มีจำนวนไม้ขีด 3n+1 ดังนั้นรูปที่ 5 มีไม้ขีด 16 อัน",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "รูปที่ 5 = 3(5)+1 = 16 อัน",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "เขียน 225 : 500 ในรูปร้อยละ ได้ร้อยละ 45",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "225/500 = 9/20 = 45/100 = ร้อยละ 45",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Easy",
+      "question": "แบบรูป 1, 4, 9, 16 เป็นจำนวนที่เกิดจากการยกกำลังสอง",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "1²=1, 2²=4, 3²=9, 4²=16",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Hard",
+      "question": "ส่วนผสมนมและน้ำตาล 5:20 คน A ใช้นม 15 ลิตร ควรใช้น้ำตาล 50 ลิตร",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "5:20 = 1:4 → ถ้านม 15 ลิตร น้ำตาล = 15×4 = 60 ลิตร ไม่ใช่ 50 ลิตร",
+      "points": 1
+    },
+    {
+      "id": 91,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Hard",
+      "scenario": "โรงเรียนแห่งหนึ่งสั่งซื้อเครื่องดื่มสำหรับงานกีฬาสี ประกอบด้วยน้ำส้มและนมในอัตราส่วน 3 : 2 ถ้าสั่งน้ำส้ม 90 กล่อง",
+      "question": "จะต้องสั่งนมทั้งหมดกี่กล่อง และเครื่องดื่มรวมทั้งหมดกี่กล่อง",
+      "correctAnswer": "สั่งนม 60 กล่อง และเครื่องดื่มรวม 150 กล่อง",
+      "explanation": "3:2 = 90:□ → นม = 90×2÷3 = 60 กล่อง → รวม = 90+60 = 150 กล่อง",
+      "points": 2
+    },
+    {
+      "id": 92,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Hard",
+      "scenario": "แผนผังโรงงานใช้มาตราส่วน 1 ซม. : 8 ม. บนแผนผังมีโรงเก็บสินค้าขนาด 3 ซม. × 2.5 ซม.",
+      "question": "โรงเก็บสินค้าจริงมีขนาดกี่เมตรคูณกี่เมตร และมีพื้นที่จริงเท่าไร",
+      "correctAnswer": "ขนาดจริง 24 ม. × 20 ม. พื้นที่จริง = 480 ตารางเมตร",
+      "explanation": "ยาวจริง = 3×8 = 24 ม. กว้างจริง = 2.5×8 = 20 ม. → พื้นที่ = 24×20 = 480 ตร.ม.",
+      "points": 2
+    },
+    {
+      "id": 93,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "scenario": "ร้านเบเกอรี่ขายขนมปัง 120 ชิ้น ขายได้ 102 ชิ้น ขนมปังที่ขายไม่ได้จะนำไปบริจาคให้วัด",
+      "question": "ขนมปังที่ขายได้คิดเป็นร้อยละเท่าไร และขนมปังที่จะบริจาคมีกี่ชิ้น",
+      "correctAnswer": "ขายได้ร้อยละ 85 และบริจาค 18 ชิ้น",
+      "explanation": "102/120 × 100 = 85% → บริจาค = 120-102 = 18 ชิ้น",
+      "points": 2
+    },
+    {
+      "id": 94,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "scenario": "ห้างสรรพสินค้าจัดโปรโมชั่นลดราคาเสื้อผ้าร้อยละ 25 เสื้อยืดราคาป้าย 480 บาท กางเกงราคาป้าย 720 บาท",
+      "question": "ถ้าซื้อเสื้อยืด 1 ตัว และกางเกง 1 ตัว จะประหยัดเงินได้รวมทั้งหมดกี่บาท",
+      "correctAnswer": "ประหยัดทั้งหมด 300 บาท",
+      "explanation": "ส่วนลดเสื้อ = 480×25% = 120 บาท ส่วนลดกางเกง = 720×25% = 180 บาท → รวมประหยัด = 120+180 = 300 บาท",
+      "points": 2
+    },
+    {
+      "id": 95,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Hard",
+      "scenario": "ชุมชนมีแผนผังสวนสาธารณะ มาตราส่วน 1 ซม. : 120 ม. บนแผนผัง สระว่ายน้ำอยู่ห่างจากสนามเด็กเล่น 5 ซม. และสนามเด็กเล่นอยู่ห่างจากศาลาพักผ่อน 3.5 ซม.",
+      "question": "ถ้าเดินจากสระว่ายน้ำไปสนามเด็กเล่น แล้วต่อไปศาลาพักผ่อน ระยะทางจริงทั้งหมดเป็นกี่เมตร",
+      "correctAnswer": "ระยะทางจริงทั้งหมด 1,020 เมตร",
+      "explanation": "รวมบนแผนผัง = 5+3.5 = 8.5 ซม. → ระยะจริง = 8.5×120 = 1,020 เมตร",
+      "points": 2
+    },
+    {
+      "id": 96,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "scenario": "โรงงานผลิตกระเบื้องปูพื้นแบบโมเสก วางกระเบื้องสีชมพูและสีเหลืองเป็นแบบรูป รูปที่ 1 มีสีชมพู 1 ก้อน สีเหลือง 6 ก้อน รูปที่ 2 มีสีชมพู 2 ก้อน สีเหลือง 12 ก้อน",
+      "question": "ถ้าต้องการใช้กระเบื้องสีชมพู 9 ก้อน จะต้องใช้กระเบื้องสีเหลืองกี่ก้อน และรวมกันทั้งหมดกี่ก้อน",
+      "correctAnswer": "สีเหลือง 54 ก้อน รวมทั้งหมด 63 ก้อน",
+      "explanation": "รูปที่ 9 → สีเหลือง = 9×6 = 54 → รวม = 9+54 = 63 ก้อน",
+      "points": 2
+    },
+    {
+      "id": 97,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "scenario": "ร้านอาหารจัดส่งอาหารถึงบ้าน คิดค่าบริการเริ่มต้น 10 บาท และเพิ่มขึ้นกิโลเมตรละ 9 บาท นักเรียนสำรวจระยะห่างระหว่างบ้านกับโรงเรียนของสมาชิกในกลุ่ม 4 คน ได้ 3 กม., 7 กม., 12 กม., 20 กม.",
+      "question": "สมาชิกคนที่อยู่ไกลที่สุดต้องจ่ายค่าส่งเท่าไร และรวมค่าส่งของทั้ง 4 คนเท่าไร",
+      "correctAnswer": "คนที่อยู่ไกลที่สุด (20 กม.) จ่าย 190 บาท รวมทั้ง 4 คน = 418 บาท",
+      "explanation": "ค่าส่ง = 10 + (ระยะ×9): 3กม.=37บาท, 7กม.=73บาท, 12กม.=118บาท, 20กม.=190บาท → รวม = 37+73+118+190 = 418 บาท",
+      "points": 2
+    },
+    {
+      "id": 98,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "scenario": "โรงงานผลิตชิ้นส่วนรถยนต์ ในหนึ่งวันผลิตได้ 800 ชิ้น ตรวจพบชิ้นส่วนที่มีตำหนิ 56 ชิ้น ชิ้นส่วนที่ผ่านการตรวจคุณภาพจะส่งออกต่างประเทศร้อยละ 70 และจำหน่ายในประเทศส่วนที่เหลือ",
+      "question": "ชิ้นส่วนที่ผ่านคุณภาพคิดเป็นร้อยละเท่าไร และจำหน่ายในประเทศกี่ชิ้น",
+      "correctAnswer": "ผ่านคุณภาพร้อยละ 93 และจำหน่ายในประเทศ 223 ชิ้น",
+      "explanation": "ผ่าน = 800-56 = 744 ชิ้น = 93% → ส่งออก = 744×70% = 520.8 ≈ 521 ชิ้น → ในประเทศ = 744-521 = 223 ชิ้น",
+      "points": 2
+    },
+    {
+      "id": 99,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Hard",
+      "scenario": "งานก่อสร้างอาคารใช้ปูนซีเมนต์ ทราย และหิน ในอัตราส่วน 1 : 2 : 4 ในการก่อสร้าง 1 วัน ใช้ทราย 120 ถัง",
+      "question": "ต้องใช้ปูนซีเมนต์กี่ถัง หินกี่ถัง และรวมวัสดุก่อสร้างทั้งหมดกี่ถัง",
+      "correctAnswer": "ปูนซีเมนต์ 60 ถัง หิน 240 ถัง รวม 420 ถัง",
+      "explanation": "1:2:4 → ทราย 2 ส่วน = 120 → 1 ส่วน = 60 → ปูน = 60 ถัง หิน = 240 ถัง รวม = 60+120+240 = 420 ถัง",
+      "points": 2
+    },
+    {
+      "id": 100,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "scenario": "ร้านอาหารจัดโต๊ะแบบแถว รูปที่ 1 มีโต๊ะ 1 ตัว เก้าอี้ 4 ตัว รูปที่ 2 มีโต๊ะ 2 ตัว เก้าอี้ 6 ตัว รูปที่ 3 มีโต๊ะ 3 ตัว เก้าอี้ 8 ตัว",
+      "question": "ถ้าต้องการจัดโต๊ะ 10 ตัว จะต้องใช้เก้าอี้กี่ตัว และถ้าจัดโต๊ะ 15 ตัว จะใช้เก้าอี้กี่ตัว",
+      "correctAnswer": "โต๊ะ 10 ตัว ใช้เก้าอี้ 22 ตัว; โต๊ะ 15 ตัว ใช้เก้าอี้ 32 ตัว",
+      "explanation": "เก้าอี้ = 2n+2 → n=10: 22 ตัว; n=15: 32 ตัว",
+      "points": 2
+    },
+    {
+      "id": 101,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "scenario": "งานครัวโรงเรียนซื้อผักมา 50 กิโลกรัม ราคากิโลกรัมละ 12 บาท หลังจากทำอาหารเหลือผักทิ้ง 6 กิโลกรัม",
+      "question": "ผักที่ใช้ทำอาหารคิดเป็นร้อยละเท่าไร และเสียค่าผักส่วนที่ทิ้งไปเท่าไร",
+      "correctAnswer": "ใช้จริงร้อยละ 88 เสียค่าผักทิ้ง 72 บาท",
+      "explanation": "ใช้จริง = 50-6 = 44 กก. = 88% → ผักทิ้ง 6 กก. × 12 = 72 บาท",
+      "points": 2
+    },
+    {
+      "id": 102,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Hard",
+      "scenario": "แผนที่จังหวัดใช้มาตราส่วน 1 ซม. : 5 กม. บนแผนที่มีถนน 3 สาย ยาว 4.2 ซม., 3.8 ซม., และ 2 ซม.",
+      "question": "ถนนสายที่ยาวที่สุดยาวจริงกี่กิโลเมตร และถนนทั้ง 3 สายรวมกันยาวจริงทั้งหมดกี่กิโลเมตร",
+      "correctAnswer": "ยาวที่สุด 21 กม. รวม 50 กม.",
+      "explanation": "สายยาวที่สุด = 4.2×5 = 21 กม. → รวมบนแผนที่ = 4.2+3.8+2 = 10 ซม. → จริง = 10×5 = 50 กม.",
+      "points": 2
+    },
+    {
+      "id": 103,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "scenario": "สวนผลไม้แห่งหนึ่งปลูกผลไม้ 3 ชนิด: ทุเรียน ร้อยละ 45 มังคุด ร้อยละ 30 และเงาะ ส่วนที่เหลือ มีพื้นที่ทั้งหมด 600 ไร่",
+      "question": "พื้นที่ปลูกเงาะมีกี่ไร่ และมีพื้นที่ปลูกทุเรียนมากกว่ามังคุดกี่ไร่",
+      "correctAnswer": "พื้นที่ปลูกเงาะ 150 ไร่ ทุเรียนมากกว่ามังคุด 90 ไร่",
+      "explanation": "เงาะ = 100-45-30 = 25% → 600×25% = 150 ไร่ → ทุเรียน = 270, มังคุด = 180 → ต่าง = 90 ไร่",
+      "points": 2
+    },
+    {
+      "id": 104,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "scenario": "นักธรณีวิทยาศึกษาชั้นหินที่ถูกกัดเซาะ พบว่าแต่ละปีชั้นหินหายไปในแบบรูป: ปีที่ 1 หายไป 2 มม. ปีที่ 2 หายไป 4 มม. ปีที่ 3 หายไป 6 มม.",
+      "question": "ในปีที่ 10 จะหายไปกี่มิลลิเมตร และรวม 10 ปี หินจะถูกกัดเซาะไปทั้งหมดกี่มิลลิเมตร",
+      "correctAnswer": "ปีที่ 10 หายไป 20 มม. รวม 10 ปี หายไป 110 มม.",
+      "explanation": "ปีที่ n หาย 2n มม. → ปีที่ 10 = 20 มม. → รวม = 2+4+6+8+10+12+14+16+18+20 = 110 มม.",
+      "points": 2
+    },
+    {
+      "id": 105,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Hard",
+      "scenario": "ครอบครัวหนึ่งมีรายได้ต่อเดือน 30,000 บาท แบ่งรายจ่ายเป็น ค่าอาหาร : ค่าเดินทาง : ค่าที่พัก = 5 : 2 : 3",
+      "question": "ค่าใช้จ่ายในแต่ละหมวดเท่าไร",
+      "correctAnswer": "ค่าอาหาร 15,000 บาท ค่าเดินทาง 6,000 บาท ค่าที่พัก 9,000 บาท",
+      "explanation": "รวมสัดส่วน = 5+2+3 = 10 → ค่าอาหาร = 30,000×5/10 = 15,000 ค่าเดินทาง = 6,000 ค่าที่พัก = 9,000 บาท",
+      "points": 2
+    },
+    {
+      "id": 106,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4b",
+      "difficulty": "Medium",
+      "question": "จงหาอัตราส่วนที่เท่ากับ 2 : 5 อีก 3 อัตราส่วน พร้อมแสดงวิธีทำ",
+      "correctAnswer": "หาโดยการคูณทั้งสองพจน์ด้วยจำนวนเดียวกัน: 4:10, 10:25 และ 14:35",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 107,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Medium",
+      "question": "นักเรียนต้องการออมเงิน โดยออมเงิน 5 บาท จากค่าขนมในวันจันทร์ 20 บาท จงเขียนอัตราส่วนของเงินออมต่อค่าขนม และคำนวณว่าเงินออมคิดเป็นร้อยละเท่าไร",
+      "correctAnswer": "อัตราส่วน = 5:20 = 1:4 เงินออม = 5/20×100 = 25% (ร้อยละ 25)",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 108,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Hard",
+      "question": "แผนผังบ้านใช้มาตราส่วน 1 ซม. : 1.5 ม. ห้องนอนบนแผนผังกว้าง 3 ซม. ยาว 4 ซม. จงหาขนาดจริงของห้องนอนและพื้นที่จริงของห้องนอน",
+      "correctAnswer": "กว้างจริง = 4.5 เมตร ยาวจริง = 6 เมตร พื้นที่จริง = 4.5×6 = 27 ตารางเมตร",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 109,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "question": "แบบรูปสามเหลี่ยม รูปที่ 1 มี 1 รูป, รูปที่ 2 มี 3 รูป, รูปที่ 3 มี 5 รูป จงหาว่า (1) รูปที่ n มีสามเหลี่ยมกี่รูป (2) รูปที่ 12 มีสามเหลี่ยมกี่รูป (3) จะต้องเป็นรูปที่เท่าไรจึงจะมีสามเหลี่ยม 21 รูป",
+      "correctAnswer": "(1) รูปที่ n = 2n-1 รูป (2) รูปที่ 12 = 23 รูป (3) 2n-1=21 → n=11 คือรูปที่ 11",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 110,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "ร้านค้าสั่งซื้อผลไม้มา 200 กิโลกรัม ราคากิโลกรัมละ 30 บาท ขายได้ 160 กิโลกรัม ราคากิโลกรัมละ 50 บาท ส่วนที่เหลือทิ้ง จงคำนวณ (1) ร้อยละของผลไม้ที่ขายได้ (2) กำไรรวมเท่าไร (3) กำไรคิดเป็นร้อยละของต้นทุนเท่าไร",
+      "correctAnswer": "(1) 80% (2) ต้นทุน=6,000 รายรับ=8,000 กำไร=2,000 บาท (3) 2,000/6,000×100 = 33.33%",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 111,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "แบบรูปของจำนวน",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "question": "แบบรูปของจำนวน: 10, 12, 16, 22, 30 จงอธิบายความสัมพันธ์ของแบบรูปนี้ และหาจำนวนที่ 7 ในแบบรูป",
+      "correctAnswer": "ผลต่างเพิ่มขึ้นทีละ 2 (+2,+4,+6,+8,+10,+12) → จำนวนที่ 6=40, จำนวนที่ 7=52",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 112,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4c",
+      "difficulty": "Hard",
+      "question": "ครอบครัวหนึ่งมีรายได้ 24,000 บาท/เดือน แบ่งค่าใช้จ่าย อาหาร:เดินทาง:ออมทรัพย์ = 4:2:2 จงหาจำนวนเงินในแต่ละประเภท และเงินออมทรัพย์คิดเป็นร้อยละเท่าไรของรายได้ทั้งหมด",
+      "correctAnswer": "รวมสัดส่วน=8 → อาหาร=12,000 เดินทาง=6,000 ออม=6,000 บาท → ออม = 25% ของรายได้",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 113,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "แบบรูปของรูป",
+      "learningObjective": "LO-M5a",
+      "difficulty": "Hard",
+      "question": "สร้างหอคอยบล็อกทรงสามเหลี่ยม 7 ชั้น โดยชั้นที่ 1 (บนสุด) มีบล็อก 1 ก้อน ชั้นที่ 2 มี 3 ก้อน ชั้นที่ 3 มี 5 ก้อน จงหา (1) จำนวนบล็อกในชั้นที่ 7 (2) บล็อกทั้งหมดที่ใช้สร้างหอคอย 7 ชั้น",
+      "correctAnswer": "(1) ชั้นที่ n มีบล็อก 2n-1 → ชั้นที่ 7 = 13 ก้อน (2) รวมทั้งหมด = 1+3+5+7+9+11+13 = 49 ก้อน (7²=49)",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 114,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "ร้อยละ",
+      "learningObjective": "LO-M4d",
+      "difficulty": "Hard",
+      "question": "ร้านขายของชำมีรายรับรวมใน 1 สัปดาห์ 7,000 บาท แบ่งเป็น ขายข้าวสาร 2,100 บาท ขายน้ำมัน 1,400 บาท ขายของชำอื่นๆ ที่เหลือ จงหา (1) รายรับจากของชำอื่นๆ (2) ของชำอื่นๆ คิดเป็นร้อยละเท่าไรของรายรับรวม (3) เขียนอัตราส่วนข้าวสาร:น้ำมัน:ของชำอื่น ในรูปอย่างต่ำ",
+      "correctAnswer": "(1) 3,500 บาท (2) 50% (3) 2,100:1,400:3,500 = 3:2:5",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 115,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "อัตราส่วนและมาตราส่วน",
+      "learningObjective": "LO-M4e",
+      "difficulty": "Hard",
+      "question": "แบบก่อสร้างอาคารเรียนใช้มาตราส่วน 1 ซม. : 4 ม. ในแบบก่อสร้าง ห้องเรียนมีขนาด 2 ซม. × 1.5 ซม. ระเบียงกว้าง 0.5 ซม. ยาว 5 ซม. จงคำนวณ (1) ขนาดจริงของห้องเรียน (2) ขนาดจริงของระเบียง (3) พื้นที่รวมจริงทั้งหมด",
+      "correctAnswer": "(1) ห้องเรียนจริง 8×6=48 ตร.ม. (2) ระเบียงจริง 2×20=40 ตร.ม. (3) รวม = 88 ตารางเมตร",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    }
+  ]
+}
