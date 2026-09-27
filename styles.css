@@ -265,6 +265,12 @@ body {
   box-shadow: 0 0 12px rgba(16, 185, 129, 0.4);
 }
 
+.subject-pill.chinese-theme.active {
+  background: linear-gradient(135deg, rgba(220, 38, 38, 0.25), rgba(185, 28, 28, 0.25));
+  border-color: #dc2626;
+  box-shadow: 0 0 12px rgba(220, 38, 38, 0.4);
+}
+
 .header-center {
   display: flex;
   align-items: center;

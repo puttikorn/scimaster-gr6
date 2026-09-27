@@ -1,0 +1,1916 @@
+{
+  "title": "แบบทดสอบประเมินผลความรู้ภาษาจีน ชั้น ป.6 (ภาษาจีน Gr6 - MidFinal)",
+  "meta": {
+    "totalQuestions": 115,
+    "totalScore": 150,
+    "passingPercentage": 80,
+    "passingScore": 120,
+    "sections": [
+      {
+        "key": "MCQ",
+        "name": "Section A: Multiple Choice (ปรนัย)",
+        "count": 60,
+        "pointsPerQuestion": 1,
+        "totalPoints": 60
+      },
+      {
+        "key": "TF",
+        "name": "Section B: True / False (ถูก / ผิด)",
+        "count": 30,
+        "pointsPerQuestion": 1,
+        "totalPoints": 30
+      },
+      {
+        "key": "Scenario",
+        "name": "Section C: Scenario-Based (สถานการณ์จำลอง)",
+        "count": 15,
+        "pointsPerQuestion": 2,
+        "totalPoints": 30
+      },
+      {
+        "key": "ShortAnswer",
+        "name": "Section D: Short Answer (อัตนัย / อธิบายความรู้)",
+        "count": 10,
+        "pointsPerQuestion": 3,
+        "totalPoints": 30
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "พินอินและวรรณยุกต์",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "สัญลักษณ์วรรณยุกต์เสียงที่ 1 (第一声: ā) ในระบบพินอิน ออกเสียงอย่างไร?",
+      "options": {
+        "ก": "เสียงสูงและราบเรียบสม่ำเสมอ",
+        "ข": "เสียงผันขึ้นจากต่ำไปสูง",
+        "ค": "เสียงต่ำแล้วโค้งขึ้น",
+        "ง": "เสียงสั้น ตกตกจากสูงลงต่ำ"
+      },
+      "correctAnswer": "ก",
+      "explanation": "เสียงที่ 1 (阴平) เป็นเสียงระดับสูงราบเรียบ เช่น ā, ō, ē",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "พินอินและวรรณยุกต์",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "ตามกฎการเปลี่ยนเสียง (Tone Sandhi) คำว่า '不' (bù) เมื่ออยู่หน้าพยางค์เสียงที่ 4 (第四声) จะเปลี่ยนออกเสียงเป็นวรรณยุกต์เสียงใด?",
+      "options": {
+        "ก": "เสียงที่ 1 (bū)",
+        "ข": "เสียงที่ 2 (bú)",
+        "ค": "เสียงที่ 3 (bǔ)",
+        "ง": "คงเป็นเสียงที่ 4 (bù) เหมือนเดิม"
+      },
+      "correctAnswer": "ข",
+      "explanation": "เมื่อ '不' อยู่หน้าคำเสียงที่ 4 เช่น 不去 (bú qù), 不是 (bú shì) จะเปลี่ยนเสียงเป็นเสียงที่ 2 (bú)",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "พินอินและวรรณยุกต์",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Medium",
+      "question": "ในการวางเครื่องหมายวรรณยุกต์บนสระพินอิน เมื่อสระ i และ u อยู่คู่กัน (iu หรือ ui) มีหลักการวางเครื่องหมายอย่างไร?",
+      "options": {
+        "ก": "วางไว้บนตัวสระแรกเสมอ",
+        "ข": "วางไว้บนตัวสระหลังเสมอ",
+        "ค": "วางบนตัว i เท่านั้น",
+        "ง": "วางบนตัว u เท่านั้น"
+      },
+      "correctAnswer": "ข",
+      "explanation": "หลักการพินอิน: เมื่อ iu หรือ ui อยู่คู่กัน เครื่องหมายวรรณยุกต์จะวางบนสระตัวหลังเสมอ เช่น iū, uì",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "พินอินและวรรณยุกต์",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '一' (yī) เมื่ออ่านนับจำนวนลำดับตัวเลขเดี่ยวๆ เช่น 一, 二, 三 (1, 2, 3) ออกเสียงวรรณยุกต์เสียงใด?",
+      "options": {
+        "ก": "เสียงที่ 1 (yī)",
+        "ข": "เสียงที่ 2 (yí)",
+        "ค": "เสียงที่ 3 (yǐ)",
+        "ง": "เสียงที่ 4 (yì)"
+      },
+      "correctAnswer": "ก",
+      "explanation": "คำว่า 一 เมื่ออ่านนับตัวเลขเดี่ยวๆ จะออกเสียงที่ 1 (yī) เช่น 一二三",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "หมวดอักษรจีน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "หมวดอักษรจีน 氵 (三点水 - ส่านเตี่ยนศุ่ย) มักมีความหมายเกี่ยวข้องกับสิ่งใด?",
+      "options": {
+        "ก": "ต้นไม้และป่า",
+        "ข": "น้ำและของเหลว",
+        "ค": "ไฟและความร้อน",
+        "ง": "โลหะและทองคำ"
+      },
+      "correctAnswer": "ข",
+      "explanation": "หมวด 氵 (น้ำสามหยด) เกี่ยวกับน้ำ เช่น 河 (แม่น้ำ), 海 (ทะเล), 洗 (ล้าง)",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "หมวดอักษรจีน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "หมวดอักษรจีน 讠 (言字旁 - เหยียนจื้อผาง) มักมีความหมายเกี่ยวข้องกับเรื่องใด?",
+      "options": {
+        "ก": "การเดินทาง",
+        "ข": "ภาษา คำพูด และการสื่อสาร",
+        "ค": "อาหารและการกิน",
+        "ง": "เสื้อผ้าและเครื่องแต่งกาย"
+      },
+      "correctAnswer": "ข",
+      "explanation": "หมวด 讠 (คำพูด) เกี่ยวกับการพูด เช่น 话 (คำพูด), 语 (ภาษา), 请 (เชิญ/ขอ)",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "หมวดอักษรจีน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Medium",
+      "question": "ตัวอักษรจีน '校' (xiào ในคำว่า 学校 โรงเรียน) มีหมวดอักษรด้านซ้ายคือ 木 (mù) หมายถึงสิ่งใด?",
+      "options": {
+        "ก": "ก้อนหิน",
+        "ข": "ต้นไม้/สิ่งก่อสร้างจากไม้",
+        "ค": "ก้อนเมฆ",
+        "ง": "สายน้ำ"
+      },
+      "correctAnswer": "ข",
+      "explanation": "หมวด 木 (ไม้) แสดงถึงสิ่งก่อสร้างหรืออุปกรณ์ที่ทำจากไม้ในอดีต",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ขีดอักษรจีน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "ขีดพื้นฐานของอักษรจีนที่ลากเส้นจากซ้ายไปขวาตามแนวนอน มีชื่อเรียกว่าอะไร?",
+      "options": {
+        "ก": "撇 (piě)",
+        "ข": "捺 (nà)",
+        "ค": "横 (héng)",
+        "ง": "竖 (shù)"
+      },
+      "correctAnswer": "ค",
+      "explanation": "横 (héng) คือเส้นขีดแนวนอนจากซ้ายไปขวา เช่น อักษร 一",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ขีดอักษรจีน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "ขีดพื้นฐานของอักษรจีนที่ลากเส้นจากบนลงล่างตามแนวตั้ง มีชื่อเรียกว่าอะไร?",
+      "options": {
+        "ก": "竖 (shù)",
+        "ข": "横 (héng)",
+        "ค": "提 (tí)",
+        "ง": "折 (zhé)"
+      },
+      "correctAnswer": "ก",
+      "explanation": "竖 (shù) คือเส้นขีดแนวตั้งจากบนลงล่าง เช่น อักษร 十",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ลำดับขีดอักษรจีน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Medium",
+      "question": "ข้อใดคือหลักการเขียนลำดับขีดอักษรจีน (笔顺) ที่ถูกต้องตามมาตรฐาน?",
+      "options": {
+        "ก": "เขียนจากขวาไปซ้าย และจากล่างขึ้นบน",
+        "ข": "เขียนจากซ้ายไปขวา และจากบนลงล่าง",
+        "ค": "เขียนตรงกลางก่อนแล้วค่อยเขียนข้างบน",
+        "ง": "เขียนขีดนอกสุดหลังสุดเสมอ"
+      },
+      "correctAnswer": "ข",
+      "explanation": "กฎพื้นฐานอักษรจีนคือ: จากซ้ายไปขวา (先左后右) และ จากบนลงล่าง (先上后下)",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดครอบครัว",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '爷爷' (yéye) ในภาษาจีนแปลว่าอะไร?",
+      "options": {
+        "ก": "คุณปู่ (พ่อของพ่อ)",
+        "ข": "คุณตา (พ่อของแม่)",
+        "ค": "คุณลุง",
+        "ง": "คุณน้า"
+      },
+      "correctAnswer": "ก",
+      "explanation": "爷爷 คือ คุณปู่ (พ่อของพ่อ), ส่วน คุณตา คือ 外公 (wàigōng)",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดครอบครัว",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '外婆' (wàipó) ในภาษาจีนหมายถึงบุคคลใดในครอบครัว?",
+      "options": {
+        "ก": "คุณย่า",
+        "ข": "คุณยาย",
+        "ค": "คุณป้า",
+        "ง": "คุณน้าสาว"
+      },
+      "correctAnswer": "ข",
+      "explanation": "外婆 หมายถึง คุณยาย (แม่ของแม่), ส่วน คุณย่า คือ 奶奶 (nǎinai)",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดสถานที่โรงเรียน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '教室' (jiàoshì) แปลว่าสถานที่ใด?",
+      "options": {
+        "ก": "ห้องสมุด",
+        "ข": "ห้องเรียน",
+        "ค": "โรงอาหาร",
+        "ง": "สนามเด็กเล่น"
+      },
+      "correctAnswer": "ข",
+      "explanation": "教室 (jiàoshì) แปลว่า ห้องเรียน",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดสถานที่โรงเรียน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "สถานที่ใดที่เรียกว่า '图书馆' (túshūguǎn)?",
+      "options": {
+        "ก": "โรงอาหาร",
+        "ข": "สนามฟุตบอล",
+        "ค": "ห้องสมุด",
+        "ง": "ห้องพยาบาล"
+      },
+      "correctAnswer": "ค",
+      "explanation": "图书馆 (túshūguǎn) แปลว่า ห้องสมุด (สถานที่ยืม-อ่านหนังสือ)",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดกีฬา",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "ประโยค '打篮球' (dǎ lánqiú) หมายถึงการเล่นกีฬาชนิดใด?",
+      "options": {
+        "ก": "เล่นฟุตบอล",
+        "ข": "เล่นบาสเกตบอล",
+        "ค": "เล่นแบดมินตัน",
+        "ง": "ว่ายน้ำ"
+      },
+      "correctAnswer": "ข",
+      "explanation": "篮球 (lánqiú) แปลว่า บาสเกตบอล, 打篮球 คือ เล่นบาสเกตบอล",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดกีฬา",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '踢足球' (tī zúqiú) มีความหมายว่าอย่างไร?",
+      "options": {
+        "ก": "เตะฟุตบอล",
+        "ข": "ตีกอล์ฟ",
+        "ค": "วิ่งแข่ง",
+        "ง": "เล่นวอลเลย์บอล"
+      },
+      "correctAnswer": "ก",
+      "explanation": "足球 (zúqiú) แปลว่า ฟุตบอล, 踢 (tī) แปลว่า เตะ",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดอาหารและผลไม้",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "ผลไม้ชนิดใดที่มีชื่อภาษาจีนว่า '苹果' (píngguǒ)?",
+      "options": {
+        "ก": "ส้ม",
+        "ข": "แอปเปิล",
+        "ค": "กล้วยหอม",
+        "ง": "แตงโม"
+      },
+      "correctAnswer": "ข",
+      "explanation": "苹果 (píngguǒ) แปลว่า แอปเปิล",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดอาหารและผลไม้",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '西瓜' (xīguā) หมายถึงผลไม้ชนิดใด?",
+      "options": {
+        "ก": "สับปะรด",
+        "ข": "มะม่วง",
+        "ค": "แตงโม",
+        "ง": "องุ่น"
+      },
+      "correctAnswer": "ค",
+      "explanation": "西瓜 (xīguā) แปลว่า แตงโม",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดอาหารและผลไม้",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "อาหารหลักของคนจีนที่เรียกว่า '米饭' (mǐfàn) คืออะไร?",
+      "options": {
+        "ก": "ก๋วยเตี๋ยว",
+        "ข": "ซาลาเปา",
+        "ค": "ข้าวสวย",
+        "ง": "เกี๊ยวน้ำ"
+      },
+      "correctAnswer": "ค",
+      "explanation": "米饭 (mǐfàn) แปลว่า ข้าวสวย",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดอาหารและผลไม้",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '面条' (miàntiáo) ในภาษาจีนแปลว่าอะไร?",
+      "options": {
+        "ก": "ขนมปัง",
+        "ข": "บะหมี่ / ก๋วยเตี๋ยว",
+        "ค": "เกี๊ยวซ่า",
+        "ง": "ข้าวผัด"
+      },
+      "correctAnswer": "ข",
+      "explanation": "面条 (miàntiáo) แปลว่า บะหมี่ หรือ เส้นก๋วยเตี๋ยว",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดเครื่องดื่ม",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "เครื่องดื่มที่เรียกว่า '牛奶' (niúnǎi) คืออะไร?",
+      "options": {
+        "ก": "น้ำส้ม",
+        "ข": "ชาร้อน",
+        "ค": "นมสด",
+        "ง": "น้ำเปล่า"
+      },
+      "correctAnswer": "ค",
+      "explanation": "牛奶 (niúnǎi) แปลว่า นมสด (牛=วัว, 奶=นม)",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดอาชีพ",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "บุคคลที่ทำหน้าที่รักษาผู้ป่วยในโรงพยาบาลเรียกว่า '医生' (yīshēng) แปลว่าอะไร?",
+      "options": {
+        "ก": "คุณครู",
+        "ข": "หมอ / แพทย์",
+        "ค": "ตำรวจ",
+        "ง": "ทหาร"
+      },
+      "correctAnswer": "ข",
+      "explanation": "医生 (yīshēng) แปลว่า หมอ หรือ แพทย์",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดอาชีพ",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "อาชีพใดที่มีชื่อภาษาจีนว่า '警察' (jǐngchá)?",
+      "options": {
+        "ก": "ตำรวจ",
+        "ข": "บุรุษไปรษณีย์",
+        "ค": "พ่อครัว",
+        "ง": "นักบิน"
+      },
+      "correctAnswer": "ก",
+      "explanation": "警察 (jǐngchá) แปลว่า ตำรวจ",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดสภาพอากาศ",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '天气' (tiānqì) มีความหมายว่าอย่างไร?",
+      "options": {
+        "ก": "ท้องฟ้า",
+        "ข": "สภาพอากาศ",
+        "ค": "ฤดูกาล",
+        "ง": "อุณหภูมิ"
+      },
+      "correctAnswer": "ข",
+      "explanation": "天气 (tiānqì) แปลว่า สภาพอากาศ",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดสภาพอากาศ",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "เมื่อเกิดฝนตก คนจีนจะใช้คำว่าอะไร?",
+      "options": {
+        "ก": "刮风 (guāfēng)",
+        "ข": "下雪 (xiàxuě)",
+        "ค": "下雨 (xiàyǔ)",
+        "ง": "晴天 (qíngtiān)"
+      },
+      "correctAnswer": "ค",
+      "explanation": "下雨 (xiàyǔ) แปลว่า ฝนตก (下=ลง, 雨=ฝน)",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดสภาพอากาศ",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '刮风' (guāfēng) หมายถึงสภาพอากาศแบบใด?",
+      "options": {
+        "ก": "แดดจัด",
+        "ข": "หมอกหนา",
+        "ค": "ลมพัด / ลมแรง",
+        "ง": "หิมะตก"
+      },
+      "correctAnswer": "ค",
+      "explanation": "刮风 (guāfēng) แปลว่า ลมพัด หรือ ลมแรง",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดเวลา",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำบอกเวลา '昨天' (zuótiān) ตรงกับช่วงเวลาใด?",
+      "options": {
+        "ก": "วันนี้",
+        "ข": "เมื่อวานนี้",
+        "ค": "พรุ่งนี้",
+        "ง": "มะรืนนี้"
+      },
+      "correctAnswer": "ข",
+      "explanation": "昨天 (zuótiān) แปลว่า เมื่อวานนี้ (今天=วันนี้, 明天=พรุ่งนี้)",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดเวลา",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำบอกเวลา '明天' (míngtiān) แปลว่าอะไร?",
+      "options": {
+        "ก": "เมื่อวาน",
+        "ข": "วันนี้",
+        "ค": "พรุ่งนี้",
+        "ง": "ตอนนี้"
+      },
+      "correctAnswer": "ค",
+      "explanation": "明天 (míngtiān) แปลว่า พรุ่งนี้",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดเวลา",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "ช่วงเวลา '早上' (zǎoshang) ตรงกับช่วงเวลาใดของวัน?",
+      "options": {
+        "ก": "ตอนเช้า",
+        "ข": "ตอนเที่ยง",
+        "ค": "ตอนบ่าย",
+        "ง": "ตอนกลางคืน"
+      },
+      "correctAnswer": "ก",
+      "explanation": "早上 (zǎoshang) แปลว่า ตอนเช้า (早=เช้า)",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำศัพท์หมวดเวลา",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "ช่วงเวลา '晚上' (wǎnshang) แปลว่าอะไร?",
+      "options": {
+        "ก": "ตอนตื่นนอน",
+        "ข": "ตอนกลางวัน",
+        "ค": "ตอนเย็น / ตอนค่ำ",
+        "ง": "ตอนเลิกเรียน"
+      },
+      "correctAnswer": "ค",
+      "explanation": "晚上 (wǎnshang) แปลว่า ตอนเย็น/ตอนค่ำ/ตอนกลางคืน",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำลักษณนาม (量词)",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "คำลักษณนามที่ใช้กับหนังสือ เช่น '三_____书' (หนังสือ 3 เล่ม) คือคำใด?",
+      "options": {
+        "ก": "个 (gè)",
+        "ข": "本 (běn)",
+        "ค": "只 (zhī)",
+        "ง": "张 (zhāng)"
+      },
+      "correctAnswer": "ข",
+      "explanation": "หนังสือ สมุด ใช้คำลักษณนามว่า 本 (běn) เช่น 三本书 (หนังสือ 3 เล่ม)",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำลักษณนาม (量词)",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "คำลักษณนาม '只' (zhī) เหมาะสำหรับใช้กับสิ่งใด?",
+      "options": {
+        "ก": "หนังสือและสมุด",
+        "ข": "สัตว์ตัวเล็กๆ เช่น แมว สุนัข นก",
+        "ค": "กระดาษและแผ่นดิสก์",
+        "ง": "รถยนต์และจักรยาน"
+      },
+      "correctAnswer": "ข",
+      "explanation": "只 (zhī) ใช้กับสัตว์ เช่น 一只猫 (แมว 1 ตัว), 两只狗 (สุนัข 2 ตัว)",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำลักษณนาม (量词)",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "คำลักษณนาม '张' (zhāng) ใช้กับสิ่งของที่มีลักษณะอย่างไร?",
+      "options": {
+        "ก": "สิ่งของที่เป็นเส้นยาวๆ",
+        "ข": "สิ่งของที่เป็นแผ่น เรียบ กว้าง เช่น กระดาษ โต๊ะ เตียง",
+        "ค": "สิ่งของที่เป็นเล่ม",
+        "ง": "สิ่งของที่เป็นแท่ง"
+      },
+      "correctAnswer": "ข",
+      "explanation": "张 (zhāng) ใช้กับสิ่งแผ่นเรียบ เช่น 一张纸 (กระดาษ 1 แผ่น), 一张桌子 (โต๊ะ 1 ตัว)",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำลักษณนาม (量词)",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "คำลักษณนาม '条' (tiáo) เหมาะสำหรับใช้กับสิ่งของชนิดใด?",
+      "options": {
+        "ก": "ปากกาและดินสอ",
+        "ข": "กางเกง กระโปรง ปลา แม่น้ำ (สิ่งของเรียวยาว)",
+        "ค": "หมวกและเสื้อเชิ้ต",
+        "ง": "บ้านและโรงเรียน"
+      },
+      "correctAnswer": "ข",
+      "explanation": "条 (tiáo) ใช้กับสิ่งเรียวยาว สาย หรือโค้งงอได้ เช่น 一条裤子 (กางเกง 1 ตัว), 一条鱼 (ปลา 1 ตัว)",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "คำลักษณนาม (量词)",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "คำลักษณนามสำหรับปากกา ดินสอ เช่น '两_____笔' คือคำใด?",
+      "options": {
+        "ก": "支 (zhī)",
+        "ข": "本 (běn)",
+        "ค": "个 (gè)",
+        "ง": "张 (zhāng)"
+      },
+      "correctAnswer": "ก",
+      "explanation": "ปากกา ดินสอ ใช้คำลักษณนามว่า 支 (zhī) เช่น 两支笔 (ปากกา 2 ด้าม)",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ไวยากรณ์การปฏิเสธ",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Hard",
+      "question": "ข้อแตกต่างในการใช้คำปฏิเสธ '不' (bù) และ '没' (méi) ข้อใดถูกต้อง?",
+      "options": {
+        "ก": "'不' ใช้ปฏิเสธคำว่า 有 เท่านั้น",
+        "ข": "'不' ใช้ปฏิเสธปัจจุบัน/อนาคต/ความตั้งใจ ส่วน '没' ใช้ปฏิเสธการเกิดเหตุการณ์ในอดีตหรือใช้คู่กับ 有",
+        "ค": "'没' ใช้ปฏิเสธคำกริยาทุกชนิดในอนาคต",
+        "ง": "ทั้งสองคำใช้แทนกันได้ทุกกรณี"
+      },
+      "correctAnswer": "ข",
+      "explanation": "不 ใช้ปฏิเสธนิสัย ปัจจุบัน อนาคต เช่น 我不去; ส่วน 没 ใช้ปฏิเสธสิ่งที่ทำไปแล้วในอดีต หรือปฏิเสธ มี (没有)",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ไวยากรณ์ประโยค",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "ประโยค '我不去学校' (wǒ bú qù xuéxiào) แปลว่าอะไร?",
+      "options": {
+        "ก": "ฉันอยากไปโรงเรียน",
+        "ข": "ฉันไม่ได้ไปโรงเรียนเมื่อวาน",
+        "ค": "ฉันไม่ไปโรงเรียน",
+        "ง": "ฉันกำลังไปโรงเรียน"
+      },
+      "correctAnswer": "ค",
+      "explanation": "我不去学校 แปลว่า ฉันไม่ไปโรงเรียน (ปฏิเสธปัจจุบัน/ความตั้งใจ)",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ไวยากรณ์ประโยค",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "ประโยค '我没有苹果' (wǒ méi yǒu píngguǒ) มีความหมายตรงกับข้อใด?",
+      "options": {
+        "ก": "ฉันไม่ชอบกินแอปเปิล",
+        "ข": "ฉันไม่มีแอปเปิล",
+        "ค": "แอปเปิลนี้ไม่อย่อย",
+        "ง": "ฉันไม่อยากซื้อแอปเปิล"
+      },
+      "correctAnswer": "ข",
+      "explanation": "没有 แปลว่า ไม่มี, 我没有苹果 = ฉันไม่มีแอปเปิล",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "สรรพนามแสดงคำถาม",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำสรรพนามแสดงคำถาม '谁' (shéi / shuí) ใช้ถามเกี่ยวกับสิ่งใด?",
+      "options": {
+        "ก": "เวลา",
+        "ข": "สถานที่",
+        "ค": "บุคคล (ใคร)",
+        "ง": "ราคา"
+      },
+      "correctAnswer": "ค",
+      "explanation": "谁 (shéi/shuí) แปลว่า ใคร ใช้ถามบุคคล",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "สรรพนามแสดงคำถาม",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำสรรพนามแสดงคำถาม '哪儿' (nǎr) ใช้ถามเกี่ยวกับเรื่องใด?",
+      "options": {
+        "ก": "สถานที่ (ที่ไหน)",
+        "ข": "จำนวนเท่าใด",
+        "ค": "ทำไม",
+        "ง": "อย่างไร"
+      },
+      "correctAnswer": "ก",
+      "explanation": "哪儿 (nǎr) แปลว่า ที่ไหน ใช้ถามสถานที่",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "สรรพนามแสดงคำถาม",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำสรรพนามแสดงคำถาม '什么' (shénme) แปลว่าอะไร?",
+      "options": {
+        "ก": "เมื่อไหร่",
+        "ข": "อะไร",
+        "ค": "ที่ไหน",
+        "ง": "ใคร"
+      },
+      "correctAnswer": "ข",
+      "explanation": "什么 (shénme) แปลว่า อะไร เช่น 这是什么？ (นี่คืออะไร?)",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "สรรพนามแสดงคำถาม",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำสรรพนามแสดงคำถาม '怎么' (zěnme) ในประโยค '怎么走？' ใช้ถามเกี่ยวกับสิ่งใด?",
+      "options": {
+        "ก": "ราคาเท่าไหร่",
+        "ข": "ทำไมถึงไม่ไป",
+        "ค": "เดินทางอย่างไร / ไปทางไหน",
+        "ง": "ไปกับใคร"
+      },
+      "correctAnswer": "ค",
+      "explanation": "怎么 (zěnme) แปลว่า อย่างไร, 怎么走 แปลว่า ไปอย่างไร/ไปยังไง",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ลำดับคำในประโยคภาษาจีน",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "question": "โครงสร้างลำดับคำในประโยคภาษาจีนบอกเวลาและสถานที่ ข้อใดจัดลำดับถูกต้อง?",
+      "options": {
+        "ก": "ประธาน + กริยา + สถานที่ + เวลา",
+        "ข": "ประธาน + เวลา + สถานที่ + กริยา",
+        "ค": "สถานที่ + กริยา + ประธาน + เวลา",
+        "ง": "กริยา + ประธาน + เวลา + สถานที่"
+      },
+      "correctAnswer": "ข",
+      "explanation": "โครงสร้างจีนมาตรฐาน: ประธาน + เวลา + สถานที่ + กริยา (Subject + Time + Place + Action)",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ลำดับคำในประโยคภาษาจีน",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "question": "เรียงคำต่อไปนี้ให้เป็นประโยคที่ถูกต้อง: [看书 / 我 / 明天 / 在图书馆]",
+      "options": {
+        "ก": "看书明天在图书馆我",
+        "ข": "我明天在图书馆看书",
+        "ค": "在图书馆看书明天我",
+        "ง": "明天看书我在图书馆"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ตามหลัก S + Time + Place + Action: 我 (S) + 明天 (Time) + 在图书馆 (Place) + 看书 (Action)",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "กริยานุเคราะห์",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "คำว่า '想' (xiǎng) ในประโยค '我想吃汉堡' มีความหมายว่าอย่างไร?",
+      "options": {
+        "ก": "ต้องทำ",
+        "ข": "สามารถทำได้",
+        "ค": "อยาก / ปรารถนาจะทำ",
+        "ง": "ทำเสร็จแล้ว"
+      },
+      "correctAnswer": "ค",
+      "explanation": "想 (xiǎng) แปลว่า อยาก หรือ ต้องการจะทำสิ่งใดสิ่งหนึ่ง",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "กริยาแสดงอาการกำลังกระทำ",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "คำว่า '正在' (zhèngzài) วางไว้หน้าคำกริยาแสดงถึงสิ่งใด?",
+      "options": {
+        "ก": "เหตุการณ์ที่จบลงแล้ว",
+        "ข": "เหตุการณ์ที่กำลังดำเนินอยู่ในขณะนั้น",
+        "ค": "เหตุการณ์ที่จะเกิดขึ้นในอนาคต",
+        "ง": "เหตุการณ์ที่ไม่เคยเกิดขึ้น"
+      },
+      "correctAnswer": "ข",
+      "explanation": "正在 (zhèngzài) + V. หมายถึง กำลัง...อยู่ ( present continuous)",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "โครงสร้างการเปรียบเทียบ",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "question": "ประโยคเปรียบเทียบ '哥哥比我高' (gēge bǐ wǒ gāo) มีความหมายตรงกับข้อใด?",
+      "options": {
+        "ก": "พี่ชายสูงเท่ากับฉัน",
+        "ข": "ฉันสูงกว่าพี่ชาย",
+        "ค": "พี่ชายสูงกว่าฉัน",
+        "ง": "พี่ชายและฉันไม่สูงทั้งคู่"
+      },
+      "correctAnswer": "ค",
+      "explanation": "โครงสร้าง: A 比 B + คุณศัพท์ = A ...กว่า B -> 哥哥比我高 = พี่ชายสูงกว่าฉัน",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "การบอกเวลา",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "การบอกเวลา '八点半' (bā diǎn bàn) ตรงกับเวลาใด?",
+      "options": {
+        "ก": "8 นาฬิกา 15 นาที",
+        "ข": "8 นาฬิกา 30 นาที (8 โมงครึ่ง)",
+        "ค": "8 นาฬิกา 45 นาที",
+        "ง": "9 นาฬิกาตรง"
+      },
+      "correctAnswer": "ข",
+      "explanation": "点=นาฬิกา, 半=ครึ่ง (30 นาที) ดังนั้น 八点半 = 8.30 น.",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "การบอกเวลา",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "การบอกเวลา '十点一刻' (shí diǎn yí kè) หมายถึงกี่นาฬิกากี่นาที?",
+      "options": {
+        "ก": "10 นาฬิกา 5 นาที",
+        "ข": "10 นาฬิกา 15 นาที",
+        "ค": "10 นาฬิกา 30 นาที",
+        "ง": "10 นาฬิกา 45 นาที"
+      },
+      "correctAnswer": "ข",
+      "explanation": "一刻 (yí kè) = 15 นาที ดังนั้น 十点一刻 = 10 นาฬิกา 15 นาที",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ตำแหน่งทิศทาง",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำบอกตำแหน่ง '左边' (zuǒbiān) และ '右边' (yòubiān) แปลว่าอะไรตามลำดับ?",
+      "options": {
+        "ก": "ด้านบน และ ด้านล่าง",
+        "ข": "ด้านหน้า และ ด้านหลัง",
+        "ค": "ด้านซ้าย และ ด้านขวา",
+        "ง": "ด้านใน และ ด้านนอก"
+      },
+      "correctAnswer": "ค",
+      "explanation": "左边 = ด้านซ้าย, 右边 = ด้านขวา",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "มารยาทและการสื่อสาร",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "เมื่อมีคนกล่าวขอบคุณว่า '谢谢你' (xièxie nǐ) เราควรตอบกลับด้วยประโยคใตจึงจะสุภาพ?",
+      "options": {
+        "ก": "对不起 (duìbuqǐ)",
+        "ข": "不客气 (bú kèqi)",
+        "ค": "没关系 (méi guānxi)",
+        "ง": "再见 (zàijiàn)"
+      },
+      "correctAnswer": "ข",
+      "explanation": "เมื่อมีคนขอบคุณ 谢谢 ควรตอบด้วย 不客气 (ยินดีครับ/ไม่เป็นไร)",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "มารยาทและการสื่อสาร",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "เมื่อมีคนกล่าวขอโทษว่า '对不起' (duìbuqǐ) เราควรกล่าวตอบอย่างไร?",
+      "options": {
+        "ก": "谢谢你 (xièxie nǐ)",
+        "ข": "没关系 (méi guānxi)",
+        "ค": "不客气 (bú kèqi)",
+        "ง": "你好 (nǐhǎo)"
+      },
+      "correctAnswer": "ข",
+      "explanation": "เมื่อมีคนขอโทษ 对不起 ควรตอบว่า 没关系 (ไม่เป็นไร)",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "บทสนทนาประจำวัน",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Medium",
+      "question": "ประโยค '请问，去车站怎么走？' แปลว่าอะไร?",
+      "options": {
+        "ก": "ขอถามหน่อย รถไฟจะมาเมื่อไหร่?",
+        "ข": "ขอถามหน่อย ไปสถานีรถอย่างไร/ทางไหน?",
+        "ค": "ขอถามหน่อย ตั๋วรถราคาเท่าไหร่?",
+        "ง": "ขอถามหน่อย สถานีรถเปิดกี่โมง?"
+      },
+      "correctAnswer": "ข",
+      "explanation": "车站=สถานีรถ, 怎么走=ไปยังไง/เดินไปทางไหน",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "บทสนทนาการซื้อของ",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Medium",
+      "question": "ประโยค '这个多少钱？' (zhè ge duōshao qián?) ใช้ในสถานการณ์ใด?",
+      "options": {
+        "ก": "ถามเวลาเรียน",
+        "ข": "ถามทางไปห้องน้ำ",
+        "ค": "ถามราคาสินค้าขณะซื้อของ",
+        "ง": "ถามอายุของเพื่อน"
+      },
+      "correctAnswer": "ค",
+      "explanation": "多少钱 = ราคาเท่าไหร่ ใช้ถามราคาสินค้า",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "บทสนทนาการซื้อของ",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "เมื่อแม่ค้าบอกราคาว่า '五十六块' (wǔshí liù kuài) สินค้านี้ราคาเท่าใด?",
+      "options": {
+        "ก": "46 หยวน",
+        "ข": "56 หยวน",
+        "ค": "65 หยวน",
+        "ง": "560 หยวน"
+      },
+      "correctAnswer": "ข",
+      "explanation": "五十六 = 56, 块 = หน่วยเงินหยวน/บาท",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "วัฒนธรรมและเทศกาลจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "ในเทศกาลตรุษจีน (春节) ผู้ใหญ่จะมอบสิ่งใดให้เด็กๆ เพื่อความสิริมงคล?",
+      "options": {
+        "ก": "月饼 (ขนมไหว้พระจันทร์)",
+        "ข": "红包 (ซองอั่งเปา)",
+        "ค": "粽子 (บะจ่าง)",
+        "ง": "灯笼 (โคมไฟ)"
+      },
+      "correctAnswer": "ข",
+      "explanation": "ตรุษจีนผู้ใหญ่จะแจก 红包 (hóngbāo - อั่งเปาซองแดง) ให้เด็กๆ",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "วัฒนธรรมและเทศกาลจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "อาหารมงคลยอดนิยมที่ชาวจีนทางตอนเหนือนิยมรับประทานในวันส่งท้ายปีเก่าต้อนรับปีใหม่ (ตรุษจีน) คือข้อใด?",
+      "options": {
+        "ก": "饺子 (เกี๊ยวจีน)",
+        "ข": "月饼 (ขนมไหว้พระจันทร์)",
+        "ค": "粽子 (บะจ่าง)",
+        "ง": "冰淇淋 (ไอศกรีม)"
+      },
+      "correctAnswer": "ก",
+      "explanation": "饺子 (เกี๊ยว) รูปร่างคล้ายก้อนทองจีน นิยมกินช่วงตรุษจีนเพื่อความมั่งคั่ง",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "วัฒนธรรมและเทศกาลจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "เทศกาลไหว้พระจันทร์ (中秋节) ตรงกับวันขึ้น 15 ค่ำ เดือน 8 มีประเพณีรับประทานขนมชนิดใด?",
+      "options": {
+        "ก": "粽子 (บะจ่าง)",
+        "ข": "月饼 (ขนมไหว้พระจันทร์)",
+        "ค": "汤圆 (บัวลอยจีน)",
+        "ง": "面条 (บะหมี่)"
+      },
+      "correctAnswer": "ข",
+      "explanation": "中秋节 (เทศกาลไหว้พระจันทร์) รับประทาน 月饼 (yuèbǐng - ขนมไหว้พระจันทร์)",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "วัฒนธรรมและเทศกาลจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "เทศกาลไหว้บะจ่าง (端午节) มีการแข่งขันกีฬาประเพณีพื้นบ้านชนิดใด?",
+      "options": {
+        "ก": "赛龙舟 (การแข่งเรือมังกร)",
+        "ข": "打太极 (รำมวยไทเก๊ก)",
+        "ค": "放风筝 (เล่นว่าว)",
+        "ง": "跳绳 (กระโดดเชือก)"
+      },
+      "correctAnswer": "ก",
+      "explanation": "端午节 (เทศกาลไหว้บะจ่าง) มีประเพณี 赛龙舟 (sài lóngzhōu - แข่งเรือมังกร)",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "วัฒนธรรมและเทศกาลจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "รอบปีนักษัตรตามความเชื่อทางวัฒนธรรมจีนโบราณประกอบด้วยสัตว์ทั้งหมดกี่ชนิด?",
+      "options": {
+        "ก": "8 ชนิด",
+        "ข": "10 ชนิด",
+        "ค": "12 ชนิด",
+        "ง": "16 ชนิด"
+      },
+      "correctAnswer": "ค",
+      "explanation": "ปีนักษัตรจีนมี 12 สัตว์ประจำปี (十二生肖) เช่น มังกร เสือ สุนัข กระต่าย ฯลฯ",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "พินอินและวรรณยุกต์",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "วรรณยุกต์เสียงที่ 3 (第三声: ǎ) ในภาษาจีน ออกเสียงผันลงต่ำแล้วโค้งขึ้นสูง",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง เสียงที่ 3 (上声) มีลักษณะเสียงโค้งลงแล้วขึ้น (214)",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "พินอินและวรรณยุกต์",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Medium",
+      "question": "คำว่า '一' (yī) เมื่อวางอยู่หน้าพยางค์เสียงที่ 1, 2, 3 จะต้องเปลี่ยนออกเสียงเป็นเสียงที่ 4 (yì)",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง เช่น 一天 (yì tiān), 年一 (yì nián), 一起 (yì qǐ) จะเปลี่ยนเป็นเสียงที่ 4",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "พินอินและวรรณยุกต์",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "พยัญชนะ b, p, m, f ในระบบพินอิน ออกเสียงโดยใช้ริมฝีปากเป็นหลัก",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง b, p, m, f เป็นพยัญชนะริมฝีปาก (双唇音 / 唇齿音)",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ขีดอักษรจีน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "เส้นขีดอักษรจีน '撇' (piě) คือเส้นขีดตวัดลากจากขวาบนลงมาซ้ายล่าง",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 撇 (piě) ลากจากขวาบนปัดลงซ้ายล่าง เช่น ขีดซ้ายของ 人",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "หมวดอักษรจีน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "หมวดอักษร ⺮ (竹字头) มักปรากฏอยู่ด้านบนของตัวอักษรจีนที่เกี่ยวข้องกับอุปกรณ์ไม้ไผ่",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง เช่น 笔 (ปากกา/พู่กัน), 笔头, 简 (กระดาษไผ่โบราณ)",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "คำศัพท์หมวดครอบครัว",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '奶奶' (nǎinai) ในภาษาจีนหมายถึงคุณยาย (แม่ของแม่)",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ผิด 奶奶 คือ คุณย่า (แม่ของพ่อ), ส่วน คุณยาย คือ 外婆 (wàipó)",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "คำศัพท์หมวดโรงเรียน",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "สถานที่ '操场' (cāochǎng) ในโรงเรียนหมายถึงสนามเด็กเล่นหรือสนามออกกำลังกาย",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 操场 แปลว่า สนามกีฬา / สนามเด็กเล่น / สนามฟุตบอลโรงเรียน",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "คำศัพท์หมวดอาหาร",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '果汁' (guǒzhī) แปลว่า ชาร้อน",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ผิด 果汁 (guǒzhī) แปลว่า น้ำผลไม้ (果=ผลไม้, 汁=น้ำ/น้ำคั้น)",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "คำศัพท์หมวดสัตว์",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '狗' (gǒu) แปลว่า สุนัข และ '猫' (māo) แปลว่า แมว",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 狗 = สุนัข/หมา, 猫 = แมว",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "คำศัพท์หมวดทิศทาง",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Easy",
+      "question": "คำว่า '前边' (qiánbian) แปลว่า ด้านหลัง",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ผิด 前边 (qiánbian) แปลว่า ด้านหน้า, ส่วน ด้านหลัง คือ 后边 (hòubian)",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "คำลักษณนาม",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "ประโยค '我有一张狗' ใช้อักษรลักษณนามถูกต้องตามหลักภาษาจีน",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ผิด สุนัขเป็นสัตว์ ต้องใช้คำลักษณนาม 只 (zhī) -> 我有一只狗",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "คำลักษณนาม",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำว่า '本' (běn) เป็นคำลักษณนามใช้สำหรับสมุดและหนังสือ เช่น 两本书",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 本 ใช้กับหนังสือ นิตยสาร สมุดบันทึก",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "คำลักษณนาม",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำว่า '块' (kuài) นอกจากใช้เป็นหน่วยเงินหยวนแล้ว ยังใช้เป็นลักษณนามของเค้ก สบู่ ผ้า ได้ด้วย",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 块 ใช้กับสิ่งของที่เป็นก้อน/ชิ้น เช่น 一块蛋糕 (เค้ก 1 ชิ้น)",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ไวยากรณ์การปฏิเสธ",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "หากต้องการปฏิเสธว่า 'เมื่อวานไม่ได้ไปโรงเรียน' ต้องพูดว่า '我昨天不去学校'",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ผิด เหตุการณ์ในอดีตต้องใช้ 没 (méi) ปฏิเสธ -> 我昨天没去学校",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ไวยากรณ์ประโยค",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำกริยานุเคราะห์ '要' (yào) ใช้แสดงความตั้งใจหรือความต้องการที่จะทำสิ่งใดสิ่งหนึ่ง",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 要 แปลว่า ต้องการ/จะทำ เช่น 我要买水果 (ฉันจะซื้อผลไม้)",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ไวยากรณ์ประโยค",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Medium",
+      "question": "ในภาษาจีน การบอกเวลาใหญ่จะขึ้นก่อนเวลาเล็กเสมอ เช่น '2026年9月28日'",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง ภาษาจีนเรียงจากใหญ่ไปเล็ก: ปี -> เดือน -> วัน -> เวลา",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ไวยากรณ์ประโยค",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำถามที่ลงท้ายด้วยคำว่า '吗' (ma) เป็นคำถามต้องการคำตอบ รับ/ปฏิเสธ (ใช่หรือไม่)",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 吗 วางท้ายประโยคทำเป็นประโยคคำถามใช่/ไม่ เช่น 你好吗？",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ไวยากรณ์ประโยค",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "ประโยค '我在家看电视' หมายถึง ฉันกำลังดูโทรทัศน์อยู่ที่บ้าน",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 在家 (อยู่ที่บ้าน) + 看电视 (ดูทีวี) = ดูทีวีอยู่ที่บ้าน",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "การบอกเวลา",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Easy",
+      "question": "คำว่า '差五分一点' (chà wǔ fēn yì diǎn) หมายถึง อีก 5 นาทีจะถึง 1 นาฬิกา (12.55 น.)",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 差...分...点 แปลว่า ขาดอีก...นาทีจะถึง...นาฬิกา",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "การเปรียบเทียบ",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Medium",
+      "question": "ประโยค '小明比小红大' หมายถึง เสี่ยวหมิงตัวเล็กกว่าเสี่ยวหง",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ผิด 大 ในที่นี้หมายถึง อายุมากกว่า -> เสี่ยวหมิงอายุมากกว่าเสี่ยวหง",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "การสั่งอาหาร",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Easy",
+      "question": "ประโยค '我要一杯茶' แปลว่า ฉันต้องการชา 1 แก้ว",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 杯 (bēi) เป็นลักษณนามแปลว่า แก้ว/ถ้วย -> ชา 1 แก้ว",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "การซื้อขาย",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Easy",
+      "question": "คำว่า '太贵了' (tài guì le) ใช้พูดเมื่อรู้สึกว่าสินค้าราคาถูกมาก",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ผิด 贵 (guì) แปลว่า แพง, 太贵了 แปลว่า แพงเกินไปแล้ว",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "การถามทาง",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Easy",
+      "question": "ประโยค '往左拐' (wǎng zuǒ guǎi) แปลว่า ให้เลี้ยวขวา",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ผิด 左 (zuǒ) แปลว่า ซ้าย, 往左拐 แปลว่า เลี้ยวไปทางซ้าย",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "มารยาทและคำทักทาย",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "เมื่อบอกลาเพื่อนในภาษาจีน คำว่า '再见' (zàijiàn) มีความหมายตรงตัวว่า 'พบกันใหม่'",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 再 (อีกครั้ง) + 见 (พบ) = พบกันใหม่ / ลาก่อน",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "มารยาทและคำทักทาย",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "คำทักทายคุณครูในห้องเรียนที่ถูกต้องคือ '老师好' (lǎoshī hǎo)",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 老师好 แปลว่า สวัสดีครับ/ค่ะคุณครู",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "วัฒนธรรมจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "สีแดง (红色) ในวัฒนธรรมจีนเป็นสีสัญลักษณ์แห่งความโชคดีและความเป็นสิริมงคล",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง สีแดงสื่อถึงโชคลาภ ความสุข และความเป็นสิริมงคล",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "วัฒนธรรมจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "ชาวจีนถือว่าเลข 4 (四 - sì) เป็นตัวเลขอุปมงคลเพราะออกเสียงใกล้เคียงกับคำว่า '死' (sǐ - ตาย)",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง 四 (4) ออกเสียงคล้าย 死 (ตาย) จึงมักหลีกเลี่ยงในงานมงคล",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "เทศกาลจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "ในวันเทศกาลตรุษจีน ชาวจีนนิยมกวาดขยะและทำความสะอาดบ้านครั้งใหญ่ในวันเที่ยว (วันตรุษจีน)",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "False",
+      "explanation": "ผิด ชาวจีนห้ามกวาดบ้านในวันตรุษจีนเพราะเชื่อว่าจะกวาดโชคลาภออกไป ต้องทำความสะอาดก่อนวันตรุษจีน",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "เทศกาลจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "ขนมไหว้พระจันทร์ (月饼) มีลักษณะทรงกลม สื่อถึงความพร้อมหน้าและรวมกันเป็นหนึ่งเดียวของครอบครัว",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง ทรงกลม (圆) สื่อถึง 团圆 (tuányuán) การพร้อมหน้าของครอบครัว",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ประเพณีจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Easy",
+      "question": "การดื่มชาร้อน (茶) เป็นส่วนหนึ่งของวัฒนธรรมและวิถีชีวิตต้อนรับแขกของชาวจีนมาตั้งแต่อดีต",
+      "options": {
+        "True": "จริง (True)",
+        "False": "เท็จ (False)"
+      },
+      "correctAnswer": "True",
+      "explanation": "ถูกต้อง การชงชาร้อนต้อนรับผู้มาเยือนเป็นมารยาทดั้งเดิมของชาวจีน",
+      "points": 1
+    },
+    {
+      "id": 91,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การสั่งอาหารในร้านอาหารจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Hard",
+      "scenario": "เสี่ยวหมิงไปร้านอาหารจีนกับครอบครัว ต้องการสั่งบะหมี่ 2 ชาม ชาร้อน 2 แก้ว และถามราคารวมทั้งหมด เสี่ยวหมิงควรใช้บทสนทนาภาษาจีนอย่างไร?",
+      "question": "คำถาม: เสี่ยวหมิงควรลำดับคำสั่งอาหารและถามราคารวมอย่างไร?",
+      "correctAnswer": "เสี่ยวหมิงพูดว่า: '你好！我要两碗面条，两杯热茶。请问，一共多少钱？' (สวัสดีครับ! ขอบะหมี่ 2 ชาม ชาร้อน 2 แก้ว ขอถามหน่อย รวมทั้งหมดเท่าไหร่ครับ?)",
+      "explanation": "คำอธิบาย: 碗 (wǎn) เป็นลักษณนามของชาม, 杯 (bēi) เป็นลักษณนามของแก้ว, 一共 (yígòng) แปลว่า รวมทั้งหมด, 多少钱 แปลว่า ราคาเท่าไหร่",
+      "points": 2
+    },
+    {
+      "id": 92,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การซื้อผลไม้ในตลาด",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "scenario": "หวังฟ่างไปตลาดซื้อแอปเปิล 1 กิโลกรัม แม่ค้าบอกว่าราคา 20 หยวน แต่หวังฟ่างคิดว่าแพงเกินไปจึงขอต่อรองราคาให้เหลือ 15 หยวน หวังฟ่างควรพูดอย่างไร?",
+      "question": "คำถาม: หวังฟ่างควรพูดประโยคต่อรองราคากับแม่ค้าอย่างไร?",
+      "correctAnswer": "หวังฟ่างพูดว่า: '太贵了！十五块行不行？' หรือ '太贵了！便宜一点儿吧，十五块可以吗？' (แพงเกินไปแล้ว! 15 หยวนได้ไหมครับ/ค่ะ?)",
+      "explanation": "คำอธิบาย: 太贵了 = แพงเกินไป, 便宜一点儿 = ถูกลงหน่อย, 行不行 / 可以吗 = ได้ไหม",
+      "points": 2
+    },
+    {
+      "id": 93,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การถามทางไปห้องสมุด",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "scenario": "หลี่หัวเป็นนักเรียนใหม่ ต้องการเดินทางไปห้องสมุดโรงเรียนแต่ไม่รู้อยู่ที่ไหน จึงเข้าไปถามคุณครูอย่างสุภาพ หลี่หัวควรพูดอย่างไร?",
+      "question": "คำถาม: หลี่หัวควรใช้ประโยคขอความช่วยเหลือและถามทางอย่างไร?",
+      "correctAnswer": "หลี่หัวพูดว่า: '老师，请问，图书馆在哪儿？/ 去图书馆怎么走？' (คุณครูครับ ขอถามหน่อย ห้องสมุดอยู่ที่ไหน / ไปห้องสมุดไปยังไงครับ?)",
+      "explanation": "คำอธิบาย: 请问 เป็นคำเริ่มต้นถามอย่างสุภาพ, 在哪儿 = อยู่ที่ไหน, 怎么走 = ไปทางไหน",
+      "points": 2
+    },
+    {
+      "id": 94,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การอธิบายสภาพอากาศและการแต่งกาย",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "scenario": "จางเว่ยคุยโทรศัพท์กับเพื่อน บอกว่า 'เมื่อวานฝนตก อากาศหนาวมาก แต่แต่วันนี้ฟ้าโปร่ง อากาศร้อนขึ้นแล้ว' ควรพูดเป็นภาษาจีนอย่างไร?",
+      "question": "คำถาม: จางเว่ยควรอธิบายสภาพอากาศเปรียบเทียบระหว่างเมื่อวานกับวันนี้อย่างไร?",
+      "correctAnswer": "จางเว่ยพูดว่า: '昨天下雨，天气很冷。但是今天晴天，天气变热了。'",
+      "explanation": "คำอธิบาย: 昨天下雨 = เมื่อวานฝนตก, 很冷 = หนาวมาก, 晴天 = ฟ้าโปร่ง, 变热了 = ร้อนขึ้นแล้ว",
+      "points": 2
+    },
+    {
+      "id": 95,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การนัดหมายเล่นกีฬาช่วงวันหยุด",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Hard",
+      "scenario": "หลินหลินต้องการชวนเพื่อนไปเล่นบาสเกตบอลที่สนามเด็กเล่นในวันเสาร์ตอนบ่าย 2 โมงครึ่ง หลินหลินควรส่งข้อความนัดเพื่อนอย่างไร?",
+      "question": "คำถาม: หลินหลินควรร้อยเรียงเวลา สถานที่ และกิจกรรมในการนัดหมายอย่างไร?",
+      "correctAnswer": "หลินหลินพูดว่า: '星期六下午两点半，我们一起去操场打篮球，好吗？' (วันเสาร์บ่ายสองโมงครึ่ง พวกเราไปเล่นบาสเกตบอลที่สนามด้วยกัน ดีไหม?)",
+      "explanation": "คำอธิบาย: ลำดับเวลาขึ้นก่อน (星期六下午两点半) ตามด้วยสถานที่ (去操场) และกิจกรรม (打篮球) แล้วลงท้ายชวนด้วย 好吗？",
+      "points": 2
+    },
+    {
+      "id": 96,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การยืมหนังสือในห้องสมุด",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "scenario": "นักเรียนไปห้องสมุดต้องการยืมหนังสือภาษาจีน 2 เล่ม คุณครูบรรณารักษ์ถามว่าจะคืนวันไหน นักเรียนตอบว่าจะคืนวันจันทร์หน้า บทสนทนาควรเป็นอย่างไร?",
+      "question": "คำถาม: จงเขียนบทสนทนาระหว่างนักเรียนกับบรรณารักษ์เกี่ยวกับการยืมหนังสือ",
+      "correctAnswer": "นักเรียน: '老师，我想借两本中文书。' (คุณครูครับ ผมอยากยืมหนังสือภาษาจีน 2 เล่ม) บรรณารักษ์: '你什么时候还？' (เธอจะคืนเมื่อไหร่) นักเรียน: '下个星期一还。' (คืนวันจันทร์หน้าครับ)",
+      "explanation": "คำอธิบาย: 借 (jiè) = ยืม, 还 (huán) = คืน, 下个星期一 = วันจันทร์หน้า",
+      "points": 2
+    },
+    {
+      "id": 97,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การแนะนำสมาชิกครอบครัวและอาชีพ",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "scenario": "เมื่อเพื่อนถามว่าครอบครัวของคุณมีกี่คนและพ่อแม่ทำอาชีพอะไร คุณตอบว่า 'ครอบครัวฉันมี 4 คน พ่อเป็นหมอ แม่เป็นครู' จะพูดภาษาจีนอย่างไร?",
+      "question": "คำถาม: จงเขียนประโยคแนะนำสมาชิกในครอบครัวและอาชีพของพ่อแม่",
+      "correctAnswer": "ประโยคภาษาจีน: '我家有四口人。爸爸是医生，妈妈是老师。'",
+      "explanation": "คำอธิบาย: 口 (kǒu) เป็นลักษณนามของจำนวนคนในครอบครัว, 是 = เป็น/คือ, 医生 = หมอ, 老师 = ครู",
+      "points": 2
+    },
+    {
+      "id": 98,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การถามและตอบเกี่ยวกับงานอดิเรก",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "scenario": "ในชั่วโมงเรียนภาษาจีน คุณครูถามเสี่ยวหลานว่า 'งานอดิเรกหลังเลิกเรียนคืออะไร' เสี่ยวหลานตอบว่า 'ฉันชอบว่ายน้ำและฟังเพลง' ควรพูดอย่างไร?",
+      "question": "คำถาม: จงเขียนประโยคตอบคำถามเกี่ยวกับงานอดิเรกหลังเลิกเรียน",
+      "correctAnswer": "เสี่ยวหลานพูดว่า: '放学后，我喜欢游泳和听音乐。' (หลังเลิกเรียน ฉันชอบว่ายน้ำและฟังเพลง)",
+      "explanation": "คำอธิบาย: 放学后 = หลังเลิกเรียน, 喜欢 = ชอบ, 游泳 = ว่ายน้ำ, 听音乐 = ฟังเพลง",
+      "points": 2
+    },
+    {
+      "id": 99,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การอวยพรวันตรุษจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Hard",
+      "scenario": "ในวันตรุษจีน เด็กๆ ไปสวัสดีปีใหม่คุณปู่คุณย่า และใช้วลีอวยพรขอให้สุขภาพแข็งแรง มั่งมีศรีสุข และได้รับซองอั่งเปา บทสนทนาควรเป็นอย่างไร?",
+      "question": "คำถาม: เด็กๆ ควรใช้วลีคำอวยพรวันตรุษจีนและกล่าวขอบคุณเมื่อรับอั่งเปาอย่างไร?",
+      "correctAnswer": "เด็กๆ พูดว่า: '爷爷奶奶，新年快乐！祝您身体健康，恭喜发财！' คุณปู่คุณย่ามอบอั่งเปาให้ เด็กๆ พูดว่า: '谢谢爷爷奶奶！' (ขอบคุณครับ/ค่ะคุณปู่คุณย่า)",
+      "explanation": "คำอธิบาย: 新年快乐 = สุขสันต์วันปีใหม่, 身体健康 = สุขภาพแข็งแรง, 恭喜发财 = ขอให้ร่ำรวยมั่งคั่ง",
+      "points": 2
+    },
+    {
+      "id": 100,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การถามเวลาและตารางเรียน",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "scenario": "เพื่อนถามว่า 'ตอนนี้กี่โมงแล้ว แล้วพวกเรามีเรียนวิชาภาษาจีนตอนกี่โมง' ตอบว่า 'ตอนนี้ 9 โมงตรง พวกเรามีเรียนภาษาจีนตอน 10 โมง 15 นาที' พูดว่าอย่างไร?",
+      "question": "คำถาม: จงเขียนประโยคบอกเวลาและตารางเรียนภาษาจีน",
+      "correctAnswer": "ประโยคภาษาจีน: '现在九点整。我们十点一刻有中文课。'",
+      "explanation": "คำอธิบาย: 现在 = ตอนนี้, 九点整 = 9 โมงตรง, 十点一刻 = 10 โมง 15 นาที, 中文课 = วิชาภาษาจีน",
+      "points": 2
+    },
+    {
+      "id": 101,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การซื้อเสื้อผ้าและการเลือกสี",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "scenario": "ลูกค้าไปร้านขายเสื้อผ้า บอกพนักงานว่า 'อยากลองเสื้อเชิ้ตสีขาวตัวนี้ มีไซส์ใหญ่กว่านี้ไหม' ควรพูดเป็นภาษาจีนอย่างไร?",
+      "question": "คำถาม: จงเขียนประโยคสื่อสารในการเลือกซื้อเสื้อผ้าและถามหาขนาด",
+      "correctAnswer": "ลูกค้าพูดว่า: '我想试试这件白衬衫。有没有大一点儿的？'",
+      "explanation": "คำอธิบาย: 试试 = ลองดู, 件 = ลักษณนามเสื้อผ้า, 白衬衫 = เสื้อเชิ้ตสีขาว, 有没有大一点儿的 = มีใหญ่กว่านี้หน่อยไหม",
+      "points": 2
+    },
+    {
+      "id": 102,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การเจ็บป่วยและการไปพบหมอ",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Hard",
+      "scenario": "นักเรียนรู้สึกไม่สบาย ปวดหัวและมีไข้ จึงไปห้องพยาบาลบอกคุณหมอ หมอบอกให้นอนพักและดื่มน้ำมากๆ บทสนทนาควรเป็นอย่างไร?",
+      "question": "คำถาม: จงเขียนบทสนทนาการบอกอาการป่วยและการรับคำแนะนำจากหมอ",
+      "correctAnswer": "นักเรียน: '医生，我身体不舒服，头疼发烧。' (หมอครับ ผมไม่สบาย ปวดหัวมีไข้) หมอ: '你需要多喝水，多休息。' (เธอต้องดื่มน้ำมากๆ พักผ่อนมากๆ)",
+      "explanation": "คำอธิบาย: 不舒服 = ไม่สบาย, 头疼 = ปวดหัว, 发烧 = มีไข้, 多喝水 = ดื่มน้ำมากๆ",
+      "points": 2
+    },
+    {
+      "id": 103,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การแนะนำสภาพอากาศประเทศไทยให้ชาวจีน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Hard",
+      "scenario": "นักเรียนไทยแนะนำเพื่อนชาวจีนเกี่ยวกับฤดูกาลของไทย บอกว่า 'ประเทศไทยไม่มีหิมะ มีแต่ฤดูร้อน ฤดูฝน และฤดูหนาว ตอนนี้ร้อนมาก' ควรพูดอย่างไร?",
+      "question": "คำถาม: จงเขียนประโยคภาษาจีนแนะนำสภาพอากาศและฤดูกาลของไทย",
+      "correctAnswer": "ประโยคภาษาจีน: '泰国没有下雪。泰国有热季、雨季和凉季。现在天气很热。'",
+      "explanation": "คำอธิบาย: 泰国 = ประเทศไทย, 没有下雪 = ไม่มีหิมะตก, 热季 (ฤดูร้อน), 雨季 (ฤดูฝน), 凉季 (ฤดูหนาว/หนาวสบาย)",
+      "points": 2
+    },
+    {
+      "id": 104,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์งานเลี้ยงวันไหว้พระจันทร์",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Hard",
+      "scenario": "ในคืนวันไหว้พระจันทร์ สมาชิกในครอบครัวนั่งชมพระจันทร์เต็มดวงด้วยกัน รับประทานขนมไหว้พระจันทร์และชา อธิบายบรรยากาศความสุขอย่างไร?",
+      "question": "คำถาม: จงเขียนบรรยายบรรยากาศเทศกาลไหว้พระจันทร์ในครอบครัวเป็นภาษาจีน",
+      "correctAnswer": "ประโยคภาษาจีน: '中秋节晚上，全家人一起吃月饼、喝热茶、赏月，非常高兴！'",
+      "explanation": "คำอธิบาย: 中秋节 = เทศกาลไหว้พระจันทร์, 全家人 = สมาชิกทุกคนในครอบครัว, 赏月 (shǎngyuè) = ชมพระจันทร์, 非常高兴 = ดีใจ/มีความสุขมาก",
+      "points": 2
+    },
+    {
+      "id": 105,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "สถานการณ์การกล่าวคำขอโทษและให้อภัยเมื่อเดินชนกัน",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Hard",
+      "scenario": "เสี่ยวจวินรีบวิ่งไปห้องเรียนแล้วเดินชนเพื่อนโดยไม่ได้ตั้งใจ ทำหนังสือของเพื่อนหล่นพื้น เสี่ยวจวินช่วยเก็บหนังสือและขอโทษ เพื่อนตอบรับอย่างไร?",
+      "question": "คำถาม: จงเขียนบทสนทนาการแสดงความเสียใจ ช่วยเหลือ และการตอบให้อภัยอย่างสุภาพ",
+      "correctAnswer": "เสี่ยวจวิน: '对不起！我不是故意的，我帮捡起来。' (ขอโทษครับ! ฉันไม่ได้ตั้งใจ ฉันช่วยเก็บครับ) เพื่อน: '没关系，谢谢你！' (ไม่เป็นไร ขอบใจนะ!)",
+      "explanation": "คำอธิบาย: 不是故意的 = ไม่ได้ตั้งใจ, 帮 (bāng) = ช่วย, 捡起来 (jiǎn qǐlái) = เก็บขึ้นมา, 没关系 = ไม่เป็นไร",
+      "points": 2
+    },
+    {
+      "id": 106,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "กฎการเปลี่ยนเสียงของคำว่า 不 (bù)",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Medium",
+      "question": "จงอธิบายกฎการเปลี่ยนเสียง (Tone Sandhi) ของคำว่า '不' (bù) พร้อมยกตัวอย่างคำศัพท์ 2 คำประกอบคำอธิบาย",
+      "correctAnswer": "คำว่า '不' (bù) เดิมออกเสียงวรรณยุกต์เสียงที่ 4 แต่เมื่อวางอยู่หน้าคำศัพท์ที่ออกเสียงวรรณยุกต์เสียงที่ 4 เช่นกัน คำว่า '不' จะเปลี่ยนเสียงเป็นเสียงที่ 2 (bú) \\nตัวอย่าง: 1) 不去 (bú qù = ไม่ไป)  2) 不是 (bú shì = ไม่ใช่) \\nส่วนกรณีวางหน้าเสียงที่ 1, 2, 3 จะยังคงออกเสียงที่ 4 (bù) ตามเดิม เช่น 不吃 (bù chī), 不好 (bù hǎo)",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 107,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "โครงสร้างประโยคบอกเวลาและสถานที่",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "จงอธิบายหลักการจัดลำดับคำในประโยคภาษาจีนเมื่อประโยคนั้นมีทั้ง 'เวลา' และ 'สถานที่' พร้อมสร้างประโยคตัวอย่าง 1 ประโยค",
+      "correctAnswer": "หลักการจัดลำดับคำภาษาจีน: ประธาน + เวลา + สถานที่ + กริยา + กรรม (S + Time + Place + Action) \\nตัวอย่างประโยค: 我昨天在学校看书。 (wǒ zuótiān zài xuéxiào kàn shū) \\n(ประธาน: 我 / เวลา: 昨天 / สถานที่: 在学校 / กริยา: 看书)",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 108,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "ข้อแตกต่างระหว่าง 不 (bù) และ 没 (méi)",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "จงเปรียบเทียบข้อแตกต่างในการปฏิเสธระหว่างคำว่า '不' (bù) และ '没' (méi) ในภาษาจีน พร้อมยกตัวอย่างประโยคประกอบ",
+      "correctAnswer": "1. '不' (bù): ใช้ปฏิเสธข้อเท็จจริง นิสัย การกระทำในปัจจุบัน อนาคต หรือความตั้งใจ เช่น 我不吃肉 (ฉันไม่กินเนื้อ) \\n2. '没' (méi): ใช้ปฏิเสธสิ่งที่เกิดขึ้นในอดีต (ไม่ได้ทำ) หรือปฏิเสธคำว่า 有 (ไม่มี) เช่น 我昨天没去学校 (เมื่อวานฉันไม่ได้ไปโรงเรียน), 我没有钱 (ฉันไม่มีเงิน)",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 109,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "การใช้คำลักษณนาม (量词)",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "จงอธิบายลักษณะการใช้งานคำลักษณนาม 4 คำนี้: 本 (běn), 只 (zhī), 张 (zhāng), 条 (tiáo) พร้อมยกตัวอย่างคำนามที่ใช้คู่กันคำละ 1 ตัวอย่าง",
+      "correctAnswer": "1. 本 (běn): ใช้กับสิ่งของที่เป็นเล่ม เช่น 一本书 (หนังสือ 1 เล่ม) \\n2. 只 (zhī): ใช้กับสัตว์ตัวเล็กๆ หรือข้างใดข้างหนึ่ง เช่น 一只猫 (แมว 1 ตัว) \\n3. 张 (zhāng): ใช้กับสิ่งของที่เป็นแผ่นเรียบหรือพื้นผิวกว้าง เช่น 一张纸 (กระดาษ 1 แผ่น), 一张桌子 (โต๊ะ 1 ตัว) \\n4. 条 (tiáo): ใช้กับสิ่งของที่เป็นสาย เส้น เรียวยาว เช่น 一条裤子 (กางเกง 1 ตัว), 一条鱼 (ปลา 1 ตัว)",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 110,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "วิเคราะห์โครงสร้างประโยคและการแปล",
+      "learningObjective": "LO-CH3",
+      "difficulty": "Hard",
+      "question": "จงแปลประโยค '我想去图书馆借两本中文书' เป็นภาษาไทย พร้อมระบุหน้าที่ของคำ (ประธาน, กริยานุเคราะห์, กริยาหลัก, สถานที่, กรรม)",
+      "correctAnswer": "แปลภาษาไทย: 'ฉันอยากไปห้องสมุดยืมหนังสือภาษาจีน 2 เล่ม' \\nการวิเคราะห์หน้าที่ของคำ: \\n- 我 (ประธาน) \\n- 想 (กริยานุเคราะห์ - อยาก/ต้องการ) \\n- 去...借 (กริยาหลักแบบต่อเนื่อง - ไป...ยืม) \\n- 图书馆 (สถานที่) \\n- 两本中文书 (วลีกรรม - หนังสือภาษาจีน 2 เล่ม)",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 111,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "หลักการบอกเวลาในภาษาจีน",
+      "learningObjective": "LO-CH2",
+      "difficulty": "Medium",
+      "question": "จงอธิบายหลักการบอกเวลาในภาษาจีน การใช้คำว่า '点' (นาฬิกา), '分' (นาที), '半' (ครึ่ง) และ '刻' (15 นาที) พร้อมยกตัวอย่างเวลา 8:30 น. และ 10:15 น.",
+      "correctAnswer": "หลักการ: บอกจำนวนชั่วโมง + 点 (diǎn) ตามด้วยจำนวนนาที + 分 (fēn) \\n- หากเป็น 30 นาที สามารถใช้คำว่า 半 (bàn) แทน 30 分 ได้ เช่น 8:30 น. = 八点半 (bā diǎn bàn) \\n- หากเป็น 15 นาที สามารถใช้คำว่า 一刻 (yí kè) แทน 15 分 ได้ เช่น 10:15 น. = 十点一刻 (shí diǎn yí kè)",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 112,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "วัฒนธรรมและประเพณีวันตรุษจีน (春节)",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Medium",
+      "question": "จงสรุปความสำคัญของเทศกาลตรุษจีน (春节) พร้อมยกตัวอย่างสัญลักษณ์หรือกิจกรรมประเพณีที่สำคัญ 3 อย่าง",
+      "correctAnswer": "ความสำคัญ: ตรุษจีนคือวันปีใหม่ตามปฏิทินจันทรคติจีน เป็นช่วงเวลาแห่งการรวมตัวพร้อมหน้าของครอบครัว \\nสัญลักษณ์และกิจกรรมสำคัญ 3 อย่าง: \\n1. 贴春联 (ติดคำอวยพรสีแดงหน้าบ้าน) และ 挂红灯笼 (แขวนโคมไฟสีแดง) เพื่อความเป็นสิริมงคล \\n2. 给红包 (การมอบซองอั่งเปา) ผู้ใหญ่ให้เงินอวยพรแก่เด็กๆ \\n3. 吃饺子 / 吃年夜饭 (กินเกี๊ยวและอาหารมงคลส่งท้ายปี) สื่อถึงความมั่งคั่งมั่งมี",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 113,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "หมวดอักษรจีน (部首)",
+      "learningObjective": "LO-CH1",
+      "difficulty": "Medium",
+      "question": "จงอธิบายความหมายของหมวดอักษรจีน '氵' (三点水 - ส่านเตี่ยนศุ่ย) พร้อมยกตัวอย่างตัวอักษรจีนที่มีหมวดอักษรนี้ 3 ตัวอักษรพร้อมพินอินและความหมาย",
+      "correctAnswer": "ความหมาย: หมวดอักษร 氵 (น้ำสามหยด) สื่อถึงสิ่งของ สถานที่ หรือคำกริยาที่มีความเกี่ยวข้องกับ 'น้ำ' หรือ 'ของเหลว' \\nตัวอย่างอักษรจีน 3 ตัว: \\n1. 水 (shuǐ) / 河 (hé) = แม่น้ำ \\n2. 海 (hǎi) = ทะเล \\n3. 洗 (xǐ) = ล้าง/ซัก",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 114,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "บทสนทนาสถานการณ์การถามทาง",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Hard",
+      "question": "จงแต่งบทสนทนาภาษาจีนสั้นๆ (2-4 ประโยค) ในสถานการณ์การถามทางไปสถานีรถไฟอย่างสุภาพ พร้อมแปลไทย",
+      "correctAnswer": "บทสนทนาภาษาจีน: \\nA: 请问，火车站在哪儿？ (qǐngwèn, huǒchēzhàn zài nǎr?) \\nB: 火车站就在前面，往左拐。 (huǒchēzhàn jiù zài qiánmiàn, wǎng zuǒ guǎi.) \\nA: 谢谢你！ (xièxie nǐ!) \\nB: 不客气！ (bú kèqi!) \\nแปลไทย: \\nA: ขอถามหน่อยครับ สถานีรถไฟอยู่ที่ไหนครับ? \\nB: สถานีรถไฟอยู่ข้างหน้านี้เองครับ เลี้ยวไปทางซ้ายครับ \\nA: ขอบคุณครับ! \\nB: ยินดีครับ!",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    },
+    {
+      "id": 115,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "วัฒนธรรมสีแดงและซองอั่งเปา (红色与红包)",
+      "learningObjective": "LO-CH4",
+      "difficulty": "Medium",
+      "question": "จงอธิบายความหมายเชิงวัฒนธรรมของ 'สีแดง' (红色) ในสังคมจีน และเหตุผลที่นิยมมอบ 'ซองอั่งเปา' (红包) ในงานเฉลิมฉลอง",
+      "correctAnswer": "ความหมายของสีแดง (红色): ในวัฒนธรรมจีน สีแดงเป็นสัญลักษณ์แห่งความอบอุ่น ความสุข โชคลาภ ความเจริญรุ่งเรือง และความโชคดี ช่วยขับไล่สิ่งชั่วร้าย \\nเหตุผลในการมอบซองอั่งเปา (红包): ซองสีแดงบรรจุเงินขวัญถุง มอบให้แก่เด็กๆ หรือผู้น้อยในงานตรุษจีน งานแต่งงาน เพื่อเป็นการส่งต่อคำอวยพร ความปรารถนาดี และความเป็นสิริมงคลให้มีความสุขความเจริญตลอดปี",
+      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "points": 3
+    }
+  ]
+}

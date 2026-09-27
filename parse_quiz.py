@@ -166,3 +166,5 @@ if __name__ == '__main__':
     parse_quiz_file('Knowledge_Assessment_Quiz_Math_Gr6.md', 'quiz_math_data.json', 'แบบทดสอบประเมินผลความรู้คณิตศาสตร์ ชั้น ป.6 (คณิตศาสตร์ Gr6 - MidFinal)')
     parse_quiz_file('Knowledge_Assessment_Quiz_Thai_Gr6.md', 'quiz_thai_data.json', 'แบบทดสอบประเมินผลความรู้ภาษาไทย ชั้น ป.6 (ภาษาไทย Gr6 - MidFinal)')
     parse_quiz_file('Knowledge_Assessment_Programming_Thai_Gr6.md', 'quiz_programming_data.json', 'แบบทดสอบประเมินผลความรู้เทคโนโลยีการคำนวณ ชั้น ป.6 (Coding & CT Gr6 - MidFinal)')
+    parse_quiz_file('Knowledge_Assessment_Chinese_Gr6.md', 'quiz_chinese_data.json', 'แบบทดสอบประเมินผลความรู้ภาษาจีน ชั้น ป.6 (ภาษาจีน Gr6 - MidFinal)')
+

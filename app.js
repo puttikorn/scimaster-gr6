@@ -26,6 +26,7 @@ function getStorageKeys() {
   const prefix = state.currentSubject === 'math' ? 'mathmaster_gr6'
                : state.currentSubject === 'thai' ? 'thaimaster_gr6'
                : state.currentSubject === 'programming' ? 'coding_gr6'
+               : state.currentSubject === 'chinese' ? 'chinese_gr6'
                : 'scimaster_gr6';
   return {
     STORAGE_KEY: `${prefix}_exam_state_v1`,
@@ -42,6 +43,7 @@ const subSciBtn = document.getElementById('subSciBtn');
 const subMathBtn = document.getElementById('subMathBtn');
 const subThaiBtn = document.getElementById('subThaiBtn');
 const subProgBtn = document.getElementById('subProgBtn');
+const subChineseBtn = document.getElementById('subChineseBtn');
 
 const qSectionBadge = document.getElementById('qSectionBadge');
 const qTopicBadge = document.getElementById('qTopicBadge');
@@ -86,6 +88,7 @@ async function init() {
   const dataFile = state.currentSubject === 'math' ? 'quiz_math_data.json'
                : state.currentSubject === 'thai' ? 'quiz_thai_data.json'
                : state.currentSubject === 'programming' ? 'quiz_programming_data.json'
+               : state.currentSubject === 'chinese' ? 'quiz_chinese_data.json'
                : 'quiz_data.json';
   
   try {
@@ -149,8 +152,8 @@ function switchSubject(newSubject) {
 
 function updateSubjectThemeUI() {
   // Remove active from all pills first
-  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn].forEach(btn => {
-    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme');
+  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn, subChineseBtn].forEach(btn => {
+    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme', 'chinese-theme');
   });
 
   if (state.currentSubject === 'math') {
@@ -171,6 +174,12 @@ function updateSubjectThemeUI() {
     if (brandIcon) brandIcon.className = 'fa-solid fa-code pulse-icon';
     if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้เทคโนโลยีการคำนวณ ป.6';
     document.title = 'CodeMaster Gr.6 - ข้อสอบประเมินผลเทคโนโลยีการคำนวณ ป.6 ฉบับออนไลน์';
+  } else if (state.currentSubject === 'chinese') {
+    if (subChineseBtn) { subChineseBtn.classList.add('active', 'chinese-theme'); }
+    if (brandTitle) brandTitle.innerText = 'CHINESEMASTER GR.6';
+    if (brandIcon) brandIcon.className = 'fa-solid fa-dragon pulse-icon';
+    if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้ภาษาจีน ป.6';
+    document.title = 'ChineseMaster Gr.6 - ข้อสอบประเมินผลภาษาจีน ป.6 ฉบับออนไลน์';
   } else {
     if (subSciBtn) { subSciBtn.classList.add('active'); }
     if (brandTitle) brandTitle.innerText = 'SCIMASTER GR.6';
@@ -546,6 +555,9 @@ function setupEventListeners() {
   }
   if (subProgBtn) {
     subProgBtn.addEventListener('click', () => switchSubject('programming'));
+  }
+  if (subChineseBtn) {
+    subChineseBtn.addEventListener('click', () => switchSubject('chinese'));
   }
 
   // Navigation Buttons
