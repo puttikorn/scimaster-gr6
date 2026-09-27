@@ -167,6 +167,8 @@ if __name__ == '__main__':
     parse_quiz_file('Knowledge_Assessment_Quiz_Thai_Gr6.md', 'quiz_thai_data.json', 'แบบทดสอบประเมินผลความรู้ภาษาไทย ชั้น ป.6 (ภาษาไทย Gr6 - MidFinal)')
     parse_quiz_file('Knowledge_Assessment_Programming_Thai_Gr6.md', 'quiz_programming_data.json', 'แบบทดสอบประเมินผลความรู้เทคโนโลยีการคำนวณ ชั้น ป.6 (Coding & CT Gr6 - MidFinal)')
     parse_quiz_file('Knowledge_Assessment_Chinese_Gr6.md', 'quiz_chinese_data.json', 'แบบทดสอบประเมินผลความรู้ภาษาจีน ชั้น ป.6 (ภาษาจีน Gr6 - MidFinal)')
+    if os.path.exists('Knowledge_Assessment_Mathematics_Gr6.md'):
+        parse_quiz_file('Knowledge_Assessment_Mathematics_Gr6.md', 'quiz_math_en_data.json', 'Mathematics Assessment Grade 6 (Mathematics Gr.6 - MidFinal)')
     if os.path.exists('Knowledge_Assessment_English_Gr6.md'):
         parse_quiz_file('Knowledge_Assessment_English_Gr6.md', 'quiz_english_data.json', 'English Language Assessment Grade 6 (English Gr.6 - MidFinal)')
     elif os.path.exists('Knowledge_Assessment_English_Languages_Gr6.md'):

@@ -1,0 +1,1916 @@
+{
+  "title": "Mathematics Assessment Grade 6 (Mathematics Gr.6 - MidFinal)",
+  "meta": {
+    "totalQuestions": 115,
+    "totalScore": 150,
+    "passingPercentage": 80,
+    "passingScore": 120,
+    "sections": [
+      {
+        "key": "MCQ",
+        "name": "Section A: Multiple Choice (ปรนัย)",
+        "count": 60,
+        "pointsPerQuestion": 1,
+        "totalPoints": 60
+      },
+      {
+        "key": "TF",
+        "name": "Section B: True / False (ถูก / ผิด)",
+        "count": 30,
+        "pointsPerQuestion": 1,
+        "totalPoints": 30
+      },
+      {
+        "key": "Scenario",
+        "name": "Section C: Scenario-Based (สถานการณ์จำลอง)",
+        "count": 15,
+        "pointsPerQuestion": 2,
+        "totalPoints": 30
+      },
+      {
+        "key": "ShortAnswer",
+        "name": "Section D: Short Answer (อัตนัย / อธิบายความรู้)",
+        "count": 10,
+        "pointsPerQuestion": 3,
+        "totalPoints": 30
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "What is the Greatest Common Factor (GCF) of 12 and 18?",
+      "options": {
+        "ก": "2",
+        "ข": "3",
+        "ค": "6",
+        "ง": "12"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Factors of 12 = {1, 2, 3, 4, 6, 12}; Factors of 18 = {1, 2, 3, 6, 9, 18}. The greatest common factor is 6.",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "What is the Least Common Multiple (LCM) of 4 and 6?",
+      "options": {
+        "ก": "12",
+        "ข": "18",
+        "ค": "24",
+        "ง": "36"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Multiples of 4 = {4, 8, 12, 16, 20...}; Multiples of 6 = {6, 12, 18, 24...}. The least common multiple is 12.",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Which of the following numbers is a prime number?",
+      "options": {
+        "ก": "15",
+        "ข": "21",
+        "ค": "29",
+        "ง": "33"
+      },
+      "correctAnswer": "ค",
+      "explanation": "29 has only two factors (1 and 29), making it a prime number.",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Place Value",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "In the number 5,842,910, what is the value of the digit 8?",
+      "options": {
+        "ก": "800",
+        "ข": "80,000",
+        "ค": "800,000",
+        "ง": "8,000,000"
+      },
+      "correctAnswer": "ค",
+      "explanation": "The digit 8 is in the hundred-thousands place, so its value is 800,000.",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Find the prime factorization of 60.",
+      "options": {
+        "ก": "2 × 3 × 10",
+        "ข": "2 × 2 × 3 × 5",
+        "ค": "4 × 3 × 5",
+        "ง": "2 × 5 × 6"
+      },
+      "correctAnswer": "ข",
+      "explanation": "60 = 4 × 15 = 2² × 3 × 5 = 2 × 2 × 3 × 5.",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "What is the GCF of 24, 36, and 48?",
+      "options": {
+        "ก": "6",
+        "ข": "8",
+        "ค": "12",
+        "ง": "24"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Common factors of 24, 36, 48 are 1, 2, 3, 4, 6, 12. The highest is 12.",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Three alarm clocks ring at intervals of 4, 6, and 8 minutes. If they ring together at 8:00 AM, when will they next ring together?",
+      "options": {
+        "ก": "8:12 AM",
+        "ข": "8:16 AM",
+        "ค": "8:24 AM",
+        "ง": "8:48 AM"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Find LCM of 4, 6, and 8. LCM(4, 6, 8) = 24 minutes. So they ring next at 8:24 AM.",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Rounding Numbers",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Round off 4,785,320 to the nearest hundred-thousand.",
+      "options": {
+        "ก": "4,700,000",
+        "ข": "4,780,000",
+        "ค": "4,800,000",
+        "ง": "5,000,000"
+      },
+      "correctAnswer": "ค",
+      "explanation": "The ten-thousands digit is 8 (>=5), so round up to 4,800,000.",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "The product of two numbers is 180, and their GCF is 3. What is their LCM?",
+      "options": {
+        "ก": "30",
+        "ข": "45",
+        "ค": "60",
+        "ง": "90"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Formula: Number A × Number B = GCF × LCM. So 180 = 3 × LCM -> LCM = 180 / 3 = 60.",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Teacher Jane has 30 apples and 45 oranges. She wants to pack them into identical fruit bags with no leftover. What is the maximum number of bags she can make?",
+      "options": {
+        "ก": "5",
+        "ข": "10",
+        "ค": "15",
+        "ง": "30"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Maximum identical bags = GCF(30, 45) = 15 bags.",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Fractions",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Simplify the fraction 18/24 to its lowest terms.",
+      "options": {
+        "ก": "2/3",
+        "ข": "3/4",
+        "ค": "4/5",
+        "ง": "6/8"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Divide numerator and denominator by GCF(18, 24) = 6 -> (18÷6)/(24÷6) = 3/4.",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Fractions",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Easy",
+      "question": "Calculate: 3/5 + 1/2.",
+      "options": {
+        "ก": "4/7",
+        "ข": "7/10",
+        "ค": "11/10 (1 1/10)",
+        "ง": "4/10"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Common denominator is 10: (3×2)/10 + (1×5)/10 = 6/10 + 5/10 = 11/10 = 1 1/10.",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Fractions",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Calculate: 2 1/3 - 1 3/4.",
+      "options": {
+        "ก": "7/12",
+        "ข": "5/12",
+        "ค": "1 1/12",
+        "ง": "2/3"
+      },
+      "correctAnswer": "ก",
+      "explanation": "2 1/3 = 7/3 = 28/12; 1 3/4 = 7/4 = 21/12. Difference = 28/12 - 21/12 = 7/12.",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Fractions",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Calculate: 4/9 × 3/8.",
+      "options": {
+        "ก": "12/72 (1/6)",
+        "ข": "7/17",
+        "ค": "1/4",
+        "ง": "1/2"
+      },
+      "correctAnswer": "ก",
+      "explanation": "(4 × 3) / (9 × 8) = 12 / 72 = 1/6.",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Fractions",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Calculate: 5/6 ÷ 2/3.",
+      "options": {
+        "ก": "5/9",
+        "ข": "5/4 (1 1/4)",
+        "ค": "10/18",
+        "ง": "4/5"
+      },
+      "correctAnswer": "ข",
+      "explanation": "5/6 × 3/2 = (5×3)/(6×2) = 15/12 = 5/4 = 1 1/4.",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Decimals",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Convert 0.75 into a fraction in its simplest form.",
+      "options": {
+        "ก": "1/4",
+        "ข": "1/2",
+        "ค": "3/4",
+        "ง": "4/5"
+      },
+      "correctAnswer": "ค",
+      "explanation": "0.75 = 75/100 = 3/4.",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Decimals",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Easy",
+      "question": "Calculate: 14.25 + 6.8.",
+      "options": {
+        "ก": "20.05",
+        "ข": "21.05",
+        "ค": "21.5",
+        "ง": "20.95"
+      },
+      "correctAnswer": "ข",
+      "explanation": "14.25 + 6.80 = 21.05.",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Decimals",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Calculate: 3.5 × 0.4.",
+      "options": {
+        "ก": "0.14",
+        "ข": "1.4",
+        "ค": "14.0",
+        "ง": "0.014"
+      },
+      "correctAnswer": "ข",
+      "explanation": "35 × 4 = 140. Two decimal places -> 1.40 = 1.4.",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Decimals",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Calculate: 12.6 ÷ 0.3.",
+      "options": {
+        "ก": "4.2",
+        "ข": "42",
+        "ค": "420",
+        "ง": "0.42"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Shift decimal: 126 ÷ 3 = 42.",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Fractions to Decimals",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Convert the fraction 3/8 into a decimal.",
+      "options": {
+        "ก": "0.375",
+        "ข": "0.38",
+        "ค": "0.625",
+        "ง": "0.3"
+      },
+      "correctAnswer": "ก",
+      "explanation": "3 ÷ 8 = 0.375.",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Percentages",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Easy",
+      "question": "What is 25% of 240?",
+      "options": {
+        "ก": "40",
+        "ข": "50",
+        "ค": "60",
+        "ง": "80"
+      },
+      "correctAnswer": "ค",
+      "explanation": "25% = 1/4 -> 240 / 4 = 60.",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Percentages",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "A jacket costs $80. If it is on sale at a 20% discount, how much is the discount?",
+      "options": {
+        "ก": "$12",
+        "ข": "$16",
+        "ค": "$20",
+        "ง": "$64"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Discount = 20% of $80 = 0.20 × 80 = $16.",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Percentages",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "A book was bought for $150 and sold for $180. What is the percentage profit?",
+      "options": {
+        "ก": "15%",
+        "ข": "20%",
+        "ค": "25%",
+        "ง": "30%"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Profit = $180 - $150 = $30. Percentage profit = (30 / 150) × 100% = 20%.",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Percentages",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Express 0.45 as a percentage.",
+      "options": {
+        "ก": "4.5%",
+        "ข": "45%",
+        "ค": "450%",
+        "ง": "0.45%"
+      },
+      "correctAnswer": "ข",
+      "explanation": "0.45 × 100% = 45%.",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Decimals",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Rope A is 4.85 meters long and Rope B is 2.3 meters long. How much longer is Rope A than Rope B?",
+      "options": {
+        "ก": "2.55 meters",
+        "ข": "2.15 meters",
+        "ค": "2.45 meters",
+        "ง": "2.65 meters"
+      },
+      "correctAnswer": "ก",
+      "explanation": "4.85 - 2.30 = 2.55 meters.",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ratios",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Simplify the ratio 15 : 25 to its simplest form.",
+      "options": {
+        "ก": "2 : 3",
+        "ข": "3 : 5",
+        "ค": "5 : 3",
+        "ง": "3 : 4"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Divide both sides by 5: (15÷5) : (25÷5) = 3 : 5.",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ratios",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "The ratio of boys to girls in a class is 3 : 4. If there are 12 boys, how many girls are there?",
+      "options": {
+        "ก": "9",
+        "ข": "12",
+        "ค": "16",
+        "ง": "20"
+      },
+      "correctAnswer": "ค",
+      "explanation": "3 units = 12 -> 1 unit = 4. Girls = 4 units = 4 × 4 = 16 girls.",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ratios",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Divide $100 between Alice and Bob in the ratio 2 : 3. How much money does Bob get?",
+      "options": {
+        "ก": "$40",
+        "ข": "$50",
+        "ค": "$60",
+        "ง": "$70"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Total parts = 2 + 3 = 5 parts. 1 part = $100 / 5 = $20. Bob's share = 3 parts × $20 = $60.",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Proportions",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "If 5 notebooks cost $15, how much will 8 notebooks cost?",
+      "options": {
+        "ก": "$20",
+        "ข": "$24",
+        "ค": "$25",
+        "ง": "$30"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Cost per notebook = $15 / 5 = $3. 8 notebooks = 8 × $3 = $24.",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Scale Drawing",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "On a map with a scale of 1 : 50,000, two towns are 4 cm apart. What is the actual distance between the two towns in kilometers?",
+      "options": {
+        "ก": "1 km",
+        "ข": "2 km",
+        "ค": "4 km",
+        "ง": "20 km"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Actual distance = 4 cm × 50,000 = 200,000 cm = 2,000 m = 2 km.",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ratios",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "In a fruit basket, the ratio of apples to oranges is 5 : 2. If there are 35 fruits in total, how many apples are there?",
+      "options": {
+        "ก": "10",
+        "ข": "14",
+        "ค": "25",
+        "ง": "30"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Total parts = 5 + 2 = 7 parts. 1 part = 35 / 7 = 5. Apples = 5 parts × 5 = 25 apples.",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Proportions",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "A car travels 180 km in 3 hours at a constant speed. How far will it travel in 5 hours?",
+      "options": {
+        "ก": "240 km",
+        "ข": "300 km",
+        "ค": "360 km",
+        "ง": "400 km"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Speed = 180 / 3 = 60 km/h. Distance in 5 hours = 60 × 5 = 300 km.",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ratios",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Which of the following ratios is equivalent to 4 : 7?",
+      "options": {
+        "ก": "8 : 12",
+        "ข": "12 : 21",
+        "ค": "16 : 24",
+        "ง": "20 : 30"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Multiply both terms of 4 : 7 by 3 -> (4×3) : (7×3) = 12 : 21.",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ratios & Mixtures",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "To make fruit punch, fruit juice and water are mixed in the ratio 1 : 4. If you have 500 mL of fruit juice, how much fruit punch can you make in total?",
+      "options": {
+        "ก": "2,000 mL",
+        "ข": "2,500 mL",
+        "ค": "3,000 mL",
+        "ง": "1,500 mL"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Juice = 1 part = 500 mL. Water = 4 parts = 2,000 mL. Total punch = 1 + 4 = 5 parts = 2,500 mL.",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Scale Drawing",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "The actual length of a swimming pool is 25 meters. If represented on a blueprint with a scale of 1 : 500, what is its length on the blueprint in centimeters?",
+      "options": {
+        "ก": "2 cm",
+        "ข": "5 cm",
+        "ค": "10 cm",
+        "ง": "50 cm"
+      },
+      "correctAnswer": "ข",
+      "explanation": "25 m = 2,500 cm. Blueprint length = 2,500 cm / 500 = 5 cm.",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Triangles",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "What is the sum of interior angles in any triangle?",
+      "options": {
+        "ก": "90°",
+        "ข": "180°",
+        "ค": "270°",
+        "ง": "360°"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The sum of interior angles in any triangle is always 180°.",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Triangles Area",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Easy",
+      "question": "Calculate the area of a triangle with a base of 10 cm and a height of 6 cm.",
+      "options": {
+        "ก": "16 cm²",
+        "ข": "30 cm²",
+        "ค": "60 cm²",
+        "ง": "120 cm²"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Area = 1/2 × base × height = 1/2 × 10 × 6 = 30 cm².",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Quadrilaterals",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "What is the formula for calculating the area of a parallelogram?",
+      "options": {
+        "ก": "base × height",
+        "ข": "1/2 × base × height",
+        "ค": "length × width × height",
+        "ง": "side × side"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Area of parallelogram = base × height.",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Trapezoid Area",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Calculate the area of a trapezoid with parallel sides of length 6 cm and 10 cm, and a perpendicular height of 5 cm.",
+      "options": {
+        "ก": "40 cm²",
+        "ข": "50 cm²",
+        "ค": "80 cm²",
+        "ง": "160 cm²"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Area = 1/2 × (sum of parallel sides) × height = 1/2 × (6 + 10) × 5 = 1/2 × 16 × 5 = 40 cm².",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Circles Circumference",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Find the circumference of a circle with a radius of 7 cm. (Use π = 22/7)",
+      "options": {
+        "ก": "22 cm",
+        "ข": "44 cm",
+        "ค": "88 cm",
+        "ง": "154 cm"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Circumference = 2 × π × r = 2 × (22/7) × 7 = 44 cm.",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Circles Area",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Find the area of a circle with a radius of 7 cm. (Use π = 22/7)",
+      "options": {
+        "ก": "44 cm²",
+        "ข": "88 cm²",
+        "ค": "154 cm²",
+        "ง": "308 cm²"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Area = π × r² = (22/7) × 7 × 7 = 154 cm².",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Circles Diameter",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "If the radius of a circle is 12 cm, what is its diameter?",
+      "options": {
+        "ก": "6 cm",
+        "ข": "18 cm",
+        "ค": "24 cm",
+        "ง": "36 cm"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Diameter = 2 × radius = 2 × 12 = 24 cm.",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Volume of Rectangular Prism",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Easy",
+      "question": "Calculate the volume of a box measuring 5 cm long, 4 cm wide, and 3 cm high.",
+      "options": {
+        "ก": "12 cm³",
+        "ข": "60 cm³",
+        "ค": "94 cm³",
+        "ง": "120 cm³"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Volume = length × width × height = 5 × 4 × 3 = 60 cm³.",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Volume of Cube",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "What is the volume of a cube with edge length of 4 cm?",
+      "options": {
+        "ก": "16 cm³",
+        "ข": "48 cm³",
+        "ค": "64 cm³",
+        "ง": "96 cm³"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Volume of cube = side³ = 4 × 4 × 4 = 64 cm³.",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Surface Area of Cube",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "Calculate the total surface area of a cube with an edge length of 5 cm.",
+      "options": {
+        "ก": "100 cm²",
+        "ข": "125 cm²",
+        "ค": "150 cm²",
+        "ง": "300 cm²"
+      },
+      "correctAnswer": "ค",
+      "explanation": "A cube has 6 square faces. Area of 1 face = 5 × 5 = 25 cm². Total surface area = 6 × 25 = 150 cm².",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Angles in Triangle",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "In a triangle, two interior angles measure 50° and 70°. What is the measure of the third angle?",
+      "options": {
+        "ก": "50°",
+        "ข": "60°",
+        "ค": "70°",
+        "ง": "80°"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Third angle = 180° - (50° + 70°) = 180° - 120° = 60°.",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Rhombus Area",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Calculate the area of a rhombus whose diagonals measure 8 cm and 12 cm.",
+      "options": {
+        "ก": "20 cm²",
+        "ข": "48 cm²",
+        "ค": "96 cm²",
+        "ง": "192 cm²"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Area of rhombus = 1/2 × product of diagonals = 1/2 × 8 × 12 = 48 cm².",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Circles Circumference",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "A circular bicycle wheel has a diameter of 70 cm. What distance does it travel in one complete revolution? (Use π = 22/7)",
+      "options": {
+        "ก": "110 cm",
+        "ข": "220 cm",
+        "ค": "440 cm",
+        "ง": "3850 cm"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Distance in 1 revolution = Circumference = π × d = (22/7) × 70 = 220 cm.",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Perimeter & Area",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "A rectangular garden has a perimeter of 36 meters. If its length is 10 meters, what is its area?",
+      "options": {
+        "ก": "80 m²",
+        "ข": "90 m²",
+        "ค": "100 m²",
+        "ง": "160 m²"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Perimeter = 2 × (length + width) -> 36 = 2 × (10 + width) -> 10 + width = 18 -> width = 8 m. Area = 10 × 8 = 80 m².",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "3D Solids",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "How many faces does a rectangular prism (cuboid) have?",
+      "options": {
+        "ก": "4",
+        "ข": "6",
+        "ค": "8",
+        "ง": "12"
+      },
+      "correctAnswer": "ข",
+      "explanation": "A rectangular prism has 6 faces.",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Statistics (Mean)",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Find the average (mean) of the numbers: 12, 15, 18, 20, 25.",
+      "options": {
+        "ก": "15",
+        "ข": "18",
+        "ค": "19",
+        "ง": "20"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Mean = (12 + 15 + 18 + 20 + 25) / 5 = 90 / 5 = 18.",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Statistics (Range)",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "What is the range of the test scores: 65, 78, 82, 45, 90, 88?",
+      "options": {
+        "ก": "23",
+        "ข": "45",
+        "ค": "45 to 90",
+        "ง": "90"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Range = Maximum - Minimum = 90 - 45 = 45.",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Data Analysis (Pie Chart)",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "In a pie chart representing 200 students' favorite sports, the section for Football covers 40%. How many students chose Football?",
+      "options": {
+        "ก": "40",
+        "ข": "60",
+        "ค": "80",
+        "ง": "100"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Number of students = 40% of 200 = (40/100) × 200 = 80 students.",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Data Analysis (Bar Graph)",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Easy",
+      "question": "A bar graph shows Monday sales: 30 books, Tuesday: 45 books, Wednesday: 25 books. What is the total sales over 3 days?",
+      "options": {
+        "ก": "75",
+        "ข": "85",
+        "ค": "100",
+        "ง": "120"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Total = 30 + 45 + 25 = 100 books.",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Word Problems (Financial)",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Tom bought 3 shirts at $15 each and paid with a $50 bill. How much change should he receive?",
+      "options": {
+        "ก": "$5",
+        "ข": "$10",
+        "ค": "$15",
+        "ง": "$35"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Total cost = 3 × $15 = $45. Change = $50 - $45 = $5.",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Word Problems (Mixed)",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "A water tank contains 120 liters of water. If water is drained out at 4.5 liters per minute for 20 minutes, how much water remains in the tank?",
+      "options": {
+        "ก": "30 liters",
+        "ข": "40 liters",
+        "ค": "90 liters",
+        "ง": "110 liters"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Drained volume = 4.5 × 20 = 90 liters. Remaining water = 120 - 90 = 30 liters.",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Statistics (Mean)",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "The average score of 4 students is 80. If a 5th student scores 90, what is the new average score of all 5 students?",
+      "options": {
+        "ก": "82",
+        "ข": "84",
+        "ค": "85",
+        "ง": "86"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Sum of 4 scores = 4 × 80 = 320. New sum = 320 + 90 = 410. New average = 410 / 5 = 82.",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Probability Concepts",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "A fair 6-sided die is rolled. What is the probability of rolling an even number?",
+      "options": {
+        "ก": "1/6",
+        "ข": "1/3",
+        "ค": "1/2",
+        "ง": "2/3"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Even numbers on a die = {2, 4, 6} (3 outcomes out of 6). Probability = 3/6 = 1/2.",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Word Problems (Speed)",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "A runner completes a 400-meter track in 80 seconds. What is his average speed in meters per second (m/s)?",
+      "options": {
+        "ก": "4 m/s",
+        "ข": "5 m/s",
+        "ค": "6 m/s",
+        "ง": "8 m/s"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Speed = Distance / Time = 400 / 80 = 5 m/s.",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Data Analysis (Pie Chart)",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "In a pie chart, the angle of the central sector representing Vanilla ice cream is 90°. What fraction of the total pie chart does Vanilla represent?",
+      "options": {
+        "ก": "1/6",
+        "ข": "1/4",
+        "ค": "1/3",
+        "ง": "1/2"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Full circle angle = 360°. Fraction = 90° / 360° = 1/4.",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The number 1 is a prime number.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. 1 is neither prime nor composite because it has only 1 factor.",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The GCF of two prime numbers is always 1.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Prime numbers have no common factors other than 1.",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The LCM of two numbers can never be smaller than either of the two numbers.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. LCM is a common multiple, so it must be >= both numbers.",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Fractions",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "When adding two fractions, we add both numerators together and both denominators together.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. We must find a common denominator and add numerators only.",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Fractions",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "To divide by a fraction, we multiply by its reciprocal.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Division by a fraction equals multiplying by its inverted reciprocal (a/b ÷ c/d = a/b × d/c).",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Decimals",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "0.5 is equal in value to 0.50 and 0.500.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Trailing zeros after decimal point do not change the numerical value.",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Percentages",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "50% of a number is equivalent to dividing that number by 2.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. 50% = 50/100 = 1/2.",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Ratios",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The ratio 2 : 3 is equivalent to the ratio 6 : 9.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Multiplying both terms of 2 : 3 by 3 yields 6 : 9.",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Ratios",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Ratios can only be written between two numbers and cannot compare three numbers.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Three-part ratios exist, e.g., a : b : c = 2 : 3 : 5.",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Geometry (Triangles)",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "An equilateral triangle has three sides of equal length and three angles of 60° each.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. All sides equal and all angles 60° define an equilateral triangle.",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Geometry (Triangles)",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "A right-angled triangle can have an obtuse angle (> 90°).",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. A right triangle has one 90° angle, leaving the remaining two angles acute (< 90°).",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Geometry (Quadrilaterals)",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "A square is a special type of rectangle where all four sides are equal.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. A square satisfies all properties of a rectangle with equal side lengths.",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Geometry (Circles)",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The radius of a circle is half the length of its diameter.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. r = d / 2.",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Geometry (Circles)",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "If the radius of a circle is doubled, its area is also doubled.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Area = π r². If radius is doubled (2r), area becomes π (2r)² = 4 π r² (quadrupled).",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Volume & 3D",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The volume of a rectangular prism is calculated by multiplying length × width × height.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Volume = l × w × h.",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Volume & 3D",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "1 liter is equal to 1,000 cubic centimeters (cm³).",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. 1 L = 1,000 cm³ (or 1,000 mL).",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Statistics",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The mean (average) of a set of numbers is found by dividing the sum of the numbers by the total count of numbers.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Mean = Total Sum / Total Count.",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Statistics",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The range of a dataset is the middle number when the data is ordered from smallest to largest.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Range = Maximum - Minimum. The middle number is called the Median.",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Financial Math",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Selling an item at a price lower than its cost price results in a profit.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Selling below cost price results in a loss.",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Percentages",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "A 10% discount followed by another 10% discount is equivalent to a single 20% discount.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Successive discounts apply to reduced prices: $100 -> $90 -> $81 (19% total discount).",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Angles",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "An acute angle is an angle that measures less than 90°.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Acute angles are strictly between 0° and 90°.",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Angles",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The sum of angles at a point on a straight line is 360°.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Angles on a straight line sum to 180°. A full turn at a point is 360°.",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Geometry",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "A circle has infinitely many lines of symmetry.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Any line passing through the center of a circle is a line of symmetry.",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Scale Drawing",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "A map scale of 1 : 100 means that 1 cm on the map represents 1 meter in real life.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. 100 cm = 1 meter.",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Numbers & Factors",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "Every even number greater than 2 is a composite number.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. All even numbers > 2 are divisible by 2, hence composite.",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Fractions",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "3/4 is greater than 4/5.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. 3/4 = 0.75; 4/5 = 0.80. Thus 4/5 is greater than 3/4.",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Decimals",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Multiplying a decimal by 10 moves the decimal point one place to the left.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Multiplying by 10 moves the decimal point one place to the RIGHT.",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Probability",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The probability of an impossible event is 0.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Probability ranges from 0 (impossible) to 1 (certain).",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Geometry (Quadrilaterals)",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The opposite sides of a parallelogram are equal in length and parallel.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Definition of a parallelogram includes opposite sides being parallel and equal.",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Data Analysis",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Easy",
+      "question": "The sum of all percentage sectors in a complete pie chart must equal 100%.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. A complete pie chart represents a whole (100% or 360°).",
+      "points": 1
+    },
+    {
+      "id": 91,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Financial Math Scenario",
+      "learningObjective": "LO-MATH4",
+      "difficulty": "Hard",
+      "scenario": "Sarah visits a store during a sale. A handbag original price is $200. The store offers a 20% discount. Sarah has a VIP coupon for an extra 10% off the discounted price. How much will Sarah pay for the handbag?",
+      "question": "Question: Calculate Sarah's final purchase price after applying both discounts sequentially.",
+      "correctAnswer": "Step 1: First discount = 20% of $200 = $40. Price after 1st discount = $200 - $40 = $160.\\nStep 2: VIP coupon = 10% of $160 = $16. Final price = $160 - $16 = $144.\\nSarah will pay $144.",
+      "explanation": "Explanation: Successive discounts apply step-by-step to reduced balances.",
+      "points": 2
+    },
+    {
+      "id": 92,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "GCF / LCM Application Scenario",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "scenario": "A baker has 48 chocolate cookies and 72 vanilla cookies. He wants to pack them into gift boxes such that every box has the exact same number of chocolate cookies and vanilla cookies, with no cookies leftover. What is the maximum number of boxes he can make, and how many of each cookie will be in each box?",
+      "question": "Question: Find the maximum number of gift boxes and the contents of each box.",
+      "correctAnswer": "Step 1: Find GCF(48, 72). 48 = 2⁴ × 3; 72 = 2³ × 3². GCF = 2³ × 3 = 24 boxes.\\nStep 2: Chocolate cookies per box = 48 / 24 = 2. Vanilla cookies per box = 72 / 24 = 3.\\nResult: Maximum 24 boxes, each containing 2 chocolate and 3 vanilla cookies.",
+      "explanation": "Explanation: GCF determines maximum identical groupings.",
+      "points": 2
+    },
+    {
+      "id": 93,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Scale Drawing Scenario",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "scenario": "On a city architectural map drawn to a scale of 1 : 2,000, a rectangular park is measured as 6 cm long and 4 cm wide. Calculate the actual area of the park in square meters.",
+      "question": "Question: Determine the actual park area in square meters (m²).",
+      "correctAnswer": "Step 1: Actual length = 6 cm × 2,000 = 12,000 cm = 120 meters.\\nStep 2: Actual width = 4 cm × 2,000 = 8,000 cm = 80 meters.\\nStep 3: Actual Area = 120 m × 80 m = 9,600 m².",
+      "explanation": "Explanation: Convert dimensions to real scale first, then calculate area.",
+      "points": 2
+    },
+    {
+      "id": 94,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Circle Geometry Scenario",
+      "learningObjective": "LO-MATH4",
+      "difficulty": "Hard",
+      "scenario": "A circular running track has an inner radius of 14 meters and an outer radius of 21 meters. Calculate the area of the running track path (ring area). (Use π = 22/7)",
+      "question": "Question: Calculate the area of the circular ring track path.",
+      "correctAnswer": "Step 1: Inner Area = π × r₁² = (22/7) × 14 × 14 = 616 m².\\nStep 2: Outer Area = π × r₂² = (22/7) × 21 × 21 = 1,386 m².\\nStep 3: Track Area = Outer Area - Inner Area = 1,386 - 616 = 770 m².",
+      "explanation": "Explanation: Ring area = Outer Circle Area - Inner Circle Area.",
+      "points": 2
+    },
+    {
+      "id": 95,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Volume & Capacity Scenario",
+      "learningObjective": "LO-MATH4",
+      "difficulty": "Hard",
+      "scenario": "A rectangular fish tank is 50 cm long, 30 cm wide, and 40 cm high. Currently, it is filled with water up to 3/4 of its total height. How many liters of water are in the fish tank?",
+      "question": "Question: Calculate the volume of water in the tank in liters (L).",
+      "correctAnswer": "Step 1: Water height = 3/4 × 40 cm = 30 cm.\\nStep 2: Water volume = 50 × 30 × 30 = 45,000 cm³.\\nStep 3: Convert to liters (1 L = 1,000 cm³) -> 45,000 / 1,000 = 45 liters.",
+      "explanation": "Explanation: Volume = l × w × water height, converted from cm³ to L.",
+      "points": 2
+    },
+    {
+      "id": 96,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Fractions & Word Problem Scenario",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "scenario": "Mark has a monthly allowance. He spends 1/3 of his allowance on food and 1/4 on books. He saves the remaining $250. What is Mark's total monthly allowance?",
+      "question": "Question: Calculate Mark's total monthly allowance in dollars.",
+      "correctAnswer": "Step 1: Fraction spent = 1/3 + 1/4 = 4/12 + 3/12 = 7/12.\\nStep 2: Fraction saved = 1 - 7/12 = 5/12.\\nStep 3: 5/12 of allowance = $250 -> Total allowance = 250 × 12 / 5 = $600.",
+      "explanation": "Explanation: Remaining fraction 5/12 represents $250.",
+      "points": 2
+    },
+    {
+      "id": 97,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Average & Statistics Scenario",
+      "learningObjective": "LO-MATH4",
+      "difficulty": "Hard",
+      "scenario": "A student scored 75, 82, and 88 on her first three math tests. What minimum score must she get on her 4th test to achieve an overall average score of 85 across all four tests?",
+      "question": "Question: Calculate the required score on the 4th test.",
+      "correctAnswer": "Step 1: Total required score for 4 tests = 4 × 85 = 340.\\nStep 2: Sum of first 3 test scores = 75 + 82 + 88 = 245.\\nStep 3: Required 4th score = 340 - 245 = 95.",
+      "explanation": "Explanation: Target Total - Current Sum = Required 4th score.",
+      "points": 2
+    },
+    {
+      "id": 98,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Ratio & Mixture Scenario",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "scenario": "A concrete mixture is made by mixing cement, sand, and gravel in the ratio 1 : 2 : 4 by weight. If a construction worker needs 1,400 kg of concrete mixture, how many kilograms of sand are needed?",
+      "question": "Question: Calculate the weight of sand required for 1,400 kg of concrete.",
+      "correctAnswer": "Step 1: Total ratio parts = 1 + 2 + 4 = 7 parts.\\nStep 2: 1 part = 1,400 kg / 7 = 200 kg.\\nStep 3: Sand = 2 parts = 2 × 200 kg = 400 kg.",
+      "explanation": "Explanation: Divide total weight by sum of ratio parts, then multiply by sand's ratio part.",
+      "points": 2
+    },
+    {
+      "id": 99,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Speed & Time Distance Scenario",
+      "learningObjective": "LO-MATH4",
+      "difficulty": "Hard",
+      "scenario": "Train A departs Station X towards Station Y at 60 km/h. At the same time, Train B departs Station Y towards Station X at 90 km/h. If the distance between Station X and Y is 300 km, after how many hours will the two trains meet?",
+      "question": "Question: Determine the time in hours when the two trains meet.",
+      "correctAnswer": "Step 1: Combined closing speed = 60 km/h + 90 km/h = 150 km/h.\\nStep 2: Time to meet = Total distance / Combined speed = 300 km / 150 km/h = 2 hours.\\nThe trains will meet after 2 hours.",
+      "explanation": "Explanation: Objects moving towards each other add closing speeds.",
+      "points": 2
+    },
+    {
+      "id": 100,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Percentage Profit & Loss Scenario",
+      "learningObjective": "LO-MATH4",
+      "difficulty": "Hard",
+      "scenario": "A merchant bought 100 T-shirts for $800 total. He sold 80 T-shirts at $12 each and the remaining 20 T-shirts at a discounted price of $7 each. Did he make a profit or loss, and what was his percentage profit/loss?",
+      "question": "Question: Calculate the net profit/loss and percentage profit/loss.",
+      "correctAnswer": "Step 1: Total Cost = $800.\\nStep 2: Revenue = (80 × $12) + (20 × $7) = $960 + $140 = $1,100.\\nStep 3: Net Profit = $1,100 - $800 = $300 profit.\\nStep 4: Percentage Profit = (300 / 800) × 100% = 37.5%.",
+      "explanation": "Explanation: Total Revenue - Total Cost = Profit.",
+      "points": 2
+    },
+    {
+      "id": 101,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Trapezoid Area Field Scenario",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "scenario": "A farmer has a trapezoidal land field with parallel sides measuring 120 meters and 180 meters. The perpendicular distance between the parallel sides is 80 meters. Calculate the total area of the field in square meters.",
+      "question": "Question: Calculate the land field area in square meters.",
+      "correctAnswer": "Step 1: Formula = 1/2 × (sum of parallel sides) × height.\\nStep 2: Area = 1/2 × (120 + 180) × 80 = 1/2 × 300 × 80 = 12,000 m².",
+      "explanation": "Explanation: Area of trapezoid formula: 1/2 (a + b) h.",
+      "points": 2
+    },
+    {
+      "id": 102,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Simple Interest Financial Scenario",
+      "learningObjective": "LO-MATH4",
+      "difficulty": "Hard",
+      "scenario": "Mr. Brown deposits $5,000 into a savings account with a simple interest rate of 4% per year. How much total money (principal + interest) will he have in his account after 3 years?",
+      "question": "Question: Calculate the total account balance after 3 years.",
+      "correctAnswer": "Step 1: Interest = Principal × Rate × Time = 5,000 × 0.04 × 3 = $600.\\nStep 2: Total Balance = $5,000 + $600 = $5,600.",
+      "explanation": "Explanation: Simple Interest I = P × r × t.",
+      "points": 2
+    },
+    {
+      "id": 103,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Pie Chart Angle Analysis Scenario",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "scenario": "In a school election survey of 720 students, the results are displayed in a pie chart. Candidate A's sector has a central angle of 135°. How many votes did Candidate A receive?",
+      "question": "Question: Calculate the number of votes Candidate A received.",
+      "correctAnswer": "Step 1: Fraction of total circle = 135° / 360° = 3/8.\\nStep 2: Votes = 3/8 × 720 = 270 votes.",
+      "explanation": "Explanation: Sector angle / 360° × total population = sector count.",
+      "points": 2
+    },
+    {
+      "id": 104,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Perimeter & Area Optimization Scenario",
+      "learningObjective": "LO-MATH4",
+      "difficulty": "Hard",
+      "scenario": "A gardener wants to fence a rectangular garden using 40 meters of fencing wire. What are the dimensions (length and width) that maximize the area of the garden, and what is that maximum area?",
+      "question": "Question: Identify the optimal dimensions and maximum area.",
+      "correctAnswer": "Step 1: Perimeter = 2(l + w) = 40 m -> l + w = 20 m.\\nStep 2: Maximum area for a rectangle with fixed perimeter occurs when it is a square (l = w = 10 m).\\nStep 3: Maximum Area = 10 m × 10 m = 100 m².",
+      "explanation": "Explanation: A square maximizes rectangular area for a fixed perimeter.",
+      "points": 2
+    },
+    {
+      "id": 105,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Water Tank Rate & Capacity Scenario",
+      "learningObjective": "LO-MATH4",
+      "difficulty": "Hard",
+      "scenario": "Pipe A fills an empty water tank in 6 hours, while Pipe B fills the same tank in 3 hours. If both Pipe A and Pipe B are opened simultaneously, how many hours will it take to fill the empty tank completely?",
+      "question": "Question: Calculate the time required for both pipes together to fill the tank.",
+      "correctAnswer": "Step 1: Pipe A rate = 1/6 tank/hour. Pipe B rate = 1/3 tank/hour.\\nStep 2: Combined rate = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2 tank/hour.\\nStep 3: Time to fill tank = 1 / (1/2) = 2 hours.",
+      "explanation": "Explanation: Add individual rates (1/t₁ + 1/t₂) = combined rate 1/T.",
+      "points": 2
+    },
+    {
+      "id": 106,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "GCF & LCM Rules and Applications",
+      "learningObjective": "LO-MATH1",
+      "difficulty": "Medium",
+      "question": "Explain the definitions of Greatest Common Factor (GCF) and Least Common Multiple (LCM). Show how to find the GCF and LCM of 12 and 18 step-by-step.",
+      "correctAnswer": "1) GCF is the largest factor shared by numbers. LCM is the smallest non-zero multiple shared by numbers.\\n2) Prime factorizations: 12 = 2² × 3; 18 = 2 × 3².\\n3) GCF = 2 × 3 = 6.\\n4) LCM = 2² × 3² = 4 × 9 = 36.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 107,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Fraction Operations (Mixed Numbers)",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Show the step-by-step calculation to evaluate: 3 1/2 ÷ 1 3/4 × 2/5.",
+      "correctAnswer": "Step 1: Convert to improper fractions: 3 1/2 = 7/2; 1 3/4 = 7/4.\\nStep 2: Division: (7/2) ÷ (7/4) = (7/2) × (4/7) = 28/14 = 2.\\nStep 3: Multiplication: 2 × (2/5) = 4/5.\\nFinal Answer: 4/5.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 108,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Circle Formulas Derivation & Calculation",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "State the formulas for Circumference and Area of a circle. Calculate both for a circle with diameter = 14 cm (use π = 22/7).",
+      "correctAnswer": "1) Radius r = 14 / 2 = 7 cm.\\n2) Circumference formula C = 2πr = 2 × (22/7) × 7 = 44 cm.\\n3) Area formula A = πr² = (22/7) × 7 × 7 = 154 cm².",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 109,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Ratio Partitioning Problem",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "Three siblings share $450 in the ratio 2 : 3 : 4. Calculate how much money each sibling receives.",
+      "correctAnswer": "1) Total parts = 2 + 3 + 4 = 9 parts.\\n2) Value of 1 part = $450 / 9 = $50.\\n3) 1st sibling (2 parts) = 2 × $50 = $100.\\n4) 2nd sibling (3 parts) = 3 × $50 = $150.\\n5) 3rd sibling (4 parts) = 4 × $50 = $200.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 110,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Percentage Discount & Sales Tax",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "A TV has a list price of $500. It is discounted by 10%, and then a 7% sales tax is added to the discounted price. Calculate the final price paid.",
+      "correctAnswer": "1) Discount = 10% of $500 = $50. Discounted price = $500 - $50 = $450.\\n2) Sales tax = 7% of $450 = 0.07 × 450 = $31.50.\\n3) Final price = $450 + $31.50 = $481.50.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 111,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Trapezoid & Triangle Geometry Proof/Area",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "Explain how the area formula of a trapezoid Area = 1/2 × (a + b) × h is derived by dividing it into two triangles.",
+      "correctAnswer": "A trapezoid with parallel sides 'a' and 'b' and height 'h' can be split along a diagonal into two triangles:\\n- Triangle 1 with base 'a' and height 'h' -> Area = 1/2 × a × h\\n- Triangle 2 with base 'b' and height 'h' -> Area = 1/2 × b × h\\nSum of areas = 1/2 a h + 1/2 b h = 1/2 (a + b) h.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 112,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Volume & Surface Area of Prisms",
+      "learningObjective": "LO-MATH2",
+      "difficulty": "Medium",
+      "question": "A rectangular box has dimensions length = 8 cm, width = 5 cm, height = 4 cm. Calculate its Volume and Total Surface Area.",
+      "correctAnswer": "1) Volume = l × w × h = 8 × 5 × 4 = 160 cm³.\\n2) Surface Area = 2(lw + lh + wh) = 2(8×5 + 8×4 + 5×4) = 2(40 + 32 + 20) = 2(92) = 184 cm².",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 113,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Data Analysis (Mean, Median, Mode, Range)",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "For the dataset: 4, 7, 7, 8, 10, 12, 14, find the Mean, Median, Mode, and Range.",
+      "correctAnswer": "1) Mean = (4 + 7 + 7 + 8 + 10 + 12 + 14) / 7 = 62 / 7 ≈ 8.86.\\n2) Median = Middle number in ordered 7 items = 4th item = 8.\\n3) Mode = Most frequent number = 7.\\n4) Range = Max - Min = 14 - 4 = 10.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 114,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Linear Equation Word Problem",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "Solve the problem using an equation: '5 times a number plus 12 equals 47. Find the number.' Show all algebraic steps.",
+      "correctAnswer": "1) Let x be the number.\\n2) Equation: 5x + 12 = 47.\\n3) Subtract 12 from both sides: 5x = 47 - 12 -> 5x = 35.\\n4) Divide by 5: x = 35 / 5 = 7.\\nThe number is 7.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 115,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Scale Drawing Map Calculations",
+      "learningObjective": "LO-MATH3",
+      "difficulty": "Hard",
+      "question": "On a map with scale 1 : 200,000, the distance between Town A and Town B is 6.5 cm. Calculate the real-world distance in kilometers. Show steps.",
+      "correctAnswer": "1) Map scale 1 : 200,000 means 1 cm on map = 200,000 cm in reality.\\n2) Real distance in cm = 6.5 cm × 200,000 = 1,300,000 cm.\\n3) Convert cm to meters: 1,300,000 / 100 = 13,000 meters.\\n4) Convert meters to kilometers: 13,000 / 1,000 = 13 km.\\nReal-world distance is 13 km.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    }
+  ]
+}
