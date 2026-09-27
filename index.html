@@ -27,18 +27,6 @@
           <span id="brandTitle">SCIMASTER GR.6</span>
         </div>
         <h1 class="portal-title" id="portalTitle">ระบบทดสอบวัดผลการเรียนรู้วิทยาศาสตร์ ป.6</h1>
-        <!-- Subject Switcher Pills -->
-        <div class="subject-selector">
-          <button class="subject-pill active" id="subSciBtn" data-subject="science" title="สลับไปวิชาวิทยาศาสตร์">
-            <i class="fa-solid fa-flask"></i> วิทยาศาสตร์
-          </button>
-          <button class="subject-pill" id="subMathBtn" data-subject="math" title="สลับไปวิชาคณิตศาสตร์">
-            <i class="fa-solid fa-calculator"></i> คณิตศาสตร์
-          </button>
-          <button class="subject-pill" id="subThaiBtn" data-subject="thai" title="สลับไปวิชาภาษาไทย">
-            <i class="fa-solid fa-book"></i> ภาษาไทย
-          </button>
-        </div>
       </div>
 
       <div class="header-center">
@@ -68,6 +56,26 @@
         </button>
       </div>
     </header>
+
+    <!-- Vertical Subject Nav Sidebar -->
+    <div class="app-body">
+
+    <!-- Subject Switcher Sidebar -->
+    <nav class="subject-nav-sidebar">
+      <div class="nav-sidebar-label">วิชา</div>
+      <button class="subject-pill active" id="subSciBtn" data-subject="science" title="วิทยาศาสตร์">
+        <i class="fa-solid fa-flask"></i>
+        <span>วิทยาศาสตร์</span>
+      </button>
+      <button class="subject-pill" id="subMathBtn" data-subject="math" title="คณิตศาสตร์">
+        <i class="fa-solid fa-calculator"></i>
+        <span>คณิตศาสตร์</span>
+      </button>
+      <button class="subject-pill" id="subThaiBtn" data-subject="thai" title="ภาษาไทย">
+        <i class="fa-solid fa-book"></i>
+        <span>ภาษาไทย</span>
+      </button>
+    </nav>
 
     <!-- Main Exam Container -->
     <div class="exam-body">
@@ -187,6 +195,7 @@
         </div>
       </aside>
     </div>
+    </div><!-- /.app-body -->
 
     <!-- Modal: Results & Analytics Scorecard -->
     <div class="modal-backdrop" id="resultModal" style="display: none;">
