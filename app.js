@@ -5,7 +5,7 @@
 
 // Global State
 const state = {
-  currentSubject: localStorage.getItem('scimaster_selected_subject') || 'science', // 'science' or 'math'
+  currentSubject: localStorage.getItem('scimaster_selected_subject') || 'science', // 'science', 'math', 'thai', 'programming'
   questions: [],
   meta: {},
   currentIndex: 0,
@@ -23,7 +23,10 @@ const state = {
 
 // Storage Keys Generator
 function getStorageKeys() {
-  const prefix = state.currentSubject === 'math' ? 'mathmaster_gr6' : (state.currentSubject === 'thai' ? 'thaimaster_gr6' : 'scimaster_gr6');
+  const prefix = state.currentSubject === 'math' ? 'mathmaster_gr6'
+               : state.currentSubject === 'thai' ? 'thaimaster_gr6'
+               : state.currentSubject === 'programming' ? 'coding_gr6'
+               : 'scimaster_gr6';
   return {
     STORAGE_KEY: `${prefix}_exam_state_v1`,
     RESULT_KEY: `${prefix}_exam_result_v1`
@@ -38,6 +41,7 @@ const portalTitle = document.getElementById('portalTitle');
 const subSciBtn = document.getElementById('subSciBtn');
 const subMathBtn = document.getElementById('subMathBtn');
 const subThaiBtn = document.getElementById('subThaiBtn');
+const subProgBtn = document.getElementById('subProgBtn');
 
 const qSectionBadge = document.getElementById('qSectionBadge');
 const qTopicBadge = document.getElementById('qTopicBadge');
@@ -79,7 +83,10 @@ const retryExamBtn = document.getElementById('retryExamBtn');
 async function init() {
   updateSubjectThemeUI();
   
-  const dataFile = state.currentSubject === 'math' ? 'quiz_math_data.json' : (state.currentSubject === 'thai' ? 'quiz_thai_data.json' : 'quiz_data.json');
+  const dataFile = state.currentSubject === 'math' ? 'quiz_math_data.json'
+               : state.currentSubject === 'thai' ? 'quiz_thai_data.json'
+               : state.currentSubject === 'programming' ? 'quiz_programming_data.json'
+               : 'quiz_data.json';
   
   try {
     const res = await fetch(dataFile);
@@ -141,19 +148,31 @@ function switchSubject(newSubject) {
 }
 
 function updateSubjectThemeUI() {
+  // Remove active from all pills first
+  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn].forEach(btn => {
+    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme');
+  });
+
   if (state.currentSubject === 'math') {
-    if (subSciBtn) subSciBtn.classList.remove('active');
-    if (subMathBtn) {
-      subMathBtn.classList.add('active');
-      subMathBtn.classList.add('math-theme');
-    }
+    if (subMathBtn) { subMathBtn.classList.add('active', 'math-theme'); }
     if (brandTitle) brandTitle.innerText = 'MATHMASTER GR.6';
     if (brandIcon) brandIcon.className = 'fa-solid fa-calculator pulse-icon';
     if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้คณิตศาสตร์ ป.6';
     document.title = 'MathMaster Gr.6 - ข้อสอบประเมินผลคณิตศาสตร์ ป.6 ฉบับออนไลน์';
+  } else if (state.currentSubject === 'thai') {
+    if (subThaiBtn) { subThaiBtn.classList.add('active', 'thai-theme'); }
+    if (brandTitle) brandTitle.innerText = 'THAIMASTER GR.6';
+    if (brandIcon) brandIcon.className = 'fa-solid fa-book pulse-icon';
+    if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้ภาษาไทย ป.6';
+    document.title = 'ThaiMaster Gr.6 - ข้อสอบประเมินผลภาษาไทย ป.6 ฉบับออนไลน์';
+  } else if (state.currentSubject === 'programming') {
+    if (subProgBtn) { subProgBtn.classList.add('active', 'programming-theme'); }
+    if (brandTitle) brandTitle.innerText = 'CODEMASTER GR.6';
+    if (brandIcon) brandIcon.className = 'fa-solid fa-code pulse-icon';
+    if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้เทคโนโลยีการคำนวณ ป.6';
+    document.title = 'CodeMaster Gr.6 - ข้อสอบประเมินผลเทคโนโลยีการคำนวณ ป.6 ฉบับออนไลน์';
   } else {
-    if (subMathBtn) subMathBtn.classList.remove('active');
-    if (subSciBtn) subSciBtn.classList.add('active');
+    if (subSciBtn) { subSciBtn.classList.add('active'); }
     if (brandTitle) brandTitle.innerText = 'SCIMASTER GR.6';
     if (brandIcon) brandIcon.className = 'fa-solid fa-atom pulse-icon';
     if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้วิทยาศาสตร์ ป.6';
@@ -524,6 +543,9 @@ function setupEventListeners() {
   }
   if (subThaiBtn) {
     subThaiBtn.addEventListener('click', () => switchSubject('thai'));
+  }
+  if (subProgBtn) {
+    subProgBtn.addEventListener('click', () => switchSubject('programming'));
   }
 
   // Navigation Buttons

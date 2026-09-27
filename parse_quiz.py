@@ -164,3 +164,5 @@ def parse_quiz_file(md_filename, output_json, title_name):
 if __name__ == '__main__':
     parse_quiz_file('Knowledge_Assessment_Quiz_Science_Gr6.md', 'quiz_data.json', 'แบบทดสอบประเมินผลความรู้วิทยาศาสตร์ ชั้น ป.6 (วิทยาศาสตร์Gr6-1 MidFi)')
     parse_quiz_file('Knowledge_Assessment_Quiz_Math_Gr6.md', 'quiz_math_data.json', 'แบบทดสอบประเมินผลความรู้คณิตศาสตร์ ชั้น ป.6 (คณิตศาสตร์ Gr6 - MidFinal)')
+    parse_quiz_file('Knowledge_Assessment_Quiz_Thai_Gr6.md', 'quiz_thai_data.json', 'แบบทดสอบประเมินผลความรู้ภาษาไทย ชั้น ป.6 (ภาษาไทย Gr6 - MidFinal)')
+    parse_quiz_file('Knowledge_Assessment_Programming_Thai_Gr6.md', 'quiz_programming_data.json', 'แบบทดสอบประเมินผลความรู้เทคโนโลยีการคำนวณ ชั้น ป.6 (Coding & CT Gr6 - MidFinal)')
