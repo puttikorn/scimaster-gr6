@@ -173,6 +173,10 @@ if __name__ == '__main__':
         parse_quiz_file('Knowledge_Assessment_Science_Gr6.md', 'quiz_sci_en_data.json', 'Science Assessment Grade 6 (Science Gr.6 - MidFinal)')
     if os.path.exists('Knowledge_Assessment_Mathematics_Gr6.md'):
         parse_quiz_file('Knowledge_Assessment_Mathematics_Gr6.md', 'quiz_math_en_data.json', 'Mathematics Assessment Grade 6 (Mathematics Gr.6 - MidFinal)')
+    if os.path.exists('Knowledge_Assessment_Grammar_Gr6.md'):
+        parse_quiz_file('Knowledge_Assessment_Grammar_Gr6.md', 'quiz_grammar_data.json', 'English Grammar Assessment Grade 6 (Grammar Gr.6 - MidFinal)')
+    elif os.path.exists('Knowledge_Assessment_Grammar__Gr6.md'):
+        parse_quiz_file('Knowledge_Assessment_Grammar__Gr6.md', 'quiz_grammar_data.json', 'English Grammar Assessment Grade 6 (Grammar Gr.6 - MidFinal)')
     if os.path.exists('Knowledge_Assessment_English_Gr6.md'):
         parse_quiz_file('Knowledge_Assessment_English_Gr6.md', 'quiz_english_data.json', 'English Language Assessment Grade 6 (English Gr.6 - MidFinal)')
     elif os.path.exists('Knowledge_Assessment_English_Languages_Gr6.md'):

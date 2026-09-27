@@ -1,0 +1,1916 @@
+{
+  "title": "English Grammar Assessment Grade 6 (Grammar Gr.6 - MidFinal)",
+  "meta": {
+    "totalQuestions": 115,
+    "totalScore": 150,
+    "passingPercentage": 80,
+    "passingScore": 120,
+    "sections": [
+      {
+        "key": "MCQ",
+        "name": "Section A: Multiple Choice (ปรนัย)",
+        "count": 60,
+        "pointsPerQuestion": 1,
+        "totalPoints": 60
+      },
+      {
+        "key": "TF",
+        "name": "Section B: True / False (ถูก / ผิด)",
+        "count": 30,
+        "pointsPerQuestion": 1,
+        "totalPoints": 30
+      },
+      {
+        "key": "Scenario",
+        "name": "Section C: Scenario-Based (สถานการณ์จำลอง)",
+        "count": 15,
+        "pointsPerQuestion": 2,
+        "totalPoints": 30
+      },
+      {
+        "key": "ShortAnswer",
+        "name": "Section D: Short Answer (อัตนัย / อธิบายความรู้)",
+        "count": 10,
+        "pointsPerQuestion": 3,
+        "totalPoints": 30
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Tenses (Present Simple)",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "The Earth ________ around the Sun.",
+      "options": {
+        "ก": "revolve",
+        "ข": "revolves",
+        "ค": "revolved",
+        "ง": "is revolving"
+      },
+      "correctAnswer": "ข",
+      "explanation": "General scientific facts take Present Simple Tense with singular subject Earth -> revolves.",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Tenses (Present Continuous)",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Listen! Someone ________ on the front door.",
+      "options": {
+        "ก": "knock",
+        "ข": "knocks",
+        "ค": "is knocking",
+        "ง": "knocked"
+      },
+      "correctAnswer": "ค",
+      "explanation": "The signal word 'Listen!' indicates an action happening now -> Present Continuous (is knocking).",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Tenses (Past Simple)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "She ________ her keys in the car yesterday afternoon.",
+      "options": {
+        "ก": "leave",
+        "ข": "leaves",
+        "ค": "left",
+        "ง": "has left"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Past Simple signal word 'yesterday' requires V.2 of leave -> left.",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Tenses (Future)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Look at those dark clouds! It ________ rain soon.",
+      "options": {
+        "ก": "will",
+        "ข": "is going to",
+        "ค": "rains",
+        "ง": "is raining"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Predictions based on present evidence (dark clouds) use 'be going to' -> is going to.",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Tenses (Present Perfect)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "I ________ lived in Bangkok for five years.",
+      "options": {
+        "ก": "have",
+        "ข": "has",
+        "ค": "am",
+        "ง": "was"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Present Perfect tense with Subject 'I' uses have + V.3 -> have lived.",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Subject-Verb Agreement",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Either Tom or his brothers ________ responsible for locking the gate.",
+      "options": {
+        "ก": "is",
+        "ข": "are",
+        "ค": "was",
+        "ง": "be"
+      },
+      "correctAnswer": "ข",
+      "explanation": "With 'either...or', the verb agrees with the closest subject 'his brothers' (plural) -> are.",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Subject-Verb Agreement",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Neither of the two books ________ interesting.",
+      "options": {
+        "ก": "is",
+        "ข": "are",
+        "ค": "were",
+        "ง": "be"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Neither of + plural noun' takes a singular verb -> is.",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Subject-Verb Agreement",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Bread and butter ________ my favorite breakfast.",
+      "options": {
+        "ก": "is",
+        "ข": "are",
+        "ค": "were",
+        "ง": "being"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Bread and butter considered as a single compound meal takes a singular verb -> is.",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Subject-Verb Agreement",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Every boy and girl in the class ________ a textbook.",
+      "options": {
+        "ก": "have",
+        "ข": "has",
+        "ค": "having",
+        "ง": "are having"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Subject modified by 'Every' takes a singular verb -> has.",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Subject-Verb Agreement",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "A number of students ________ absent today, but the number of absent students ________ decreasing.",
+      "options": {
+        "ก": "is, is",
+        "ข": "are, is",
+        "ค": "is, are",
+        "ง": "are, are"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'A number of' takes plural verb (are); 'The number of' takes singular verb (is).",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Nouns (Plurals)",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Choose the correct plural form of the word 'hypothesis'.",
+      "options": {
+        "ก": "hypothesises",
+        "ข": "hypothesiss",
+        "ค": "hypotheses",
+        "ง": "hypothesi"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Nouns ending in -is change to -es in plural -> hypotheses.",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Nouns (Uncountable)",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Which of the following is an UNCOUNTABLE noun?",
+      "options": {
+        "ก": "Furniture",
+        "ข": "Chair",
+        "ค": "Table",
+        "ง": "Desk"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Furniture is an uncountable category noun.",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Pronouns (Reflexive)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "The little boy fell down and hurt ________.",
+      "options": {
+        "ก": "him",
+        "ข": "his",
+        "ค": "himself",
+        "ง": "he"
+      },
+      "correctAnswer": "ค",
+      "explanation": "When subject and object are the same person, use reflexive pronoun -> himself.",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Pronouns (Relative)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "The girl ________ wallet was stolen called the police.",
+      "options": {
+        "ก": "who",
+        "ข": "whom",
+        "ค": "whose",
+        "ง": "which"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Possessive relative pronoun referring to the girl's wallet -> whose.",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Pronouns (Relative)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "This is the university ________ my father studied engineering.",
+      "options": {
+        "ก": "which",
+        "ข": "where",
+        "ค": "that",
+        "ง": "when"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Relative pronoun referring to a place where an action occurred -> where.",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Adjectives & Adverbs",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "He speaks English very ________ because he practiced hard.",
+      "options": {
+        "ก": "fluent",
+        "ข": "fluently",
+        "ค": "more fluent",
+        "ง": "fluency"
+      },
+      "correctAnswer": "ข",
+      "explanation": "An adverb (fluently) modifies the verb speaks.",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Comparatives",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "This puzzle is much ________ than the previous one.",
+      "options": {
+        "ก": "easy",
+        "ข": "easier",
+        "ค": "more easy",
+        "ง": "easiest"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Two-syllable adjective ending in -y changes to -ier in comparative -> easier.",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Superlatives",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "She is ________ student in our entire school.",
+      "options": {
+        "ก": "intelligent",
+        "ข": "more intelligent",
+        "ค": "the most intelligent",
+        "ง": "most intelligent"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Superlative degree requires 'the most intelligent'.",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Adverbs of Frequency",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Where should the adverb 'always' be placed in this sentence: 'She (1) is (2) punctual (3) for work (4)'?",
+      "options": {
+        "ก": "Position (1)",
+        "ข": "Position (2)",
+        "ค": "Position (3)",
+        "ง": "Position (4)"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Adverbs of frequency go AFTER verb 'to be' (is always punctual).",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Possessive Nouns",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Which phrase shows correct possessive punctuation for plural boys?",
+      "options": {
+        "ก": "The boy's toys",
+        "ข": "The boys' toys",
+        "ค": "The boyses toys",
+        "ง": "The boies' toys"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Plural regular nouns ending in -s take apostrophe after s -> boys'.",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Prepositions of Time",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "We have been studying English ________ 2021.",
+      "options": {
+        "ก": "for",
+        "ข": "since",
+        "ค": "in",
+        "ง": "during"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'since' is used with a specific starting point in time (2021).",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Prepositions of Time",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "They lived in London ________ three years.",
+      "options": {
+        "ก": "since",
+        "ข": "for",
+        "ค": "during",
+        "ง": "at"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'for' is used with a duration/period of time (three years).",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Prepositions of Place",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "The cat is sleeping ________ the rug in front of the fireplace.",
+      "options": {
+        "ก": "in",
+        "ข": "on",
+        "ค": "at",
+        "ง": "to"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Surfaces take preposition 'on' -> on the rug.",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Articles",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "He is ________ honest man who always tells ________ truth.",
+      "options": {
+        "ก": "a, the",
+        "ข": "an, the",
+        "ค": "a, a",
+        "ง": "an, a"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'honest' has silent 'h' (starts with vowel sound -> an); 'the truth' is a fixed idiom.",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Articles (Zero Article)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "________ Lead is a heavy metal.",
+      "options": {
+        "ก": "A",
+        "ข": "An",
+        "ค": "The",
+        "ง": "No article (-)"
+      },
+      "correctAnswer": "ง",
+      "explanation": "Uncountable nouns used in a general sense take no article.",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Quantifiers",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "There are ________ books on the shelf, but not many.",
+      "options": {
+        "ก": "a little",
+        "ข": "a few",
+        "ค": "much",
+        "ง": "any"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Countable plural nouns (books) in small quantity take 'a few'.",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Quantifiers",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Could you please add ________ sugar to my coffee?",
+      "options": {
+        "ก": "a few",
+        "ข": "a little",
+        "ค": "many",
+        "ง": "few"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Uncountable nouns (sugar) in small quantity take 'a little'.",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Conjunctions",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "________ it was raining heavily, we went out for a walk.",
+      "options": {
+        "ก": "Because",
+        "ข": "Although",
+        "ค": "So",
+        "ง": "However"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Subordinating conjunction showing concession/contrast -> Although.",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Conjunctions",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Study hard, ________ you will fail the final examination.",
+      "options": {
+        "ก": "and",
+        "ข": "but",
+        "ค": "or",
+        "ง": "so"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Conjunction 'or' expresses negative alternative outcome.",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Conjunctions",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Not only did he pass the exam, ________ he also won first prize.",
+      "options": {
+        "ก": "but",
+        "ข": "and",
+        "ค": "so",
+        "ง": "or"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Correlative conjunction pair: 'Not only... but also'.",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Question Tags",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "You haven't finished your homework yet, ________?",
+      "options": {
+        "ก": "have you",
+        "ข": "haven't you",
+        "ค": "do you",
+        "ง": "don't you"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Negative main clause (haven't) takes positive tag -> have you?",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Question Tags",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Let's go for a walk in the park, ________?",
+      "options": {
+        "ก": "will we",
+        "ข": "shall we",
+        "ค": "don't we",
+        "ง": "aren't we"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Suggestions with 'Let's' take question tag 'shall we?'.",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Question Tags",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Nobody called while I was out, ________?",
+      "options": {
+        "ก": "did they",
+        "ข": "didn't they",
+        "ค": "did he",
+        "ง": "didn't he"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Nobody' makes clause negative and takes pronoun 'they' -> positive tag 'did they?'.",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Modal Verbs (Prohibition)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Easy",
+      "question": "You ________ smoke in the hospital. It is strictly prohibited.",
+      "options": {
+        "ก": "don't have to",
+        "ข": "mustn't",
+        "ค": "shouldn't",
+        "ง": "needn't"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Strict legal prohibition uses 'mustn't'.",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Modal Verbs (Lack of Obligation)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Tomorrow is Sunday. I ________ get up early.",
+      "options": {
+        "ก": "mustn't",
+        "ข": "don't have to",
+        "ค": "shouldn't",
+        "ง": "can't"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Absence of necessity/obligation uses 'don't have to'.",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Modal Verbs (Deduction)",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "He has been working all day without rest. He ________ be exhausted.",
+      "options": {
+        "ก": "must",
+        "ข": "can't",
+        "ค": "should",
+        "ง": "might not"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Strong positive logical deduction uses 'must'.",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Passive Voice (Present Simple)",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "English ________ in many countries around the world.",
+      "options": {
+        "ก": "speaks",
+        "ข": "is spoken",
+        "ค": "is speaking",
+        "ง": "was spoken"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Present Simple passive: is + V.3 (is spoken).",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Passive Voice (Past Simple)",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "The telephone ________ by Alexander Graham Bell in 1876.",
+      "options": {
+        "ก": "invented",
+        "ข": "was invented",
+        "ค": "is invented",
+        "ง": "were invented"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Past Simple passive singular object: was + V.3 (was invented).",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Active to Passive Conversion",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Active: 'The chef prepares dinner.' -> Passive: 'Dinner ________ by the chef.'",
+      "options": {
+        "ก": "is prepared",
+        "ข": "was prepared",
+        "ค": "has prepared",
+        "ง": "is preparing"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Present Simple active 'prepares' converts to passive 'is prepared'.",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Active to Passive Conversion",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Active: 'Somebody stole my bicycle.' -> Passive: 'My bicycle ________.'",
+      "options": {
+        "ก": "is stolen",
+        "ข": "was stolen",
+        "ค": "stole",
+        "ง": "has stolen"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Past Simple active 'stole' converts to passive 'was stolen'.",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Conditionals (Zero)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "If you heat ice, it ________.",
+      "options": {
+        "ก": "melt",
+        "ข": "melts",
+        "ค": "will melt",
+        "ง": "melted"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Zero conditional for general scientific facts: If + Present Simple, Present Simple -> melts.",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Conditionals (First)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "If she ________ hard, she will pass the exam.",
+      "options": {
+        "ก": "study",
+        "ข": "studies",
+        "ค": "studied",
+        "ง": "will study"
+      },
+      "correctAnswer": "ข",
+      "explanation": "First conditional: If + Present Simple (studies), Will + V.1.",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Conditionals (First)",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Unless you ________ now, you will miss the train.",
+      "options": {
+        "ก": "leave",
+        "ข": "don't leave",
+        "ค": "will leave",
+        "ง": "left"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Unless' means 'If... not', so it takes a positive verb form -> leave.",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Punctuation (Commas)",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Which sentence uses commas correctly in a list?",
+      "options": {
+        "ก": "I bought apples oranges and bananas.",
+        "ข": "I bought apples, oranges, and bananas.",
+        "ค": "I bought, apples, oranges, and bananas.",
+        "ง": "I bought apples oranges, and bananas."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Items in a list are separated by commas (Oxford comma before 'and').",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Punctuation (Apostrophes)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Choose the sentence with correct apostrophe usage for contractions.",
+      "options": {
+        "ก": "Its raining outside, so dont forget your umbrella.",
+        "ข": "It's raining outside, so don't forget your umbrella.",
+        "ค": "Its' raining outside, so dont' forget your umbrella.",
+        "ง": "It'is raining outside, so do'nt forget your umbrella."
+      },
+      "correctAnswer": "ข",
+      "explanation": "It's = It is; don't = do not.",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Confusing Words (its vs it's)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "The cat licked ________ paws after eating ________ food.",
+      "options": {
+        "ก": "it's, it's",
+        "ข": "its, its",
+        "ค": "its, it's",
+        "ง": "it's, its"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Possessive adjective is 'its' (without apostrophe).",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Confusing Words (there/their/they're)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "________ going to visit ________ grandparents over ________.",
+      "options": {
+        "ก": "They're, their, there",
+        "ข": "There, their, they're",
+        "ค": "Their, they're, there",
+        "ง": "They're, there, their"
+      },
+      "correctAnswer": "ก",
+      "explanation": "They're = They are; their = possessive; there = location.",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Confusing Words (your vs you're)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "If ________ ready, we can start ________ exam now.",
+      "options": {
+        "ก": "your, your",
+        "ข": "you're, your",
+        "ค": "your, you're",
+        "ง": "you're, you're"
+      },
+      "correctAnswer": "ข",
+      "explanation": "you're = you are; your = possessive adjective.",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Error Detection",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Identify the grammatically INCORRECT part: 'She don't (A) like (B) playing (C) tennis (D).'",
+      "options": {
+        "ก": "don't (A)",
+        "ข": "like (B)",
+        "ค": "playing (C)",
+        "ง": "tennis (D)"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Singular subject 'She' requires 'doesn't', not 'don't'.",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Error Detection",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Identify the grammatically INCORRECT part: 'One of my friend (A) is (B) coming (C) today (D).'",
+      "options": {
+        "ก": "friend (A)",
+        "ข": "is (B)",
+        "ค": "coming (C)",
+        "ง": "today (D)"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'One of + plural noun' requires 'friends', not 'friend'.",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Double Negatives",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Which sentence correctly avoids a double negative?",
+      "options": {
+        "ก": "I don't know nothing about it.",
+        "ข": "I don't know anything about it.",
+        "ค": "I can't see no one.",
+        "ง": "She didn't say nothing."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Standard English avoids double negatives: 'I don't know anything'.",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Direct vs Indirect Speech",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Direct: He said, 'I am busy.' -> Indirect: He said that he ________ busy.",
+      "options": {
+        "ก": "is",
+        "ข": "was",
+        "ค": "has been",
+        "ง": "had been"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Present Simple 'am' backshifts to Past Simple 'was' in indirect speech.",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Direct vs Indirect Speech",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Direct: 'Where do you live?' she asked. -> Indirect: She asked me where I ________.",
+      "options": {
+        "ก": "live",
+        "ข": "lived",
+        "ค": "do live",
+        "ง": "did live"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Indirect questions use statement word order and backshift tense -> where I lived.",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Gerunds vs Infinitives",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "She enjoys ________ fantasy novels in her free time.",
+      "options": {
+        "ก": "to read",
+        "ข": "reading",
+        "ค": "read",
+        "ง": "reads"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The verb 'enjoy' is followed by a gerund (-ing form) -> reading.",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Gerunds vs Infinitives",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "He decided ________ a new laptop for university.",
+      "options": {
+        "ก": "buying",
+        "ข": "to buy",
+        "ค": "buy",
+        "ง": "bought"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The verb 'decide' is followed by an infinitive (to + V.1) -> to buy.",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Used to + V.1",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "When I was a child, I ________ live in a small village.",
+      "options": {
+        "ก": "used to",
+        "ข": "was used to",
+        "ค": "use to",
+        "ง": "am used to"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Past habits/states no longer true take 'used to + V.1'.",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Sentence Parallelism",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Choose the sentence with correct parallel structure.",
+      "options": {
+        "ก": "He likes swimming, running, and to bike.",
+        "ข": "He likes swimming, running, and biking.",
+        "ค": "He likes to swim, running, and biking.",
+        "ง": "He likes swim, run, and bike."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Parallel structure keeps matching grammatical forms (-ing, -ing, -ing).",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Capitalization Rules",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Which word in the sentence requires capitalization: 'we will visit uncle sam in london next tuesday.'?",
+      "options": {
+        "ก": "Only London",
+        "ข": "London and Tuesday",
+        "ค": "We, Sam, London, and Tuesday",
+        "ง": "All words"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Capitalize sentence start (We), proper names (Sam, London), and days (Tuesday).",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Causative Verbs",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "My mother made me ________ my bedroom before going out.",
+      "options": {
+        "ก": "clean",
+        "ข": "to clean",
+        "ค": "cleaning",
+        "ง": "cleaned"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Causative verb 'make someone + bare infinitive' (clean).",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Conditionals (Wish/Hypothetical)",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "I wish I ________ more time to travel the world.",
+      "options": {
+        "ก": "have",
+        "ข": "had",
+        "ค": "will have",
+        "ง": "am having"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Present wishes take Past Simple form -> had.",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Tenses",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "The Present Continuous Tense is used for habitual actions and general truths.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Present Simple is used for habits/truths; Present Continuous is for actions happening now.",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Subject-Verb Agreement",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Plural subjects require plural verbs (e.g., The dogs bark).",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Subject-verb agreement requires matching numbers.",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Nouns",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "The plural of 'mouse' is 'mouses'.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. The irregular plural of mouse is 'mice'.",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Nouns",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Information, advice, and news are all uncountable nouns in English.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Information, advice, and news take singular verbs and cannot be pluralized with -s.",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Pronouns",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "Reflexive pronouns end in '-self' (singular) or '-selves' (plural).",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. E.g., himself, themselves.",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Adjectives & Adverbs",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Adverbs modify verbs, adjectives, or other adverbs.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Definition of adverb functions.",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Adjectives & Adverbs",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "The adverb form of 'good' is 'goodly'.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. The adverb form of good is 'well'.",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Prepositions",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "We use 'in' for specific times on the clock, e.g., 'in 5 o'clock'.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Specific clock times take 'at' (at 5 o'clock).",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Prepositions",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "We use 'on' for days of the week and specific dates (e.g., on Friday, on May 1st).",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Days and dates take preposition 'on'.",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Articles",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "We use 'an' before words that start with a consonant sound.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. We use 'an' before VOWEL sounds (a, e, i, o, u).",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Articles",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "The definite article 'the' is used when referring to a specific noun known to the listener.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. 'The' specifies known/unique items.",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Quantifiers",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "We use 'many' with uncountable nouns in negative sentences.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. We use 'much' with uncountable nouns (much water); 'many' is for countable nouns.",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Conjunctions",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "The conjunction 'because' shows cause and reason.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. 'Because' introduces clauses of reason.",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Question Tags",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "A positive statement takes a positive question tag.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. A positive statement takes a NEGATIVE tag (She is smart, isn't she?).",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Modal Verbs",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "The modal verb 'can' can express both ability and permission.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. 'Can' expresses ability (I can swim) and permission (Can I leave?).",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Passive Voice",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "In passive voice, the object of the active sentence becomes the subject of the passive sentence.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Object -> Subject shift is fundamental to passive voice.",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Conditionals",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "First conditional sentences express imaginary or impossible situations in the past.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. First conditional expresses real/possible future situations. Past impossible is Third conditional.",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Punctuation",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "An apostrophe is used to show possession and contraction.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. E.g., Tom's book (possession) and don't (contraction).",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Confusing Words",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "'Their' is a contraction for 'they are'.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. 'Their' is possessive. 'They're' is the contraction for 'they are'.",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Gerunds & Infinitives",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "A gerund is a verb form ending in -ing that functions as a noun.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. E.g., Swimming is good exercise.",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Double Negatives",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "In standard English, using two negative words in the same clause is correct.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Double negatives (e.g., I don't know nothing) are grammatically incorrect in standard English.",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Comparative Adjectives",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "The comparative form of 'bad' is 'worse'.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Irregular comparative: bad -> worse -> worst.",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Subject-Verb Agreement",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Indefinite pronouns like 'someone', 'everybody', and 'nobody' take plural verbs.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Indefinite pronouns ending in -one, -body, -thing take SINGULAR verbs.",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Relative Pronouns",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "'Whose' is used to replace possessive adjectives for both people and things.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. 'Whose' indicates possession in relative clauses.",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Tenses",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "The Past Continuous Tense is formed with 'was/were + V.-ing'.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Past Continuous = was/were + V.-ing.",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Prepositions",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Easy",
+      "question": "We say 'in night' when referring to late evening hours.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Time phrase is 'at night'.",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Conjunctions",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "'Although' and 'despite' have similar meanings, but 'despite' is followed by a noun phrase, not a clause.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Although + clause; Despite + noun/gerund.",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Modals",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "'Should' is used to express strong legal prohibition.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. 'Should' expresses advice. Legal prohibition requires 'mustn't'.",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Direct/Indirect Speech",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "When converting direct speech to indirect speech, Present Simple usually changes to Past Simple.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Tense backshifting rule.",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Active/Passive Voice",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Intransitive verbs (verbs without an object, like 'sleep' or 'arrive') can easily be made passive.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Intransitive verbs cannot form passive voice because they have no direct object.",
+      "points": 1
+    },
+    {
+      "id": 91,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Tense Conversion Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "Convert the following Present Simple narrative into Past Simple Tense: 'Every day, Paul wakes up early, eats breakfast, and catches the school bus. He studies hard and plays football with friends.'",
+      "question": "Question: Rewrite the entire narrative in Past Simple Tense.",
+      "correctAnswer": "Past Simple Narrative: 'Yesterday, Paul woke up early, ate breakfast, and caught the school bus. He studied hard and played football with friends.'",
+      "explanation": "Explanation: Irregular verbs (wake->woke, eat->ate, catch->caught) and regular verbs (study->studied, play->played) backshift to Past Simple V.2.",
+      "points": 2
+    },
+    {
+      "id": 92,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Subject-Verb Agreement Correction Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "A student wrote this paragraph containing 3 subject-verb agreement errors: 'The group of students are studying in the library. Neither John nor his sister have their book. Everyone in the class need to submit their assignment.' Identify and correct the 3 errors.",
+      "question": "Question: Identify the 3 agreement errors and provide corrections.",
+      "correctAnswer": "Error 1: 'group... are' -> 'group... IS' (collective noun group is singular).\\nError 2: 'Neither... sister have' -> 'Neither... sister HAS' (agrees with singular sister).\\nError 3: 'Everyone... need' -> 'Everyone... NEEDS' (indefinite pronoun is singular).",
+      "explanation": "Explanation: Collective nouns, neither...nor (closer subject), and 'Everyone' take singular verbs.",
+      "points": 2
+    },
+    {
+      "id": 93,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Active to Passive Voice Transformation Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "Transform these 2 active sentences into passive voice: 1) 'The architect designed the modern library.' 2) 'Volunteers clean the local beach every weekend.'",
+      "question": "Question: Provide the correct passive voice conversions.",
+      "correctAnswer": "1) Passive: 'The modern library was designed by the architect.'\\n2) Passive: 'The local beach is cleaned by volunteers every weekend.'",
+      "explanation": "Explanation: 1) Past Simple passive = was + V.3; 2) Present Simple passive = is + V.3.",
+      "points": 2
+    },
+    {
+      "id": 94,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Direct to Indirect Speech Conversion Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "Convert the direct dialogue into reported speech: Teacher said to Mark: 'Why are you late today, and did you finish your homework?'",
+      "question": "Question: Rewrite the teacher's questions as reported speech.",
+      "correctAnswer": "Reported Speech: 'The teacher asked Mark why he was late that day and if he had finished his homework.'",
+      "explanation": "Explanation: 1) Wh-question keeps wh-word with statement order and past tense (why he was late); 2) Yes/No question takes 'if/whether' with Past Perfect (if he had finished).",
+      "points": 2
+    },
+    {
+      "id": 95,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Question Tag Construction Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "Construct the correct question tags for these 3 statements: 1) 'She can speak three languages, _____?' 2) 'They didn't see the movie, _____?' 3) 'You're coming to the party, _____?'",
+      "question": "Question: Provide the 3 matching question tags.",
+      "correctAnswer": "1) 'can't she?' (Positive statement -> negative tag)\\n2) 'did they?' (Negative statement -> positive tag)\\n3) 'aren't you?' (Positive statement -> negative tag)",
+      "explanation": "Explanation: Match auxiliary verb, reverse polarity (positive/negative), use pronoun.",
+      "points": 2
+    },
+    {
+      "id": 96,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Relative Pronoun Combining Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "Combine each pair of sentences into one complex sentence using relative pronouns (who, which, whose): 1) 'The woman called the police. Her car was stolen.' 2) 'I read the book. It was recommended by my teacher.'",
+      "question": "Question: Combine the sentence pairs using relative clauses.",
+      "correctAnswer": "1) 'The woman whose car was stolen called the police.' (whose = possessive)\\n2) 'I read the book which/that was recommended by my teacher.' (which/that = object/thing)",
+      "explanation": "Explanation: Use 'whose' for possessive relationship and 'which/that' for things.",
+      "points": 2
+    },
+    {
+      "id": 97,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "First Conditional Application Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "Create 2 First Conditional sentences based on these situations: 1) Rain tomorrow -> Stay home. 2) Finish homework early -> Play video games.",
+      "question": "Question: Write 2 First Conditional (If + Present Simple, Will + V.1) sentences.",
+      "correctAnswer": "1) 'If it rains tomorrow, we will stay home.'\\n2) 'If I finish my homework early, I will play video games.'",
+      "explanation": "Explanation: First Conditional pattern: If-clause (Present Simple) + Main clause (will + V.1).",
+      "points": 2
+    },
+    {
+      "id": 98,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Preposition Selection Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "Fill in the correct prepositions of time and place: 'My brother was born ___ (1) 8:30 a.m. ___ (2) July 12th ___ (3) 2012 ___ (4) a hospital ___ (5) Bangkok.'",
+      "question": "Question: Provide the 5 correct prepositions in order.",
+      "correctAnswer": "(1) at (specific time 8:30 a.m.)\\n(2) on (specific date July 12th)\\n(3) in (year 2012)\\n(4) in / at (hospital)\\n(5) in (city Bangkok)",
+      "explanation": "Explanation: at time, on date, in year, in city.",
+      "points": 2
+    },
+    {
+      "id": 99,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Error Proofreading & Editing Scenario",
+      "learningObjective": "LO-GRAM4",
+      "difficulty": "Hard",
+      "scenario": "Proofread the passage and fix 4 grammar errors: 'Yesterday, Mary go (1) to the market and buy (2) some apples. She didn't had (3) enough money, so she borrow (4) $5 from her friend.'",
+      "question": "Question: List the 4 incorrect words and their corrections.",
+      "correctAnswer": "1) 'go' -> 'went' (Past Simple V.2)\\n2) 'buy' -> 'bought' (Past Simple V.2)\\n3) 'had' -> 'have' (After didn't, use bare infinitive have)\\n4) 'borrow' -> 'borrowed' (Past Simple V.2)",
+      "explanation": "Explanation: Past narrative consistency and auxiliary didn't + bare infinitive.",
+      "points": 2
+    },
+    {
+      "id": 100,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Modal Verb Advice & Obligation Scenario",
+      "learningObjective": "LO-GRAM4",
+      "difficulty": "Hard",
+      "scenario": "Write 3 sentences for a school safety rules poster using: 1) 'must' (rule), 2) 'mustn't' (prohibition), 3) 'should' (advice).",
+      "question": "Question: Formulate 3 distinct modal sentences.",
+      "correctAnswer": "1) Must: 'Students must wear school uniforms every day.'\\n2) Mustn't: 'Students mustn't run in the hallways.'\\n3) Should: 'Students should eat healthy food during lunchtime.'",
+      "explanation": "Explanation: Must = obligation; Mustn't = prohibition; Should = advice.",
+      "points": 2
+    },
+    {
+      "id": 101,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Article Usage Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "Fill in the correct articles (a, an, the, or - for zero article): '___ (1) Sun is ___ (2) star. It gives us ___ (3) light and ___ (4) heat. ___ (5) Earth revolves around it.'",
+      "question": "Question: Provide the 5 correct articles.",
+      "correctAnswer": "(1) The (unique celestial body)\\n(2) a (singular countable noun starting with consonant sound)\\n(3) - (uncountable noun in general sense)\\n(4) - (uncountable noun in general sense)\\n(5) The (unique planet)",
+      "explanation": "Explanation: The Sun, a star, light (no article), heat (no article), The Earth.",
+      "points": 2
+    },
+    {
+      "id": 102,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Gerund vs Infinitive Scenario",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "scenario": "Choose the correct verb form (gerund -ing or infinitive to + V.1) for each sentence: 1) 'I stopped (to smoke / smoking) two years ago.' (ceased habit) 2) 'He stopped (to buy / buying) a newspaper on his way home.' (paused action to do another)",
+      "question": "Question: Select and explain the correct verb forms for both sentences.",
+      "correctAnswer": "1) 'smoking' (stop + gerund = quit/cease habit permanently)\\n2) 'to buy' (stop + infinitive = pause current activity in order to perform another action)",
+      "explanation": "Explanation: Stop + gerund = terminate action; Stop + infinitive = pause to do something else.",
+      "points": 2
+    },
+    {
+      "id": 103,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Adjective Order Scenario",
+      "learningObjective": "LO-GRAM4",
+      "difficulty": "Hard",
+      "scenario": "Arrange the adjectives in correct order (OSASCOMP: Opinion, Size, Age, Shape, Color, Origin, Material, Purpose): 'a / wooden / beautiful / old / round / table'.",
+      "question": "Question: Write the adjectives in correct standard English order.",
+      "correctAnswer": "Correct Order: 'a beautiful old round wooden table'\\n(Opinion: beautiful -> Age: old -> Shape: round -> Material: wooden).",
+      "explanation": "Explanation: Adjective order: Opinion -> Size -> Age -> Shape -> Color -> Origin -> Material.",
+      "points": 2
+    },
+    {
+      "id": 104,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Punctuation & Capitalization Editing Scenario",
+      "learningObjective": "LO-GRAM4",
+      "difficulty": "Hard",
+      "scenario": "Edit and rewrite this sentence with correct punctuation and capitalization: 'on monday mr brown said we will travel to paris france'",
+      "question": "Question: Rewrite the sentence with proper capitalization, comma, and quotation marks.",
+      "correctAnswer": "Correct Sentence: 'On Monday, Mr. Brown said, \"We will travel to Paris, France.\"'",
+      "explanation": "Explanation: Capitalize On, Monday, Mr., Brown, We, Paris, France. Add comma after Monday and said, period after Mr, quotation marks around direct quote.",
+      "points": 2
+    },
+    {
+      "id": 105,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Confusing Homophones & Contractions Scenario",
+      "learningObjective": "LO-GRAM4",
+      "difficulty": "Hard",
+      "scenario": "Complete the story with their/there/they're and its/it's: '___ (1) standing over ___ (2) with ___ (3) dog. ___ (4) a cute puppy, and ___ (5) tail is wagging fast.'",
+      "question": "Question: Supply the 5 correct homophones/contractions in order.",
+      "correctAnswer": "(1) They're (They are)\\n(2) there (location)\\n(3) their (possessive)\\n(4) It's (It is)\\n(5) its (possessive)",
+      "explanation": "Explanation: They're = They are; there = place; their = possessive; It's = It is; its = possessive.",
+      "points": 2
+    },
+    {
+      "id": 106,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "12 Tenses Overview & Formulas",
+      "learningObjective": "LO-GRAM1",
+      "difficulty": "Medium",
+      "question": "State the formulas and provide 1 example sentence for: 1) Present Simple, 2) Present Continuous, 3) Past Simple, 4) Future Simple (will).",
+      "correctAnswer": "1) Present Simple: Subject + V.1(s/es) -> She drinks tea.\\n2) Present Continuous: Subject + is/am/are + V.-ing -> She is drinking tea.\\n3) Past Simple: Subject + V.2 -> She drank tea.\\n4) Future Simple: Subject + will + V.1 -> She will drink tea.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 107,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Subject-Verb Agreement Rules Summary",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "State 3 key Subject-Verb Agreement rules involving: 1) Singular vs Plural subjects, 2) 'Neither... nor', 3) Indefinite pronouns (everyone/nobody).",
+      "correctAnswer": "1) Singular subjects take singular verbs; plural subjects take plural verbs (The dog runs / The dogs run).\\n2) With 'Neither A nor B', the verb agrees with subject B closest to it (Neither John nor his friends ARE coming).\\n3) Indefinite pronouns (everyone, nobody, somebody) always take singular verbs (Everyone IS ready).",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 108,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Passive Voice Transformation Rules",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Explain the 3 main steps to convert an active sentence into a passive sentence. Convert: 'The mechanic fixed the red car.'",
+      "correctAnswer": "Steps:\\n1) Move the active object to become the passive subject ('The red car').\\n2) Add verb 'to be' matching the active tense + V.3 of active verb ('was fixed').\\n3) Place active subject after 'by' ('by the mechanic').\\nResult: 'The red car was fixed by the mechanic.'",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 109,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Direct to Reported Speech Rules",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Explain the tense backshift rules for converting Direct Speech to Reported Speech for: 1) Present Simple, 2) Present Continuous, 3) Past Simple. Convert: He said, 'I play tennis.'",
+      "correctAnswer": "Backshift Rules:\\n1) Present Simple -> Past Simple\\n2) Present Continuous -> Past Continuous\\n3) Past Simple -> Past Perfect\\nConversion: Direct: He said, 'I play tennis.' -> Reported: He said that he played tennis.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 110,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Question Tag Construction Rules",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Explain the 3 main rules for creating Question Tags. Provide 2 examples: 1 positive main clause, 1 negative main clause.",
+      "correctAnswer": "Rules:\\n1) Balance polarity: Positive clause -> Negative tag; Negative clause -> Positive tag.\\n2) Use the same auxiliary/modal verb from the main clause.\\n3) Use a pronoun corresponding to the subject.\\nExamples:\\n1) Positive clause: 'She is a doctor, isn't she?'\\n2) Negative clause: 'They don't like coffee, do they?'",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 111,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Prepositions of Time & Place Summary (in, on, at)",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Summarize the usage of 'in', 'on', and 'at' for both Time and Place with 1 example for each.",
+      "correctAnswer": "Time:\\n- 'at': Specific clock time (at 5:00 p.m.)\\n- 'on': Specific day/date (on Monday, on July 4th)\\n- 'in': Month, year, season (in July, in 2026, in summer)\\nPlace:\\n- 'at': Specific point/address (at school, at 10 Main St)\\n- 'on': Surface/street name (on the table, on Sukhumvit Road)\\n- 'in': Enclosed space/city/country (in the room, in Bangkok, in Thailand)",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 112,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Conditionals (Zero & First) Comparison",
+      "learningObjective": "LO-GRAM3",
+      "difficulty": "Hard",
+      "question": "Compare Zero Conditional and First Conditional regarding: 1) Function/Meaning, 2) Sentence Structure, 3) Provide 1 example sentence for each.",
+      "correctAnswer": "1) Zero Conditional: Scientific facts/universal truths -> Structure: If + Present Simple, Present Simple. Example: If you freeze water, it turns to ice.\\n2) First Conditional: Real/possible future events -> Structure: If + Present Simple, Will + V.1. Example: If it rains tomorrow, I will take an umbrella.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 113,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Plural Noun Rules & Exceptions",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Explain 4 rules for making nouns plural: 1) Regular -s, 2) -es for s/ch/sh/x, 3) -y to -ies, 4) Irregular plurals. Give 1 example for each.",
+      "correctAnswer": "1) Regular: Add -s (book -> books)\\n2) End in s, ch, sh, x: Add -es (watch -> watches)\\n3) End in consonant + y: Change y to i + es (city -> cities)\\n4) Irregular: Change internal vowels/form (child -> children, foot -> feet)",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 114,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Countable vs Uncountable Nouns & Quantifiers",
+      "learningObjective": "LO-GRAM2",
+      "difficulty": "Medium",
+      "question": "Differentiate Countable and Uncountable nouns. Specify which quantifiers (many, much, a few, a little) are used with each.",
+      "correctAnswer": "1) Countable Nouns: Things that can be counted individually (e.g., apples, cars). Uses quantifiers 'many' and 'a few'.\\n2) Uncountable Nouns: Substances/concepts that cannot be counted individually (e.g., water, milk, information). Uses quantifiers 'much' and 'a little'.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 115,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Proofreading & Common Error Elimination",
+      "learningObjective": "LO-GRAM4",
+      "difficulty": "Hard",
+      "question": "Explain how to identify and correct 3 common grammar errors: 1) Double negative, 2) Misplaced apostrophe in possessive vs contraction, 3) Subject-verb disagreement.",
+      "correctAnswer": "1) Double Negative: Avoid using two negatives together (Change 'I don't know nothing' -> 'I don't know anything').\\n2) Apostrophe: Distinguish contraction (It's = It is) from possessive adjective (its = belonging to it).\\n3) Subject-Verb Agreement: Match verb number to subject (Change 'The list of items are long' -> 'The list of items IS long').",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    }
+  ]
+}
