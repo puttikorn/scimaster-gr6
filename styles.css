@@ -295,6 +295,12 @@ body {
   box-shadow: 0 0 12px rgba(168, 85, 247, 0.4);
 }
 
+.subject-pill.phonics-theme.active {
+  background: linear-gradient(135deg, rgba(236, 72, 153, 0.25), rgba(219, 39, 119, 0.25));
+  border-color: #ec4899;
+  box-shadow: 0 0 12px rgba(236, 72, 153, 0.4);
+}
+
 .header-center {
   display: flex;
   align-items: center;

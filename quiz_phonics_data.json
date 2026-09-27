@@ -1,0 +1,1916 @@
+{
+  "title": "English Phonics Assessment Grade 6 (Phonics Gr.6 - MidFinal)",
+  "meta": {
+    "totalQuestions": 115,
+    "totalScore": 150,
+    "passingPercentage": 80,
+    "passingScore": 120,
+    "sections": [
+      {
+        "key": "MCQ",
+        "name": "Section A: Multiple Choice (ปรนัย)",
+        "count": 60,
+        "pointsPerQuestion": 1,
+        "totalPoints": 60
+      },
+      {
+        "key": "TF",
+        "name": "Section B: True / False (ถูก / ผิด)",
+        "count": 30,
+        "pointsPerQuestion": 1,
+        "totalPoints": 30
+      },
+      {
+        "key": "Scenario",
+        "name": "Section C: Scenario-Based (สถานการณ์จำลอง)",
+        "count": 15,
+        "pointsPerQuestion": 2,
+        "totalPoints": 30
+      },
+      {
+        "key": "ShortAnswer",
+        "name": "Section D: Short Answer (อัตนัย / อธิบายความรู้)",
+        "count": 10,
+        "pointsPerQuestion": 3,
+        "totalPoints": 30
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Short and Long Vowels",
+      "learningObjective": "Distinguish between short and long vowel sounds.",
+      "difficulty": "Easy",
+      "question": "Which word contains a short 'i' sound?",
+      "options": {
+        "ก": "Kite",
+        "ข": "Stick",
+        "ค": "Light",
+        "ง": "Drive"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'Stick' has a short 'i' sound /ɪ/. 'Kite', 'light', and 'drive' have the long 'i' sound /aɪ/.",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Vowel Teams",
+      "learningObjective": "Identify vowel team patterns in Grade 6 vocabulary.",
+      "difficulty": "Medium",
+      "question": "Which word features the vowel team 'ea' pronounced as a short 'e' /ɛ/?",
+      "options": {
+        "ก": "Beach",
+        "ข": "Leader",
+        "ค": "Heavy",
+        "ง": "Stream"
+      },
+      "correctAnswer": "ค",
+      "explanation": "In 'heavy', 'ea' represents the short 'e' sound /ɛ/, unlike 'beach', 'leader', and 'stream' where 'ea' is long /iː/.",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Split Digraphs",
+      "learningObjective": "Recognize magic-e / split digraph long vowel structures.",
+      "difficulty": "Easy",
+      "question": "In which word does the final silent 'e' change a short vowel into a long vowel?",
+      "options": {
+        "ก": "Have",
+        "ข": "Give",
+        "ค": "Globe",
+        "ง": "Come"
+      },
+      "correctAnswer": "ค",
+      "explanation": "'Globe' uses silent 'e' to make 'o' long /oʊ/. Words like 'have' and 'give' are phonetic exceptions with short vowels.",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "R-Controlled Vowels",
+      "learningObjective": "Identify r-controlled vowel sounds (bossy r).",
+      "difficulty": "Medium",
+      "question": "Which word contains an r-controlled vowel sound matching the sound in 'nurse'?",
+      "options": {
+        "ก": "Garden",
+        "ข": "Storm",
+        "ค": "Thirst",
+        "ง": "March"
+      },
+      "correctAnswer": "ค",
+      "explanation": "'Thirst' contains 'ir' which makes the /ɜːr/ sound, the same r-controlled sound as 'ur' in 'nurse'.",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Diphthongs",
+      "learningObjective": "Recognize diphthong vowel combinations /ɔɪ/ and /aʊ/.",
+      "difficulty": "Medium",
+      "question": "Which of the following words contains a diphthong sound as heard in 'boy'?",
+      "options": {
+        "ก": "Choice",
+        "ข": "Coat",
+        "ค": "Boat",
+        "ง": "Chief"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Choice' contains the diphthong 'oi' producing the /ɔɪ/ sound, identical to 'oy' in 'boy'.",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Diphthongs",
+      "learningObjective": "Distinguish 'ou' and 'ow' diphthong sound patterns.",
+      "difficulty": "Medium",
+      "question": "Which word contains the diphthong sound /aʊ/ as in 'shout'?",
+      "options": {
+        "ก": "Window",
+        "ข": "Crowd",
+        "ค": "Yellow",
+        "ง": "Shadow"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'Crowd' contains the diphthong /aʊ/, whereas 'window', 'yellow', and 'shadow' end in long /oʊ/.",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Long Vowel Digraphs",
+      "learningObjective": "Analyze long 'o' graphemes.",
+      "difficulty": "Easy",
+      "question": "Which word uses the 'oa' digraph to create the long 'o' sound?",
+      "options": {
+        "ก": "Coast",
+        "ข": "Cost",
+        "ค": "Lost",
+        "ง": "Frost"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Coast' uses the 'oa' digraph for the long 'o' sound /oʊ/, while the others feature short 'o' /ɒ/.",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Hard and Soft Vowels",
+      "learningObjective": "Understand how vowels affect hard and soft consonant sounds.",
+      "difficulty": "Hard",
+      "question": "Why does the letter 'c' make a soft /s/ sound in the word 'circle'?",
+      "options": {
+        "ก": "Because it comes at the beginning of the word",
+        "ข": "Because it is followed by the vowel 'i'",
+        "ค": "Because it is followed by an 'r'",
+        "ง": "Because it is a two-syllable word"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The letter 'c' makes a soft /s/ sound when followed by 'e', 'i', or 'y'.",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Long Vowel Patterns",
+      "learningObjective": "Identify long 'e' spelling patterns.",
+      "difficulty": "Easy",
+      "question": "Which word represents a long 'e' sound using the 'ie' vowel pattern?",
+      "options": {
+        "ก": "Friend",
+        "ข": "Relief",
+        "ค": "Pie",
+        "ง": "Tie"
+      },
+      "correctAnswer": "ข",
+      "explanation": "In 'relief', 'ie' makes the long 'e' sound /iː/. In 'friend' it is short /ɛ/, and in 'pie'/'tie' it makes long 'i'.",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Schwa Sound",
+      "learningObjective": "Identify the unstressed schwa /ə/ sound.",
+      "difficulty": "Hard",
+      "question": "Which underlined vowel sound represents an unstressed schwa sound /ə/?",
+      "options": {
+        "ก": "b<u>a</u>nana (first vowel)",
+        "ข": "c<u>a</u>t",
+        "ค": "d<u>o</u>g",
+        "ง": "m<u>u</u>g"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The first 'a' in 'banana' is in an unstressed syllable and is pronounced as a schwa /ə/.",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consonant Blends",
+      "learningObjective": "Identify initial triple consonant blends.",
+      "difficulty": "Medium",
+      "question": "Which word begins with a triple consonant blend?",
+      "options": {
+        "ก": "Black",
+        "ข": "Sprint",
+        "ค": "Clock",
+        "ง": "Flight"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'Sprint' begins with the three-consonant blend 'spr-' /spr/.",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consonant Digraphs",
+      "learningObjective": "Distinguish voiced and voiceless 'th' digraphs.",
+      "difficulty": "Hard",
+      "question": "Which word contains a VOICED 'th' sound /ð/?",
+      "options": {
+        "ก": "Think",
+        "ข": "Thumb",
+        "ค": "Feather",
+        "ง": "Thirty"
+      },
+      "correctAnswer": "ค",
+      "explanation": "'Feather' contains the voiced 'th' sound /ð/. 'Think', 'thumb', and 'thirty' contain voiceless 'th' /θ/.",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consonant Digraphs",
+      "learningObjective": "Identify the 'ph' digraph sound.",
+      "difficulty": "Easy",
+      "question": "What sound does the digraph 'ph' make in the word 'phantom'?",
+      "options": {
+        "ก": "/p/",
+        "ข": "/h/",
+        "ค": "/f/",
+        "ง": "/v/"
+      },
+      "correctAnswer": "ค",
+      "explanation": "The digraph 'ph' represents the /f/ phoneme in English.",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Silent Letters",
+      "learningObjective": "Identify silent consonant patterns (kn, wr, mb, gn).",
+      "difficulty": "Medium",
+      "question": "Which word contains a silent 'w'?",
+      "options": {
+        "ก": "Water",
+        "ข": "Wrist",
+        "ค": "Winter",
+        "ง": "Winter"
+      },
+      "correctAnswer": "ข",
+      "explanation": "In 'wrist', the initial 'w' before 'r' is silent.",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Silent Letters",
+      "learningObjective": "Identify silent 'b' after 'm'.",
+      "difficulty": "Easy",
+      "question": "In which of the following words is the letter 'b' silent?",
+      "options": {
+        "ก": "Crumble",
+        "ข": "Thumb",
+        "ค": "Robber",
+        "ง": "Subway"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The letter 'b' is silent when following 'm' at the end of a root word, as in 'thumb'.",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Hard and Soft G",
+      "learningObjective": "Determine when 'g' makes a soft /dʒ/ sound.",
+      "difficulty": "Medium",
+      "question": "Which word features a SOFT 'g' sound?",
+      "options": {
+        "ก": "Giraffe",
+        "ข": "Gorilla",
+        "ค": "Garden",
+        "ง": "Guitar"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Giraffe' has a soft 'g' /dʒ/ sound because 'g' is followed by 'i'.",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Trigraphs",
+      "learningObjective": "Recognize trigraph spelling patterns like '-tch' and '-dge'.",
+      "difficulty": "Hard",
+      "question": "Why is the trigraph '-dge' used instead of 'g' in the word 'bridge'?",
+      "options": {
+        "ก": "Because it follows a long vowel",
+        "ข": "Because it follows a short vowel sound",
+        "ค": "Because it is at the start of a word",
+        "ง": "Because it is a compound word"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The trigraph '-dge' is used directly after a short vowel sound to represent /dʒ/.",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Final Consonant Blends",
+      "learningObjective": "Identify final consonant blends.",
+      "difficulty": "Easy",
+      "question": "Which word ends with the consonant blend '-st'?",
+      "options": {
+        "ก": "Pass",
+        "ข": "Forest",
+        "ค": "Mess",
+        "ง": "Less"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'Forest' ends with the blend '-st' where both /s/ and /t/ sounds are voiced in sequence.",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Silent Letters",
+      "learningObjective": "Identify silent 't' in common words.",
+      "difficulty": "Hard",
+      "question": "Which word contains a silent letter 't'?",
+      "options": {
+        "ก": "Castle",
+        "ข": "Plastic",
+        "ค": "Active",
+        "ง": "Travel"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In 'castle', the letter 't' is silent /kæsəl/.",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ch Digraph Variations",
+      "learningObjective": "Identify different sounds of the digraph 'ch'.",
+      "difficulty": "Hard",
+      "question": "In which word is the digraph 'ch' pronounced as /k/?",
+      "options": {
+        "ก": "Chair",
+        "ข": "Chef",
+        "ค": "Character",
+        "ง": "Bench"
+      },
+      "correctAnswer": "ค",
+      "explanation": "In 'character' (derived from Greek), 'ch' is pronounced as /k/. In 'chef' it is /ʃ/, and in 'chair' it is /tʃ/.",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Syllables",
+      "learningObjective": "Count syllables in multi-syllable academic words.",
+      "difficulty": "Medium",
+      "question": "How many syllables are in the word 'investigation'?",
+      "options": {
+        "ก": "3",
+        "ข": "4",
+        "ค": "5",
+        "ง": "6"
+      },
+      "correctAnswer": "ค",
+      "explanation": "'in-ves-ti-ga-tion' consists of 5 distinct syllables.",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Syllable Types",
+      "learningObjective": "Identify open vs closed syllables.",
+      "difficulty": "Medium",
+      "question": "Which word begins with an OPEN syllable?",
+      "options": {
+        "ก": "Magnet",
+        "ข": "Robot",
+        "ค": "Rabbit",
+        "ง": "Doctor"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'Robot' splits as 'ro-bot'. The first syllable ends in a vowel, making it an open syllable with a long 'o'.",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Syllable Types",
+      "learningObjective": "Identify Consonant-le (CLE) syllables.",
+      "difficulty": "Easy",
+      "question": "Which word ends with a Consonant-le (CLE) syllable?",
+      "options": {
+        "ก": "Bottle",
+        "ข": "Hotel",
+        "ค": "Model",
+        "ง": "Tunnel"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Bottle' ends with the Consonant-le syllable '-tle'. 'Hotel', 'model', and 'tunnel' end in '-el'.",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Syllable Division",
+      "learningObjective": "Apply the VC/CV division pattern.",
+      "difficulty": "Medium",
+      "question": "Where should the word 'napkin' be divided into syllables?",
+      "options": {
+        "ก": "na-pkin",
+        "ข": "nap-kin",
+        "ค": "napk-in",
+        "ง": "n-apkin"
+      },
+      "correctAnswer": "ข",
+      "explanation": "According to the VC/CV rule (vowel-consonant/consonant-vowel), split between the two middle consonants: nap-kin.",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Syllable Division",
+      "learningObjective": "Apply V/CV vs VC/V open and closed rules.",
+      "difficulty": "Hard",
+      "question": "Why is the first syllable in 'silent' open, while the first syllable in 'silence' is open as well, but 'silver' is closed?",
+      "options": {
+        "ก": "Because silver has two consonants (l-v) splitting the vowels",
+        "ข": "Because silver ends in r",
+        "ค": "Because silence has 3 syllables",
+        "ง": "Because silent is an adjective"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Silver' follows the VC/CV pattern (sil-ver) closing the first syllable, whereas 'silent' follows V/CV (si-lent) keeping the first syllable open.",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Vowel Team Syllables",
+      "learningObjective": "Identify vowel team syllable types.",
+      "difficulty": "Medium",
+      "question": "What type of syllable is the first syllable in 'rainbow'?",
+      "options": {
+        "ก": "Closed syllable",
+        "ข": "Vowel Team syllable",
+        "ค": "Open syllable",
+        "ง": "R-controlled syllable"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'rain' contains the vowel team 'ai', making it a Vowel Team syllable.",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "R-Controlled Syllables",
+      "learningObjective": "Identify R-controlled syllable structure.",
+      "difficulty": "Easy",
+      "question": "Which word contains an R-controlled syllable?",
+      "options": {
+        "ก": "Paper",
+        "ข": "Tiger",
+        "ค": "Table",
+        "ง": "Music"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'Tiger' splits into ti-ger, where '-ger' is an R-controlled syllable.",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Syllable Accent & Stress",
+      "learningObjective": "Determine primary stress in noun vs verb pairs.",
+      "difficulty": "Hard",
+      "question": "Where is the primary stress placed in the NOUN 'present'?",
+      "options": {
+        "ก": "On the first syllable (PRE-sent)",
+        "ข": "On the second syllable (pre-SENT)",
+        "ค": "Equally on both syllables",
+        "ง": "On the last letter"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In two-syllable noun/verb homographs, the noun typically receives stress on the FIRST syllable (PRE-sent), while the verb is stressed on the SECOND (pre-SENT).",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Syllable Accent & Stress",
+      "learningObjective": "Identify stressed syllables in suffixes.",
+      "difficulty": "Hard",
+      "question": "In words ending with '-tion' like 'education', where is the primary stress located?",
+      "options": {
+        "ก": "On the suffix '-tion'",
+        "ข": "On the syllable directly BEFORE '-tion'",
+        "ค": "On the very first syllable",
+        "ง": "On the root verb"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Words ending in '-tion' always have primary stress on the syllable immediately preceding '-tion' (ed-u-CA-tion).",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Compound Words",
+      "learningObjective": "Analyze syllabification in compound words.",
+      "difficulty": "Easy",
+      "question": "How is the compound word 'sunflower' divided into syllables?",
+      "options": {
+        "ก": "su-nflo-wer",
+        "ข": "sun-flow-er",
+        "ค": "sunf-low-er",
+        "ง": "s-unflower"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Compound words divide between the compound components and syllable boundaries: sun-flow-er (3 syllables).",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Inflectional Endings",
+      "learningObjective": "Identify the pronunciation of past tense '-ed'.",
+      "difficulty": "Medium",
+      "question": "In which word is the past-tense suffix '-ed' pronounced as an extra syllable /ɪd/?",
+      "options": {
+        "ก": "Laughed",
+        "ข": "Played",
+        "ค": "Painted",
+        "ง": "Washed"
+      },
+      "correctAnswer": "ค",
+      "explanation": "When a verb base ends in /t/ or /d/ sound (like 'paint'), adding '-ed' creates an extra syllable pronounced /ɪd/ ('pain-ted').",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Inflectional Endings",
+      "learningObjective": "Identify the /t/ sound of '-ed'.",
+      "difficulty": "Medium",
+      "question": "Which word's '-ed' ending is pronounced as /t/?",
+      "options": {
+        "ก": "Jumped",
+        "ข": "Cleaned",
+        "ค": "Folded",
+        "ง": "Rained"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Because 'jump' ends in the voiceless sound /p/, the '-ed' ending is pronounced as /t/ ('jumpt').",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Inflectional Endings",
+      "learningObjective": "Identify the /d/ sound of '-ed'.",
+      "difficulty": "Medium",
+      "question": "Which word's '-ed' ending is pronounced as /d/?",
+      "options": {
+        "ก": "Kicked",
+        "ข": "Mended",
+        "ค": "Smiled",
+        "ง": "Stopped"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Because 'smile' ends in a voiced sound /l/, '-ed' is pronounced as /d/ ('smild').",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Plural Pronunciation",
+      "learningObjective": "Determine pronunciation of '-s' or '-es' endings.",
+      "difficulty": "Hard",
+      "question": "In which word is the plural ending '-es' pronounced as /ɪz/?",
+      "options": {
+        "ก": "Cats",
+        "ข": "Dogs",
+        "ค": "Buses",
+        "ง": "Maps"
+      },
+      "correctAnswer": "ค",
+      "explanation": "After sibilant sounds (/s/, /z/, /ʃ/, /tʃ/, /dʒ/), plural endings add a syllable pronounced /ɪz/ ('bus-es').",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Prefix Phonics",
+      "learningObjective": "Identify prefix sound change in 'un-'.",
+      "difficulty": "Easy",
+      "question": "How does adding the prefix 'un-' alter the word 'happy'?",
+      "options": {
+        "ก": "It changes the root vowel sound",
+        "ข": "It adds an unstressed prefix syllable /ən/",
+        "ค": "It makes the 'h' silent",
+        "ง": "It changes happy into a noun"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Adding 'un-' adds the prefix syllable /ən/ to create 'unhappy' without changing the root pronunciation.",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Suffix Phonics",
+      "learningObjective": "Recognize phonetic patterns of '-ous'.",
+      "difficulty": "Medium",
+      "question": "What is the pronunciation of the suffix '-ous' in 'dangerous'?",
+      "options": {
+        "ก": "/aʊs/",
+        "ข": "/əs/",
+        "ค": "/uːs/",
+        "ง": "/ɒs/"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The suffix '-ous' is pronounced with a schwa sound /əs/ in words like 'dangerous' and 'famous'.",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Suffix Phonics",
+      "learningObjective": "Distinguish '-tion' vs '-sion' sounds.",
+      "difficulty": "Hard",
+      "question": "Which word features the voiced suffix sound /ʒən/ instead of /ʃən/?",
+      "options": {
+        "ก": "Nation",
+        "ข": "Action",
+        "ค": "Vision",
+        "ง": "Section"
+      },
+      "correctAnswer": "ค",
+      "explanation": "In 'vision', '-sion' follows a vowel and makes the voiced sound /ʒən/, whereas '-tion' in 'nation' makes voiceless /ʃən/.",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Prefix Assimilation",
+      "learningObjective": "Identify phonetic prefix assimilation (in-, im-, il-, ir-).",
+      "difficulty": "Hard",
+      "question": "Why does the prefix 'in-' change to 'im-' before the word 'possible'?",
+      "options": {
+        "ก": "Because 'p' is a bilabial sound that pairs naturally with 'm'",
+        "ข": "Because 'in-' is grammatically illegal",
+        "ค": "Because 'possible' starts with a vowel",
+        "ง": "Because 'm' makes the vowel long"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Prefix assimilation aligns the nasal consonant /m/ with the bilabial consonant /p/ for ease of articulation.",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Suffix Spelling Rules",
+      "learningObjective": "Dropping silent 'e' when adding vowel suffixes.",
+      "difficulty": "Medium",
+      "question": "When adding '-ing' to 'make', why is the silent 'e' dropped?",
+      "options": {
+        "ก": "Because two vowels cannot be next to each other",
+        "ข": "To prevent creating a double vowel pattern while keeping the root clear",
+        "ค": "Because 'ing' starts with a consonant",
+        "ง": "Because make becomes a noun"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The silent 'e' is dropped before adding a suffix starting with a vowel (-ing) to form 'making'.",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Suffix Spelling Rules",
+      "learningObjective": "Doubling final consonant rule.",
+      "difficulty": "Medium",
+      "question": "Why is the final 'p' doubled in 'stopping'?",
+      "options": {
+        "ก": "Because stop ends in a single short vowel + single consonant in a 1-syllable word",
+        "ข": "Because stop has a long vowel",
+        "ค": "Because p is silent",
+        "ง": "Because ing requires two p's always"
+      },
+      "correctAnswer": "ก",
+      "explanation": "1-1-1 rule: A 1-syllable word ending in 1 short vowel and 1 consonant doubles the final consonant before a vowel suffix.",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Homophones",
+      "learningObjective": "Identify correct phonic homophone pairs.",
+      "difficulty": "Easy",
+      "question": "Which pair of words are HOMOPHONES (sound the same but have different spellings and meanings)?",
+      "options": {
+        "ก": "Read (present) / Read (past)",
+        "ข": "Knight / Night",
+        "ค": "Wind (breeze) / Wind (clock)",
+        "ง": "Lead (metal) / Lead (guide)"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'Knight' /naɪt/ and 'Night' /naɪt/ sound identical, making them homophones.",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Homographs",
+      "learningObjective": "Identify HOMOGRAPHS (same spelling, different pronunciation/meaning).",
+      "difficulty": "Medium",
+      "question": "Which sentence uses 'lead' pronounced as /lɛd/ (the heavy metal)?",
+      "options": {
+        "ก": "She will lead the team to victory.",
+        "ข": "The pencil contains lead.",
+        "ค": "Follow the leader.",
+        "ง": "He leads the parade."
+      },
+      "correctAnswer": "ข",
+      "explanation": "In 'the pencil contains lead', 'lead' is pronounced /lɛd/. As a verb meaning to guide, it is /liːd/.",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Phonic Spelling Patterns",
+      "learningObjective": "Identify silent 'gh' patterns.",
+      "difficulty": "Medium",
+      "question": "Which word contains the silent 'gh' in the vowel pattern '-ight'?",
+      "options": {
+        "ก": "Ghost",
+        "ข": "Flight",
+        "ค": "Rough",
+        "ง": "Lough"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'Flight' contains '-ight' where 'gh' is silent and 'i' is long /aɪ/.",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Phonic Spelling Patterns",
+      "learningObjective": "Identify 'gh' pronounced as /f/.",
+      "difficulty": "Medium",
+      "question": "In which of the following words is 'gh' pronounced as /f/?",
+      "options": {
+        "ก": "Light",
+        "ข": "Daughter",
+        "ค": "Laughter",
+        "ง": "Though"
+      },
+      "correctAnswer": "ค",
+      "explanation": "In 'laughter' and 'enough', 'gh' is pronounced as the consonant sound /f/.",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Phonic Spelling Patterns",
+      "learningObjective": "Analyze soft vs hard 'c' in words.",
+      "difficulty": "Medium",
+      "question": "Which word contains BOTH a hard 'c' /k/ and a soft 'c' /s/?",
+      "options": {
+        "ก": "Circus",
+        "ข": "Cat",
+        "ค": "City",
+        "ง": "Cookie"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In 'circus', the first 'c' before 'i' is soft /s/, and the second 'c' before 'u' is hard /k/.",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Phonic Spelling Patterns",
+      "learningObjective": "Analyze soft vs hard 'g' in words.",
+      "difficulty": "Hard",
+      "question": "Which word contains BOTH a soft 'g' /dʒ/ and a hard 'g' /g/?",
+      "options": {
+        "ก": "Garage",
+        "ข": "Giant",
+        "ค": "Game",
+        "ง": "Geography"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In 'garage', the first 'g' before 'a' is hard /g/, and the second 'g' before 'e' is soft /ʒ/ or /dʒ/.",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Grapheme-Phoneme Correspondence",
+      "learningObjective": "Identify multiple spellings for /ʃ/ sound.",
+      "difficulty": "Hard",
+      "question": "Which word produces the /ʃ/ ('sh') sound using the spelling pattern 'ch'?",
+      "options": {
+        "ก": "Chef",
+        "ข": "Church",
+        "ค": "Chorus",
+        "ง": "Chain"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In 'chef' (borrowed from French), the letters 'ch' represent the /ʃ/ sound.",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Grapheme-Phoneme Correspondence",
+      "learningObjective": "Identify spelling patterns for long /aɪ/.",
+      "difficulty": "Medium",
+      "question": "Which word achieves the long 'i' sound /aɪ/ using the grapheme 'uy'?",
+      "options": {
+        "ก": "Buy",
+        "ข": "Guy",
+        "ค": "Both A and B",
+        "ง": "Neither A nor B"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Both 'buy' and 'guy' use the spelling pattern 'uy' to represent the long 'i' /aɪ/ sound.",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Word Families",
+      "learningObjective": "Identify words belonging to the '-ought' phonics family.",
+      "difficulty": "Medium",
+      "question": "Which word belongs to the same phonic family as 'thought' and 'bought'?",
+      "options": {
+        "ก": "Through",
+        "ข": "Caught",
+        "ค": "Brought",
+        "ง": "Drought"
+      },
+      "correctAnswer": "ค",
+      "explanation": "'Brought' shares the '-ought' grapheme pattern pronounced as /ɔːt/.",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Silent Letters",
+      "learningObjective": "Identify silent 'g' in '-gn' combinations.",
+      "difficulty": "Easy",
+      "question": "In which word is the letter 'g' silent?",
+      "options": {
+        "ก": "Design",
+        "ข": "Dragon",
+        "ค": "Glass",
+        "ง": "Magnet"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In 'design', the letter 'g' preceding 'n' at the end of a syllable is silent.",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Accent & Intonation",
+      "learningObjective": "Understand how stress changes word class.",
+      "difficulty": "Hard",
+      "question": "How does pronunciation change between 'RE-cord' (noun) and 're-CORD' (verb)?",
+      "options": {
+        "ก": "The vowel in the first syllable becomes a schwa in the verb form",
+        "ข": "The consonant changes",
+        "ค": "The second syllable becomes silent",
+        "ง": "There is no change"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In 're-CORD' (verb), the first syllable shifts to an unstressed schwa /rɪ/ or /rə/, whereas in 'RE-cord' (noun), it is stressed /rɛ/.",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Prefix Phonics",
+      "learningObjective": "Analyze prefix 'dis-' phonics.",
+      "difficulty": "Easy",
+      "question": "What is the phonetic breakdown of the word 'disagree'?",
+      "options": {
+        "ก": "dis-a-gree (3 syllables)",
+        "ข": "di-sa-gree",
+        "ค": "disag-ree",
+        "ง": "d-isagree"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'dis-a-gree' has 3 syllables with prefix 'dis-', root 'a-', and base 'gree'.",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Silent Letters",
+      "learningObjective": "Identify silent 'l' in word families.",
+      "difficulty": "Medium",
+      "question": "In which word is the letter 'l' silent?",
+      "options": {
+        "ก": "Calm",
+        "ข": "Cold",
+        "ค": "Film",
+        "ง": "Fold"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In 'calm', 'half', and 'talk', the letter 'l' is silent.",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Silent Letters",
+      "learningObjective": "Identify silent 'h' in 'wh' words.",
+      "difficulty": "Easy",
+      "question": "Which word has a silent 'h' after 'w'?",
+      "options": {
+        "ก": "Whisper",
+        "ข": "Who",
+        "ค": "Whose",
+        "ง": "Whole"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In 'whisper', 'w' is voiced /w/ and 'h' is silent. In 'who', 'whose', and 'whole', 'w' is silent and 'h' is sounded /h/.",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Contractions Phonics",
+      "learningObjective": "Analyze vowel omission in contractions.",
+      "difficulty": "Easy",
+      "question": "What sound does the apostrophe replace in the contraction 'can't'?",
+      "options": {
+        "ก": "The vowel sound /o/ in 'not'",
+        "ข": "The letter 'a'",
+        "ค": "The letter 'c'",
+        "ง": "The letter 't'"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Can't' contracts 'cannot', omitting the 'no' sound.",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Vowel Length Rules",
+      "learningObjective": "Analyze open syllable vowel length.",
+      "difficulty": "Medium",
+      "question": "Why is the vowel 'e' long in the word 'secret'?",
+      "options": {
+        "ก": "Because it ends the first open syllable (se-cret)",
+        "ข": "Because it has a silent e at the end",
+        "ค": "Because c is soft",
+        "ง": "Because it is a single-syllable word"
+      },
+      "correctAnswer": "ก",
+      "explanation": "In 'se-cret', the first syllable is open ('se-'), causing the vowel 'e' to be long /iː/.",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consonant Doubling Phonics",
+      "learningObjective": "Phonetic function of double consonants.",
+      "difficulty": "Hard",
+      "question": "What is the main phonetic role of double consonants in words like 'letter' and 'summer'?",
+      "options": {
+        "ก": "They indicate that the preceding vowel is short",
+        "ข": "They are both pronounced separately",
+        "ค": "They make the word longer",
+        "ง": "They change the accent to the end"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Double consonants act as a marker showing that the preceding vowel in the syllable is short.",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "R-Controlled Variations",
+      "learningObjective": "Identify 'air' sound graphemes.",
+      "difficulty": "Medium",
+      "question": "Which word contains the /ɛər/ sound spelled with 'are'?",
+      "options": {
+        "ก": "Share",
+        "ข": "Are",
+        "ค": "Car",
+        "ง": "Far"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'Share' uses 'are' to make the /ɛər/ sound. 'Are' is an exception pronounced /ɑːr/.",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Phoneme Segmentation",
+      "learningObjective": "Count total phonemes in a word.",
+      "difficulty": "Hard",
+      "question": "How many phonemes (individual sounds) are in the word 'box'?",
+      "options": {
+        "ก": "2",
+        "ข": "3",
+        "ค": "4",
+        "ง": "5"
+      },
+      "correctAnswer": "ค",
+      "explanation": "'Box' has 4 phonemes: /b/ /ɒ/ /k/ /s/. The letter 'x' represents two phonemes /k/ + /s/.",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Phoneme Blending",
+      "learningObjective": "Identify word formed by phoneme blending.",
+      "difficulty": "Medium",
+      "question": "Blending the phonemes /k/ /l/ /aɪ/ /m/ forms which word?",
+      "options": {
+        "ก": "Claim",
+        "ข": "Climb",
+        "ค": "Climate",
+        "ง": "Clamp"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Blending /k/ + /l/ + /aɪ/ + /m/ yields 'climb' (with silent 'b').",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Vowel Digraphs",
+      "learningObjective": "Understand digraph concepts.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Vowel digraphs (like 'ai', 'oa', 'ee') feature two vowel letters representing one phoneme.",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Consonant Blends",
+      "learningObjective": "Understand blend concepts.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Unlike digraphs where two letters make one sound, in blends (like 'st' or 'bl') each sound is articulated.",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Silent Letters",
+      "learningObjective": "Identify silent letters in 'wr-'.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Initial 'w' followed by 'r' is always silent in English words like 'write' and 'wrong'.",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Soft C Rules",
+      "learningObjective": "Recall soft C rules.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "When 'c' is followed by 'e', 'i', or 'y', it makes a SOFT /s/ sound, as in 'cent' and 'city'.",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Magic E Pattern",
+      "learningObjective": "Understand split digraph function.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Silent 'e' signals that the preceding single vowel is long.",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Syllable Definition",
+      "learningObjective": "Recall syllable definition.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "A syllable is a unit of pronunciation organized around a vowel sound peak.",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Soft G Rules",
+      "learningObjective": "Recall soft G rules.",
+      "difficulty": "Hard",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "'Gate' contains a HARD 'g' /g/ sound because 'g' is followed by 'a'.",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Diphthongs",
+      "learningObjective": "Understand diphthong concept.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Diphthongs (like /ɔɪ/ in 'coin' or /aʊ/ in 'house') involve a phonetic glide between two vowel positions.",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Voiced vs Voiceless TH",
+      "learningObjective": "Identify TH sound types.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "'Math' contains a VOICELESS 'th' /θ/ sound, produced without vocal cord vibration.",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Past Tense -ed",
+      "learningObjective": "Recall -ed ending rules.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Voiceless root endings trigger the voiceless /t/ pronunciation for '-ed'.",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Open Syllables",
+      "learningObjective": "Recall open syllable characteristics.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "An open syllable ends in a VOWEL and usually has a LONG vowel sound (e.g., 'me', 'go').",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Closed Syllables",
+      "learningObjective": "Recall closed syllable characteristics.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Closed syllables end in consonants, closing in the vowel and making it short (e.g., 'cat', 'bed').",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Trigraphs",
+      "learningObjective": "Recall trigraph definition.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "'igh' is a 3-letter grapheme (trigraph) representing the single vowel phoneme /aɪ/.",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Homophones",
+      "learningObjective": "Recall homophone definition.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Words with the same spelling but different pronunciations/meanings are HOMOGRAPHS. Homophones have the SAME SOUND but DIFFERENT spellings.",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Schwa Sound",
+      "learningObjective": "Recall schwa sound characteristics.",
+      "difficulty": "Hard",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Schwa /ə/ occurs exclusively in unstressed syllables across English vocabulary.",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Silent K Rule",
+      "learningObjective": "Recall silent K rule.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Initial 'k' before 'n' is silent in English.",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "R-Controlled Vowels",
+      "learningObjective": "Identify bossy R effect.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "R-controlled vowels ('ar', 'er', 'ir', 'or', 'ur') create unique r-modified vowel phonemes.",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Hard C Rules",
+      "learningObjective": "Recall hard C rules.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "'c' followed by 'a', 'o', or 'u' produces the hard /k/ sound.",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Prefix Sound Changes",
+      "learningObjective": "Identify prefix phonics.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "'re-play' is a two-syllable word.",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Silent L Pattern",
+      "learningObjective": "Identify silent L in 'walk'.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "In 'walk' and 'talk', the letter 'l' is silent /wɔːk/.",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Suffix -tion",
+      "learningObjective": "Recall -tion pronunciation.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "'-tion' is pronounced as /ʃən/ or /ʃn̩/.",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Compound Word Stress",
+      "learningObjective": "Recall compound word stress.",
+      "difficulty": "Hard",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Compound nouns typically receive primary stress on the first component (SUN-light, FOOT-ball).",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Double Consonants",
+      "learningObjective": "Recall double consonant sound rule.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Double consonants represent a single consonant sound; the second 'b' is not articulated twice.",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Silent G Rule",
+      "learningObjective": "Identify silent G pattern.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Initial 'g' before 'n' is silent, as in 'gnome' and 'gnat'.",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Vowel Team 'oo'",
+      "learningObjective": "Recall 'oo' dual sounds.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "'Book' has short /ʊ/ sound, while 'boot' has long /uː/ sound.",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Silent B Rule",
+      "learningObjective": "Identify silent B pattern.",
+      "difficulty": "Easy",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Final 'b' following 'm' is silent in English words like 'climb', 'comb', and 'plumber'.",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Voiceless TH",
+      "learningObjective": "Identify voiceless TH in 'thin'.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "'Thin' begins with a VOICELESS 'th' sound /θ/.",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Consonant-le Syllables",
+      "learningObjective": "Recall CLE syllable rule.",
+      "difficulty": "Medium",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Consonant-le (CLE) syllables occur at the END of words (e.g., 'table', 'little').",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Phoneme Count in 'x'",
+      "learningObjective": "Recall 'x' phoneme breakdown.",
+      "difficulty": "Hard",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Letter 'x' (in 'fox' or 'six') represents two phonemes: /k/ + /s/.",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Soft G Pattern",
+      "learningObjective": "Recall soft G with 'y'.",
+      "difficulty": "Hard",
+      "question": "",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "'g' followed by 'y' produces the soft /dʒ/ sound.",
+      "points": 1
+    },
+    {
+      "id": 91,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Inflectional Endings (-ed)",
+      "learningObjective": "Categorize past-tense '-ed' pronunciations.",
+      "difficulty": "Hard",
+      "scenario": "Teacher David gives his Grade 6 class three past-tense verb cards: 'wanted', 'helped', and 'called'. He asks students to sort them by their final '-ed' sound.",
+      "question": "Explain which category each word belongs to (/t/, /d/, or /ɪd/) and provide the phonetic reason for each.",
+      "correctAnswer": "'wanted' belongs to /ɪd/ because the root ends in /t/. 'helped' belongs to /t/ because the root ends in voiceless /p/. 'called' belongs to /d/ because the root ends in voiced /l/.",
+      "explanation": "Roots ending in /t/ or /d/ take /ɪd/. Roots ending in voiceless consonants take /t/. Roots ending in voiced sounds take /d/.",
+      "points": 2
+    },
+    {
+      "id": 92,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Syllables & Stress",
+      "learningObjective": "Analyze stress shift in noun-verb pairs.",
+      "difficulty": "Hard",
+      "scenario": "During a reading test, Maya reads the sentence: 'We need to record a new record for the school athletics team.' She pronounces both instances of 'record' identically.",
+      "question": "Identify Maya's error and explain how the syllable stress and vowel sound should differ between the two words.",
+      "correctAnswer": "The first 'record' is a verb and should be stressed on the second syllable (re-CORD /rɪˈkɔːrd/). The second 'record' is a noun and should be stressed on the first syllable (RE-cord /ˈrɛkərd/).",
+      "explanation": "Two-syllable noun/verb homographs shift stress: Nouns are stressed on the 1st syllable; Verbs are stressed on the 2nd syllable.",
+      "points": 2
+    },
+    {
+      "id": 93,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Hard and Soft Consonants",
+      "learningObjective": "Analyze 'c' and 'g' pronunciation rules.",
+      "difficulty": "Hard",
+      "scenario": "Leo is practicing reading new scientific terms. He comes across the word 'cyanide' and 'coagulate'. He wonders why the letter 'c' sounds like /s/ in the first word but like /k/ in the second.",
+      "question": "Explain the rule for soft 'c' versus hard 'c' that governs Leo's observation.",
+      "correctAnswer": "'c' is soft /s/ in 'cyanide' because it is followed by 'y'. 'c' is hard /k/ in 'coagulate' because it is followed by 'o'.",
+      "explanation": "The letter 'c' turns soft (/s/) when followed by 'e', 'i', or 'y'. Otherwise, it remains hard (/k/).",
+      "points": 2
+    },
+    {
+      "id": 94,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Silent Letter Identification",
+      "learningObjective": "Identify silent letters in medical/scientific terms.",
+      "difficulty": "Hard",
+      "scenario": "In a science vocabulary list, students encounter the words 'pneumonia', 'psychology', and 'pterodactyl'.",
+      "question": "Identify the silent letter at the start of each word and explain the origin pattern of these spellings.",
+      "correctAnswer": "The letter 'p' is silent in all three words (pneumonia, psychology, pterodactyl).",
+      "explanation": "Words derived from Greek beginning with 'pn-', 'ps-', or 'pt-' drop the initial /p/ sound in English pronunciation.",
+      "points": 2
+    },
+    {
+      "id": 95,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Homographs & Context",
+      "learningObjective": "Use context clues to determine homograph pronunciation.",
+      "difficulty": "Hard",
+      "scenario": "Consider the sentence: 'The wind was too strong to wind up the sails on the boat.'",
+      "question": "Determine the correct pronunciation (phonetic sound) of 'wind' in both instances within this sentence.",
+      "correctAnswer": "First 'wind' is a noun pronounced with short 'i' /wɪnd/. Second 'wind' is a verb pronounced with long 'i' /waɪnd/.",
+      "explanation": "Context determines homograph pronunciation: 'wind' /wɪnd/ (air current) vs 'wind' /waɪnd/ (to turn/twist).",
+      "points": 2
+    },
+    {
+      "id": 96,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Syllable Division (VC/CV vs V/CV)",
+      "learningObjective": "Apply syllable division rules to new words.",
+      "difficulty": "Hard",
+      "scenario": "An ESL student is trying to decode two unfamiliar words: 'signal' and 'silent'.",
+      "question": "Demonstrate how to divide both words into syllables and explain why the first vowel is short in 'signal' but long in 'silent'.",
+      "correctAnswer": "'signal' splits as sig-nal (VC/CV), closing the first syllable so 'i' is short /ɪ/. 'silent' splits as si-lent (V/CV), leaving the first syllable open so 'i' is long /aɪ/.",
+      "explanation": "VC/CV pattern divides between consonants creating closed short-vowel syllables. V/CV pattern divides before the consonant creating open long-vowel syllables.",
+      "points": 2
+    },
+    {
+      "id": 97,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Vowel Digraphs vs Diphthongs",
+      "learningObjective": "Compare vowel team categories.",
+      "difficulty": "Hard",
+      "scenario": "A student classifies 'boat' and 'boil' both as 'vowel digraphs'. Their teacher notes that 'boil' contains a diphthong while 'boat' contains a pure vowel digraph.",
+      "question": "Explain the phonetic difference between a pure vowel digraph and a diphthong using these examples.",
+      "correctAnswer": "'boat' contains a pure vowel digraph ('oa') making one static long vowel sound /oʊ/. 'boil' contains a diphthong ('oi') where the voice glides from /ɔ/ to /ɪ/.",
+      "explanation": "Vowel digraphs yield a single steady vowel sound; diphthongs involve a active voice glide across two vowel sound positions.",
+      "points": 2
+    },
+    {
+      "id": 98,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "R-Controlled Vowels",
+      "learningObjective": "Categorize r-controlled vowel spellings.",
+      "difficulty": "Medium",
+      "scenario": "Grade 6 students are given the words 'fern', 'bird', and 'turn'. The teacher asks if these three words rhyme.",
+      "question": "Do these words rhyme? Explain the phonological rule regarding 'er', 'ir', and 'ur'.",
+      "correctAnswer": "Yes, all three words rhyme. The spellings 'er', 'ir', and 'ur' frequently produce the exact same r-controlled vowel sound /ɜːr/.",
+      "explanation": "Despite different vowel spellings, 'er', 'ir', and 'ur' in stressed syllables share the /ɜːr/ phoneme.",
+      "points": 2
+    },
+    {
+      "id": 99,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Schwa Sound Analysis",
+      "learningObjective": "Identify schwa sounds in multi-syllable vocabulary.",
+      "difficulty": "Hard",
+      "scenario": "In the word 'photography', students notice that the letter 'o' appears three times, but it is pronounced differently each time.",
+      "question": "Analyze the three 'o' sounds in 'pho-tog-ra-phy' and identify which one represents the schwa sound.",
+      "correctAnswer": "1st 'o' (pho-) is schwa /fə/, 2nd 'o' (-tog-) is stressed short /ɒ/ (or /ɑː/), 3rd 'o' (-gra-phy) does not exist (the 'a' is schwa /rə/). The 1st 'o' is a schwa /ə/.",
+      "explanation": "Unstressed syllables in multi-syllable words reduce vowels to schwa /ə/.",
+      "points": 2
+    },
+    {
+      "id": 100,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Suffix Spelling Changes",
+      "learningObjective": "Apply consonant doubling rule (1-1-1 rule).",
+      "difficulty": "Hard",
+      "scenario": "Compare adding '-ing' to 'hop' (hopping) versus adding '-ing' to 'hope' (hoping).",
+      "question": "Explain why 'hop' doubles the 'p' while 'hope' does not, and describe how this affects reader pronunciation.",
+      "correctAnswer": "'hop' is a 1-1-1 word (1 syllable, 1 short vowel, 1 consonant), so 'p' is doubled to keep the vowel short in 'hopping'. 'hope' has a silent 'e' which is dropped to form 'hoping' with a long vowel.",
+      "explanation": "Doubling the consonant prevents the vowel from opening into a long sound.",
+      "points": 2
+    },
+    {
+      "id": 101,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Trigraphs vs Blends",
+      "learningObjective": "Distinguish trigraphs from consonant blends.",
+      "difficulty": "Hard",
+      "scenario": "Analyze the words 'splash' and 'scratch' versus 'catch' and 'bridge'.",
+      "question": "Explain the difference between a initial 3-consonant blend ('spl-', 'scr-') and a final trigraph ('-tch', '-dge').",
+      "correctAnswer": "'spl-' and 'scr-' are blends where 3 consonant sounds are heard together. '-tch' and '-dge' are trigraphs where 3 letters combine to form 1 single sound (/tʃ/ and /dʒ/).",
+      "explanation": "Blends maintain individual phonemes; trigraphs collapse three letters into one single phoneme.",
+      "points": 2
+    },
+    {
+      "id": 102,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Voiced vs Voiceless Consonant Pairs",
+      "learningObjective": "Identify cognate consonant pairs.",
+      "difficulty": "Hard",
+      "scenario": "The consonant sounds /p/ and /b/, /t/ and /d/, /f/ and /v/ are called cognate pairs.",
+      "question": "Explain what makes these pairs related and how a speaker distinguishes between them.",
+      "correctAnswer": "Each pair shares the exact same mouth position and articulation point. They are distinguished solely by voicing: one is voiceless (no vocal cord vibration) and one is voiced.",
+      "explanation": "Cognate pairs share place and manner of articulation, differing only in vocal cord vibration (voicing).",
+      "points": 2
+    },
+    {
+      "id": 103,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Homophones in Context",
+      "learningObjective": "Differentiate homophone spellings by meaning.",
+      "difficulty": "Medium",
+      "scenario": "A student writes: 'The knight rode his horse threw the dark night.'",
+      "question": "Identify the spelling error in this sentence, explain why it occurred phonetically, and state the correct word.",
+      "correctAnswer": "The student wrote 'threw' (past tense of throw) instead of 'through' (preposition). Both are homophones pronounced /θruː/.",
+      "explanation": "Homophones share identical pronunciation /θruː/, causing spelling confusion if context is ignored.",
+      "points": 2
+    },
+    {
+      "id": 104,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Prefix Assimilation",
+      "learningObjective": "Analyze prefix sound changes (in- to im-).",
+      "difficulty": "Hard",
+      "scenario": "Why does the prefix 'in-' become 'im-' in 'imperfect', but 'il-' in 'illegal' and 'ir-' in 'irresponsible'?",
+      "question": "Explain the linguistic reason behind these prefix spelling and sound changes.",
+      "correctAnswer": "This is prefix assimilation. The final consonant of 'in-' adapts to match the starting sound of the root word for smoother pronunciation.",
+      "explanation": "Assimilation modifies prefix consonants to match the place of articulation of the base root sound.",
+      "points": 2
+    },
+    {
+      "id": 105,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Contractions & Pronunciation",
+      "learningObjective": "Analyze phonetics of irregular contractions.",
+      "difficulty": "Medium",
+      "scenario": "Why is 'will not' contracted to 'won't' instead of 'willn't'?",
+      "question": "Explain the historical phonological reason why the vowel sound changes in this contraction.",
+      "correctAnswer": "'Won't' derives from an older English verb form 'woll not'. When contracted, the vowel /oʊ/ was preserved in 'won't'.",
+      "explanation": "Historical sound changes from 'woll not' preserved the long /oʊ/ vowel sound in the modern contraction 'won't'.",
+      "points": 2
+    },
+    {
+      "id": 106,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Syllabification Rules",
+      "learningObjective": "Explain the 6 main English syllable types.",
+      "difficulty": "Hard",
+      "question": "List and briefly describe 4 of the 6 major English syllable types (Closed, Open, Magic E, Vowel Team, R-Controlled, Consonant-le).",
+      "correctAnswer": "1. Closed (ends in consonant, short vowel, e.g., cat). 2. Open (ends in vowel, long vowel, e.g., go). 3. V Magic E (ends in silent e, long vowel, e.g., bike). 4. Vowel Team (2 vowels make 1 sound, e.g., boat). 5. R-Controlled (vowel followed by r, e.g., car). 6. Consonant-le (ends in consonant+le, e.g., table).\n* **Explanation**: Full explanation of at least 4 syllable types with examples.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 107,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Past Tense '-ed' Rules",
+      "learningObjective": "State the 3 rules for pronouncing past-tense '-ed'.",
+      "difficulty": "Hard",
+      "question": "Write down the three phonetic rules for pronouncing the past-tense suffix '-ed' (/t/, /d/, /ɪd/) with one example for each.",
+      "correctAnswer": "1. Pronounced /ɪd/ after /t/ or /d/ sounds (e.g., wanted, needed). 2. Pronounced /t/ after voiceless consonant sounds (e.g., walked, stopped). 3. Pronounced /d/ after voiced sounds (e.g., played, cleaned).\n* **Explanation**: Correct formulation of all 3 rules with valid word examples.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 108,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Soft vs Hard C and G Rules",
+      "learningObjective": "Formulate soft C and G spelling rules.",
+      "difficulty": "Hard",
+      "question": "State the general rule that determines whether the letters 'c' and 'g' are pronounced with a hard sound or a soft sound.",
+      "correctAnswer": "The letters 'c' and 'g' make soft sounds (/s/ and /dʒ/) when followed by 'e', 'i', or 'y'. They make hard sounds (/k/ and /g/) when followed by 'a', 'o', 'u', or consonants.\n* **Explanation**: Clear statement of the e, i, y rule for soft c/g.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 109,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Voiced vs Voiceless TH",
+      "learningObjective": "Explain voiced vs voiceless TH with examples.",
+      "difficulty": "Hard",
+      "question": "Explain the difference between a voiced 'th' and a voiceless 'th' sound, and provide two example words for each.",
+      "correctAnswer": "Voiced 'th' /ð/ uses vocal cord vibration (e.g., 'this', 'mother'). Voiceless 'th' /θ/ uses only air stream without vocal cord vibration (e.g., 'think', 'bath').\n* **Explanation**: Accurate distinction between voiced /ð/ and voiceless /θ/ with 2 correct examples for each.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 110,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Schwa Sound Explanation",
+      "learningObjective": "Define the schwa sound and its role in English.",
+      "difficulty": "Hard",
+      "question": "What is the schwa sound /ə/? Where does it occur in words, and why is it important for English pronunciation?",
+      "correctAnswer": "Schwa /ə/ is a neutral, unstressed vowel sound (like 'uh'). It occurs in unstressed syllables of multi-syllable words (e.g., 'a' in 'about'). It is essential for natural speech rhythm.\n* **Explanation**: Comprehensive definition including unstressed syllable context and phonetic symbol /ə/.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 111,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Homophones vs Homographs",
+      "learningObjective": "Compare and contrast homophones and homographs.",
+      "difficulty": "Hard",
+      "question": "Define 'homophones' and 'homographs', and provide one example pair for each.",
+      "correctAnswer": "Homophones: Words with the SAME SOUND, different spellings/meanings (e.g., knight/night). Homographs: Words with the SAME SPELLING, different sounds/meanings (e.g., lead /liːd/ to guide vs lead /lɛd/ metal).\n* **Explanation**: Clear definitions of both terms with accurate example pairs showing sound/spelling contrasts.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 112,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "The 1-1-1 Doubling Rule",
+      "learningObjective": "Explain the 1-1-1 consonant doubling rule.",
+      "difficulty": "Hard",
+      "question": "Explain the '1-1-1 Rule' for doubling a final consonant when adding a suffix starting with a vowel.",
+      "correctAnswer": "If a word has 1 syllable, 1 short vowel, and ends in 1 consonant (1-1-1), double the final consonant before adding a vowel suffix (e.g., run -> running, sit -> sitting).\n* **Explanation**: Explanation must mention 1 syllable, 1 short vowel, 1 consonant, and vowel suffix condition.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 113,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Diphthongs vs Vowel Teams",
+      "learningObjective": "Distinguish diphthongs from monophthongs.",
+      "difficulty": "Hard",
+      "question": "What is a diphthong? Give two examples of diphthong letter combinations and the sounds they produce.",
+      "correctAnswer": "A diphthong is a gliding vowel sound where the tongue moves from one vowel position to another within the same syllable. Examples: 'oi'/'oy' (/ɔɪ/ in coin/boy) and 'ou'/'ow' (/aʊ/ in house/cow).\n* **Explanation**: Definition must highlight gliding sound movement within one syllable and give 2 correct examples.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 114,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Silent Letters in English",
+      "learningObjective": "Explain why silent letters exist in English spelling.",
+      "difficulty": "Hard",
+      "question": "Explain two reasons why English has so many silent letters (such as in 'knight', 'doubt', or 'castle').",
+      "correctAnswer": "1. Historical sound changes: Letters were once pronounced in Old/Middle English (e.g., 'k' and 'gh' in 'knight'). 2. Etymological spellings: Scholars added silent letters to reflect Greek/Latin origins (e.g., 'b' in 'doubt' from Latin dubitandum).\n* **Explanation**: At least two valid linguistic/historical reasons explained clearly.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 115,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Primary Syllable Stress Rules",
+      "learningObjective": "Describe rules for primary stress placement.",
+      "difficulty": "Hard",
+      "question": "Describe two general rules for predicting primary syllable stress in English words (e.g., two-syllable nouns vs verbs, or words ending in '-tion').",
+      "correctAnswer": "Rule 1: In two-syllable words, NOUNS are usually stressed on the 1st syllable (PRES-ent), while VERBS are stressed on the 2nd (pre-SENT). Rule 2: Words ending in '-tion', '-sion', or '-ic' always have primary stress on the syllable immediately preceding the suffix (e.g., ed-u-CA-tion, gra-PHIC).\n* **Explanation**: Two accurate stress placement rules clearly stated with examples.\n\n---",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    }
+  ]
+}
