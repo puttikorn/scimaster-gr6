@@ -1126,8 +1126,8 @@
       "difficulty": "Easy",
       "question": "อัตราส่วน 4 : 6 เท่ากับ 2 : 3",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "4:6 = 4÷2 : 6÷2 = 2:3",
@@ -1142,8 +1142,8 @@
       "difficulty": "Easy",
       "question": "ร้อยละ 50 ของ 80 เท่ากับ 40",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "50/100 × 80 = 40",
@@ -1158,8 +1158,8 @@
       "difficulty": "Easy",
       "question": "6 : 7 = 42 : 49 เพราะ 6×7 = 42 และ 7×7 = 49",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "6×7=42 และ 7×7=49 ดังนั้น 6:7 = 42:49",
@@ -1174,8 +1174,8 @@
       "difficulty": "Easy",
       "question": "เขียน 3 : 5 ในรูปร้อยละ ได้ร้อยละ 35",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "False",
       "explanation": "3/5 = 60/100 = ร้อยละ 60 ไม่ใช่ร้อยละ 35",
@@ -1190,8 +1190,8 @@
       "difficulty": "Medium",
       "question": "มาตราส่วน 1 ซม. : 2 ม. ถ้าแผนผังยาว 3 ซม. ระยะจริงยาว 6 เมตร",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "ระยะจริง = 3 × 2 = 6 เมตร",
@@ -1206,8 +1206,8 @@
       "difficulty": "Easy",
       "question": "แบบรูปของจำนวน 2, 4, 8, 16 จำนวนถัดไปคือ 24",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "False",
       "explanation": "แบบรูป: ×2 ทุกครั้ง → 16×2 = 32 ไม่ใช่ 24",
@@ -1222,8 +1222,8 @@
       "difficulty": "Medium",
       "question": "นักเรียน 40 คน เข้าเรียน 30 คน นักเรียนที่มาเรียนคิดเป็นร้อยละ 75",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "30/40 × 100 = 75%",
@@ -1238,8 +1238,8 @@
       "difficulty": "Medium",
       "question": "รถใช้น้ำมัน 2 ลิตร วิ่ง 30 กม. ถ้าจะวิ่ง 90 กม. ต้องใช้น้ำมัน 5 ลิตร",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "False",
       "explanation": "2:30 = □:90 → □ = 90×2÷30 = 6 ลิตร ไม่ใช่ 5 ลิตร",
@@ -1254,8 +1254,8 @@
       "difficulty": "Medium",
       "question": "ร้อยละ 42 ของ 200 คือ 84",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "42/100 × 200 = 84",
@@ -1270,8 +1270,8 @@
       "difficulty": "Medium",
       "question": "แบบรูปของจำนวน 10, 12, 16, 22, 30 ต่างจากเดิมทีละ 2 ทุกครั้ง",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "False",
       "explanation": "ความแตกต่าง: +2, +4, +6, +8 เพิ่มขึ้นทีละ 2 ไม่ใช่คงที่",
@@ -1286,8 +1286,8 @@
       "difficulty": "Easy",
       "question": "อัตราส่วน 1 : 5 มีค่าเท่ากับ 5 : 25",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "1:5 = 1×5 : 5×5 = 5:25",
@@ -1302,8 +1302,8 @@
       "difficulty": "Medium",
       "question": "ร้อยละ 33 เขียนในรูปอัตราส่วนอย่างต่ำได้ 33 : 100",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "33 กับ 100 ไม่มีตัวหารร่วมมากนอกจาก 1 ดังนั้น 33:100 เป็นอัตราส่วนอย่างต่ำแล้ว",
@@ -1318,8 +1318,8 @@
       "difficulty": "Medium",
       "question": "ถ้าระยะทางจริง 600 เมตร มาตราส่วน 1 ซม. : 100 ม. ระยะบนแผนที่ยาว 6 ซม.",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "ระยะบนแผนที่ = 600 ÷ 100 = 6 เซนติเมตร",
@@ -1334,8 +1334,8 @@
       "difficulty": "Medium",
       "question": "รูปที่ n ในแบบรูปสามเหลี่ยม มีจำนวนสามเหลี่ยม = 2n-1 ดังนั้นรูปที่ 5 มีสามเหลี่ยม 9 รูป",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "รูปที่ 5 = 2(5)-1 = 9 รูป",
@@ -1350,8 +1350,8 @@
       "difficulty": "Hard",
       "question": "ลดราคาร้อยละ 15 จากราคา 400 บาท จะจ่ายเงินจริง 340 บาท",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "ส่วนลด = 400 × 15% = 60 บาท → จ่ายจริง = 400-60 = 340 บาท",
@@ -1366,8 +1366,8 @@
       "difficulty": "Hard",
       "question": "ถ้าส่วนผสมแป้ง:น้ำตาล = 3:2 และใช้แป้ง 9 ถ้วย ควรใช้น้ำตาล 7 ถ้วย",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "False",
       "explanation": "3:2 = 9:□ → □ = 9×2÷3 = 6 ถ้วย ไม่ใช่ 7 ถ้วย",
@@ -1382,8 +1382,8 @@
       "difficulty": "Hard",
       "question": "แบบรูปของจำนวน 3, 6, 12, 24, 48 จำนวนถัดไปคือ 96",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "×2 ทุกครั้ง → 48×2 = 96",
@@ -1398,8 +1398,8 @@
       "difficulty": "Hard",
       "question": "นักเรียน 500 คน สอบผ่าน 425 คน คิดเป็นร้อยละ 84",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "False",
       "explanation": "425/500 × 100 = 85% ไม่ใช่ร้อยละ 84",
@@ -1414,8 +1414,8 @@
       "difficulty": "Easy",
       "question": "อัตราส่วน 5 : 8 ในรูปอย่างต่ำคือ 5 : 8",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "5 และ 8 ไม่มีตัวหารร่วมมากนอกจาก 1 ดังนั้น 5:8 เป็นรูปอย่างต่ำแล้ว",
@@ -1430,8 +1430,8 @@
       "difficulty": "Hard",
       "question": "รูปที่ n ในแบบรูปสี่เหลี่ยมขนมเปียกปูน มีจำนวนรูป = n² ดังนั้น รูปที่ 7 มีสี่เหลี่ยม 49 รูป",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "รูปที่ 7 = 7² = 49 รูป",
@@ -1446,8 +1446,8 @@
       "difficulty": "Medium",
       "question": "ร้อยละ 53 เขียนในรูปอัตราส่วนได้ 53 : 100",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "53 กับ 100 ไม่มีตัวหารร่วมมาก ดังนั้น 53:100 คือรูปอย่างต่ำแล้ว",
@@ -1462,8 +1462,8 @@
       "difficulty": "Medium",
       "question": "อัตราส่วน 15 : 20 = 3 : 4",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "15:20 = 15÷5 : 20÷5 = 3:4",
@@ -1478,8 +1478,8 @@
       "difficulty": "Medium",
       "question": "แบบรูป 100, 96, 88, 76 มีความสัมพันธ์ -4, -8, -12 ดังนั้นจำนวนถัดไปคือ 60",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "ลดลงเพิ่มขึ้นทีละ 4: -4, -8, -12, -16 → 76-16 = 60",
@@ -1494,8 +1494,8 @@
       "difficulty": "Hard",
       "question": "แผนผังมาตราส่วน 1 ซม. : 500 ม. สนามฟุตบอลในแผนผังกว้าง 0.2 ซม. สนามฟุตบอลจริงกว้าง 100 เมตร",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "0.2 × 500 = 100 เมตร",
@@ -1510,8 +1510,8 @@
       "difficulty": "Hard",
       "question": "ราคาตั้ง 500 บาท ลดร้อยละ 10 แล้วลดอีกร้อยละ 10 ราคาที่จ่ายจริงคือ 400 บาท",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "False",
       "explanation": "ลดครั้งแรก 500×10%=50 → เหลือ 450 บาท → ลดอีก 450×10%=45 → เหลือ 405 บาท ไม่ใช่ 400 บาท",
@@ -1526,8 +1526,8 @@
       "difficulty": "Easy",
       "question": "นมกล่อง 3 กล่อง น้ำผลไม้ 4 กล่อง อัตราส่วนของนมต่อเครื่องดื่มทั้งหมด คือ 3 : 7",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "ทั้งหมด = 3+4 = 7 → อัตราส่วนนม:ทั้งหมด = 3:7",
@@ -1542,8 +1542,8 @@
       "difficulty": "Medium",
       "question": "รูปที่ n ของแบบรูปไม้ขีด (สี่เหลี่ยม) มีจำนวนไม้ขีด 3n+1 ดังนั้นรูปที่ 5 มีไม้ขีด 16 อัน",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "รูปที่ 5 = 3(5)+1 = 16 อัน",
@@ -1558,8 +1558,8 @@
       "difficulty": "Medium",
       "question": "เขียน 225 : 500 ในรูปร้อยละ ได้ร้อยละ 45",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "225/500 = 9/20 = 45/100 = ร้อยละ 45",
@@ -1574,8 +1574,8 @@
       "difficulty": "Easy",
       "question": "แบบรูป 1, 4, 9, 16 เป็นจำนวนที่เกิดจากการยกกำลังสอง",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "True",
       "explanation": "1²=1, 2²=4, 3²=9, 4²=16",
@@ -1590,8 +1590,8 @@
       "difficulty": "Hard",
       "question": "ส่วนผสมนมและน้ำตาล 5:20 คน A ใช้นม 15 ลิตร ควรใช้น้ำตาล 50 ลิตร",
       "options": {
-        "True": "จริง (True)",
-        "False": "เท็จ (False)"
+        "True": "True",
+        "False": "False"
       },
       "correctAnswer": "False",
       "explanation": "5:20 = 1:4 → ถ้านม 15 ลิตร น้ำตาล = 15×4 = 60 ลิตร ไม่ใช่ 50 ลิตร",
@@ -1801,7 +1801,7 @@
       "difficulty": "Medium",
       "question": "จงหาอัตราส่วนที่เท่ากับ 2 : 5 อีก 3 อัตราส่วน พร้อมแสดงวิธีทำ",
       "correctAnswer": "หาโดยการคูณทั้งสองพจน์ด้วยจำนวนเดียวกัน: 4:10, 10:25 และ 14:35",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     },
     {
@@ -1813,7 +1813,7 @@
       "difficulty": "Medium",
       "question": "นักเรียนต้องการออมเงิน โดยออมเงิน 5 บาท จากค่าขนมในวันจันทร์ 20 บาท จงเขียนอัตราส่วนของเงินออมต่อค่าขนม และคำนวณว่าเงินออมคิดเป็นร้อยละเท่าไร",
       "correctAnswer": "อัตราส่วน = 5:20 = 1:4 เงินออม = 5/20×100 = 25% (ร้อยละ 25)",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     },
     {
@@ -1825,7 +1825,7 @@
       "difficulty": "Hard",
       "question": "แผนผังบ้านใช้มาตราส่วน 1 ซม. : 1.5 ม. ห้องนอนบนแผนผังกว้าง 3 ซม. ยาว 4 ซม. จงหาขนาดจริงของห้องนอนและพื้นที่จริงของห้องนอน",
       "correctAnswer": "กว้างจริง = 4.5 เมตร ยาวจริง = 6 เมตร พื้นที่จริง = 4.5×6 = 27 ตารางเมตร",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     },
     {
@@ -1837,7 +1837,7 @@
       "difficulty": "Hard",
       "question": "แบบรูปสามเหลี่ยม รูปที่ 1 มี 1 รูป, รูปที่ 2 มี 3 รูป, รูปที่ 3 มี 5 รูป จงหาว่า (1) รูปที่ n มีสามเหลี่ยมกี่รูป (2) รูปที่ 12 มีสามเหลี่ยมกี่รูป (3) จะต้องเป็นรูปที่เท่าไรจึงจะมีสามเหลี่ยม 21 รูป",
       "correctAnswer": "(1) รูปที่ n = 2n-1 รูป (2) รูปที่ 12 = 23 รูป (3) 2n-1=21 → n=11 คือรูปที่ 11",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     },
     {
@@ -1849,7 +1849,7 @@
       "difficulty": "Hard",
       "question": "ร้านค้าสั่งซื้อผลไม้มา 200 กิโลกรัม ราคากิโลกรัมละ 30 บาท ขายได้ 160 กิโลกรัม ราคากิโลกรัมละ 50 บาท ส่วนที่เหลือทิ้ง จงคำนวณ (1) ร้อยละของผลไม้ที่ขายได้ (2) กำไรรวมเท่าไร (3) กำไรคิดเป็นร้อยละของต้นทุนเท่าไร",
       "correctAnswer": "(1) 80% (2) ต้นทุน=6,000 รายรับ=8,000 กำไร=2,000 บาท (3) 2,000/6,000×100 = 33.33%",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     },
     {
@@ -1861,7 +1861,7 @@
       "difficulty": "Hard",
       "question": "แบบรูปของจำนวน: 10, 12, 16, 22, 30 จงอธิบายความสัมพันธ์ของแบบรูปนี้ และหาจำนวนที่ 7 ในแบบรูป",
       "correctAnswer": "ผลต่างเพิ่มขึ้นทีละ 2 (+2,+4,+6,+8,+10,+12) → จำนวนที่ 6=40, จำนวนที่ 7=52",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     },
     {
@@ -1873,7 +1873,7 @@
       "difficulty": "Hard",
       "question": "ครอบครัวหนึ่งมีรายได้ 24,000 บาท/เดือน แบ่งค่าใช้จ่าย อาหาร:เดินทาง:ออมทรัพย์ = 4:2:2 จงหาจำนวนเงินในแต่ละประเภท และเงินออมทรัพย์คิดเป็นร้อยละเท่าไรของรายได้ทั้งหมด",
       "correctAnswer": "รวมสัดส่วน=8 → อาหาร=12,000 เดินทาง=6,000 ออม=6,000 บาท → ออม = 25% ของรายได้",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     },
     {
@@ -1885,7 +1885,7 @@
       "difficulty": "Hard",
       "question": "สร้างหอคอยบล็อกทรงสามเหลี่ยม 7 ชั้น โดยชั้นที่ 1 (บนสุด) มีบล็อก 1 ก้อน ชั้นที่ 2 มี 3 ก้อน ชั้นที่ 3 มี 5 ก้อน จงหา (1) จำนวนบล็อกในชั้นที่ 7 (2) บล็อกทั้งหมดที่ใช้สร้างหอคอย 7 ชั้น",
       "correctAnswer": "(1) ชั้นที่ n มีบล็อก 2n-1 → ชั้นที่ 7 = 13 ก้อน (2) รวมทั้งหมด = 1+3+5+7+9+11+13 = 49 ก้อน (7²=49)",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     },
     {
@@ -1897,7 +1897,7 @@
       "difficulty": "Hard",
       "question": "ร้านขายของชำมีรายรับรวมใน 1 สัปดาห์ 7,000 บาท แบ่งเป็น ขายข้าวสาร 2,100 บาท ขายน้ำมัน 1,400 บาท ขายของชำอื่นๆ ที่เหลือ จงหา (1) รายรับจากของชำอื่นๆ (2) ของชำอื่นๆ คิดเป็นร้อยละเท่าไรของรายรับรวม (3) เขียนอัตราส่วนข้าวสาร:น้ำมัน:ของชำอื่น ในรูปอย่างต่ำ",
       "correctAnswer": "(1) 3,500 บาท (2) 50% (3) 2,100:1,400:3,500 = 3:2:5",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     },
     {
@@ -1909,7 +1909,7 @@
       "difficulty": "Hard",
       "question": "แบบก่อสร้างอาคารเรียนใช้มาตราส่วน 1 ซม. : 4 ม. ในแบบก่อสร้าง ห้องเรียนมีขนาด 2 ซม. × 1.5 ซม. ระเบียงกว้าง 0.5 ซม. ยาว 5 ซม. จงคำนวณ (1) ขนาดจริงของห้องเรียน (2) ขนาดจริงของระเบียง (3) พื้นที่รวมจริงทั้งหมด",
       "correctAnswer": "(1) ห้องเรียนจริง 8×6=48 ตร.ม. (2) ระเบียงจริง 2×20=40 ตร.ม. (3) รวม = 88 ตารางเมตร",
-      "explanation": "ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
       "points": 3
     }
   ]

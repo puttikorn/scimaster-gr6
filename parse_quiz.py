@@ -29,12 +29,12 @@ def parse_quiz_file(md_filename, output_json, title_name):
         q_num = int(mcq_blocks[i])
         block = mcq_blocks[i+1]
         
-        topic = re.search(r'\* \*\*หัวข้อ\*\*:\s*(.*)', block)
-        lo = re.search(r'\* \*\*จุดประสงค์การเรียนรู้\*\*:\s*(.*)', block)
-        diff = re.search(r'\* \*\*ระดับความยาก\*\*:\s*(.*)', block)
-        prompt = re.search(r'\* \*\*โจทย์\*\*:\s*(.*)', block)
-        ans = re.search(r'\* \*\*คำตอบที่ถูกต้อง\*\*:\s*([ก-งA-D])', block)
-        exp = re.search(r'\* \*\*คำอธิบาย\*\*:\s*(.*)', block)
+        topic = re.search(r'\* \*\*(?:หัวข้อ|Topic)\*\*:\s*(.*)', block)
+        lo = re.search(r'\* \*\*(?:จุดประสงค์การเรียนรู้|Learning Objective)\*\*:\s*(.*)', block)
+        diff = re.search(r'\* \*\*(?:ระดับความยาก|Difficulty)\*\*:\s*(.*)', block)
+        prompt = re.search(r'\* \*\*(?:โจทย์|Prompt|Question)\*\*:\s*(.*)', block)
+        ans = re.search(r'\* \*\*(?:คำตอบที่ถูกต้อง|คำตอบ|Correct Answer|Answer)\*\*:\s*([ก-งA-D])', block)
+        exp = re.search(r'\* \*\*(?:คำอธิบาย|Explanation)\*\*:\s*(.*)', block)
         
         # Options
         options = {}
@@ -63,12 +63,12 @@ def parse_quiz_file(md_filename, output_json, title_name):
         q_num = int(tf_blocks[i])
         block = tf_blocks[i+1]
         
-        topic = re.search(r'\* \*\*หัวข้อ\*\*:\s*(.*)', block)
-        lo = re.search(r'\* \*\*จุดประสงค์การเรียนรู้\*\*:\s*(.*)', block)
-        diff = re.search(r'\* \*\*ระดับความยาก\*\*:\s*(.*)', block)
-        stmt = re.search(r'\* \*\*ข้อความ\*\*:\s*(.*)', block)
-        ans = re.search(r'\* \*\*คำตอบ\*\*:\s*(True|False|ถูก|ผิด)', block, re.IGNORECASE)
-        exp = re.search(r'\* \*\*คำอธิบาย\*\*:\s*(.*)', block)
+        topic = re.search(r'\* \*\*(?:หัวข้อ|Topic)\*\*:\s*(.*)', block)
+        lo = re.search(r'\* \*\*(?:จุดประสงค์การเรียนรู้|Learning Objective)\*\*:\s*(.*)', block)
+        diff = re.search(r'\* \*\*(?:ระดับความยาก|Difficulty)\*\*:\s*(.*)', block)
+        stmt = re.search(r'\* \*\*(?:ข้อความ|Statement|Prompt)\*\*:\s*(.*)', block)
+        ans = re.search(r'\* \*\*(?:คำตอบ|Answer|Correct Answer)\*\*:\s*(True|False|ถูก|ผิด)', block, re.IGNORECASE)
+        exp = re.search(r'\* \*\*(?:คำอธิบาย|Explanation)\*\*:\s*(.*)', block)
         
         ans_val = True if ans and ('true' in ans.group(1).lower() or 'ถูก' in ans.group(1)) else False
         
@@ -80,7 +80,7 @@ def parse_quiz_file(md_filename, output_json, title_name):
             'learningObjective': lo.group(1).strip() if lo else '',
             'difficulty': diff.group(1).strip() if diff else 'Medium',
             'question': stmt.group(1).strip().strip('"') if stmt else '',
-            'options': {'True': 'จริง (True)', 'False': 'เท็จ (False)'},
+            'options': {'True': 'True', 'False': 'False'},
             'correctAnswer': 'True' if ans_val else 'False',
             'explanation': exp.group(1).strip() if exp else '',
             'points': 1
@@ -92,13 +92,13 @@ def parse_quiz_file(md_filename, output_json, title_name):
         q_num = int(sc_blocks[i])
         block = sc_blocks[i+1]
         
-        topic = re.search(r'\* \*\*หัวข้อ\*\*:\s*(.*)', block)
-        lo = re.search(r'\* \*\*จุดประสงค์การเรียนรู้\*\*:\s*(.*)', block)
-        diff = re.search(r'\* \*\*ระดับความยาก\*\*:\s*(.*)', block)
-        scen = re.search(r'\* \*\*สถานการณ์\*\*:\s*(.*)', block)
-        q = re.search(r'\* \*\*คำถาม\*\*:\s*(.*)', block)
-        ans = re.search(r'\* \*\*คำตอบ\*\*:\s*(.*?)(?=\* \*\*คำอธิบาย\*\*|$)', block, re.DOTALL)
-        exp = re.search(r'\* \*\*คำอธิบาย\*\*:\s*(.*)', block)
+        topic = re.search(r'\* \*\*(?:หัวข้อ|Topic)\*\*:\s*(.*)', block)
+        lo = re.search(r'\* \*\*(?:จุดประสงค์การเรียนรู้|Learning Objective)\*\*:\s*(.*)', block)
+        diff = re.search(r'\* \*\*(?:ระดับความยาก|Difficulty)\*\*:\s*(.*)', block)
+        scen = re.search(r'\* \*\*(?:สถานการณ์|Scenario)\*\*:\s*(.*)', block)
+        q = re.search(r'\* \*\*(?:คำถาม|Question)\*\*:\s*(.*)', block)
+        ans = re.search(r'\* \*\*(?:คำตอบ|Answer)\*\*:\s*(.*?)(?=\* \*\*(?:คำอธิบาย|Explanation)\*\*|$)', block, re.DOTALL)
+        exp = re.search(r'\* \*\*(?:คำอธิบาย|Explanation)\*\*:\s*(.*)', block)
         
         questions.append({
             'id': q_num,
@@ -120,11 +120,11 @@ def parse_quiz_file(md_filename, output_json, title_name):
         q_num = int(sa_blocks[i])
         block = sa_blocks[i+1]
         
-        topic = re.search(r'\* \*\*หัวข้อ\*\*:\s*(.*)', block)
-        lo = re.search(r'\* \*\*จุดประสงค์การเรียนรู้\*\*:\s*(.*)', block)
-        diff = re.search(r'\* \*\*ระดับความยาก\*\*:\s*(.*)', block)
-        q = re.search(r'\* \*\*โจทย์\*\*:\s*(.*)', block)
-        exp_ans = re.search(r'\* \*\*แนวคำตอบที่คาดหวัง\*\*:\s*(.*)', block, re.DOTALL)
+        topic = re.search(r'\* \*\*(?:หัวข้อ|Topic)\*\*:\s*(.*)', block)
+        lo = re.search(r'\* \*\*(?:จุดประสงค์การเรียนรู้|Learning Objective)\*\*:\s*(.*)', block)
+        diff = re.search(r'\* \*\*(?:ระดับความยาก|Difficulty)\*\*:\s*(.*)', block)
+        q = re.search(r'\* \*\*(?:โจทย์|Prompt|Question)\*\*:\s*(.*)', block)
+        exp_ans = re.search(r'\* \*\*(?:แนวคำตอบที่คาดหวัง|Expected Answer|Explanation)\*\*:\s*(.*)', block, re.DOTALL)
         
         questions.append({
             'id': q_num,
@@ -135,7 +135,7 @@ def parse_quiz_file(md_filename, output_json, title_name):
             'difficulty': diff.group(1).strip() if diff else 'Medium',
             'question': q.group(1).strip() if q else '',
             'correctAnswer': exp_ans.group(1).strip() if exp_ans else '',
-            'explanation': 'ประเมินตามการอธิบายหลักการและความถูกต้องของขั้นตอน/ตัวอย่าง',
+            'explanation': 'Evaluation based on grammatical correctness, clarity, and completeness of explanation.',
             'points': 3
         })
 
@@ -168,8 +168,8 @@ if __name__ == '__main__':
     parse_quiz_file('Knowledge_Assessment_Programming_Thai_Gr6.md', 'quiz_programming_data.json', 'แบบทดสอบประเมินผลความรู้เทคโนโลยีการคำนวณ ชั้น ป.6 (Coding & CT Gr6 - MidFinal)')
     parse_quiz_file('Knowledge_Assessment_Chinese_Gr6.md', 'quiz_chinese_data.json', 'แบบทดสอบประเมินผลความรู้ภาษาจีน ชั้น ป.6 (ภาษาจีน Gr6 - MidFinal)')
     if os.path.exists('Knowledge_Assessment_English_Gr6.md'):
-        parse_quiz_file('Knowledge_Assessment_English_Gr6.md', 'quiz_english_data.json', 'แบบทดสอบประเมินผลความรู้ภาษาอังกฤษ ชั้น ป.6 (ภาษาอังกฤษ Gr6 - MidFinal)')
+        parse_quiz_file('Knowledge_Assessment_English_Gr6.md', 'quiz_english_data.json', 'English Language Assessment Grade 6 (English Gr.6 - MidFinal)')
     elif os.path.exists('Knowledge_Assessment_English_Languages_Gr6.md'):
-        parse_quiz_file('Knowledge_Assessment_English_Languages_Gr6.md', 'quiz_english_data.json', 'แบบทดสอบประเมินผลความรู้ภาษาอังกฤษ ชั้น ป.6 (ภาษาอังกฤษ Gr6 - MidFinal)')
+        parse_quiz_file('Knowledge_Assessment_English_Languages_Gr6.md', 'quiz_english_data.json', 'English Language Assessment Grade 6 (English Gr.6 - MidFinal)')
 
 
