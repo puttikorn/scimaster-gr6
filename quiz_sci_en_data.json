@@ -1,0 +1,1916 @@
+{
+  "title": "Science Assessment Grade 6 (Science Gr.6 - MidFinal)",
+  "meta": {
+    "totalQuestions": 115,
+    "totalScore": 150,
+    "passingPercentage": 80,
+    "passingScore": 120,
+    "sections": [
+      {
+        "key": "MCQ",
+        "name": "Section A: Multiple Choice (ปรนัย)",
+        "count": 60,
+        "pointsPerQuestion": 1,
+        "totalPoints": 60
+      },
+      {
+        "key": "TF",
+        "name": "Section B: True / False (ถูก / ผิด)",
+        "count": 30,
+        "pointsPerQuestion": 1,
+        "totalPoints": 30
+      },
+      {
+        "key": "Scenario",
+        "name": "Section C: Scenario-Based (สถานการณ์จำลอง)",
+        "count": 15,
+        "pointsPerQuestion": 2,
+        "totalPoints": 30
+      },
+      {
+        "key": "ShortAnswer",
+        "name": "Section D: Short Answer (อัตนัย / อธิบายความรู้)",
+        "count": 10,
+        "pointsPerQuestion": 3,
+        "totalPoints": 30
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which organ in the human digestive system is primarily responsible for absorbing nutrients into the bloodstream?",
+      "options": {
+        "ก": "Stomach",
+        "ข": "Small intestine",
+        "ค": "Large intestine",
+        "ง": "Esophagus"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The small intestine has villi that absorb digested nutrients into the blood.",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Where does the chemical digestion of carbohydrates begin in the human body?",
+      "options": {
+        "ก": "Mouth",
+        "ข": "Stomach",
+        "ค": "Small intestine",
+        "ง": "Gallbladder"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Salivary amylase in the mouth starts digesting starches into simple sugars.",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Nutrition",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which nutrient group is the primary source of quick energy for human body activities?",
+      "options": {
+        "ก": "Proteins",
+        "ข": "Carbohydrates",
+        "ค": "Vitamins",
+        "ง": "Minerals"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Carbohydrates (starches and sugars) provide main operational energy.",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which organ produces bile to help digest and emulsify fats?",
+      "options": {
+        "ก": "Stomach",
+        "ข": "Pancreas",
+        "ค": "Liver",
+        "ง": "Kidney"
+      },
+      "correctAnswer": "ค",
+      "explanation": "The liver produces bile, which is stored in the gallbladder and released into the small intestine.",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "What is the main function of the large intestine?",
+      "options": {
+        "ก": "Digest proteins",
+        "ข": "Absorb water and mineral salts",
+        "ค": "Produce digestive enzymes",
+        "ง": "Pump blood"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The large intestine absorbs remaining water and salts from indigestible food residues.",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Nutrition",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Lack of Vitamin C in the human diet causes which condition?",
+      "options": {
+        "ก": "Night blindness",
+        "ข": "Scurvy (bleeding gums)",
+        "ค": "Rickets",
+        "ง": "Beriberi"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Vitamin C deficiency leads to scurvy.",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Nutrition",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which nutrient is essential for tissue repair, growth, and building muscle cells?",
+      "options": {
+        "ก": "Fat",
+        "ข": "Protein",
+        "ค": "Carbohydrate",
+        "ง": "Vitamin D"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Protein supplies amino acids necessary for growth and tissue repair.",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Which blood vessels carry oxygenated blood away from the heart to body tissues?",
+      "options": {
+        "ก": "Veins",
+        "ข": "Arteries",
+        "ค": "Capillaries",
+        "ง": "Vena cava"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Arteries carry oxygen-rich blood away from the heart to the body.",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "During inhalation, what happens to the diaphragm muscle and ribcage?",
+      "options": {
+        "ก": "Diaphragm moves up, ribcage moves down",
+        "ข": "Diaphragm moves down, ribcage moves up and out",
+        "ค": "Both move down",
+        "ง": "Both relax"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Inhalation contracts the diaphragm downward and lifts the ribcage upward and outward to expand chest volume.",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which organ filters waste products like urea from the blood to produce urine?",
+      "options": {
+        "ก": "Heart",
+        "ข": "Lungs",
+        "ค": "Kidneys",
+        "ง": "Liver"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Kidneys filter metabolic waste from blood to form urine.",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ecosystems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Organisms that synthesize their own food using sunlight through photosynthesis are called ________.",
+      "options": {
+        "ก": "Producers",
+        "ข": "Primary consumers",
+        "ค": "Secondary consumers",
+        "ง": "Decomposers"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Green plants and algae are producers (autotrophs).",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ecosystems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Fungi and bacteria that break down dead organic matter into soil nutrients are ________.",
+      "options": {
+        "ก": "Herbivores",
+        "ข": "Carnivores",
+        "ค": "Decomposers",
+        "ง": "Omnivores"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Fungi and bacteria act as decomposers in an ecosystem.",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Symbiosis",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "The relationship between a shark and a remora fish (where remora feeds on scrap food without harming the shark) is an example of ________.",
+      "options": {
+        "ก": "Mutualism",
+        "ข": "Commensalism",
+        "ค": "Parasitism",
+        "ง": "Predation"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Commensalism (+/0) benefits one species while the other is unharmed.",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Symbiosis",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Lichens consist of an alga and a fungus living together where both benefit. This relationship is ________.",
+      "options": {
+        "ก": "Mutualism",
+        "ข": "Commensalism",
+        "ค": "Parasitism",
+        "ง": "Competition"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Mutualism (+/+) benefits both organisms.",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ecosystems",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "question": "In a food chain: Grass -> Grasshopper -> Frog -> Snake. If frogs are eliminated due to disease, what will likely happen initially?",
+      "options": {
+        "ก": "Snake population increases",
+        "ข": "Grasshopper population increases",
+        "ค": "Grass population decreases",
+        "ง": "Grasshopper population decreases"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Without frogs (predators), the grasshopper population will increase rapidly.",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Environment",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Which gas is the primary greenhouse gas contributing to global warming from burning fossil fuels?",
+      "options": {
+        "ก": "Oxygen",
+        "ข": "Nitrogen",
+        "ค": "Carbon dioxide",
+        "ง": "Helium"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Carbon dioxide (CO2) traps heat energy in the atmosphere.",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Environment",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which practice best demonstrates the 'Reduce' principle of environmental conservation?",
+      "options": {
+        "ก": "Making flower pots from old plastic bottles",
+        "ข": "Turning off lights when leaving a room",
+        "ค": "Selling scrap metal to recycling centers",
+        "ง": "Buying new plastic bags"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Turning off lights reduces energy consumption at the source.",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "States of Matter",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which state of matter has a definite volume but no definite shape, taking the shape of its container?",
+      "options": {
+        "ก": "Solid",
+        "ข": "Liquid",
+        "ค": "Gas",
+        "ง": "Plasma"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Liquids have fixed volume but adopt the container's shape.",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Changes of Matter",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "The phase change from gas directly to liquid upon cooling is called ________.",
+      "options": {
+        "ก": "Evaporation",
+        "ข": "Melting",
+        "ค": "Condensation",
+        "ง": "Sublimation"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Gas turning into liquid is condensation.",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Changes of Matter",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "The process of solid mothballs shrinking in size without turning into liquid is called ________.",
+      "options": {
+        "ก": "Freezing",
+        "ข": "Sublimation",
+        "ค": "Boiling",
+        "ง": "Dissolving"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Solid changing directly into gas is sublimation.",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Chemical Changes",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Which of the following is an example of a chemical change?",
+      "options": {
+        "ก": "Ice melting into water",
+        "ข": "Cutting paper into small pieces",
+        "ค": "Iron nail rusting in moist air",
+        "ง": "Dissolving sugar in warm water"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Iron rusting creates a new chemical substance (iron oxide).",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Separating Mixtures",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Which separation method is best suited to separate insoluble sand from water?",
+      "options": {
+        "ก": "Evaporation to dryness",
+        "ข": "Filtration",
+        "ค": "Magnetic separation",
+        "ง": "Distillation"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Filtration separates insoluble solids from liquids.",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Separating Mixtures",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "How can you recover pure salt from a saltwater solution?",
+      "options": {
+        "ก": "Filtration",
+        "ข": "Decantation",
+        "ค": "Evaporation to dryness",
+        "ง": "Using a sieve"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Evaporating water leaves solid salt crystals behind.",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Separating Mixtures",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Which technique separates iron filings from a mixture of iron and sulfur powder?",
+      "options": {
+        "ก": "Filtration",
+        "ข": "Magnetic separation",
+        "ค": "Distillation",
+        "ง": "Chromatography"
+      },
+      "correctAnswer": "ข",
+      "explanation": "A magnet attracts iron filings away from non-magnetic sulfur.",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Solutions",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "When sugar dissolves completely in water, what is the water called?",
+      "options": {
+        "ก": "Solute",
+        "ข": "Solvent",
+        "ค": "Solution",
+        "ง": "Suspension"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Water is the dissolving medium, called the solvent.",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Forces",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which force opposes the motion of two surfaces sliding past each other?",
+      "options": {
+        "ก": "Gravitational force",
+        "ข": "Frictional force",
+        "ค": "Magnetic force",
+        "ง": "Electrostatic force"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Friction opposes relative sliding motion.",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Forces",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "An object weighs 60 N on Earth. If gravity on the Moon is 1/6 of Earth's gravity, how much will the object weigh on the Moon?",
+      "options": {
+        "ก": "0 N",
+        "ข": "10 N",
+        "ค": "60 N",
+        "ง": "360 N"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Weight on Moon = 60 N / 6 = 10 N.",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Electric Circuits",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which material is a good electrical conductor?",
+      "options": {
+        "ก": "Plastic",
+        "ข": "Rubber",
+        "ค": "Copper wire",
+        "ง": "Wood"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Copper is a metallic conductor of electricity.",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Electric Circuits",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "In a series circuit containing two light bulbs, what happens if one bulb burns out?",
+      "options": {
+        "ก": "The other bulb burns brighter",
+        "ข": "The other bulb stays lit",
+        "ค": "The other bulb goes out",
+        "ง": "The circuit short circuits"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Series circuit path is broken, so all components turn off.",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Electric Circuits",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "In a parallel circuit with three light bulbs, what happens if one bulb burns out?",
+      "options": {
+        "ก": "All bulbs go out",
+        "ข": "The remaining bulbs stay lit",
+        "ค": "The battery explodes",
+        "ง": "Voltage drops to zero"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Parallel circuits provide independent current paths for each bulb.",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Sound",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Sound waves CANNOT travel through which medium?",
+      "options": {
+        "ก": "Air",
+        "ข": "Water",
+        "ค": "Steel beam",
+        "ง": "Vacuum (outer space)"
+      },
+      "correctAnswer": "ง",
+      "explanation": "Sound requires a physical medium to propagate; it cannot travel in a vacuum.",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Sound",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "The pitch of a sound (high or low pitch) depends primarily on the sound wave's ________.",
+      "options": {
+        "ก": "Amplitude",
+        "ข": "Frequency",
+        "ค": "Speed",
+        "ง": "Color"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Frequency determines pitch (high frequency = high pitch).",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Light",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "When light bounces off a smooth shiny surface like a mirror, this phenomenon is called ________.",
+      "options": {
+        "ก": "Refraction",
+        "ข": "Reflection",
+        "ค": "Absorption",
+        "ง": "Diffraction"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Bouncing of light off a surface is reflection.",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Light",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "A pencil appearing bent when placed in a glass of water is caused by light ________.",
+      "options": {
+        "ก": "Reflection",
+        "ข": "Refraction",
+        "ค": "Dispersion",
+        "ง": "Shadowing"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Refraction occurs when light changes speed traveling through different media (air and water).",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Forces & Floatation",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "An object floats in water when the upward buoyant force acting on it is ________ its total weight.",
+      "options": {
+        "ก": "Less than",
+        "ข": "Equal to",
+        "ค": "Greater than zero but less than weight",
+        "ง": "Zero"
+      },
+      "correctAnswer": "ข",
+      "explanation": "For a floating object, Buoyant force equals object weight.",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Astronomy",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Earth completes one full rotation on its axis in approximately ________.",
+      "options": {
+        "ก": "12 hours",
+        "ข": "24 hours (1 day)",
+        "ค": "30 days",
+        "ง": "365 days (1 year)"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Earth's rotation takes 24 hours, causing day and night.",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Astronomy",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Earth completes one full orbit (revolution) around the Sun in approximately ________.",
+      "options": {
+        "ก": "24 hours",
+        "ข": "28 days",
+        "ค": "365.25 days (1 year)",
+        "ง": "10 years"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Revolution around the Sun takes 365.25 days.",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Astronomy",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "What alignment of the Sun, Earth, and Moon causes a Solar Eclipse?",
+      "options": {
+        "ก": "Sun - Earth - Moon",
+        "ข": "Sun - Moon - Earth",
+        "ค": "Earth - Sun - Moon",
+        "ง": "Moon - Sun - Earth"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Solar Eclipse occurs when the Moon passes between the Sun and Earth (Sun - Moon - Earth).",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Astronomy",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "During which Moon phase can a Lunar Eclipse occur?",
+      "options": {
+        "ก": "New Moon",
+        "ข": "First Quarter",
+        "ค": "Full Moon",
+        "ง": "Crescent Moon"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Lunar Eclipse occurs only during Full Moon when Earth's shadow falls on the Moon.",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Geology (Rocks)",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Rocks formed from the cooling and solidification of molten magma or lava are called ________.",
+      "options": {
+        "ก": "Sedimentary rocks",
+        "ข": "Igneous rocks",
+        "ค": "Metamorphic rocks",
+        "ง": "Fossil rocks"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Cooling of magma/lava forms igneous rocks.",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Geology (Rocks)",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Fossils of ancient plants and animals are most commonly found in which rock type?",
+      "options": {
+        "ก": "Igneous rocks",
+        "ข": "Sedimentary rocks",
+        "ค": "Metamorphic rocks",
+        "ง": "Volcanic glass"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Layered sedimentary rocks preserve fossils.",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Geology (Rocks)",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Marble is formed when limestone undergoes extreme heat and pressure inside the Earth. Marble is a(n) ________ rock.",
+      "options": {
+        "ก": "Igneous",
+        "ข": "Sedimentary",
+        "ค": "Metamorphic",
+        "ง": "Extrusive"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Heat and pressure transform rocks into metamorphic rocks.",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Natural Disasters",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "A giant sea wave caused by a sudden underwater earthquake or volcanic eruption is a ________.",
+      "options": {
+        "ก": "Tornado",
+        "ข": "Tsunami",
+        "ค": "Hurricane",
+        "ง": "Cyclone"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Underwater seismic activity triggers a tsunami.",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Natural Disasters",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Which instrument is used to detect and record earthquake seismic waves?",
+      "options": {
+        "ก": "Barometer",
+        "ข": "Seismograph",
+        "ค": "Anemometer",
+        "ง": "Thermometer"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Seismographs record earthquake ground vibrations.",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Earth Systems",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "The movement of water continuously between Earth's surface and the atmosphere is the ________.",
+      "options": {
+        "ก": "Rock cycle",
+        "ข": "Water cycle",
+        "ค": "Carbon cycle",
+        "ง": "Nitrogen cycle"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Evaporation, condensation, and precipitation form the water cycle.",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Nutrition",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Which vitamin is synthesized by human skin when exposed to morning sunlight?",
+      "options": {
+        "ก": "Vitamin A",
+        "ข": "Vitamin B",
+        "ค": "Vitamin C",
+        "ง": "Vitamin D"
+      },
+      "correctAnswer": "ง",
+      "explanation": "Sunlight stimulates skin synthesis of Vitamin D.",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "What is the function of red blood cells in the circulatory system?",
+      "options": {
+        "ก": "Fight bacterial infections",
+        "ข": "Transport oxygen using hemoglobin",
+        "ค": "Clot blood at wounds",
+        "ง": "Digest food particles"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Red blood cells contain hemoglobin to transport oxygen.",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ecosystems",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Herbivores are organisms that eat ________.",
+      "options": {
+        "ก": "Only plants",
+        "ข": "Only animals",
+        "ค": "Both plants and animals",
+        "ง": "Dead organisms"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Herbivores feed exclusively on plants.",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "States of Matter",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Why does ice float on water?",
+      "options": {
+        "ก": "Ice is denser than liquid water",
+        "ข": "Ice is less dense than liquid water",
+        "ค": "Ice has no mass",
+        "ง": "Water repels ice"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Water expands when freezing, making ice less dense than liquid water.",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Electric Circuits",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which component opens or closes an electric circuit?",
+      "options": {
+        "ก": "Resistor",
+        "ข": "Battery",
+        "ค": "Switch",
+        "ง": "Voltmeter"
+      },
+      "correctAnswer": "ค",
+      "explanation": "A switch controls the opening and closing of a circuit.",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Sound",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Noise pollution refers to sound levels exceeding ________ decibels (dB) that can cause hearing damage.",
+      "options": {
+        "ก": "40 dB",
+        "ข": "60 dB",
+        "ค": "85 dB",
+        "ง": "120 dB"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Continuous exposure to sounds above 85 dB causes hearing impairment.",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Forces",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "How can friction be reduced between moving machine parts?",
+      "options": {
+        "ก": "Applying lubricants like oil or grease",
+        "ข": "Roughening the contact surfaces",
+        "ค": "Increasing object weight",
+        "ง": "Using sandpaper"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Lubricants reduce surface friction between moving components.",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Astronomy",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "What causes the changing seasons on Earth?",
+      "options": {
+        "ก": "Distance between Earth and Sun changing",
+        "ข": "Tilt of Earth's axis (23.5°) as it revolves around the Sun",
+        "ค": "Moon's gravitational pull",
+        "ง": "Sun's variable energy output"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Earth's 23.5° axial tilt during annual revolution causes seasonal variations.",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Environment",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Acid rain is caused primarily by atmospheric emission of which gases?",
+      "options": {
+        "ก": "Sulfur dioxide and Nitrogen oxides",
+        "ข": "Oxygen and Nitrogen",
+        "ค": "Carbon monoxide and Argon",
+        "ง": "Methane and Water vapor"
+      },
+      "correctAnswer": "ก",
+      "explanation": "SO2 and NOx react with atmospheric water vapor to form acid rain.",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Separating Mixtures",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Decantation is used to separate ________.",
+      "options": {
+        "ก": "Two miscible liquids",
+        "ข": "Heavy insoluble solid settled at the bottom of a liquid",
+        "ค": "Dissolved salt from water",
+        "ง": "Two gases"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Decantation pours off liquid from settled dense insoluble solids.",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Changes of Matter",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Which of the following processes absorbs heat energy (endothermic)?",
+      "options": {
+        "ก": "Water freezing into ice",
+        "ข": "Water vapor condensing into rain",
+        "ค": "Ice melting into water",
+        "ง": "Steam condensing to liquid"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Melting requires heat energy input to break solid particle bonds.",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "What is the main function of white blood cells?",
+      "options": {
+        "ก": "Carry carbon dioxide",
+        "ข": "Defend the body against pathogens and infections",
+        "ค": "Form blood clots",
+        "ง": "Transport nutrients"
+      },
+      "correctAnswer": "ข",
+      "explanation": "White blood cells produce antibodies and engulf pathogens.",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ecosystems",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Which organism represents a secondary consumer in a forest food chain?",
+      "options": {
+        "ก": "Oak tree",
+        "ข": "Caterpillar eating leaves",
+        "ค": "Bird eating caterpillars",
+        "ง": "Fungus decomposing wood"
+      },
+      "correctAnswer": "ค",
+      "explanation": "A bird eating a primary consumer (caterpillar) is a secondary consumer.",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Natural Disasters",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "During an earthquake, if you are indoors, what is the safest immediate action?",
+      "options": {
+        "ก": "Run outside using an elevator",
+        "ข": "Stand near glass windows",
+        "ค": "Drop, Cover, and Hold On under a sturdy table",
+        "ง": "Panic and shout"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Taking shelter under sturdy furniture protects from falling debris.",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Astronomy",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Which celestial body does NOT produce its own light and reflects sunlight?",
+      "options": {
+        "ก": "The Sun",
+        "ข": "North Star (Polaris)",
+        "ค": "The Moon",
+        "ง": "Alpha Centauri"
+      },
+      "correctAnswer": "ค",
+      "explanation": "The Moon is a non-luminous body reflecting sunlight.",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Digestion of protein begins in the stomach with the action of pepsin and hydrochloric acid.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Gastric juice (pepsin + HCl) begins protein breakdown in the stomach.",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Vitamins and minerals provide zero calories of energy to the human body.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Vitamins and minerals regulate metabolic processes but supply no caloric energy.",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Nutrition",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Fats yield more than twice as much energy per gram (9 kcal/g) compared to carbohydrates (4 kcal/g).",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Fat provides 9 kcal/g, while carbohydrates and proteins provide 4 kcal/g.",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Ecosystems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Decomposers transfer energy directly back to the Sun.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Energy flows one-way from the Sun to organisms and leaves as heat; decomposers recycle nutrients, not solar energy.",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Symbiosis",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "A tick feeding on a dog's blood is an example of parasitism (+/-).",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. The parasite (tick) benefits (+), while the host (dog) is harmed (-).",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Changes of Matter",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Rusting of iron is a reversible physical change.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Rusting forms a new substance (iron oxide) and is an irreversible chemical change.",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Changes of Matter",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Burning wood into ash and smoke is a chemical change.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Combustion forms new chemical substances (ash, CO2, water vapor).",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Separating Mixtures",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Filtration can be used to separate dissolved table salt from water.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Dissolved salt passes through filter paper; evaporation to dryness is required.",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "States of Matter",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Gas particles are tightly packed in fixed orderly positions.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Solids have tightly packed fixed particles; gas particles move freely with large spacing.",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Forces",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Friction always acts in the direction OPPOSITE to an object's motion.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Friction opposes relative motion between contacting surfaces.",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Forces",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Mass changes depending on the gravitational strength of the planet you are on.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Mass (amount of matter) remains constant; weight changes with gravity.",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Electric Circuits",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Pure distilled water is an excellent conductor of electricity.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Pure water lacks free ions and is a poor conductor; dissolved salts enable conductivity.",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Electric Circuits",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "An electromagnet loses its magnetism when the electric current is turned off.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Electromagnets are temporary magnets dependent on electric current flow.",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Sound",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Sound travels faster in solids than in liquids and gases.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Tightly packed particles in solids transmit sound vibrations faster than liquids or gases.",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Sound",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Increasing the amplitude of a sound wave makes the pitch higher.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Amplitude determines loudness/volume, while frequency determines pitch.",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Light",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Light travels in straight lines called rays.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Rectilinear propagation of light means light travels in straight lines.",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Astronomy",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "A Solar Eclipse occurs when Earth passes directly between the Sun and the Moon.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Earth between Sun and Moon causes a LUNAR Eclipse. Solar Eclipse occurs when the MOON passes between Sun and Earth.",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Astronomy",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "The Moon shines because it undergoes nuclear fusion like the Sun.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. The Moon reflects light received from the Sun.",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Geology",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Igneous rocks are formed from layers of accumulated sediment over millions of years.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Layered sediments form Sedimentary rocks. Igneous rocks form from cooling magma/lava.",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Environment",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Deforestation increases atmospheric carbon dioxide because trees absorb CO2 during photosynthesis.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Fewer trees reduce CO2 absorption, raising global atmospheric CO2 levels.",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "The alveoli in the lungs are the site of gas exchange between air and blood capillaries.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Oxygen diffuses into blood and CO2 diffuses out across alveolar walls.",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Human Body Systems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Platelets are blood components responsible for carrying oxygen.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Red blood cells carry oxygen; platelets facilitate blood clotting.",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Nutrition",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Water is essential for temperature regulation, waste removal, and biochemical reactions in the body.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Water makes up ~60% of human body weight and regulates bodily functions.",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Ecosystems",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "A carnivore is an animal that eats only plants.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Carnivores eat meat/animals. Herbivores eat plants.",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Forces",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Like magnetic poles (N-N or S-S) attract each other.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Like poles repel each other; opposite poles (N-S) attract.",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Electric Circuits",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Fuses and circuit breakers protect electrical circuits from overheating due to excessive current.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Fuses melt to open the circuit during current overloads.",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Changes of Matter",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Dissolving salt in water is a physical change because salt can be recovered by evaporating the water.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. No new chemical substance is created, and the process is reversible.",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Natural Disasters",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Tsunamis are giant wind-driven ocean waves caused by hurricanes.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Tsunamis are caused by undersea seismic activity (earthquakes/volcanoes), not wind.",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Astronomy",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Easy",
+      "question": "Day and night are caused by Earth's revolution around the Sun.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Incorrect. Day and night are caused by Earth's ROTATION on its axis.",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Environment",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Recycling plastic reduces the volume of solid waste sent to landfills.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Correct. Recycling reprocesses materials into new products, reducing landfill waste.",
+      "points": 1
+    },
+    {
+      "id": 91,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Human Digestive System Scenario",
+      "learningObjective": "LO-SCI4",
+      "difficulty": "Hard",
+      "scenario": "Tom ate a lunch consisting of grilled chicken (protein), steamed rice (carbohydrate), and buttered toast (fat). Trace the pathway of digestion for chicken (protein) through Tom's digestive tract, mentioning organs and digestive juices.",
+      "question": "Question: Describe the digestive path of protein (chicken) from entrance to absorption.",
+      "correctAnswer": "1) Mouth: Mechanical breakdown by teeth, swallowed down esophagus.\\n2) Stomach: Gastric juice containing pepsin and hydrochloric acid begins chemical protein digestion.\\n3) Small Intestine: Pancreatic juice and intestinal enzymes complete protein breakdown into amino acids.\\n4) Absorption: Amino acids are absorbed into bloodstream through villi in small intestine.",
+      "explanation": "Explanation: Protein digestion begins in stomach (pepsin) and finishes in small intestine.",
+      "points": 2
+    },
+    {
+      "id": 92,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Food Web Analysis Scenario",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "scenario": "In a pond ecosystem food web: Phytoplankton -> Zooplankton -> Small Fish -> Osprey (bird). Farmers spray pesticides nearby, which wash into the pond. Pesticide concentration accumulates higher up the food chain (biomagnification). Which organism will have the highest pesticide concentration, and why?",
+      "question": "Question: Identify the organism with the highest pesticide toxicity and explain biomagnification.",
+      "correctAnswer": "Organism: Osprey (top predator).\\nReason: Biomagnification causes non-biodegradable toxins to accumulate in progressively higher concentrations at higher trophic levels. As Osprey eats many small fish over its lifespan, it accumulates the maximum toxin concentration.",
+      "explanation": "Explanation: Biomagnification concentrates persistent toxins at top trophic levels.",
+      "points": 2
+    },
+    {
+      "id": 93,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Separating Mixture Scenario",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "scenario": "A student accidentally mixed iron filings, table salt, and coarse sand in a container. Design a step-by-step procedure using physical separation techniques to isolate all three components cleanly.",
+      "question": "Question: Outline the step-by-step separation process for iron, salt, and sand.",
+      "correctAnswer": "Step 1: Use a magnet to attract and remove iron filings.\\nStep 2: Add water to remaining salt and sand mixture; stir until salt completely dissolves.\\nStep 3: Filter the mixture using filter paper to collect sand on paper.\\nStep 4: Heat the salt solution to evaporate water, leaving dry salt crystals.",
+      "explanation": "Explanation: Magnetic separation -> Dissolution -> Filtration -> Evaporation.",
+      "points": 2
+    },
+    {
+      "id": 94,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Electric Circuit Troubleshooting Scenario",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "scenario": "A student constructs a circuit with a battery, a switch, and two light bulbs connected in series. When the switch is closed, neither bulb lights up. List 3 possible reasons for this failure and how to test them.",
+      "question": "Question: Identify 3 possible circuit faults and diagnostic steps.",
+      "correctAnswer": "Fault 1: Dead battery -> Test with a new battery or voltmeter.\\nFault 2: One bulb is burnt out -> Replace each bulb or inspect filaments.\\nFault 3: Loose wire connection or open switch -> Check and tighten all connection terminals.",
+      "explanation": "Explanation: Series circuits require a continuous unbroken path for current flow.",
+      "points": 2
+    },
+    {
+      "id": 95,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Eclipse Observation Scenario",
+      "learningObjective": "LO-SCI4",
+      "difficulty": "Hard",
+      "scenario": "During a solar eclipse event, people are advised never to look directly at the Sun with naked eyes or regular sunglasses. Explain the astronomical cause of a solar eclipse and safe observation methods.",
+      "question": "Question: Explain the Solar Eclipse alignment and eye safety guidelines.",
+      "correctAnswer": "Cause: Solar Eclipse occurs when Moon passes directly between Sun and Earth, casting Moon's shadow on Earth.\\nEye Safety: Direct solar viewing causes severe retinal burn from UV/IR radiation. Safe methods include ISO-certified solar eclipse glasses or pinhole projection.",
+      "explanation": "Explanation: Sun-Moon-Earth alignment; solar radiation damages retinal cells.",
+      "points": 2
+    },
+    {
+      "id": 96,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "State Change & Heat Transfer Scenario",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "scenario": "A glass of iced water is placed on a table in a warm room. After 15 minutes, water droplets form on the outer surface of the glass. Explain where the water droplets came from and the heat process involved.",
+      "question": "Question: Explain the origin of outer glass water droplets and phase change.",
+      "correctAnswer": "Origin: Water vapor present in ambient air.\\nProcess: Warm air water vapor contacts the cold glass surface, loses heat energy, and undergoes condensation into liquid water droplets.",
+      "explanation": "Explanation: Cooling air vapor below dew point causes condensation.",
+      "points": 2
+    },
+    {
+      "id": 97,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Friction & Safety Scenario",
+      "learningObjective": "LO-SCI4",
+      "difficulty": "Hard",
+      "scenario": "Engineers design car tires with deep tread patterns. Explain how tread patterns affect frictional force on wet roads and why worn-out smooth tires are dangerous.",
+      "question": "Question: Explain tire tread function on wet roads and hazards of smooth tires.",
+      "correctAnswer": "Tread Function: Deep grooves channel water away from tire contact area, maintaining rubber-road contact and high frictional grip.\\nWorn Tires: Smooth tires trap water underneath (hydroplaning), drastically reducing friction, causing skidding and brake failure.",
+      "explanation": "Explanation: Tire treads displace water to preserve frictional traction.",
+      "points": 2
+    },
+    {
+      "id": 98,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Sound Pitch & Frequency Scenario",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "scenario": "A student plucks two guitar strings: String A (thick and loose) and String B (thin and tight). Which string will produce a higher pitch sound? Explain the relationship between string tension/thickness, vibration frequency, and pitch.",
+      "question": "Question: Compare pitch between String A and B and explain acoustic frequency.",
+      "correctAnswer": "Higher Pitch: String B (thin and tight).\\nExplanation: Thinner and tighter strings vibrate faster (higher frequency). Higher frequency vibrations produce higher pitch sound waves.",
+      "explanation": "Explanation: High string tension/thinness -> Higher frequency -> Higher pitch.",
+      "points": 2
+    },
+    {
+      "id": 99,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Photosynthesis & Plant Biology Scenario",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "scenario": "A green plant is placed in a sealed glass jar with sunlight, water, and carbon dioxide. Write the word equation for photosynthesis and explain how plants support oxygen supply for animals.",
+      "question": "Question: Write the photosynthesis word equation and explain gas exchange balance.",
+      "correctAnswer": "Equation: Carbon dioxide + Water + Sunlight (Chlorophyll) -> Glucose + Oxygen.\\nAnimal Support: Plants release oxygen as a byproduct of photosynthesis, which animals inhale for cellular respiration.",
+      "explanation": "Explanation: CO2 + H2O + Light -> C6H12O6 + O2.",
+      "points": 2
+    },
+    {
+      "id": 100,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Balanced Diet & Caloric Need Scenario",
+      "learningObjective": "LO-SCI4",
+      "difficulty": "Hard",
+      "scenario": "An 11-year-old active student needs approximately 1,800 kcal per day. Compare his diet requirements with an adult office worker who sits all day, and recommend a balanced meal plan.",
+      "question": "Question: Compare nutritional needs between active child and sedentary worker.",
+      "correctAnswer": "Child Needs: Higher proportion of carbohydrates for energy and proteins for active growth/repair.\\nSedentary Worker Needs: Fewer total calories to prevent weight gain; higher fiber/vitamins.\\nChild Meal Plan: Brown rice (carbs), grilled chicken/egg (protein), milk (calcium), fresh fruits/vegetables.",
+      "explanation": "Explanation: Caloric and protein intake must match activity level and growth stage.",
+      "points": 2
+    },
+    {
+      "id": 101,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Light Refraction & Lenses Scenario",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "scenario": "A swimming pool appears shallower than its actual depth when viewed from above. Explain the optical phenomenon responsible for this illusion with a ray path description.",
+      "question": "Question: Explain why pool water appears shallower using optical refraction.",
+      "correctAnswer": "Phenomenon: Light Refraction.\\nExplanation: Light reflected from pool bottom travels from water (denser) to air (less dense), speeding up and bending away from normal line before entering viewer's eye. The brain traces rays straight back, making pool bottom appear higher.",
+      "explanation": "Explanation: Refraction bending light away from normal at water-air boundary.",
+      "points": 2
+    },
+    {
+      "id": 102,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Earthquake & Tsunami Safety Scenario",
+      "learningObjective": "LO-SCI4",
+      "difficulty": "Hard",
+      "scenario": "A coastal town experiences a strong 7.2 magnitude earthquake. Minutes later, sea water recedes rapidly from the beach. What natural disaster is imminent, and what immediate evacuation steps should residents take?",
+      "question": "Question: Identify the disaster warning signal and safety evacuation plan.",
+      "correctAnswer": "Imminent Disaster: Tsunami.\\nEvacuation Steps: Immediately run to high ground or inland at least 2-3 km away; do not stay at beach to watch receding water; seek shelter in sturdy concrete buildings above 3rd floor.",
+      "explanation": "Explanation: Sudden coastal water recession is a natural warning sign of tsunami.",
+      "points": 2
+    },
+    {
+      "id": 103,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Rock Cycle & Geology Scenario",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "scenario": "Explain how a volcanic igneous rock (like basalt) can eventually transform into a metamorphic rock (like slate/schist) through geological processes.",
+      "question": "Question: Trace the geological transformation path from igneous to metamorphic rock.",
+      "correctAnswer": "Step 1: Weathering & Erosion break basalt into small rock sediments.\\nStep 2: Transport & Deposition layer sediments in lakes/oceans.\\nStep 3: Compaction & Cementation form Sedimentary rock over millions of years.\\nStep 4: Tectonic Heat & Pressure deep underground transform sedimentary rock into Metamorphic rock.",
+      "explanation": "Explanation: Igneous -> Weathering/Sedimentation -> Sedimentary -> Heat/Pressure -> Metamorphic.",
+      "points": 2
+    },
+    {
+      "id": 104,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Global Warming & Carbon Footprint Scenario",
+      "learningObjective": "LO-SCI4",
+      "difficulty": "Hard",
+      "scenario": "Explain how excessive burning of fossil fuels in power plants and vehicles leads to enhanced greenhouse effect and climate change, and suggest 3 personal actions to reduce carbon footprint.",
+      "question": "Question: Describe greenhouse mechanism and 3 personal carbon reduction actions.",
+      "correctAnswer": "Mechanism: Burning fossil fuels releases CO2 gas. CO2 traps infrared heat radiated from Earth, preventing heat escape into space, causing global temperature rise.\\n3 Actions: 1) Use public transport or bicycle instead of private cars. 2) Save electricity by turning off unused appliances. 3) Plant trees to absorb CO2.",
+      "explanation": "Explanation: CO2 heat trapping -> Climate change; actions reduce energy/fuel usage.",
+      "points": 2
+    },
+    {
+      "id": 105,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Buoyancy & Ship Design Scenario",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "scenario": "A solid iron block sinks immediately in water, but a huge cargo ship made of iron floats easily on ocean waters. Explain Archimedes' principle and why the ship floats.",
+      "question": "Question: Explain why an iron ship floats while a solid iron block sinks.",
+      "correctAnswer": "Explanation: A solid iron block is denser than water. However, a ship is hollowed out containing large air spaces. This increases the total volume, reducing the overall average density of the ship to less than water. The hollow ship displaces a large weight of water equal to its own total weight, generating sufficient buoyant force to float.",
+      "explanation": "Explanation: Hollow shape increases displaced volume, reducing average density below water.",
+      "points": 2
+    },
+    {
+      "id": 106,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Human Digestive System Organs & Functions",
+      "learningObjective": "LO-SCI1",
+      "difficulty": "Medium",
+      "question": "List the 5 major organs of the human digestive tract in sequence from food entry to waste exit, and state the main digestion function of the stomach and small intestine.",
+      "correctAnswer": "Sequence: Mouth -> Esophagus -> Stomach -> Small Intestine -> Large Intestine.\\n- Stomach Function: Secretes gastric juice (HCl + pepsin) to digest proteins and kill bacteria.\\n- Small Intestine Function: Completes digestion of carbs, proteins, and fats, and absorbs nutrients into blood.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 107,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Food Chain & Trophic Energy Flow",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Construct a 4-step terrestrial food chain using: Hawk, Grass, Snake, Grasshopper. Identify the Producer, Primary Consumer, Secondary Consumer, and Tertiary Consumer.",
+      "correctAnswer": "Food Chain: Grass -> Grasshopper -> Snake -> Hawk.\\n- Producer: Grass\\n- Primary Consumer: Grasshopper (herbivore)\\n- Secondary Consumer: Snake (carnivore)\\n- Tertiary Consumer: Hawk (top predator)",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 108,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Physical vs Chemical Changes Comparison",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Compare Physical Changes and Chemical Changes using 3 criteria: 1) Formation of new substances, 2) Reversibility, 3) Give 1 practical example for each.",
+      "correctAnswer": "1) New Substances: Physical change = No new substance; Chemical change = New substance formed.\\n2) Reversibility: Physical change = Usually reversible; Chemical change = Usually irreversible.\\n3) Examples: Physical = Ice melting into water; Chemical = Iron nail rusting.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 109,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Separating 3-Component Mixture",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "question": "Explain how to separate a mixture of Salt, Water, and Sand to obtain pure dry sand and dry salt crystals.",
+      "correctAnswer": "Step 1: Filter the saltwater and sand mixture through filter paper to collect sand on paper; wash and dry sand.\\nStep 2: Collect the clear saltwater filtrate.\\nStep 3: Heat the filtrate in an evaporating dish until all water evaporates, leaving solid dry salt crystals.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 110,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Series vs Parallel Circuits Comparison",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Compare Series Circuits and Parallel Circuits regarding: 1) Current pathway count, 2) Effect when one bulb burns out, 3) Common household application.",
+      "correctAnswer": "1) Current Paths: Series = 1 single path; Parallel = Multiple independent paths.\\n2) Bulb Burnout Effect: Series = All bulbs go out; Parallel = Remaining bulbs stay lit.\\n3) Household Use: Parallel circuits are used in house wiring so appliances operate independently.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 111,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Sound Pitch vs Loudness Factors",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "Explain the difference between Sound Pitch and Sound Loudness, including the wave property that controls each.",
+      "correctAnswer": "1) Pitch: Describes how high or low a sound is; controlled by Wave Frequency (Hz). High frequency = High pitch.\\n2) Loudness: Describes how loud or soft a sound is; controlled by Wave Amplitude (dB). High amplitude = Loud sound.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 112,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Solar vs Lunar Eclipse Mechanics",
+      "learningObjective": "LO-SCI3",
+      "difficulty": "Hard",
+      "question": "Differentiate between a Solar Eclipse and a Lunar Eclipse regarding: 1) Alignment order of Sun, Earth, Moon, 2) Moon phase required, 3) Time of day it occurs.",
+      "correctAnswer": "1) Alignment: Solar = Sun - Moon - Earth; Lunar = Sun - Earth - Moon.\\n2) Moon Phase: Solar = New Moon; Lunar = Full Moon.\\n3) Time of Occurrence: Solar = Daytime; Lunar = Nighttime.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 113,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Rock Types Classification & Formation",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "List the 3 main types of rocks categorized by their formation process, and briefly describe how each type is formed.",
+      "correctAnswer": "1) Igneous Rocks: Formed from the cooling and solidification of molten magma or lava.\\n2) Sedimentary Rocks: Formed from accumulation, compaction, and cementation of rock sediments.\\n3) Metamorphic Rocks: Formed when existing rocks are transformed by intense heat and pressure.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 114,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Frictional Force Advantages & Disadvantages",
+      "learningObjective": "LO-SCI2",
+      "difficulty": "Medium",
+      "question": "State 2 advantages and 2 disadvantages of frictional force in daily life.",
+      "correctAnswer": "Advantages:\\n1) Allows us to walk without slipping.\\n2) Enables vehicle brakes to stop moving cars.\\nDisadvantages:\\n1) Causes wear and tear on machine parts and shoe soles.\\n2) Produces unwanted heat and energy loss in engines.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 115,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Global Warming Causes & Mitigations",
+      "learningObjective": "LO-SCI4",
+      "difficulty": "Hard",
+      "question": "Explain the cause of Global Warming and outline 3 actionable strategies to mitigate its environmental impact.",
+      "correctAnswer": "Cause: Excess greenhouse gases (mainly CO2) from human activity trap heat in Earth's atmosphere, causing average global temperature rise.\\n3 Strategies:\\n1) Switch to renewable energy (solar/wind) instead of fossil fuels.\\n2) Reforestation and planting trees to absorb atmospheric CO2.\\n3) Practice 3Rs (Reduce, Reuse, Recycle) to conserve energy and materials.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    }
+  ]
+}

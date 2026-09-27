@@ -29,6 +29,7 @@ function getStorageKeys() {
                : state.currentSubject === 'chinese' ? 'chinese_gr6'
                : state.currentSubject === 'english' ? 'english_gr6'
                : state.currentSubject === 'math_en' ? 'mathmaster_en_gr6'
+               : state.currentSubject === 'sci_en' ? 'scimaster_en_gr6'
                : 'scimaster_gr6';
   return {
     STORAGE_KEY: `${prefix}_exam_state_v1`,
@@ -48,6 +49,7 @@ const subProgBtn = document.getElementById('subProgBtn');
 const subChineseBtn = document.getElementById('subChineseBtn');
 const subEngBtn = document.getElementById('subEngBtn');
 const subMathEnBtn = document.getElementById('subMathEnBtn');
+const subSciEnBtn = document.getElementById('subSciEnBtn');
 
 const qSectionBadge = document.getElementById('qSectionBadge');
 const qTopicBadge = document.getElementById('qTopicBadge');
@@ -95,6 +97,7 @@ async function init() {
                : state.currentSubject === 'chinese' ? 'quiz_chinese_data.json'
                : state.currentSubject === 'english' ? 'quiz_english_data.json'
                : state.currentSubject === 'math_en' ? 'quiz_math_en_data.json'
+               : state.currentSubject === 'sci_en' ? 'quiz_sci_en_data.json'
                : 'quiz_data.json';
   
   try {
@@ -158,8 +161,8 @@ function switchSubject(newSubject) {
 
 function updateSubjectThemeUI() {
   // Remove active from all pills first
-  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn, subChineseBtn, subEngBtn, subMathEnBtn].forEach(btn => {
-    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme', 'chinese-theme', 'english-theme', 'math-en-theme');
+  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn, subChineseBtn, subEngBtn, subMathEnBtn, subSciEnBtn].forEach(btn => {
+    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme', 'chinese-theme', 'english-theme', 'math-en-theme', 'sci-en-theme');
   });
 
   if (state.currentSubject === 'math') {
@@ -198,6 +201,12 @@ function updateSubjectThemeUI() {
     if (brandIcon) brandIcon.className = 'fa-solid fa-square-root-variable pulse-icon';
     if (portalTitle) portalTitle.innerText = 'Mathematics Assessment Grade 6 (English Edition)';
     document.title = 'Math (EN) Gr.6 - Mathematics Grade 6 Online Exam';
+  } else if (state.currentSubject === 'sci_en') {
+    if (subSciEnBtn) { subSciEnBtn.classList.add('active', 'sci-en-theme'); }
+    if (brandTitle) brandTitle.innerText = 'SCIENCE (EN) GR.6';
+    if (brandIcon) brandIcon.className = 'fa-solid fa-atom pulse-icon';
+    if (portalTitle) portalTitle.innerText = 'Science Assessment Grade 6 (English Edition)';
+    document.title = 'Science (EN) Gr.6 - Science Grade 6 Online Exam';
   } else {
     if (subSciBtn) { subSciBtn.classList.add('active'); }
     if (brandTitle) brandTitle.innerText = 'SCIMASTER GR.6';
@@ -582,6 +591,9 @@ function setupEventListeners() {
   }
   if (subMathEnBtn) {
     subMathEnBtn.addEventListener('click', () => switchSubject('math_en'));
+  }
+  if (subSciEnBtn) {
+    subSciEnBtn.addEventListener('click', () => switchSubject('sci_en'));
   }
 
   // Navigation Buttons
