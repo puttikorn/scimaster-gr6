@@ -23,7 +23,7 @@ const state = {
 
 // Storage Keys Generator
 function getStorageKeys() {
-  const prefix = state.currentSubject === 'math' ? 'mathmaster_gr6' : 'scimaster_gr6';
+  const prefix = state.currentSubject === 'math' ? 'mathmaster_gr6' : (state.currentSubject === 'thai' ? 'thaimaster_gr6' : 'scimaster_gr6');
   return {
     STORAGE_KEY: `${prefix}_exam_state_v1`,
     RESULT_KEY: `${prefix}_exam_result_v1`
@@ -37,6 +37,7 @@ const brandTitle = document.getElementById('brandTitle');
 const portalTitle = document.getElementById('portalTitle');
 const subSciBtn = document.getElementById('subSciBtn');
 const subMathBtn = document.getElementById('subMathBtn');
+const subThaiBtn = document.getElementById('subThaiBtn');
 
 const qSectionBadge = document.getElementById('qSectionBadge');
 const qTopicBadge = document.getElementById('qTopicBadge');
@@ -78,7 +79,7 @@ const retryExamBtn = document.getElementById('retryExamBtn');
 async function init() {
   updateSubjectThemeUI();
   
-  const dataFile = state.currentSubject === 'math' ? 'quiz_math_data.json' : 'quiz_data.json';
+  const dataFile = state.currentSubject === 'math' ? 'quiz_math_data.json' : (state.currentSubject === 'thai' ? 'quiz_thai_data.json' : 'quiz_data.json');
   
   try {
     const res = await fetch(dataFile);
@@ -285,7 +286,7 @@ function renderCurrentQuestion() {
 
   // Badges
   qSectionBadge.innerText = q.sectionName;
-  qTopicBadge.innerText = q.topic || (state.currentSubject === 'math' ? 'คณิตศาสตร์ ป.6' : 'วิทยาศาสตร์ ป.6');
+  qTopicBadge.innerText = q.topic || (state.currentSubject === 'math' ? 'คณิตศาสตร์ ป.6' : (state.currentSubject === 'thai' ? 'ภาษาไทย ป.6' : 'วิทยาศาสตร์ ป.6'));
   qDiffBadge.innerText = `ความยาก: ${q.difficulty}`;
   qLoBadge.innerText = q.learningObjective || 'LO-Gen';
   qPointsBadge.innerText = `${q.points} คะแนน`;
@@ -520,6 +521,9 @@ function setupEventListeners() {
   }
   if (subMathBtn) {
     subMathBtn.addEventListener('click', () => switchSubject('math'));
+  }
+  if (subThaiBtn) {
+    subThaiBtn.addEventListener('click', () => switchSubject('thai'));
   }
 
   // Navigation Buttons

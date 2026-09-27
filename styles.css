@@ -215,6 +215,11 @@ body {
   box-shadow: 0 0 10px rgba(245, 158, 11, 0.4);
 }
 
+.subject-pill.thai-theme.active {
+  background: linear-gradient(135deg, #ec4899, #be185d);
+  box-shadow: 0 0 10px rgba(236, 72, 153, 0.4);
+}
+
 .header-center {
   display: flex;
   align-items: center;

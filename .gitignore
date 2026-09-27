@@ -19,3 +19,12 @@ extracted_text_tha/
 # Temp
 deploy/
 math_pdf_content.txt
+thai_pdf_content.txt
+check_pdf.py
+extract_thai.py
+fix_json.py
+generate_thai_dummy.py
+modify_appjs.py
+ocr_thai.swift
+test_fitz.py
+
