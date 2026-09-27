@@ -1,702 +1,674 @@
 import os
 
-file_path = "/Users/puttikornleawalit/Documents/Document/Personal/Student/MidFinal-GR6-2026_0.1/Knowledge_Assessment_Grammar_Gr6.md"
-alt_file_path = "/Users/puttikornleawalit/Documents/Document/Personal/Student/MidFinal-GR6-2026_0.1/Knowledge_Assessment_Grammar__Gr6.md"
-
-header = """# Knowledge Assessment Quiz: English Grammar Grade 6 (Midterm & Final Assessment)
-
----
-
-## Document Summary (English Grammar Grade 6 Curriculum & Assessment Summary)
-
-This assessment document compiles comprehensive learning content and evaluation questions for English Grammar Grade 6, covering 5 core units:
-
-### 1. Unit 1: Tenses & Subject-Verb Agreement
-* **Tenses**: Present Simple, Present Continuous, Past Simple (Regular & Irregular verbs), Future Simple (will / be going to), and Present Perfect
-* **Subject-Verb Agreement**: Rules for singular and plural subjects, compound subjects, expressions of quantity, indefinites (every, each, everyone, nobody), and 'neither...nor / either...or'
-
-### 2. Unit 2: Parts of Speech (Nouns, Pronouns, Adjectives & Adverbs)
-* **Nouns**: Countable vs Uncountable nouns, regular and irregular plural nouns, collective nouns, possessive nouns
-* **Pronouns**: Subject, Object, Possessive Adjectives, Possessive Pronouns, Reflexive Pronouns, Relative Pronouns (who, which, that, where, whose)
-* **Adjectives & Adverbs**: Modifiers, adverbs of manner/time/frequency/place, Comparative and Superlative degrees
-
-### 3. Unit 3: Prepositions, Articles, Quantifiers & Conjunctions
-* **Prepositions**: Prepositions of time (in, on, at, for, since, during) and place/direction (in, on, at, under, behind, next to, between, opposite)
-* **Articles & Quantifiers**: Definite (the) and Indefinite (a, an) articles, zero article, Quantifiers (some, any, much, many, a few, a little, a lot of)
-* **Conjunctions**: Coordinating (and, but, or, so) and Subordinating (because, although, if, when, while) conjunctions
-
-### 4. Unit 4: Question Formation, Modals & Passive Voice
-* **Questions & Tags**: Wh-questions, Yes/No auxiliary questions, Question Tags (positive/negative balance)
-* **Modal Verbs**: Ability (can, could), Obligation & Prohibition (must, mustn't, have to), Advice (should, shouldn't), Permission & Possibility (may, might)
-* **Passive Voice**: Active vs Passive Voice transformation in Present Simple and Past Simple (is/am/are/was/were + V.3)
-
-### 5. Unit 5: Conditionals, Punctuation & Error Analysis
-* **Conditionals**: Zero Conditional (general truths) and First Conditional (real future possibilities: If + Present Simple, Will + V.1)
-* **Punctuation & Capitalization**: Commas, apostrophes (possession vs contraction), quotation marks, capital letters
-* **Grammar Error Correction**: Identifying and fixing double negatives, subject-verb mismatches, misplaced modifiers, and commonly confused words (there/their/they're, your/you're, its/it's)
-
----
-
-## Learning Objectives Mapping
-
-* **LO-GRAM1**: Identification of parts of speech, tense structures, article rules, and punctuation marks (Remember / Understand)
-* **LO-GRAM2**: Application of correct verb forms, subject-verb agreement, modal verbs, and prepositions (Apply)
-* **LO-GRAM3**: Sentence structure analysis, active-to-passive conversion, question tag construction, and error detection (Analyze)
-* **LO-GRAM4**: Sentence synthesis, editing and proofreading complex passages, conditional reasoning, and advanced grammar evaluation (Evaluate / Create)
-
----
-
-## Total Score Summary
-
-| Section | Questions | Points/Q | Total Points |
-|---------|-----------|----------|--------------|
-| A: Multiple Choice (MCQ) | 60 | 1 | 60 |
-| B: True / False (TF) | 30 | 1 | 30 |
-| C: Scenario-Based | 15 | 2 | 30 |
-| D: Short Answer | 10 | 3 | 30 |
-| **Total** | **115** | — | **150** |
-| **Passing Score (80%)** | — | — | **120** |
-
----
-
-# Section A: Multiple Choice Questions (4 Options)
-"""
-
-mcq_questions = [
-    # 1-15: Tenses & Subject-Verb Agreement
-    (1, "Tenses (Present Simple)", "LO-GRAM1", "Easy",
-     "The Earth ________ around the Sun.",
-     "revolve", "revolves", "revolved", "is revolving", "ข",
-     "General scientific facts take Present Simple Tense with singular subject Earth -> revolves."),
-
-    (2, "Tenses (Present Continuous)", "LO-GRAM1", "Easy",
-     "Listen! Someone ________ on the front door.",
-     "knock", "knocks", "is knocking", "knocked", "ค",
-     "The signal word 'Listen!' indicates an action happening now -> Present Continuous (is knocking)."),
-
-    (3, "Tenses (Past Simple)", "LO-GRAM2", "Medium",
-     "She ________ her keys in the car yesterday afternoon.",
-     "leave", "leaves", "left", "has left", "ค",
-     "Past Simple signal word 'yesterday' requires V.2 of leave -> left."),
-
-    (4, "Tenses (Future)", "LO-GRAM2", "Medium",
-     "Look at those dark clouds! It ________ rain soon.",
-     "will", "is going to", "rains", "is raining", "ข",
-     "Predictions based on present evidence (dark clouds) use 'be going to' -> is going to."),
-
-    (5, "Tenses (Present Perfect)", "LO-GRAM2", "Medium",
-     "I ________ lived in Bangkok for five years.",
-     "have", "has", "am", "was", "ก",
-     "Present Perfect tense with Subject 'I' uses have + V.3 -> have lived."),
-
-    (6, "Subject-Verb Agreement", "LO-GRAM2", "Medium",
-     "Either Tom or his brothers ________ responsible for locking the gate.",
-     "is", "are", "was", "be", "ข",
-     "With 'either...or', the verb agrees with the closest subject 'his brothers' (plural) -> are."),
-
-    (7, "Subject-Verb Agreement", "LO-GRAM2", "Medium",
-     "Neither of the two books ________ interesting.",
-     "is", "are", "were", "be", "ก",
-     "'Neither of + plural noun' takes a singular verb -> is."),
-
-    (8, "Subject-Verb Agreement", "LO-GRAM2", "Medium",
-     "Bread and butter ________ my favorite breakfast.",
-     "is", "are", "were", "being", "ก",
-     "Bread and butter considered as a single compound meal takes a singular verb -> is."),
-
-    (9, "Subject-Verb Agreement", "LO-GRAM2", "Medium",
-     "Every boy and girl in the class ________ a textbook.",
-     "have", "has", "having", "are having", "ข",
-     "Subject modified by 'Every' takes a singular verb -> has."),
-
-    (10, "Subject-Verb Agreement", "LO-GRAM3", "Hard",
-     "A number of students ________ absent today, but the number of absent students ________ decreasing.",
-     "is, is", "are, is", "is, are", "are, are", "ข",
-     "'A number of' takes plural verb (are); 'The number of' takes singular verb (is)."),
-
-    # 11-25: Parts of Speech (Nouns, Pronouns, Modifiers)
-    (11, "Nouns (Plurals)", "LO-GRAM1", "Easy",
-     "Choose the correct plural form of the word 'hypothesis'.",
-     "hypothesises", "hypothesiss", "hypotheses", "hypothesi", "ค",
-     "Nouns ending in -is change to -es in plural -> hypotheses."),
-
-    (12, "Nouns (Uncountable)", "LO-GRAM1", "Easy",
-     "Which of the following is an UNCOUNTABLE noun?",
-     "Furniture", "Chair", "Table", "Desk", "ก",
-     "Furniture is an uncountable category noun."),
-
-    (13, "Pronouns (Reflexive)", "LO-GRAM2", "Medium",
-     "The little boy fell down and hurt ________.",
-     "him", "his", "himself", "he", "ค",
-     "When subject and object are the same person, use reflexive pronoun -> himself."),
-
-    (14, "Pronouns (Relative)", "LO-GRAM2", "Medium",
-     "The girl ________ wallet was stolen called the police.",
-     "who", "whom", "whose", "which", "ค",
-     "Possessive relative pronoun referring to the girl's wallet -> whose."),
-
-    (15, "Pronouns (Relative)", "LO-GRAM2", "Medium",
-     "This is the university ________ my father studied engineering.",
-     "which", "where", "that", "when", "ข",
-     "Relative pronoun referring to a place where an action occurred -> where."),
-
-    (16, "Adjectives & Adverbs", "LO-GRAM2", "Medium",
-     "He speaks English very ________ because he practiced hard.",
-     "fluent", "fluently", "more fluent", "fluency", "ข",
-     "An adverb (fluently) modifies the verb speaks."),
-
-    (17, "Comparatives", "LO-GRAM2", "Medium",
-     "This puzzle is much ________ than the previous one.",
-     "easy", "easier", "more easy", "easiest", "ข",
-     "Two-syllable adjective ending in -y changes to -ier in comparative -> easier."),
-
-    (18, "Superlatives", "LO-GRAM2", "Medium",
-     "She is ________ student in our entire school.",
-     "intelligent", "more intelligent", "the most intelligent", "most intelligent", "ค",
-     "Superlative degree requires 'the most intelligent'."),
-
-    (19, "Adverbs of Frequency", "LO-GRAM1", "Easy",
-     "Where should the adverb 'always' be placed in this sentence: 'She (1) is (2) punctual (3) for work (4)'?",
-     "Position (1)", "Position (2)", "Position (3)", "Position (4)", "ข",
-     "Adverbs of frequency go AFTER verb 'to be' (is always punctual)."),
-
-    (20, "Possessive Nouns", "LO-GRAM1", "Easy",
-     "Which phrase shows correct possessive punctuation for plural boys?",
-     "The boy's toys", "The boys' toys", "The boyses toys", "The boies' toys", "ข",
-     "Plural regular nouns ending in -s take apostrophe after s -> boys'."),
-
-    # 26-40: Prepositions, Articles & Conjunctions
-    (21, "Prepositions of Time", "LO-GRAM1", "Easy",
-     "We have been studying English ________ 2021.",
-     "for", "since", "in", "during", "ข",
-     "'since' is used with a specific starting point in time (2021)."),
-
-    (22, "Prepositions of Time", "LO-GRAM1", "Easy",
-     "They lived in London ________ three years.",
-     "since", "for", "during", "at", "ข",
-     "'for' is used with a duration/period of time (three years)."),
-
-    (23, "Prepositions of Place", "LO-GRAM1", "Easy",
-     "The cat is sleeping ________ the rug in front of the fireplace.",
-     "in", "on", "at", "to", "ข",
-     "Surfaces take preposition 'on' -> on the rug."),
-
-    (24, "Articles", "LO-GRAM2", "Medium",
-     "He is ________ honest man who always tells ________ truth.",
-     "a, the", "an, the", "a, a", "an, a", "ข",
-     "'honest' has silent 'h' (starts with vowel sound -> an); 'the truth' is a fixed idiom."),
-
-    (25, "Articles (Zero Article)", "LO-GRAM2", "Medium",
-     "________ Lead is a heavy metal.",
-     "A", "An", "The", "No article (-)", "ง",
-     "Uncountable nouns used in a general sense take no article."),
-
-    (26, "Quantifiers", "LO-GRAM2", "Medium",
-     "There are ________ books on the shelf, but not many.",
-     "a little", "a few", "much", "any", "ข",
-     "Countable plural nouns (books) in small quantity take 'a few'."),
-
-    (27, "Quantifiers", "LO-GRAM2", "Medium",
-     "Could you please add ________ sugar to my coffee?",
-     "a few", "a little", "many", "few", "ข",
-     "Uncountable nouns (sugar) in small quantity take 'a little'."),
-
-    (28, "Conjunctions", "LO-GRAM2", "Medium",
-     "________ it was raining heavily, we went out for a walk.",
-     "Because", "Although", "So", "However", "ข",
-     "Subordinating conjunction showing concession/contrast -> Although."),
-
-    (29, "Conjunctions", "LO-GRAM2", "Medium",
-     "Study hard, ________ you will fail the final examination.",
-     "and", "but", "or", "so", "ค",
-     "Conjunction 'or' expresses negative alternative outcome."),
-
-    (30, "Conjunctions", "LO-GRAM3", "Hard",
-     "Not only did he pass the exam, ________ he also won first prize.",
-     "but", "and", "so", "or", "ก",
-     "Correlative conjunction pair: 'Not only... but also'."),
-
-    # 31-45: Questions, Modals & Passive Voice
-    (31, "Question Tags", "LO-GRAM3", "Hard",
-     "You haven't finished your homework yet, ________?",
-     "have you", "haven't you", "do you", "don't you", "ก",
-     "Negative main clause (haven't) takes positive tag -> have you?"),
-
-    (32, "Question Tags", "LO-GRAM3", "Hard",
-     "Let's go for a walk in the park, ________?",
-     "will we", "shall we", "don't we", "aren't we", "ข",
-     "Suggestions with 'Let's' take question tag 'shall we?'."),
-
-    (33, "Question Tags", "LO-GRAM3", "Hard",
-     "Nobody called while I was out, ________?",
-     "did they", "didn't they", "did he", "didn't he", "ก",
-     "'Nobody' makes clause negative and takes pronoun 'they' -> positive tag 'did they?'."),
-
-    (34, "Modal Verbs (Prohibition)", "LO-GRAM2", "Easy",
-     "You ________ smoke in the hospital. It is strictly prohibited.",
-     "don't have to", "mustn't", "shouldn't", "needn't", "ข",
-     "Strict legal prohibition uses 'mustn't'."),
-
-    (35, "Modal Verbs (Lack of Obligation)", "LO-GRAM2", "Medium",
-     "Tomorrow is Sunday. I ________ get up early.",
-     "mustn't", "don't have to", "shouldn't", "can't", "ข",
-     "Absence of necessity/obligation uses 'don't have to'."),
-
-    (36, "Modal Verbs (Deduction)", "LO-GRAM3", "Hard",
-     "He has been working all day without rest. He ________ be exhausted.",
-     "must", "can't", "should", "might not", "ก",
-     "Strong positive logical deduction uses 'must'."),
-
-    (37, "Passive Voice (Present Simple)", "LO-GRAM3", "Hard",
-     "English ________ in many countries around the world.",
-     "speaks", "is spoken", "is speaking", "was spoken", "ข",
-     "Present Simple passive: is + V.3 (is spoken)."),
-
-    (38, "Passive Voice (Past Simple)", "LO-GRAM3", "Hard",
-     "The telephone ________ by Alexander Graham Bell in 1876.",
-     "invented", "was invented", "is invented", "were invented", "ข",
-     "Past Simple passive singular object: was + V.3 (was invented)."),
-
-    (39, "Active to Passive Conversion", "LO-GRAM3", "Hard",
-     "Active: 'The chef prepares dinner.' -> Passive: 'Dinner ________ by the chef.'",
-     "is prepared", "was prepared", "has prepared", "is preparing", "ก",
-     "Present Simple active 'prepares' converts to passive 'is prepared'."),
-
-    (40, "Active to Passive Conversion", "LO-GRAM3", "Hard",
-     "Active: 'Somebody stole my bicycle.' -> Passive: 'My bicycle ________.'",
-     "is stolen", "was stolen", "stole", "has stolen", "ข",
-     "Past Simple active 'stole' converts to passive 'was stolen'."),
-
-    # 41-60: Conditionals, Punctuation & Error Analysis
-    (41, "Conditionals (Zero)", "LO-GRAM2", "Medium",
-     "If you heat ice, it ________.",
-     "melt", "melts", "will melt", "melted", "ข",
-     "Zero conditional for general scientific facts: If + Present Simple, Present Simple -> melts."),
-
-    (42, "Conditionals (First)", "LO-GRAM2", "Medium",
-     "If she ________ hard, she will pass the exam.",
-     "study", "studies", "studied", "will study", "ข",
-     "First conditional: If + Present Simple (studies), Will + V.1."),
-
-    (43, "Conditionals (First)", "LO-GRAM3", "Hard",
-     "Unless you ________ now, you will miss the train.",
-     "leave", "don't leave", "will leave", "left", "ก",
-     "'Unless' means 'If... not', so it takes a positive verb form -> leave."),
-
-    (44, "Punctuation (Commas)", "LO-GRAM1", "Easy",
-     "Which sentence uses commas correctly in a list?",
-     "I bought apples oranges and bananas.", "I bought apples, oranges, and bananas.", "I bought, apples, oranges, and bananas.", "I bought apples oranges, and bananas.", "ข",
-     "Items in a list are separated by commas (Oxford comma before 'and')."),
-
-    (45, "Punctuation (Apostrophes)", "LO-GRAM2", "Medium",
-     "Choose the sentence with correct apostrophe usage for contractions.",
-     "Its raining outside, so dont forget your umbrella.", "It's raining outside, so don't forget your umbrella.", "Its' raining outside, so dont' forget your umbrella.", "It'is raining outside, so do'nt forget your umbrella.", "ข",
-     "It's = It is; don't = do not."),
-
-    (46, "Confusing Words (its vs it's)", "LO-GRAM2", "Medium",
-     "The cat licked ________ paws after eating ________ food.",
-     "it's, it's", "its, its", "its, it's", "it's, its", "ข",
-     "Possessive adjective is 'its' (without apostrophe)."),
-
-    (47, "Confusing Words (there/their/they're)", "LO-GRAM2", "Medium",
-     "________ going to visit ________ grandparents over ________.",
-     "They're, their, there", "There, their, they're", "Their, they're, there", "They're, there, their", "ก",
-     "They're = They are; their = possessive; there = location."),
-
-    (48, "Confusing Words (your vs you're)", "LO-GRAM2", "Medium",
-     "If ________ ready, we can start ________ exam now.",
-     "your, your", "you're, your", "your, you're", "you're, you're", "ข",
-     "you're = you are; your = possessive adjective."),
-
-    (49, "Error Detection", "LO-GRAM3", "Hard",
-     "Identify the grammatically INCORRECT part: 'She don't (A) like (B) playing (C) tennis (D).'",
-     "don't (A)", "like (B)", "playing (C)", "tennis (D)", "ก",
-     "Singular subject 'She' requires 'doesn't', not 'don't'."),
-
-    (50, "Error Detection", "LO-GRAM3", "Hard",
-     "Identify the grammatically INCORRECT part: 'One of my friend (A) is (B) coming (C) today (D).'",
-     "friend (A)", "is (B)", "coming (C)", "today (D)", "ก",
-     "'One of + plural noun' requires 'friends', not 'friend'."),
-
-    (51, "Double Negatives", "LO-GRAM3", "Hard",
-     "Which sentence correctly avoids a double negative?",
-     "I don't know nothing about it.", "I don't know anything about it.", "I can't see no one.", "She didn't say nothing.", "ข",
-     "Standard English avoids double negatives: 'I don't know anything'."),
-
-    (52, "Direct vs Indirect Speech", "LO-GRAM3", "Hard",
-     "Direct: He said, 'I am busy.' -> Indirect: He said that he ________ busy.",
-     "is", "was", "has been", "had been", "ข",
-     "Present Simple 'am' backshifts to Past Simple 'was' in indirect speech."),
-
-    (53, "Direct vs Indirect Speech", "LO-GRAM3", "Hard",
-     "Direct: 'Where do you live?' she asked. -> Indirect: She asked me where I ________.",
-     "live", "lived", "do live", "did live", "ข",
-     "Indirect questions use statement word order and backshift tense -> where I lived."),
-
-    (54, "Gerunds vs Infinitives", "LO-GRAM2", "Medium",
-     "She enjoys ________ fantasy novels in her free time.",
-     "to read", "reading", "read", "reads", "ข",
-     "The verb 'enjoy' is followed by a gerund (-ing form) -> reading."),
-
-    (55, "Gerunds vs Infinitives", "LO-GRAM2", "Medium",
-     "He decided ________ a new laptop for university.",
-     "buying", "to buy", "buy", "bought", "ข",
-     "The verb 'decide' is followed by an infinitive (to + V.1) -> to buy."),
-
-    (56, "Used to + V.1", "LO-GRAM2", "Medium",
-     "When I was a child, I ________ live in a small village.",
-     "used to", "was used to", "use to", "am used to", "ก",
-     "Past habits/states no longer true take 'used to + V.1'."),
-
-    (57, "Sentence Parallelism", "LO-GRAM3", "Hard",
-     "Choose the sentence with correct parallel structure.",
-     "He likes swimming, running, and to bike.", "He likes swimming, running, and biking.", "He likes to swim, running, and biking.", "He likes swim, run, and bike.", "ข",
-     "Parallel structure keeps matching grammatical forms (-ing, -ing, -ing)."),
-
-    (58, "Capitalization Rules", "LO-GRAM1", "Easy",
-     "Which word in the sentence requires capitalization: 'we will visit uncle sam in london next tuesday.'?",
-     "Only London", "London and Tuesday", "We, Sam, London, and Tuesday", "All words", "ค",
-     "Capitalize sentence start (We), proper names (Sam, London), and days (Tuesday)."),
-
-    (59, "Causative Verbs", "LO-GRAM3", "Hard",
-     "My mother made me ________ my bedroom before going out.",
-     "clean", "to clean", "cleaning", "cleaned", "ก",
-     "Causative verb 'make someone + bare infinitive' (clean)."),
-
-    (60, "Conditionals (Wish/Hypothetical)", "LO-GRAM3", "Hard",
-     "I wish I ________ more time to travel the world.",
-     "have", "had", "will have", "am having", "ข",
-     "Present wishes take Past Simple form -> had.")
-]
-
-tf_questions = [
-    # 61-90 True/False
-    (61, "Tenses", "LO-GRAM1", "Easy",
-     "The Present Continuous Tense is used for habitual actions and general truths.",
-     "False", "Incorrect. Present Simple is used for habits/truths; Present Continuous is for actions happening now."),
-
-    (62, "Subject-Verb Agreement", "LO-GRAM1", "Easy",
-     "Plural subjects require plural verbs (e.g., The dogs bark).",
-     "True", "Correct. Subject-verb agreement requires matching numbers."),
-
-    (63, "Nouns", "LO-GRAM1", "Easy",
-     "The plural of 'mouse' is 'mouses'.",
-     "False", "Incorrect. The irregular plural of mouse is 'mice'."),
-
-    (64, "Nouns", "LO-GRAM1", "Easy",
-     "Information, advice, and news are all uncountable nouns in English.",
-     "True", "Correct. Information, advice, and news take singular verbs and cannot be pluralized with -s."),
-
-    (65, "Pronouns", "LO-GRAM1", "Easy",
-     "Reflexive pronouns end in '-self' (singular) or '-selves' (plural).",
-     "True", "Correct. E.g., himself, themselves."),
-
-    (66, "Adjectives & Adverbs", "LO-GRAM2", "Medium",
-     "Adverbs modify verbs, adjectives, or other adverbs.",
-     "True", "Correct. Definition of adverb functions."),
-
-    (67, "Adjectives & Adverbs", "LO-GRAM1", "Easy",
-     "The adverb form of 'good' is 'goodly'.",
-     "False", "Incorrect. The adverb form of good is 'well'."),
-
-    (68, "Prepositions", "LO-GRAM1", "Easy",
-     "We use 'in' for specific times on the clock, e.g., 'in 5 o'clock'.",
-     "False", "Incorrect. Specific clock times take 'at' (at 5 o'clock)."),
-
-    (69, "Prepositions", "LO-GRAM1", "Easy",
-     "We use 'on' for days of the week and specific dates (e.g., on Friday, on May 1st).",
-     "True", "Correct. Days and dates take preposition 'on'."),
-
-    (70, "Articles", "LO-GRAM1", "Easy",
-     "We use 'an' before words that start with a consonant sound.",
-     "False", "Incorrect. We use 'an' before VOWEL sounds (a, e, i, o, u)."),
-
-    (71, "Articles", "LO-GRAM2", "Medium",
-     "The definite article 'the' is used when referring to a specific noun known to the listener.",
-     "True", "Correct. 'The' specifies known/unique items."),
-
-    (72, "Quantifiers", "LO-GRAM2", "Medium",
-     "We use 'many' with uncountable nouns in negative sentences.",
-     "False", "Incorrect. We use 'much' with uncountable nouns (much water); 'many' is for countable nouns."),
-
-    (73, "Conjunctions", "LO-GRAM1", "Easy",
-     "The conjunction 'because' shows cause and reason.",
-     "True", "Correct. 'Because' introduces clauses of reason."),
-
-    (74, "Question Tags", "LO-GRAM3", "Hard",
-     "A positive statement takes a positive question tag.",
-     "False", "Incorrect. A positive statement takes a NEGATIVE tag (She is smart, isn't she?)."),
-
-    (75, "Modal Verbs", "LO-GRAM2", "Medium",
-     "The modal verb 'can' can express both ability and permission.",
-     "True", "Correct. 'Can' expresses ability (I can swim) and permission (Can I leave?)."),
-
-    (76, "Passive Voice", "LO-GRAM3", "Hard",
-     "In passive voice, the object of the active sentence becomes the subject of the passive sentence.",
-     "True", "Correct. Object -> Subject shift is fundamental to passive voice."),
-
-    (77, "Conditionals", "LO-GRAM2", "Medium",
-     "First conditional sentences express imaginary or impossible situations in the past.",
-     "False", "Incorrect. First conditional expresses real/possible future situations. Past impossible is Third conditional."),
-
-    (78, "Punctuation", "LO-GRAM1", "Easy",
-     "An apostrophe is used to show possession and contraction.",
-     "True", "Correct. E.g., Tom's book (possession) and don't (contraction)."),
-
-    (79, "Confusing Words", "LO-GRAM2", "Medium",
-     "'Their' is a contraction for 'they are'.",
-     "False", "Incorrect. 'Their' is possessive. 'They're' is the contraction for 'they are'."),
-
-    (80, "Gerunds & Infinitives", "LO-GRAM2", "Medium",
-     "A gerund is a verb form ending in -ing that functions as a noun.",
-     "True", "Correct. E.g., Swimming is good exercise."),
-
-    (81, "Double Negatives", "LO-GRAM3", "Hard",
-     "In standard English, using two negative words in the same clause is correct.",
-     "False", "Incorrect. Double negatives (e.g., I don't know nothing) are grammatically incorrect in standard English."),
-
-    (82, "Comparative Adjectives", "LO-GRAM2", "Medium",
-     "The comparative form of 'bad' is 'worse'.",
-     "True", "Correct. Irregular comparative: bad -> worse -> worst."),
-
-    (83, "Subject-Verb Agreement", "LO-GRAM2", "Medium",
-     "Indefinite pronouns like 'someone', 'everybody', and 'nobody' take plural verbs.",
-     "False", "Incorrect. Indefinite pronouns ending in -one, -body, -thing take SINGULAR verbs."),
-
-    (84, "Relative Pronouns", "LO-GRAM2", "Medium",
-     "'Whose' is used to replace possessive adjectives for both people and things.",
-     "True", "Correct. 'Whose' indicates possession in relative clauses."),
-
-    (85, "Tenses", "LO-GRAM2", "Medium",
-     "The Past Continuous Tense is formed with 'was/were + V.-ing'.",
-     "True", "Correct. Past Continuous = was/were + V.-ing."),
-
-    (86, "Prepositions", "LO-GRAM1", "Easy",
-     "We say 'in night' when referring to late evening hours.",
-     "False", "Incorrect. Time phrase is 'at night'."),
-
-    (87, "Conjunctions", "LO-GRAM2", "Medium",
-     "'Although' and 'despite' have similar meanings, but 'despite' is followed by a noun phrase, not a clause.",
-     "True", "Correct. Although + clause; Despite + noun/gerund."),
-
-    (88, "Modals", "LO-GRAM2", "Medium",
-     "'Should' is used to express strong legal prohibition.",
-     "False", "Incorrect. 'Should' expresses advice. Legal prohibition requires 'mustn't'."),
-
-    (89, "Direct/Indirect Speech", "LO-GRAM3", "Hard",
-     "When converting direct speech to indirect speech, Present Simple usually changes to Past Simple.",
-     "True", "Correct. Tense backshifting rule."),
-
-    (90, "Active/Passive Voice", "LO-GRAM3", "Hard",
-     "Intransitive verbs (verbs without an object, like 'sleep' or 'arrive') can easily be made passive.",
-     "False", "Incorrect. Intransitive verbs cannot form passive voice because they have no direct object.")
-]
-
-sc_questions = [
-    # 91-105 Scenario
-    (91, "Tense Conversion Scenario", "LO-GRAM3", "Hard",
-     "Convert the following Present Simple narrative into Past Simple Tense: 'Every day, Paul wakes up early, eats breakfast, and catches the school bus. He studies hard and plays football with friends.'",
-     "Question: Rewrite the entire narrative in Past Simple Tense.",
-     "Past Simple Narrative: 'Yesterday, Paul woke up early, ate breakfast, and caught the school bus. He studied hard and played football with friends.'",
-     "Explanation: Irregular verbs (wake->woke, eat->ate, catch->caught) and regular verbs (study->studied, play->played) backshift to Past Simple V.2."),
-
-    (92, "Subject-Verb Agreement Correction Scenario", "LO-GRAM3", "Hard",
-     "A student wrote this paragraph containing 3 subject-verb agreement errors: 'The group of students are studying in the library. Neither John nor his sister have their book. Everyone in the class need to submit their assignment.' Identify and correct the 3 errors.",
-     "Question: Identify the 3 agreement errors and provide corrections.",
-     "Error 1: 'group... are' -> 'group... IS' (collective noun group is singular).\\nError 2: 'Neither... sister have' -> 'Neither... sister HAS' (agrees with singular sister).\\nError 3: 'Everyone... need' -> 'Everyone... NEEDS' (indefinite pronoun is singular).",
-     "Explanation: Collective nouns, neither...nor (closer subject), and 'Everyone' take singular verbs."),
-
-    (93, "Active to Passive Voice Transformation Scenario", "LO-GRAM3", "Hard",
-     "Transform these 2 active sentences into passive voice: 1) 'The architect designed the modern library.' 2) 'Volunteers clean the local beach every weekend.'",
-     "Question: Provide the correct passive voice conversions.",
-     "1) Passive: 'The modern library was designed by the architect.'\\n2) Passive: 'The local beach is cleaned by volunteers every weekend.'",
-     "Explanation: 1) Past Simple passive = was + V.3; 2) Present Simple passive = is + V.3."),
-
-    (94, "Direct to Indirect Speech Conversion Scenario", "LO-GRAM3", "Hard",
-     "Convert the direct dialogue into reported speech: Teacher said to Mark: 'Why are you late today, and did you finish your homework?'",
-     "Question: Rewrite the teacher's questions as reported speech.",
-     "Reported Speech: 'The teacher asked Mark why he was late that day and if he had finished his homework.'",
-     "Explanation: 1) Wh-question keeps wh-word with statement order and past tense (why he was late); 2) Yes/No question takes 'if/whether' with Past Perfect (if he had finished)."),
-
-    (95, "Question Tag Construction Scenario", "LO-GRAM3", "Hard",
-     "Construct the correct question tags for these 3 statements: 1) 'She can speak three languages, _____?' 2) 'They didn't see the movie, _____?' 3) 'You're coming to the party, _____?'",
-     "Question: Provide the 3 matching question tags.",
-     "1) 'can't she?' (Positive statement -> negative tag)\\n2) 'did they?' (Negative statement -> positive tag)\\n3) 'aren't you?' (Positive statement -> negative tag)",
-     "Explanation: Match auxiliary verb, reverse polarity (positive/negative), use pronoun."),
-
-    (96, "Relative Pronoun Combining Scenario", "LO-GRAM3", "Hard",
-     "Combine each pair of sentences into one complex sentence using relative pronouns (who, which, whose): 1) 'The woman called the police. Her car was stolen.' 2) 'I read the book. It was recommended by my teacher.'",
-     "Question: Combine the sentence pairs using relative clauses.",
-     "1) 'The woman whose car was stolen called the police.' (whose = possessive)\\n2) 'I read the book which/that was recommended by my teacher.' (which/that = object/thing)",
-     "Explanation: Use 'whose' for possessive relationship and 'which/that' for things."),
-
-    (97, "First Conditional Application Scenario", "LO-GRAM3", "Hard",
-     "Create 2 First Conditional sentences based on these situations: 1) Rain tomorrow -> Stay home. 2) Finish homework early -> Play video games.",
-     "Question: Write 2 First Conditional (If + Present Simple, Will + V.1) sentences.",
-     "1) 'If it rains tomorrow, we will stay home.'\\n2) 'If I finish my homework early, I will play video games.'",
-     "Explanation: First Conditional pattern: If-clause (Present Simple) + Main clause (will + V.1)."),
-
-    (98, "Preposition Selection Scenario", "LO-GRAM3", "Hard",
-     "Fill in the correct prepositions of time and place: 'My brother was born ___ (1) 8:30 a.m. ___ (2) July 12th ___ (3) 2012 ___ (4) a hospital ___ (5) Bangkok.'",
-     "Question: Provide the 5 correct prepositions in order.",
-     "(1) at (specific time 8:30 a.m.)\\n(2) on (specific date July 12th)\\n(3) in (year 2012)\\n(4) in / at (hospital)\\n(5) in (city Bangkok)",
-     "Explanation: at time, on date, in year, in city."),
-
-    (99, "Error Proofreading & Editing Scenario", "LO-GRAM4", "Hard",
-     "Proofread the passage and fix 4 grammar errors: 'Yesterday, Mary go (1) to the market and buy (2) some apples. She didn't had (3) enough money, so she borrow (4) $5 from her friend.'",
-     "Question: List the 4 incorrect words and their corrections.",
-     "1) 'go' -> 'went' (Past Simple V.2)\\n2) 'buy' -> 'bought' (Past Simple V.2)\\n3) 'had' -> 'have' (After didn't, use bare infinitive have)\\n4) 'borrow' -> 'borrowed' (Past Simple V.2)",
-     "Explanation: Past narrative consistency and auxiliary didn't + bare infinitive."),
-
-    (100, "Modal Verb Advice & Obligation Scenario", "LO-GRAM4", "Hard",
-     "Write 3 sentences for a school safety rules poster using: 1) 'must' (rule), 2) 'mustn't' (prohibition), 3) 'should' (advice).",
-     "Question: Formulate 3 distinct modal sentences.",
-     "1) Must: 'Students must wear school uniforms every day.'\\n2) Mustn't: 'Students mustn't run in the hallways.'\\n3) Should: 'Students should eat healthy food during lunchtime.'",
-     "Explanation: Must = obligation; Mustn't = prohibition; Should = advice."),
-
-    (101, "Article Usage Scenario", "LO-GRAM3", "Hard",
-     "Fill in the correct articles (a, an, the, or - for zero article): '___ (1) Sun is ___ (2) star. It gives us ___ (3) light and ___ (4) heat. ___ (5) Earth revolves around it.'",
-     "Question: Provide the 5 correct articles.",
-     "(1) The (unique celestial body)\\n(2) a (singular countable noun starting with consonant sound)\\n(3) - (uncountable noun in general sense)\\n(4) - (uncountable noun in general sense)\\n(5) The (unique planet)",
-     "Explanation: The Sun, a star, light (no article), heat (no article), The Earth."),
-
-    (102, "Gerund vs Infinitive Scenario", "LO-GRAM3", "Hard",
-     "Choose the correct verb form (gerund -ing or infinitive to + V.1) for each sentence: 1) 'I stopped (to smoke / smoking) two years ago.' (ceased habit) 2) 'He stopped (to buy / buying) a newspaper on his way home.' (paused action to do another)",
-     "Question: Select and explain the correct verb forms for both sentences.",
-     "1) 'smoking' (stop + gerund = quit/cease habit permanently)\\n2) 'to buy' (stop + infinitive = pause current activity in order to perform another action)",
-     "Explanation: Stop + gerund = terminate action; Stop + infinitive = pause to do something else."),
-
-    (103, "Adjective Order Scenario", "LO-GRAM4", "Hard",
-     "Arrange the adjectives in correct order (OSASCOMP: Opinion, Size, Age, Shape, Color, Origin, Material, Purpose): 'a / wooden / beautiful / old / round / table'.",
-     "Question: Write the adjectives in correct standard English order.",
-     "Correct Order: 'a beautiful old round wooden table'\\n(Opinion: beautiful -> Age: old -> Shape: round -> Material: wooden).",
-     "Explanation: Adjective order: Opinion -> Size -> Age -> Shape -> Color -> Origin -> Material."),
-
-    (104, "Punctuation & Capitalization Editing Scenario", "LO-GRAM4", "Hard",
-     "Edit and rewrite this sentence with correct punctuation and capitalization: 'on monday mr brown said we will travel to paris france'",
-     "Question: Rewrite the sentence with proper capitalization, comma, and quotation marks.",
-     "Correct Sentence: 'On Monday, Mr. Brown said, \"We will travel to Paris, France.\"'",
-     "Explanation: Capitalize On, Monday, Mr., Brown, We, Paris, France. Add comma after Monday and said, period after Mr, quotation marks around direct quote."),
-
-    (105, "Confusing Homophones & Contractions Scenario", "LO-GRAM4", "Hard",
-     "Complete the story with their/there/they're and its/it's: '___ (1) standing over ___ (2) with ___ (3) dog. ___ (4) a cute puppy, and ___ (5) tail is wagging fast.'",
-     "Question: Supply the 5 correct homophones/contractions in order.",
-     "(1) They're (They are)\\n(2) there (location)\\n(3) their (possessive)\\n(4) It's (It is)\\n(5) its (possessive)",
-     "Explanation: They're = They are; there = place; their = possessive; It's = It is; its = possessive.")
-]
-
-sa_questions = [
-    # 106-115 Short Answer
-    (106, "12 Tenses Overview & Formulas", "LO-GRAM1", "Medium",
-     "State the formulas and provide 1 example sentence for: 1) Present Simple, 2) Present Continuous, 3) Past Simple, 4) Future Simple (will).",
-     "1) Present Simple: Subject + V.1(s/es) -> She drinks tea.\\n2) Present Continuous: Subject + is/am/are + V.-ing -> She is drinking tea.\\n3) Past Simple: Subject + V.2 -> She drank tea.\\n4) Future Simple: Subject + will + V.1 -> She will drink tea."),
-
-    (107, "Subject-Verb Agreement Rules Summary", "LO-GRAM2", "Medium",
-     "State 3 key Subject-Verb Agreement rules involving: 1) Singular vs Plural subjects, 2) 'Neither... nor', 3) Indefinite pronouns (everyone/nobody).",
-     "1) Singular subjects take singular verbs; plural subjects take plural verbs (The dog runs / The dogs run).\\n2) With 'Neither A nor B', the verb agrees with subject B closest to it (Neither John nor his friends ARE coming).\\n3) Indefinite pronouns (everyone, nobody, somebody) always take singular verbs (Everyone IS ready)."),
-
-    (108, "Passive Voice Transformation Rules", "LO-GRAM3", "Hard",
-     "Explain the 3 main steps to convert an active sentence into a passive sentence. Convert: 'The mechanic fixed the red car.'",
-     "Steps:\\n1) Move the active object to become the passive subject ('The red car').\\n2) Add verb 'to be' matching the active tense + V.3 of active verb ('was fixed').\\n3) Place active subject after 'by' ('by the mechanic').\\nResult: 'The red car was fixed by the mechanic.'"),
-
-    (109, "Direct to Reported Speech Rules", "LO-GRAM3", "Hard",
-     "Explain the tense backshift rules for converting Direct Speech to Reported Speech for: 1) Present Simple, 2) Present Continuous, 3) Past Simple. Convert: He said, 'I play tennis.'",
-     "Backshift Rules:\\n1) Present Simple -> Past Simple\\n2) Present Continuous -> Past Continuous\\n3) Past Simple -> Past Perfect\\nConversion: Direct: He said, 'I play tennis.' -> Reported: He said that he played tennis."),
-
-    (110, "Question Tag Construction Rules", "LO-GRAM3", "Hard",
-     "Explain the 3 main rules for creating Question Tags. Provide 2 examples: 1 positive main clause, 1 negative main clause.",
-     "Rules:\\n1) Balance polarity: Positive clause -> Negative tag; Negative clause -> Positive tag.\\n2) Use the same auxiliary/modal verb from the main clause.\\n3) Use a pronoun corresponding to the subject.\\nExamples:\\n1) Positive clause: 'She is a doctor, isn't she?'\\n2) Negative clause: 'They don't like coffee, do they?'"),
-
-    (111, "Prepositions of Time & Place Summary (in, on, at)", "LO-GRAM2", "Medium",
-     "Summarize the usage of 'in', 'on', and 'at' for both Time and Place with 1 example for each.",
-     "Time:\\n- 'at': Specific clock time (at 5:00 p.m.)\\n- 'on': Specific day/date (on Monday, on July 4th)\\n- 'in': Month, year, season (in July, in 2026, in summer)\\nPlace:\\n- 'at': Specific point/address (at school, at 10 Main St)\\n- 'on': Surface/street name (on the table, on Sukhumvit Road)\\n- 'in': Enclosed space/city/country (in the room, in Bangkok, in Thailand)"),
-
-    (112, "Conditionals (Zero & First) Comparison", "LO-GRAM3", "Hard",
-     "Compare Zero Conditional and First Conditional regarding: 1) Function/Meaning, 2) Sentence Structure, 3) Provide 1 example sentence for each.",
-     "1) Zero Conditional: Scientific facts/universal truths -> Structure: If + Present Simple, Present Simple. Example: If you freeze water, it turns to ice.\\n2) First Conditional: Real/possible future events -> Structure: If + Present Simple, Will + V.1. Example: If it rains tomorrow, I will take an umbrella."),
-
-    (113, "Plural Noun Rules & Exceptions", "LO-GRAM2", "Medium",
-     "Explain 4 rules for making nouns plural: 1) Regular -s, 2) -es for s/ch/sh/x, 3) -y to -ies, 4) Irregular plurals. Give 1 example for each.",
-     "1) Regular: Add -s (book -> books)\\n2) End in s, ch, sh, x: Add -es (watch -> watches)\\n3) End in consonant + y: Change y to i + es (city -> cities)\\n4) Irregular: Change internal vowels/form (child -> children, foot -> feet)"),
-
-    (114, "Countable vs Uncountable Nouns & Quantifiers", "LO-GRAM2", "Medium",
-     "Differentiate Countable and Uncountable nouns. Specify which quantifiers (many, much, a few, a little) are used with each.",
-     "1) Countable Nouns: Things that can be counted individually (e.g., apples, cars). Uses quantifiers 'many' and 'a few'.\\n2) Uncountable Nouns: Substances/concepts that cannot be counted individually (e.g., water, milk, information). Uses quantifiers 'much' and 'a little'."),
-
-    (115, "Proofreading & Common Error Elimination", "LO-GRAM4", "Hard",
-     "Explain how to identify and correct 3 common grammar errors: 1) Double negative, 2) Misplaced apostrophe in possessive vs contraction, 3) Subject-verb disagreement.",
-     "1) Double Negative: Avoid using two negatives together (Change 'I don't know nothing' -> 'I don't know anything').\\n2) Apostrophe: Distinguish contraction (It's = It is) from possessive adjective (its = belonging to it).\\n3) Subject-Verb Agreement: Match verb number to subject (Change 'The list of items are long' -> 'The list of items IS long').")
-]
-
-# Build Markdown content
-out = header
-
-# Section A
-for q in mcq_questions:
-    num, topic, lo, diff, prompt, opt_a, opt_b, opt_c, opt_d, ans, exp = q
-    out += f"""
-#### ข้อ {num}
-* **Topic**: {topic}
-* **Learning Objective**: {lo}
-* **Difficulty**: {diff}
-* **Question**: {prompt}
-* ก. {opt_a}
-* ข. {opt_b}
-* ค. {opt_c}
-* ง. {opt_d}
-* **Correct Answer**: {ans}
-* **Explanation**: {exp}
-"""
-
-out += "\n---\n\n# Section B: True / False Questions\n"
-
-# Section B
-for q in tf_questions:
-    num, topic, lo, diff, stmt, ans, exp = q
-    out += f"""
-#### ข้อ {num}
-* **Topic**: {topic}
-* **Learning Objective**: {lo}
-* **Difficulty**: {diff}
-* **Statement**: "{stmt}"
-* **Answer**: {ans}
-* **Explanation**: {exp}
-"""
-
-out += "\n---\n\n# Section C: Scenario-Based Questions\n"
-
-# Section C
-for q in sc_questions:
-    num, topic, lo, diff, scen, q_text, ans, exp = q
-    out += f"""
-#### ข้อ {num}
-* **Topic**: {topic}
-* **Learning Objective**: {lo}
-* **Difficulty**: {diff}
-* **Scenario**: {scen}
-* **Question**: {q_text}
-* **Answer**: {ans}
-* **Explanation**: {exp}
-"""
-
-out += "\n---\n\n# Section D: Short Answer Questions\n"
-
-# Section D
-for q in sa_questions:
-    num, topic, lo, diff, prompt, exp_ans = q
-    out += f"""
-#### ข้อ {num}
-* **Topic**: {topic}
-* **Learning Objective**: {lo}
-* **Difficulty**: {diff}
-* **Question**: {prompt}
-* **Expected Answer**: {exp_ans}
-"""
-
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(out)
-
-with open(alt_file_path, "w", encoding="utf-8") as f:
-    f.write(out)
-
-print(f"Successfully generated pure English Grammar Grade 6 quiz files at {file_path} and {alt_file_path}!")
+def generate_grammar_quiz_from_pdf():
+    # 60 MCQ Questions based on Grammar Gr6-MidFinal.pdf
+    mcq_questions = [
+        # 1-12: Past Continuous & Past Simple vs. Past Continuous (Pages 1-4)
+        ("Past Continuous Form", "Form correct past continuous affirmative sentences.", "Easy",
+         "Which sentence correctly uses the past continuous tense?",
+         ["She reading a newspaper yesterday.", "She was reading a newspaper yesterday at 3 PM.", "She readed a newspaper yesterday.", "She is reading a newspaper yesterday."], "B",
+         "The past continuous structure is subject + was/were + verb-ing (e.g., 'She was reading...')."),
+
+        ("Past Continuous Questions", "Form past continuous yes/no questions.", "Easy",
+         "What is the correct past continuous question form for 'you / study / in the library'?",
+         ["Did you study in the library?", "Were you studying in the library?", "Was you studying in the library?", "Are you studying in the library yesterday?"], "B",
+         "Yes/No questions in past continuous start with Was/Were + Subject + Verb-ing ('Were you studying...?')."),
+
+        ("Past Continuous Negative", "Form past continuous negative sentences.", "Easy",
+         "Choose the correct negative past continuous sentence for 'They / practice / the piano'.",
+         ["They didn't practice the piano.", "They wasn't practicing the piano.", "They weren't practicing the piano.", "They not practicing the piano."], "C",
+         "Plural subject 'They' uses 'weren't' (were not) + verb-ing."),
+
+        ("Past Simple vs Past Continuous", "Distinguish specific time continuous vs completed action.", "Medium",
+         "Complete the sentence: 'Sam watched a movie yesterday afternoon, but at 2:30 yesterday afternoon, he ________ a movie.'",
+         ["watched", "was watching", "is watching", "will watch"], "B",
+         "The past continuous ('was watching') describes an action in progress at a specific time in the past (2:30 PM)."),
+
+        ("When Clause Pattern", "Apply 'when' with past simple in past continuous contexts.", "Medium",
+         "Choose the correct verb form: 'I was taking a nap when the doorbell ________.'",
+         ["rang", "was ringing", "rings", "is ringing"], "A",
+         "A clause introduced by 'when' usually takes the past simple tense ('rang') to show an interrupting action."),
+
+        ("While Clause Pattern", "Apply 'while' with past continuous.", "Medium",
+         "Complete the sentence: 'It started to rain while we ________ our bikes.'",
+         ["rode", "were riding", "are riding", "ride"], "B",
+         "A clause introduced by 'while' takes the past continuous tense ('were riding') to show an ongoing background action."),
+
+        ("When vs While Usage", "Select between 'when' and 'while' conjunctions.", "Medium",
+         "Choose the correct conjunction: 'The teacher came in ________ the students were singing.'",
+         ["while", "when", "until", "before"], "A",
+         "'While' introduces the ongoing action clause in the past continuous ('the students were singing')."),
+
+        ("Past Continuous Interruptions", "Analyze past continuous interrupted by past simple.", "Medium",
+         "Complete the sentence: 'Amy ________ a picture when the teacher came in.'",
+         ["drew", "was drawing", "is drawing", "draws"], "B",
+         "The ongoing activity ('was drawing') was interrupted by the teacher's entry ('came in')."),
+
+        ("Past Continuous Interruption Context", "Identify correct past continuous form in reading context.", "Medium",
+         "In the story: 'While Mom and Dad were building a tent, a park ranger ________ on horseback.'",
+         ["was coming", "came", "comes", "is coming"], "B",
+         "The background action is past continuous ('were building'), and the completed interruption uses past simple ('came')."),
+
+        ("Past Continuous Interruption Context", "Identify background action in camping story.", "Medium",
+         "Complete: 'While we ________ in the tent at night, the ranger came back to check on us.'",
+         ["slept", "were sleeping", "are sleeping", "sleep"], "B",
+         "'While' requires the past continuous tense ('were sleeping') for the background activity."),
+
+        ("Past Simple vs Past Continuous Choice", "Select correct verb pair for past action.", "Hard",
+         "Which sentence correctly combines past simple and past continuous?",
+         ["Sam was breaking a plate while he did the dishes.", "Sam broke a plate while he was doing the dishes.", "Sam broke a plate while he is doing dishes.", "Sam breaks a plate when he was doing dishes."], "B",
+         "'Broke' (past simple interrupting event) occurs during 'was doing' (past continuous ongoing process)."),
+
+        ("Past Continuous Subject-Verb Agreement", "Choose correct auxiliary was/were.", "Easy",
+         "Complete: 'Ken and Sally ________ talking to each other when the teacher came in.'",
+         ["was", "were", "are", "have"], "B",
+         "Compound subject 'Ken and Sally' requires plural auxiliary 'were'."),
+
+        # 13-24: Future Tenses (Will, Be Going To, Be + -ing) (Pages 5-8)
+        ("Future with Will", "Form simple future affirmative with 'will'.", "Easy",
+         "Which sentence correctly uses 'will' for a future event?",
+         ["My dad will buy a new car soon.", "My dad will buying a new car soon.", "My dad will bought a new car soon.", "My dad is will buy a new car soon."], "A",
+         "Future with 'will' uses will + base verb ('will buy')."),
+
+        ("Future Negative with Will", "Form negative future with 'won't'.", "Easy",
+         "Choose the correct negative future form: 'Jenny ________ watch a movie tonight.'",
+         ["won't", "don't", "isn't", "wasn't"], "A",
+         "The negative of 'will' is 'won't' (will not) + base verb."),
+
+        ("Future Question with Will", "Form future questions with 'will'.", "Easy",
+         "Choose the correct question: '________ travel to Europe next summer?'",
+         ["Will you", "Do you", "Are you", "Were you"], "A",
+         "Future questions with 'will' invert subject and modal: Will + Subject + Base Verb."),
+
+        ("Future with Be Going To", "Form affirmative 'be going to' for planned actions.", "Easy",
+         "Complete the sentence: 'I ________ open the window.'",
+         ["am going to", "is going to", "are going to", "going to"], "A",
+         "First-person singular 'I' pairs with 'am going to' + base verb."),
+
+        ("Be Going To Negative", "Form negative 'be going to' sentences.", "Medium",
+         "Choose the correct negative sentence: 'I ________ home this weekend.'",
+         ["am not going to be", "am going to not be", "not am going to be", "don't going to be"], "A",
+         "Negative form: Subject + am/is/are + not + going to + base verb."),
+
+        ("Be Going To Question", "Form 'be going to' questions.", "Medium",
+         "Complete the question: '________ John going to help us with this project?'",
+         ["Is", "Are", "Will", "Does"], "A",
+         "Third-person singular 'John' takes 'Is' at the start of 'be going to' questions."),
+
+        ("Present Continuous as Future", "Identify Present Continuous used for fixed future plans.", "Medium",
+         "In the sentence 'Mark is running in a race tomorrow', what does the present continuous tense express?",
+         ["An action happening right now", "A definite plan or arrangement for the future", "A past habit", "A general truth"], "B",
+         "The present continuous + future time word ('tomorrow') expresses a definite planned future arrangement."),
+
+        ("Present Continuous for Future", "Select correct verb form for future arrangement.", "Medium",
+         "Complete: 'They ________ a birthday party this afternoon.'",
+         ["are having", "were having", "had", "have had"], "A",
+         "'are having' (present continuous) is used with 'this afternoon' for a planned future event."),
+
+        ("Future Tense Comparison", "Select between will and be going to for spontaneous vs planned.", "Hard",
+         "Sam and I can't ski. We ________ to ski this winter.",
+         ["will learn", "learned", "were learning", "are learned"], "A",
+         "'will learn' expresses a decision/intention regarding future learning."),
+
+        ("Future Context Analysis", "Analyze Ben's weekend plan dialogue.", "Medium",
+         "In Ben's dialogue: 'My uncle ________ to visit us this weekend. He ________ me how to water-ski.'",
+         ["is coming / will teach", "came / taught", "was coming / teaches", "comes / was teaching"], "A",
+         "'is coming' (planned arrival) and 'will teach' (future action/promise)."),
+
+        ("Future Question Formation", "Form future question in dialogue.", "Medium",
+         "Choose the correct question: '________ you come to my house next weekend?'",
+         ["Will", "Are", "Did", "Were"], "A",
+         "'Will you come...?' invites someone to a future event."),
+
+        ("Future Expression Choice", "Select appropriate future expression.", "Medium",
+         "Complete: 'I'm not hungry now. I ________ eat lunch later.'",
+         ["will", "was", "did", "have"], "A",
+         "'will' expresses a future decision."),
+
+        # 25-36: Present Perfect Tense & Irregular Past Participles (Pages 9-12)
+        ("Present Perfect Form", "Form present perfect affirmative with regular/irregular verbs.", "Easy",
+         "Which sentence is correctly written in the present perfect tense?",
+         ["She has waited for you since three o'clock.", "She is waiting for you since three o'clock.", "She waited for you since three o'clock.", "She has wait for you since three o'clock."], "A",
+         "Present perfect form: has/have + past participle (V3) + since/for."),
+
+        ("Present Perfect Negative", "Form present perfect negative sentences.", "Easy",
+         "Complete: 'He ________ me this week.'",
+         ["hasn't called", "haven't called", "didn't called", "doesn't call"], "A",
+         "Third-person singular 'He' uses 'hasn't' (has not) + V3 ('called')."),
+
+        ("Present Perfect Time Words (For vs Since)", "Distinguish 'for' (duration) vs 'since' (starting point).", "Medium",
+         "Choose the correct preposition: 'They have studied math ________ two hours.'",
+         ["for", "since", "during", "ago"], "A",
+         "'for' is used with a period of time/duration ('two hours'); 'since' is used with a specific starting point."),
+
+        ("Present Perfect Time Words (Since)", "Apply 'since' for starting point.", "Medium",
+         "Complete: 'She has watched TV ________ dinner.'",
+         ["since", "for", "in", "by"], "A",
+         "'since' indicates the starting point of an action continuing to the present."),
+
+        ("Present Perfect Question Form", "Form yes/no questions in present perfect.", "Easy",
+         "What is the correct present perfect question form for 'They have saved a lot of money'?",
+         ["Have they saved a lot of money?", "Did they save a lot of money?", "Are they saving a lot of money?", "Do they save a lot of money?"], "A",
+         "Yes/No questions invert auxiliary and subject: Have/Has + Subject + V3...?"),
+
+        ("Irregular Past Participles", "Identify V3 form of 'do'.", "Easy",
+         "What is the past participle (V3) form of the verb 'do'?",
+         ["done", "did", "doing", "does"], "A",
+         "The verb 'do' has principal parts: do - did - done (V3 = done)."),
+
+        ("Irregular Past Participles", "Identify V3 form of 'eat'.", "Easy",
+         "Complete: 'We have ________ Thai food before.'",
+         ["eaten", "ate", "eating", "eats"], "A",
+         "The past participle of 'eat' is 'eaten'."),
+
+        ("Present Perfect Experience", "Express past experience with 'ever' and 'never'.", "Medium",
+         "Choose the correct sentence expressing experience:",
+         ["Have you ever caught a fish?", "Did you ever caught a fish?", "Were you ever catch a fish?", "Have you ever catch a fish?"], "A",
+         "Present perfect question for life experience: Have/Has + subject + ever + V3...?"),
+
+        ("Present Perfect Usage", "Identify action continuing from past to present.", "Medium",
+         "In 'Tom is my friend. I have known him for three years', what does the present perfect show?",
+         ["An action that started in the past and continues into the present", "An action that ended yesterday", "A future prediction", "A past habit"], "A",
+         "Present perfect with 'for/since' describes a state that started in the past and continues into the present."),
+
+        ("Irregular V3 in Context", "Select correct V3 form of 'be'.", "Medium",
+         "Complete: 'This winter has been cold. The old tree has ________ here for 100 years.'",
+         ["been", "was", "were", "being"], "A",
+         "The past participle of 'be' is 'been'."),
+
+        ("Present Perfect with 'Already' / 'Yet'", "Apply 'yet' in present perfect negative.", "Medium",
+         "Complete: 'Mike hasn't read the book ________.'",
+         ["yet", "already", "since", "ever"], "A",
+         "'yet' is used in present perfect negative sentences and questions, usually placed at the end."),
+
+        ("Present Perfect Context Dialogue", "Analyze amusement park Drop Tower dialogue.", "Hard",
+         "In the Drop Tower dialogue: 'Have you ________ on the Drop Tower before?' - 'No, I haven't. Have you ________ your safety belt yet?'",
+         ["ridden / put on", "rode / putted on", "ride / put on", "riding / putting on"], "A",
+         "V3 of 'ride' is 'ridden'; V3 of 'put' is 'put'. Both use present perfect in context."),
+
+        # 37-48: Modal Verbs 1 (May, Might, Could, Would) (Pages 13-16)
+        ("Modal Verbs: May for Possibility", "Identify 'may' for possibility.", "Easy",
+         "Complete: 'Amy is not in the classroom. She ________ be in the library.'",
+         ["may", "mustn't", "shall", "wouldn't"], "A",
+         "'may' expresses possibility (something that is likely to happen)."),
+
+        ("Modal Verbs: Might for Possibility", "Identify 'might' for possibility.", "Easy",
+         "Complete: 'Take an umbrella with you. It ________ rain this afternoon.'",
+         ["might", "must", "shall", "would"], "A",
+         "'might' expresses future possibility."),
+
+        ("Modal Verbs: May not / Might not", "Form negative possibility with may/might not.", "Medium",
+         "Complete: 'John has a bad cold. He ________ go to school tomorrow.'",
+         ["may not", "must", "should", "will"], "A",
+         "'may not' indicates negative possibility (likely won't happen)."),
+
+        ("Polite Request: May I...?", "Use 'May I' for polite permission requests.", "Easy",
+         "Which question politely asks for permission to use a phone?",
+         ["May I use your phone?", "Will I use your phone?", "Must I use your phone?", "Should I use your phone?"], "A",
+         "'May I...?' is used to ask for permission politely."),
+
+        ("Polite Request: Could I...?", "Use 'Could I' for polite permission requests.", "Easy",
+         "Choose the polite request for water:",
+         ["Could I have some water?", "Must I have some water?", "Shall I have some water?", "Will I have some water?"], "A",
+         "'Could I...?' asks for permission or requests something politely."),
+
+        ("Polite Request: Would you...?", "Use 'Would you' for polite action requests.", "Medium",
+         "Which question politely asks someone to close the door?",
+         ["Would you close the door, please?", "May you close the door, please?", "Must you close the door, please?", "Shall you close the door, please?"], "A",
+         "'Would you...?' or 'Could you...?' asks someone else to perform an action politely."),
+
+        ("Polite Request Answers", "Identify appropriate responses to polite requests.", "Medium",
+         "What is a polite positive response to 'Could I borrow your pen, please?'",
+         ["Of course. / Certainly.", "No, you don't.", "Yes, I will.", "I am not."], "A",
+         "Polite responses to 'May I / Could I' include 'Of course', 'Certainly', or 'Sure'."),
+
+        ("Modal Selection in Context", "Select modal for messy room situation.", "Medium",
+         "In context: 'Your room is a mess. ________ clean your room?'",
+         ["Could you", "May I", "Might you", "Shall I"], "A",
+         "'Could you...?' is used to ask someone to clean their room."),
+
+        ("Modal Selection in Context", "Select modal for asking teacher's permission.", "Medium",
+         "To ask your teacher for permission to go out, you should say: '________ go to the restroom, please?'",
+         ["May I", "Would you", "Must you", "Shall you"], "A",
+         "'May I...?' is the formal, polite way to ask a teacher for permission."),
+
+        ("Modal Word Order", "Arrange scrambled modal polite request.", "Medium",
+         "Unscramble: 'please / phone / Would / the / you / answer / ?'",
+         ["Would you answer the phone, please?", "Would please you answer the phone?", "Answer you would the phone, please?", "You would answer the phone, please?"], "A",
+         "Correct order: Modal (Would) + Subject (you) + Verb (answer) + Object (the phone) + please?"),
+
+        ("Modal Comparison: May I vs Would You", "Distinguish 'May I' vs 'Would you'.", "Hard",
+         "What is the functional difference between 'May I open the window?' and 'Would you open the window?'",
+         ["'May I' asks permission for speaker; 'Would you' asks listener to act", "'May I' asks listener to act; 'Would you' asks speaker permission", "Both ask for speaker permission", "Both ask listener to act"], "A",
+         "'May I' = permission for speaker; 'Would you' = request for listener to act."),
+
+        ("Modal Context Dialogue", "Select modal for turning on lights in dark room.", "Medium",
+         "Dialogue: 'It's dark in here. ________ turn on the lights?' - 'Certainly.'",
+         ["Could you", "May I", "Might you", "Shall I"], "A",
+         "'Could you...?' asks another person to turn on the lights."),
+
+        # 49-60: Modal Verbs 2 (Can, Could, Will, Would, Shall, Should, Must, Have To) (Pages 17-20)
+        ("Modal: Ability Past vs Present", "Contrast past ability 'could' vs present ability 'can'.", "Medium",
+         "Complete: 'I ________ inline skate last year, but I CAN now.'",
+         ["couldn't", "can't", "mustn't", "shouldn't"], "A",
+         "'couldn't' expresses past inability ('last year'), contrasted with present ability ('can now')."),
+
+        ("Modal: Obligation with Must", "Identify 'must' for strong rule/obligation.", "Easy",
+         "Complete: 'All passengers ________ wear seat belts.'",
+         ["must", "may", "might", "could"], "A",
+         "'must' expresses strong rule or mandatory obligation."),
+
+        ("Modal: Prohibition with Mustn't", "Identify 'mustn't' for prohibition.", "Easy",
+         "Complete: 'You ________ cross the street at a red crossing light.'",
+         ["mustn't", "don't have to", "might not", "shall not"], "A",
+         "'mustn't' expresses strict prohibition (forbidden action)."),
+
+        ("Modal: Advice with Should", "Identify 'should' for advice.", "Easy",
+         "Complete: 'Tom has a fever. He ________ see a doctor and rest.'",
+         ["should", "mustn't", "shall", "would"], "A",
+         "'should' is used to give advice or recommendations."),
+
+        ("Modal: Lack of Obligation with Don't Have To", "Distinguish 'don't have to' from 'mustn't'.", "Hard",
+         "Complete: 'Tomorrow is a holiday. I ________ get up early!'",
+         ["don't have to", "mustn't", "shouldn't", "can't"], "A",
+         "'don't have to' means lack of necessity/obligation (you can sleep in if you want), unlike 'mustn't' which means forbidden."),
+
+        ("Modal: Past Obligation with Had To", "Identify past obligation 'had to'.", "Medium",
+         "Complete: 'It was raining hard yesterday. They ________ stop the baseball game.'",
+         ["had to", "must", "have to", "shall"], "A",
+         "The past tense of obligation ('must' / 'have to') is 'had to'."),
+
+        ("Modal: Suggestions with Shall We...?", "Use 'Shall we' for making suggestions.", "Medium",
+         "Which modal is used to make a polite suggestion to a group: '________ we go to the park this afternoon?'",
+         ["Shall", "Must", "Will", "Would"], "A",
+         "'Shall we...?' is used to make suggestions to a group."),
+
+        ("Modal Selection in Responsibility Context", "Identify 'has to' for personal duty.", "Medium",
+         "Complete: 'Tom ________ feed his dog after breakfast. It's his responsibility.'",
+         ["has to", "mustn't", "shall", "would"], "A",
+         "'has to' expresses external responsibility or duty."),
+
+        ("Modal Comparison: Mustn't vs Don't Have To", "Contrast prohibition vs lack of obligation.", "Hard",
+         "What is the difference between 'You MUSTN'T talk to strangers' and 'You DON'T HAVE TO go shopping today'?",
+         ["'Mustn't' means forbidden; 'Don't have to' means optional", "'Mustn't' means optional; 'Don't have to' means forbidden", "Both mean forbidden", "Both mean optional"], "A",
+         "'Mustn't' = prohibition/forbidden; 'Don't have to' = optional/not necessary."),
+
+        ("Modal Context Dialogue: Study vs Fun", "Select modals in weekend study dialogue.", "Hard",
+         "Dialogue: 'We have a test next week. I ________ study. - Come on, you SHOULD have some fun. ________ we go to the park?'",
+         ["have to / Shall", "mustn't / Would", "don't have to / Will", "could / May"], "A",
+         "'have to study' (obligation) and 'Shall we go...?' (suggestion)."),
+
+        ("Modal: Refusal with Won't", "Identify 'won't' for refusal.", "Medium",
+         "Complete: 'Mr. Lewis is leaving our school. He ________ teach us next year.'",
+         ["won't", "can", "must", "shall"], "A",
+         "'won't' expresses future negative fact/refusal."),
+
+        ("Grammar Unit Summary", "Summarize core Grade 6 grammar topics.", "Medium",
+         "Which set of topics represents the core Grade 6 Grammar curriculum in the textbook?",
+         ["Past Continuous, Future (Will/Going to), Present Perfect, and Modals", "Past Simple only", "Alphabet spelling only", "Passive Voice only"], "A",
+         "The textbook units cover Past Continuous, Future Tenses, Present Perfect, and Modal Verbs 1 & 2.")
+    ]
+
+    # 30 True/False Questions based on Grammar Gr6-MidFinal.pdf
+    tf_questions = [
+        # 61-90 True/False
+        ("Past Continuous Structure", "Recall past continuous formula.", "Easy",
+         "The past continuous tense is formed using was/were + verb-ing.", "True",
+         "Past continuous formula: Subject + was/were + V-ing."),
+
+        ("Past Continuous Specific Time", "Recall past continuous time usage.", "Easy",
+         "The past continuous talks about an action that was in progress at a specific time in the past.", "True",
+         "Past continuous specifies ongoing action at a specific past moment."),
+
+        ("When Clause Rule", "Recall 'when' clause tense rule.", "Medium",
+         "A clause introduced by 'when' is often in the past simple tense (e.g., 'when the doorbell rang').", "True",
+         "'when' clauses typically take Past Simple to show interrupting events."),
+
+        ("While Clause Rule", "Recall 'while' clause tense rule.", "Medium",
+         "A clause introduced by 'while' is often in the past simple tense.", "False",
+         "'while' clauses take the PAST CONTINUOUS tense (e.g., 'while I was walking home')."),
+
+        ("Past Continuous Agreement", "Recall subject-verb agreement for was/were.", "Easy",
+         "We use 'was' with I, he, she, it, and 'were' with we, you, they.", "True",
+         "Singular subjects take 'was'; plural/you take 'were'."),
+
+        ("Future with Will", "Recall 'will' usage.", "Easy",
+         "The future tense with 'will' is used to make predictions or state future facts.", "True",
+         "'will' + base verb indicates future actions or predictions."),
+
+        ("Future Negative 'Won't'", "Recall 'won't' contraction.", "Easy",
+         "The negative form of 'will' is 'will not', which contracts to 'won't'.", "True",
+         "'will not' contracts to 'won't'."),
+
+        ("Be Going To Intention", "Recall 'be going to' usage.", "Easy",
+         "'Be going to' is used to express future plans and intentions.", "True",
+         "'be going to' expresses pre-planned intentions."),
+
+        ("Present Continuous as Future", "Recall present continuous for future.", "Medium",
+         "The present continuous tense can never be used to talk about future plans.", "False",
+         "Present continuous + future time word expresses fixed future arrangements (e.g., 'Mark is running tomorrow')."),
+
+        ("Present Perfect Link", "Recall present perfect core function.", "Easy",
+         "The present perfect tense expresses a link between the past and the present.", "True",
+         "Present perfect connects past actions/experiences to the present moment."),
+
+        ("Present Perfect Formula", "Recall present perfect formula.", "Easy",
+         "The present perfect tense is formed with subject + have/has + past participle (V3).", "True",
+         "Present perfect structure: Subject + have/has + V3."),
+
+        ("Regular Past Participles", "Recall regular V3 forms.", "Easy",
+         "The past participle of regular verbs is the same as their simple past form (ending in -ed).", "True",
+         "Regular verbs share identical V2 and V3 forms ending in '-ed'."),
+
+        ("Time Word 'For'", "Recall 'for' usage in present perfect.", "Medium",
+         "In present perfect, 'for' is used to state a specific starting point in time (e.g., for 3 o'clock).", "False",
+         "'for' states a DURATION of time (for 2 hours); 'since' states a starting point (since 3 o'clock)."),
+
+        ("Time Word 'Since'", "Recall 'since' usage in present perfect.", "Medium",
+         "In present perfect, 'since' is used to state the starting point of an action (e.g., since yesterday).", "True",
+         "'since' marks the specific beginning point of an ongoing state."),
+
+        ("Irregular V3 of Be", "Recall V3 of 'be'.", "Easy",
+         "The past participle (V3) of the verb 'be' is 'been'.", "True",
+         "be - was/were - been."),
+
+        ("Irregular V3 of Catch", "Recall V3 of 'catch'.", "Easy",
+         "The past participle (V3) of 'catch' is 'catched'.", "False",
+         "The past participle of 'catch' is 'caught' (catch - caught - caught)."),
+
+        ("Irregular V3 of Eat", "Recall V3 of 'eat'.", "Easy",
+         "The past participle (V3) of 'eat' is 'eaten'.", "True",
+         "eat - ate - eaten."),
+
+        ("Modal 'May' and 'Might'", "Recall may/might possibility function.", "Easy",
+         "Modal verbs 'may' and 'might' express possibility in the present or future.", "True",
+         "'may' and 'might' show that something is likely to happen."),
+
+        ("Polite Request 'May I'", "Recall 'May I' function.", "Easy",
+         "'May I borrow your pen?' is a polite question asking for permission.", "True",
+         "'May I...?' asks for permission politely."),
+
+        ("Polite Request 'Could I'", "Recall 'Could I' function.", "Easy",
+         "'Could I...?' can be used to ask for permission politely.", "True",
+         "'Could I...?' is a polite permission request."),
+
+        ("Action Request 'Would You'", "Recall 'Would you' vs 'May I'.", "Medium",
+         "'Would you close the door?' is asking for permission for yourself to close the door.", "False",
+         "'Would you...?' is asking ANOTHER PERSON to perform an action."),
+
+        ("Past Ability 'Could'", "Recall 'could' for past ability.", "Medium",
+         "'Could' can be used as the past tense of 'can' to express past ability.", "True",
+         "'could' expresses past ability (e.g., 'I couldn't skate last year, but I can now')."),
+
+        ("Prohibition 'Mustn't'", "Recall 'mustn't' definition.", "Easy",
+         "'You mustn't smoke here' means you are not allowed to smoke here.", "True",
+         "'mustn't' expresses strict prohibition."),
+
+        ("Lack of Obligation 'Don't have to'", "Recall 'don't have to' meaning.", "Medium",
+         "'You don't have to get up early' means it is forbidden to get up early.", "False",
+         "'don't have to' means it is NOT NECESSARY (lack of obligation), not forbidden."),
+
+        ("Obligation 'Must'", "Recall 'must' function.", "Easy",
+         "'Must' expresses strong obligation or necessity.", "True",
+         "'must' indicates compulsory rules or obligations."),
+
+        ("Past Obligation 'Had to'", "Recall past obligation form.", "Medium",
+         "The past tense of 'must' and 'have to' for past obligation is 'had to'.", "True",
+         "'had to' is the past form of 'must'/'have to' (e.g., 'They had to stop the game')."),
+
+        ("Advice 'Should'", "Recall 'should' function.", "Easy",
+         "'Should' is used to give advice or recommendations.", "True",
+         "'should' suggests what is good or sensible to do."),
+
+        ("Suggestions 'Shall We'", "Recall 'shall we' function.", "Medium",
+         "'Shall we go to the park?' is used to make a suggestion to a group.", "True",
+         "'Shall we...?' proposes a group activity."),
+
+        ("Refusal 'Won't'", "Recall 'won't' refusal function.", "Medium",
+         "'He won't teach us next year' expresses a future negative fact or refusal.", "True",
+         "'won't' indicates future negative status."),
+
+        ("Grade 6 Grammar Scope", "Recall unit scope.", "Easy",
+         "Mastering Past Continuous, Future, Present Perfect, and Modals enables students to communicate complex past, present, and future ideas accurately.", "True",
+         "This represents the primary learning objective of the Grade 6 Grammar curriculum.")
+    ]
+
+    # 15 Scenario-Based Questions based on Grammar Gr6-MidFinal.pdf
+    scenario_questions = [
+        # 91-105 Scenario-Based Questions (2 pts each)
+        ("Classroom Interruption Scenario (Page 3 Exercise 1)", "Analyze past continuous interruption in classroom.", "Hard",
+         "When Teacher Brown walked into the classroom at 9:00 AM, the students were engaged in various activities: Amy was drawing a picture, John and Mike were playing board games, Mia was listening to music, Tom was eating an apple, and Ken and Sally were talking.",
+         "Write 3 complete sentences combining Past Continuous and Past Simple using 'when' to describe what Amy, Tom, and Ken & Sally were doing when the teacher entered.",
+         "1. Amy was drawing a picture when the teacher came in. 2. Tom was eating an apple when the teacher came in. 3. Ken and Sally were talking to each other when the teacher came in.",
+         "Past continuous describes ongoing actions ('was drawing', 'was eating', 'were talking') interrupted by past simple ('when the teacher came in')."),
+
+        ("Redwood Forest Camping Story Scenario (Page 4 Exercise Choose & Write)", "Analyze past continuous and simple past in narrative.", "Hard",
+         "Read the campsite incident: 'While Mom and Dad WERE BUILDING a tent, a park ranger CAME on horseback. She told us that bears WERE SEARCHING for food near our campsite. While we WERE SLEEPING in the tent at night, the ranger CAME back to check on us.'",
+         "Identify the 3 instances of 'while' + past continuous and explain why past continuous was chosen over past simple in each instance.",
+         "1. 'While Mom and Dad were building...' 2. 'bears were searching...' 3. 'While we were sleeping...'. Past continuous is used with 'while' to represent ongoing background duration during which another event occurred.",
+         "'while' introduces background duration; past simple marks specific interrupting events."),
+
+        ("Ben's Weekend Plans Dialogue Scenario (Page 8 Exercise Choose & Write)", "Analyze future tense choices in dialogue.", "Hard",
+         "In a dialogue between Ben and Mark about weekend plans: Ben says his uncle IS COMING to visit and WILL TEACH him to water-ski. Mark says he IS STAYING at home and WILL PLAY with his dog Max. Ben asks: 'WILL YOU COME to my house next weekend?' Mark replies: 'Yes, I WILL.'",
+         "Analyze the future tense forms used ('be going to/present continuous' vs 'will') and explain why each form was selected.",
+         "'is coming' / 'is staying' represent fixed planned arrangements (present continuous as future). 'will teach' / 'will play' / 'will come' / 'will' represent future promises, offers, or decisions.",
+         "Present continuous = fixed arrangements; 'will' = decisions/offers/promises."),
+
+        ("Drop Tower Amusement Park Scenario (Page 12 Exercise Choose & Write)", "Analyze present perfect in experience dialogue.", "Hard",
+         "At an amusement park, Mia asks Alex: 'HAVE YOU RIDDEN on the Drop Tower before?' Alex answers: 'No, I HAVEN'T. This is my first time.' Later, right before the ride starts, Mia asks: 'HAVE YOU PUT ON your safety belt yet?' Alex replies: 'Yes, I HAVE.'",
+         "Explain why the Present Perfect tense is used in both questions instead of Past Simple, and identify the past participles (V3) used.",
+         "Present Perfect is used because the questions ask about life experience up to the present ('before') and completed readiness ('yet') at an unspecified time. V3 of 'ride' is 'ridden'; V3 of 'put' is 'put'.",
+         "Experience ('before') and completion status ('yet') require Present Perfect (Have + V3)."),
+
+        ("Polite Requests in Classroom Scenario (Page 16 Exercise Choose & Write)", "Analyze modal requests between friends and siblings.", "Hard",
+         "In a study session, Peter asks his sister: 'COULD YOU HELP me with my homework? It's too difficult. COULD YOU TURN ON the lights? It's dark in here. MAY I BORROW a pencil and eraser?' His sister agrees, but when he asks: 'COULD I USE your computer?', she refuses: 'Of course not!'",
+         "Categorize Peter's 4 requests into 'Action Requests to Listener' (Could you...?) vs 'Permission Requests for Speaker' (May I / Could I...?). Explain why his sister refused the last one.",
+         "Action Requests to Listener: 'Could you help me...', 'Could you turn on...'. Permission Requests for Speaker: 'May I borrow...', 'Could I use...'. Computer request was refused due to personal privacy.",
+         "'Could you' asks another person to act; 'May I / Could I' asks permission for oneself."),
+
+        ("Weekend Study vs Fun Scenario (Page 20 Exercise Choose & Write)", "Analyze modal verbs in decision-making dialogue.", "Hard",
+         "Two students discuss their weekend: Student A says: 'We have a test next week. I HAVE TO STUDY.' Student B replies: 'You SHOULD have some fun. SHALL WE GO to the park? We CAN RIDE our bikes.' Student A notes: 'It MAY RAIN.' Student B asks: 'WOULD YOU COME to my house to study?'",
+         "Identify the 6 modal expressions used in this dialogue and state the function of each (obligation, advice, suggestion, ability, possibility, request).",
+         "1. 'have to' (obligation). 2. 'should' (advice). 3. 'shall we' (suggestion). 4. 'can' (ability). 5. 'may' (possibility). 6. 'would you' (polite request/invitation).",
+         "Shows practical usage of modal functions in everyday dialogue."),
+
+        ("When vs While Sentence Transformation Scenario", "Transform past simple/continuous sentences.", "Hard",
+         "Given the sentence pair: (A) 'I was doing my homework when you called.' (B) 'You called while I was doing my homework.'",
+         "Explain how the position of 'when' and 'while' changes the clause structure between Past Simple and Past Continuous.",
+         "'when' precedes the short, interrupting Past Simple clause ('when you called'). 'while' precedes the long, background Past Continuous clause ('while I was doing my homework').",
+         "'when' + Past Simple vs 'while' + Past Continuous."),
+
+        ("For vs Since Time Transformation Scenario", "Transform present perfect time expressions.", "Hard",
+         "Situation: A student is rephrasing time expressions in present perfect sentences.",
+         "Transform the sentence 'She has lived in Bangkok since 2021' (current year is 2026) using 'for' instead of 'since'.",
+         "Transformed sentence: 'She has lived in Bangkok for 5 years.'",
+         "Explanation: 'since' takes starting point (2021); 'for' takes calculated duration (5 years)."),
+
+        ("Mustn't vs Don't Have To Rules Scenario", "Apply prohibition vs non-obligation rules.", "Hard",
+         "A school handbook states: 'Rule 1: Students MUSTN'T use mobile phones during exams. Rule 2: Students DON'T HAVE TO wear uniforms on sports day.'",
+         "Explain the exact difference in student behavior required by Rule 1 versus Rule 2.",
+         "Rule 1 (Mustn't) is a strict prohibition (using phones is forbidden/punishable). Rule 2 (Don't have to) means lack of obligation (wearing uniform is optional, students may choose).",
+         "Mustn't = forbidden; Don't have to = optional/no obligation."),
+
+        ("Irregular Past Participle Error Correction Scenario", "Identify and correct V3 errors in student paragraph.", "Hard",
+         "A student writes: 'I have catched three fish today. My brother has ate all the snacks, and we have went to the lake twice.'",
+         "Identify the 3 incorrect irregular verb forms and provide their correct past participles (V3).",
+         "1. 'catched' -> 'caught'. 2. 'ate' -> 'eaten'. 3. 'went' -> 'gone' (or 'been'). Corrected: 'have caught', 'has eaten', 'have gone/been'.",
+         "Irregular V3 forms: catch -> caught, eat -> eaten, go -> gone/been."),
+
+        ("Present Continuous vs Present Perfect Distinction", "Contrast ongoing action vs experience.", "Hard",
+         "Situation: Comparing sentence pairs: (A) 'I am eating Thai food.' (B) 'I have eaten Thai food before.'",
+         "Explain the difference in meaning and time frame between Sentence A and Sentence B.",
+         "Sentence A (Present Continuous) describes an action happening right now. Sentence B (Present Perfect) describes a past life experience.",
+         "Present Continuous = action now; Present Perfect = life experience up to now."),
+
+        ("Modal Ability Transformation Scenario", "Express past inability vs present ability.", "Hard",
+         "Situation: You are contrasting your skills between last year and this year.",
+         "Write a 2-clause sentence about yourself comparing an activity you COULDN'T do last year with what you CAN do now.",
+         "Example: 'I couldn't swim last year, but I can swim now.'",
+         "Explanation: 'couldn't' shows past inability; 'can' shows present ability."),
+
+        ("Polite Request Differentiation Scenario", "Formulate requests for borrowing vs action.", "Hard",
+         "You want to ask your friend (A) for permission to borrow his bicycle, and (B) to help you carry a box.",
+         "Write the two precise polite questions using 'May I' / 'Could I' for (A) and 'Would you' / 'Could you' for (B).",
+         "(A) 'May I (or Could I) borrow your bicycle?' (B) 'Would you (or Could you) help me carry this box?'",
+         "Permission for self = May I / Could I; Action by listener = Would you / Could you."),
+
+        ("Future Prediction vs Intention Scenario", "Contrast 'will' and 'be going to'.", "Hard",
+         "Compare: (A) 'Look at those dark clouds! It is going to rain.' (B) 'I think it will rain tomorrow.'",
+         "Explain why 'is going to' is used in (A) while 'will' is used in (B).",
+         "In (A), 'is going to' is used because there is immediate present evidence (dark clouds). In (B), 'will' is used for a general future prediction/opinion.",
+         "Immediate visual evidence = be going to; Personal opinion/prediction = will."),
+
+        ("Past Continuous Specific Time Scenario", "Analyze past continuous timeline.", "Hard",
+         "At 6:00 PM yesterday, Mom started cooking. She finished at 7:00 PM. At 6:35 PM, the family was at the dinner table.",
+         "Describe what the family was doing at 6:35 PM yesterday using the past continuous tense and explain why.",
+         "The family was eating dinner at 6:35 PM yesterday. Explanation: At 6:35 PM, the action of eating dinner was in progress in the middle of the 6:00-7:00 timeframe.",
+         "Specific mid-action past moment requires Past Continuous.")
+    ]
+
+    # 10 Short Answer Questions based on Grammar Gr6-MidFinal.pdf
+    short_answer_questions = [
+        # 106-115 Short Answer Questions (3 pts each)
+        ("Past Simple vs Past Continuous Summary", "Explain the difference between Past Simple and Past Continuous.", "Hard",
+         "Explain the main difference in usage between the Past Simple tense and the Past Continuous tense, providing one example sentence for each.",
+         "Past Simple describes actions that began and ended at a completed time in the past (e.g., 'Sam watched a movie yesterday'). Past Continuous describes actions that were in progress at a specific time or during another event in the past (e.g., 'Sam was watching a movie at 2:30 PM').",
+         "Clear contrast between completed past action and ongoing past action with valid examples."),
+
+        ("When vs While Rules", "Formulate the rules for using 'when' and 'while'.", "Hard",
+         "State the rules for using 'when' and 'while' in sentences combining Past Simple and Past Continuous, with an example for each.",
+         "Rule 1: 'when' is followed by a Past Simple clause showing a short interrupting event (e.g., 'I was sleeping when the phone rang'). Rule 2: 'while' is followed by a Past Continuous clause showing an ongoing background duration (e.g., 'The phone rang while I was sleeping').",
+         "Accurate rules for 'when' (+ Past Simple) and 'while' (+ Past Continuous) with examples."),
+
+        ("Three Future Tenses Comparison", "Compare Will, Be Going To, and Present Continuous as Future.", "Hard",
+         "Explain the different future usages of (1) Will, (2) Be Going To, and (3) Present Continuous (Be + -ing), giving one example for each.",
+         "1. Will: Spontaneous decisions or general predictions (e.g., 'I will help you'). 2. Be Going To: Pre-planned intentions or evidence-based events (e.g., 'I am going to open the window'). 3. Present Continuous: Fixed, scheduled future arrangements with time expressions (e.g., 'Mark is running in a race tomorrow').",
+         "Full explanation of all 3 future forms with correct example sentences."),
+
+        ("Present Perfect Core Usage", "Explain the two main usages of Present Perfect.", "Hard",
+         "Describe the two main usages of the Present Perfect tense (link to present with for/since, and life experience with ever/never) with examples.",
+         "Usage 1: Action/state starting in the past continuing to the present (e.g., 'I have lived here for 5 years'). Usage 2: Life experience at an unspecified past time (e.g., 'Have you ever eaten Thai food?').",
+         "Explains past-to-present continuity and life experience usages with clear examples."),
+
+        ("For vs Since Rule", "Formulate the rule for 'for' versus 'since'.", "Hard",
+         "State the rule for using 'for' versus 'since' in the Present Perfect tense, and give two examples.",
+         "Rule: Use 'for' with a duration or period of time (e.g., for two hours, for 5 years). Use 'since' with a specific starting point in time (e.g., since 8:00 AM, since 2021).",
+         "Distinguishes duration ('for') vs starting point ('since') with valid examples."),
+
+        ("Polite Request Modals Comparison", "Compare 'May I', 'Could I', and 'Would you'.", "Hard",
+         "Explain the difference between 'May I / Could I...?' and 'Would you / Could you...?' when making polite requests, giving an example of each.",
+         "1. 'May I...?' / 'Could I...?' asks for PERMISSION for the speaker to do something (e.g., 'May I borrow your pen?'). 2. 'Would you...?' / 'Could you...?' asks another person (the listener) to PERFORM AN ACTION (e.g., 'Would you close the door, please?').",
+         "Clear distinction between requesting speaker permission vs requesting listener action."),
+
+        ("Mustn't vs Don't Have To Contrast", "Contrast prohibition vs lack of obligation.", "Hard",
+         "Explain the critical difference in meaning between 'mustn't' and 'don't have to / doesn't have to', providing an example for each.",
+         "1. 'mustn't' expresses prohibition (it is forbidden / not allowed, e.g., 'You mustn't smoke here'). 2. 'don't have to' expresses lack of obligation/necessity (it is optional, e.g., 'You don't have to get up early on Sunday').",
+         "Accurate contrast between prohibition ('mustn't') and optional non-necessity ('don't have to')."),
+
+        ("Modal Verbs for Possibility", "Explain 'may' and 'might' for possibility.", "Hard",
+         "Explain how 'may' and 'might' are used to express possibility, and write one affirmative and one negative sentence as examples.",
+         "Usage: 'may' and 'might' show that something is likely or possible in the present or future. Affirmative example: 'It might rain this afternoon.' Negative example: 'He may not come to the party.'",
+         "Defines possibility function with clear affirmative and negative example sentences."),
+
+        ("Modal Verbs for Obligation & Advice", "Compare 'must', 'have to', and 'should'.", "Hard",
+         "Compare the meanings and strength of 'must', 'have to', and 'should' when talking about responsibilities and actions.",
+         "1. 'must': Strong personal obligation or strict rule (e.g., 'Passengers must wear seat belts'). 2. 'have to': External duty or requirement (e.g., 'Tom has to feed his dog'). 3. 'should': Mild recommendation or advice (e.g., 'Tom should see a doctor').",
+         "Explains strong obligation ('must'), external requirement ('have to'), and mild advice ('should')."),
+
+        ("Irregular Past Participle Patterns", "List 5 irregular verbs with their V2 and V3 forms.", "Hard",
+         "List 5 irregular verbs from the Grade 6 unit with their Simple Past (V2) and Past Participle (V3) forms (e.g., do - did - done).",
+         "1. be - was/were - been. 2. catch - caught - caught. 3. do - did - done. 4. eat - ate - eaten. 5. ride - rode - ridden (or know - knew - known / see - saw - seen).",
+         "5 complete irregular verb triads (V1 - V2 - V3) correctly matched.")
+    ]
+
+    # Assemble Markdown text
+    lines = []
+    lines.append("# แบบทดสอบประเมินผลความรู้ English Grammar Assessment Grade 6 In English language")
+    lines.append("")
+    lines.append("> **คำชี้แจง**: แบบทดสอบนี้ใช้สำหรับประเมินผลสัมฤทธิ์ทางการเรียนรู้ English Grammar Grade 6 (Past Continuous, Future Tenses, Present Perfect, and Modal Verbs 1 & 2) อ้างอิงตามเนื้อหาแบบเรียน Grammar Gr6-MidFinal.pdf ครอบคลุม 4 ส่วน จำนวนรวม 115 ข้อ คะแนนเต็ม 150 คะแนน")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("# Section A: Multiple Choice Questions (ข้อ 1 - 60)")
+    lines.append("")
+
+    opt_map = {"A": "ก", "B": "ข", "C": "ค", "D": "ง"}
+
+    for idx, q in enumerate(mcq_questions, 1):
+        topic, lo, diff, question, options, ans_letter, exp = q
+        lines.append(f"#### ข้อ {idx}")
+        lines.append(f"* **Topic**: {topic}")
+        lines.append(f"* **Learning Objective**: {lo}")
+        lines.append(f"* **Difficulty**: {diff}")
+        lines.append(f"* **Question**: {question}")
+        lines.append(f"* ก. {options[0]}")
+        lines.append(f"* ข. {options[1]}")
+        lines.append(f"* ค. {options[2]}")
+        lines.append(f"* ง. {options[3]}")
+        ans_th = opt_map[ans_letter]
+        lines.append(f"* **Correct Answer**: {ans_th}")
+        lines.append(f"* **Explanation**: {exp}")
+        lines.append("")
+
+    lines.append("---")
+    lines.append("")
+    lines.append("# Section B: True / False Questions (ข้อ 61 - 90)")
+    lines.append("")
+
+    for idx, q in enumerate(tf_questions, 61):
+        topic, lo, diff, stmt, ans_tf, exp = q
+        lines.append(f"#### ข้อ {idx}")
+        lines.append(f"* **Topic**: {topic}")
+        lines.append(f"* **Learning Objective**: {lo}")
+        lines.append(f"* **Difficulty**: {diff}")
+        lines.append(f"* **Question**: \"{stmt}\"")
+        lines.append(f"* **Answer**: {ans_tf}")
+        lines.append(f"* **Explanation**: {exp}")
+        lines.append("")
+
+    lines.append("---")
+    lines.append("")
+    lines.append("# Section C: Scenario-Based Questions (ข้อ 91 - 105)")
+    lines.append("")
+
+    for idx, q in enumerate(scenario_questions, 91):
+        topic, lo, diff, scen, question, ans, exp = q
+        lines.append(f"#### ข้อ {idx}")
+        lines.append(f"* **Topic**: {topic}")
+        lines.append(f"* **Learning Objective**: {lo}")
+        lines.append(f"* **Difficulty**: {diff}")
+        lines.append(f"* **Scenario**: {scen}")
+        lines.append(f"* **Question**: {question}")
+        lines.append(f"* **Answer**: {ans}")
+        lines.append(f"* **Explanation**: {exp}")
+        lines.append("")
+
+    lines.append("---")
+    lines.append("")
+    lines.append("# Section D: Short Answer Questions (ข้อ 106 - 115)")
+    lines.append("")
+
+    for idx, q in enumerate(short_answer_questions, 106):
+        topic, lo, diff, question, exp_ans, exp = q
+        lines.append(f"#### ข้อ {idx}")
+        lines.append(f"* **Topic**: {topic}")
+        lines.append(f"* **Learning Objective**: {lo}")
+        lines.append(f"* **Difficulty**: {diff}")
+        lines.append(f"* **Question**: {question}")
+        lines.append(f"* **Expected Answer**: {exp_ans}")
+        lines.append(f"* **Explanation**: {exp}")
+        lines.append("")
+
+    lines.append("---")
+    lines.append("")
+    lines.append("## Answer Key & Explanations")
+    lines.append("")
+    lines.append("Complete Answer Key embedded in above sections.")
+
+    for filepath in ["Knowledge_Assessment_Grammar_Gr6.md", "Knowledge_Assessment_Grammar__Gr6.md"]:
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write("\n".join(lines))
+        print(f"Generated {filepath} successfully from Grammar PDF OCR content!")
+
+if __name__ == "__main__":
+    generate_grammar_quiz_from_pdf()
