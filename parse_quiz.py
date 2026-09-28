@@ -183,6 +183,13 @@ if __name__ == '__main__':
         parse_quiz_file('Knowledge_Assessment_English_Languages_Gr6.md', 'quiz_english_data.json', 'English Language Assessment Grade 6 (English Gr.6 - MidFinal)')
     if os.path.exists('Knowledge_Assessment_Phonics_Gr6.md'):
         parse_quiz_file('Knowledge_Assessment_Phonics_Gr6.md', 'quiz_phonics_data.json', 'English Phonics Assessment Grade 6 (Phonics Gr.6 - MidFinal)')
+    if os.path.exists('Knowledge_Assessment_Reading with Writing_GR6.md'):
+        parse_quiz_file('Knowledge_Assessment_Reading with Writing_GR6.md', 'quiz_reading_writing_data.json', 'Reading & Writing Assessment Grade 6 (Reading with Writing Gr.6 - MidFinal)')
+    elif os.path.exists('Knowledge_Assessment_Reading_with_Writing_Gr6.md'):
+        parse_quiz_file('Knowledge_Assessment_Reading_with_Writing_Gr6.md', 'quiz_reading_writing_data.json', 'Reading & Writing Assessment Grade 6 (Reading with Writing Gr.6 - MidFinal)')
+    elif os.path.exists('Knowledge_Assessment_Reading_with_Writing_GR6.md'):
+        parse_quiz_file('Knowledge_Assessment_Reading_with_Writing_GR6.md', 'quiz_reading_writing_data.json', 'Reading & Writing Assessment Grade 6 (Reading with Writing Gr.6 - MidFinal)')
+
 
 
 

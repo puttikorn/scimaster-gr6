@@ -32,7 +32,8 @@ function getStorageKeys() {
               : state.currentSubject === 'sci_en' ? 'scimaster_en_gr6'
                 : state.currentSubject === 'grammar' ? 'grammar_gr6'
                   : state.currentSubject === 'phonics' ? 'phonics_gr6'
-                    : 'scimaster_gr6';
+                    : state.currentSubject === 'reading_writing' ? 'reading_writing_gr6'
+                      : 'scimaster_gr6';
   return {
     STORAGE_KEY: `${prefix}_exam_state_v1`,
     RESULT_KEY: `${prefix}_exam_result_v1`
@@ -54,6 +55,7 @@ const subMathEnBtn = document.getElementById('subMathEnBtn');
 const subSciEnBtn = document.getElementById('subSciEnBtn');
 const subGrammarBtn = document.getElementById('subGrammarBtn');
 const subPhonicsBtn = document.getElementById('subPhonicsBtn');
+const subReadingWritingBtn = document.getElementById('subReadingWritingBtn');
 
 const qSectionBadge = document.getElementById('qSectionBadge');
 const qTopicBadge = document.getElementById('qTopicBadge');
@@ -105,7 +107,8 @@ async function init() {
               : state.currentSubject === 'sci_en' ? 'quiz_sci_en_data.json'
                 : state.currentSubject === 'grammar' ? 'quiz_grammar_data.json'
                   : state.currentSubject === 'phonics' ? 'quiz_phonics_data.json'
-                    : 'quiz_data.json';
+                    : state.currentSubject === 'reading_writing' ? 'quiz_reading_writing_data.json'
+                      : 'quiz_data.json';
 
   try {
     const res = await fetch(dataFile);
@@ -169,8 +172,8 @@ function switchSubject(newSubject) {
 
 function updateSubjectThemeUI() {
   // Remove active from all pills first
-  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn, subChineseBtn, subEngBtn, subMathEnBtn, subSciEnBtn, subGrammarBtn, subPhonicsBtn].forEach(btn => {
-    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme', 'chinese-theme', 'english-theme', 'math-en-theme', 'sci-en-theme', 'grammar-theme', 'phonics-theme');
+  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn, subChineseBtn, subEngBtn, subMathEnBtn, subSciEnBtn, subGrammarBtn, subPhonicsBtn, subReadingWritingBtn].forEach(btn => {
+    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme', 'chinese-theme', 'english-theme', 'math-en-theme', 'sci-en-theme', 'grammar-theme', 'phonics-theme', 'reading-writing-theme');
   });
 
   if (state.currentSubject === 'math') {
@@ -227,6 +230,12 @@ function updateSubjectThemeUI() {
     if (brandIcon) brandIcon.className = 'fa-solid fa-volume-high pulse-icon';
     if (portalTitle) portalTitle.innerText = 'English Phonics Assessment Grade 6';
     document.title = 'English Phonics Gr.6 - Phonics Online Exam';
+  } else if (state.currentSubject === 'reading_writing') {
+    if (subReadingWritingBtn) { subReadingWritingBtn.classList.add('active', 'reading-writing-theme'); }
+    if (brandTitle) brandTitle.innerText = 'READING & WRITING GR.6';
+    if (brandIcon) brandIcon.className = 'fa-solid fa-book-open-reader pulse-icon';
+    if (portalTitle) portalTitle.innerText = 'Reading & Writing Assessment Grade 6';
+    document.title = 'Reading & Writing Gr.6 - Online Exam';
   } else {
     if (subSciBtn) { subSciBtn.classList.add('active'); }
     if (brandTitle) brandTitle.innerText = 'SCIMASTER GR.6';
@@ -634,6 +643,9 @@ function setupEventListeners() {
   }
   if (subPhonicsBtn) {
     subPhonicsBtn.addEventListener('click', () => switchSubject('phonics'));
+  }
+  if (subReadingWritingBtn) {
+    subReadingWritingBtn.addEventListener('click', () => switchSubject('reading_writing'));
   }
 
   // Navigation Buttons

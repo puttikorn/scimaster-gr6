@@ -47,11 +47,11 @@
       "question": "What is the comparative form of the adjective 'simple'?",
       "options": {
         "ก": "more simple",
-        "ข": "simplest",
-        "ค": "simpler",
+        "ข": "simpler",
+        "ค": "simplest",
         "ง": "simplier"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "Short adjectives or those ending in -e take '-r' or '-er' to form comparatives: 'simple' becomes 'simpler'.",
       "points": 1
     },
@@ -64,9 +64,9 @@
       "difficulty": "Easy",
       "question": "Which is the correct comparative form of 'peaceful'?",
       "options": {
-        "ก": "most peaceful",
+        "ก": "peacefuler",
         "ข": "more peaceful",
-        "ค": "peacefuler",
+        "ค": "most peaceful",
         "ง": "peacefully"
       },
       "correctAnswer": "ข",
@@ -82,12 +82,12 @@
       "difficulty": "Easy",
       "question": "Complete the comparative pair: 'modern' -> ________.",
       "options": {
-        "ก": "most modern",
-        "ข": "moderner",
-        "ค": "modernest",
-        "ง": "more modern"
+        "ก": "moderner",
+        "ข": "more modern",
+        "ค": "most modern",
+        "ง": "modernest"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "The adjective 'modern' forms its comparative by adding 'more': 'more modern'.",
       "points": 1
     },
@@ -100,12 +100,12 @@
       "difficulty": "Easy",
       "question": "What is the comparative form of 'traditional'?",
       "options": {
-        "ก": "more traditional",
-        "ข": "most traditional",
-        "ค": "traditionalest",
-        "ง": "traditionaler"
+        "ก": "traditionaler",
+        "ข": "more traditional",
+        "ค": "most traditional",
+        "ง": "traditionalest"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Long adjectives like 'traditional' use 'more' for comparison: 'more traditional'.",
       "points": 1
     },
@@ -118,12 +118,12 @@
       "difficulty": "Easy",
       "question": "Complete the sentence: 'Life in the city is ________ than in the countryside.'",
       "options": {
-        "ก": "more quiet",
-        "ข": "more modern",
-        "ค": "more traditional",
-        "ง": "simpler"
+        "ก": "more traditional",
+        "ข": "simpler",
+        "ค": "more modern",
+        "ง": "more quiet"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ค",
       "explanation": "According to the textbook dialogue, life in the city is 'more modern' than in the countryside.",
       "points": 1
     },
@@ -136,12 +136,12 @@
       "difficulty": "Easy",
       "question": "Complete the sentence: 'Life in the countryside is ________ than in the city.'",
       "options": {
-        "ก": "more populated",
-        "ข": "simpler",
-        "ค": "busier",
-        "ง": "more modern"
+        "ก": "simpler",
+        "ข": "more modern",
+        "ค": "more populated",
+        "ง": "busier"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "The textbook states: 'Life in the countryside is simpler than in the city.'",
       "points": 1
     },
@@ -155,11 +155,11 @@
       "question": "Which word is used to connect two items being compared in a comparative sentence?",
       "options": {
         "ก": "then",
-        "ข": "from",
+        "ข": "than",
         "ค": "that",
-        "ง": "than"
+        "ง": "from"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "The conjunction 'than' is used after comparative adjectives (e.g., 'more modern than...').",
       "points": 1
     },
@@ -173,11 +173,11 @@
       "question": "Sue thinks life in the city is ________ than life in the countryside.",
       "options": {
         "ก": "interesting",
-        "ข": "most interesting",
-        "ค": "interestinger",
-        "ง": "more interesting"
+        "ข": "interestinger",
+        "ค": "more interesting",
+        "ง": "most interesting"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ค",
       "explanation": "The comparative form of 'interesting' is 'more interesting'.",
       "points": 1
     },
@@ -190,12 +190,12 @@
       "difficulty": "Medium",
       "question": "Complete the conversation: A: 'Life in the countryside is more traditional than in the city.' B: 'Yes, but life in the city is ________.'",
       "options": {
-        "ก": "peacefuler",
-        "ข": "harder",
-        "ค": "more interesting",
-        "ง": "simpler"
+        "ก": "simpler",
+        "ข": "more interesting",
+        "ค": "harder",
+        "ง": "peacefuler"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "From the textbook dialogue on Page 2: 'Yes, but life in the city is more interesting.'",
       "points": 1
     },
@@ -208,12 +208,12 @@
       "difficulty": "Easy",
       "question": "What is the comparative form of 'hard'?",
       "options": {
-        "ก": "hardly",
-        "ข": "harder",
-        "ค": "more hard",
-        "ง": "hardest"
+        "ก": "harder",
+        "ข": "more hard",
+        "ค": "hardest",
+        "ง": "hardly"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "One-syllable adjectives take '-er': 'hard' becomes 'harder'.",
       "points": 1
     },
@@ -226,12 +226,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'Life in the countryside is ________ (peaceful) than in the city.'",
       "options": {
-        "ก": "more peaceful",
-        "ข": "peacefuler",
+        "ก": "peacefuler",
+        "ข": "more peaceful",
         "ค": "most peaceful",
         "ง": "peacefully"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "'Peaceful' takes 'more peaceful' in comparative sentences.",
       "points": 1
     },
@@ -244,12 +244,12 @@
       "difficulty": "Medium",
       "question": "Which sentence is grammatically CORRECT?",
       "options": {
-        "ก": "Life in the city is simplest than in the countryside.",
-        "ข": "Life in the city is more simpler than in the countryside.",
-        "ค": "Life in the city is simpler than in the countryside.",
+        "ก": "Life in the city is more simpler than in the countryside.",
+        "ข": "Life in the city is simpler than in the countryside.",
+        "ค": "Life in the city is simplest than in the countryside.",
         "ง": "Life in the city is more simple than in the countryside."
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "'Simpler' is already a comparative form and should not be combined with 'more'.",
       "points": 1
     },
@@ -262,12 +262,12 @@
       "difficulty": "Easy",
       "question": "What is the superlative form of the adjective 'fast'?",
       "options": {
-        "ก": "most fast",
-        "ข": "faster",
-        "ค": "the fastest",
+        "ก": "faster",
+        "ข": "the fastest",
+        "ค": "most fast",
         "ง": "fastly"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "Short adjectives add '-est' with the definite article 'the': 'the fastest'.",
       "points": 1
     },
@@ -280,12 +280,12 @@
       "difficulty": "Easy",
       "question": "Which animal is the fastest land animal in the world according to the text?",
       "options": {
-        "ก": "The monkey",
-        "ข": "The lion",
-        "ค": "The elephant",
-        "ง": "The cheetah"
+        "ก": "The lion",
+        "ข": "The cheetah",
+        "ค": "The monkey",
+        "ง": "The elephant"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Page 3 quiz question: 'The cheetah is the fastest land animal in the world.'",
       "points": 1
     },
@@ -298,12 +298,12 @@
       "difficulty": "Easy",
       "question": "The Congo River is over 200 metres deep. It is the ________ river in the world.",
       "options": {
-        "ก": "most deepest",
-        "ข": "more deep",
-        "ค": "deepest",
-        "ง": "deeper"
+        "ก": "deeper",
+        "ข": "deepest",
+        "ค": "more deep",
+        "ง": "most deepest"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "The superlative form of 'deep' is 'deepest'.",
       "points": 1
     },
@@ -317,11 +317,11 @@
       "question": "What is the deepest river in the world mentioned in the textbook?",
       "options": {
         "ก": "The Amazon River",
-        "ข": "The Mekong River",
-        "ค": "The Nile River",
-        "ง": "The Congo River"
+        "ข": "The Nile River",
+        "ค": "The Congo River",
+        "ง": "The Mekong River"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ค",
       "explanation": "Page 4 text: 'The Congo River... It's over 200 metres deep.'",
       "points": 1
     },
@@ -334,12 +334,12 @@
       "difficulty": "Medium",
       "question": "What is the superlative form of 'populated'?",
       "options": {
-        "ก": "the most populated",
-        "ข": "the populateder",
-        "ค": "the populatedest",
+        "ก": "the populatedest",
+        "ข": "the most populated",
+        "ค": "the populateder",
         "ง": "more populated"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Multi-syllable adjectives use 'the most': 'the most populated'.",
       "points": 1
     },
@@ -370,12 +370,12 @@
       "difficulty": "Easy",
       "question": "Which bird is the largest bird in the world, weighing up to 160 kg?",
       "options": {
-        "ก": "The penguin",
-        "ข": "The flamingo",
-        "ค": "The eagle",
-        "ง": "The ostrich"
+        "ก": "The eagle",
+        "ข": "The ostrich",
+        "ค": "The penguin",
+        "ง": "The flamingo"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Page 4 text: 'What's the largest bird? It's the ostrich. It weighs up to 160kg.'",
       "points": 1
     },
@@ -388,12 +388,12 @@
       "difficulty": "Medium",
       "question": "Which sea animal can swim at 110 kilometres per hour?",
       "options": {
-        "ก": "The sailfish",
-        "ข": "The shark",
+        "ก": "The dolphin",
+        "ข": "The sailfish",
         "ค": "The blue whale",
-        "ง": "The dolphin"
+        "ง": "The shark"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Page 4 text: 'What's the fastest sea animal? It's the sailfish. It can swim at 110 kilometres per hour.'",
       "points": 1
     },
@@ -408,8 +408,8 @@
       "options": {
         "ก": "larger",
         "ข": "the largest",
-        "ค": "the largestest",
-        "ง": "the most large"
+        "ค": "the most large",
+        "ง": "the largestest"
       },
       "correctAnswer": "ข",
       "explanation": "Adjectives ending in -e add '-st' with 'the': 'the largest'.",
@@ -424,12 +424,12 @@
       "difficulty": "Medium",
       "question": "What is the superlative form of 'noisy'?",
       "options": {
-        "ก": "the noisiest",
-        "ข": "the most noisy",
-        "ค": "noisiest",
-        "ง": "noisier"
+        "ก": "noisier",
+        "ข": "the noisiest",
+        "ค": "the most noisy",
+        "ง": "noisiest"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Adjectives ending in -y change -y to -i and add '-est': 'the noisiest'.",
       "points": 1
     },
@@ -442,12 +442,12 @@
       "difficulty": "Medium",
       "question": "Choose the correct question format to ask about world records:",
       "options": {
-        "ก": "What's populated island in the world?",
-        "ข": "Which is more populated island in the world?",
-        "ค": "What's populatedest island in the world?",
-        "ง": "What's the most populated island in the world?"
+        "ก": "What's the most populated island in the world?",
+        "ข": "What's populated island in the world?",
+        "ค": "Which is more populated island in the world?",
+        "ง": "What's populatedest island in the world?"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ก",
       "explanation": "Superlative questions use: 'What's the + superlative adjective + noun...?'",
       "points": 1
     },
@@ -460,12 +460,12 @@
       "difficulty": "Medium",
       "question": "According to the class quiz on Page 3, where is the largest lake in the world located?",
       "options": {
-        "ก": "In Egypt",
-        "ข": "In Russia",
+        "ก": "In Russia",
+        "ข": "In Japan",
         "ค": "In Australia",
-        "ง": "In Japan"
+        "ง": "In Egypt"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Page 3 listening quiz: 'The largest lake in the world is in Russia.'",
       "points": 1
     },
@@ -479,11 +479,11 @@
       "question": "Which document is essential when traveling to another country by plane?",
       "options": {
         "ก": "first aid kit",
-        "ข": "bumbag",
-        "ค": "passport",
-        "ง": "bug spray"
+        "ข": "passport",
+        "ค": "bug spray",
+        "ง": "bumbag"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "A passport is the official document required for international travel.",
       "points": 1
     },
@@ -496,10 +496,10 @@
       "difficulty": "Easy",
       "question": "What do you take on holiday to protect your skin from insect bites?",
       "options": {
-        "ก": "passport",
+        "ก": "sunscreen",
         "ข": "bug spray",
         "ค": "purse",
-        "ง": "sunscreen"
+        "ง": "passport"
       },
       "correctAnswer": "ข",
       "explanation": "Bug spray protects skin against insect bites while outdoors.",
@@ -514,12 +514,12 @@
       "difficulty": "Easy",
       "question": "What contains bandages and basic medical supplies for minor injuries during a trip?",
       "options": {
-        "ก": "first aid kit",
-        "ข": "suitcase",
-        "ค": "passport",
-        "ง": "bumbag"
+        "ก": "bumbag",
+        "ข": "first aid kit",
+        "ค": "suitcase",
+        "ง": "passport"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "A first aid kit contains bandages and basic medical supplies.",
       "points": 1
     },
@@ -551,11 +551,11 @@
       "question": "Which adverb of frequency means 'at no time' or 'not ever'?",
       "options": {
         "ก": "always",
-        "ข": "never",
-        "ค": "sometimes",
+        "ข": "sometimes",
+        "ค": "never",
         "ง": "usually"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ค",
       "explanation": "'Never' means at no time or not ever.",
       "points": 1
     },
@@ -569,11 +569,11 @@
       "question": "Complete the question tag: 'You packed your passport, ________?'",
       "options": {
         "ก": "did you",
-        "ข": "don't you",
-        "ค": "haven't you",
-        "ง": "didn't you"
+        "ข": "didn't you",
+        "ค": "don't you",
+        "ง": "haven't you"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "An affirmative past simple statement takes a negative past tag: 'didn't you?'",
       "points": 1
     },
@@ -586,10 +586,10 @@
       "difficulty": "Medium",
       "question": "A: 'You packed your purse, didn't you?' B: '________, I packed it in my bag.'",
       "options": {
-        "ก": "No, I don't",
+        "ก": "No, I didn't",
         "ข": "Yes, I did",
-        "ค": "No, I didn't",
-        "ง": "Yes, I am"
+        "ค": "Yes, I am",
+        "ง": "No, I don't"
       },
       "correctAnswer": "ข",
       "explanation": "Confirming an action in response to a tag question uses 'Yes, I did.'",
@@ -604,10 +604,10 @@
       "difficulty": "Medium",
       "question": "A: 'You packed your medicine, didn't you?' B: '________, I forgot it on the table.'",
       "options": {
-        "ก": "Yes, I have",
+        "ก": "Yes, I did",
         "ข": "No, I didn't",
         "ค": "No, I don't",
-        "ง": "Yes, I did"
+        "ง": "Yes, I have"
       },
       "correctAnswer": "ข",
       "explanation": "Denying an action in response to a tag question uses 'No, I didn't.'",
@@ -622,12 +622,12 @@
       "difficulty": "Medium",
       "question": "What is the basic rule for forming question tags?",
       "options": {
-        "ก": "Negative statement -> Negative tag",
-        "ข": "Tag tense is independent of statement tense",
-        "ค": "Positive statement -> Negative tag",
-        "ง": "Positive statement -> Positive tag"
+        "ก": "Positive statement -> Positive tag",
+        "ข": "Positive statement -> Negative tag",
+        "ค": "Negative statement -> Negative tag",
+        "ง": "Tag tense is independent of statement tense"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "A positive statement requires a negative tag (and vice versa).",
       "points": 1
     },
@@ -640,10 +640,10 @@
       "difficulty": "Easy",
       "question": "A small pouch or bag worn around the waist or hips during travel is called a:",
       "options": {
-        "ก": "suitcase",
+        "ก": "backpack",
         "ข": "bumbag",
-        "ค": "duffel bag",
-        "ง": "backpack"
+        "ค": "suitcase",
+        "ง": "duffel bag"
       },
       "correctAnswer": "ข",
       "explanation": "In British English, a small waist pouch is called a 'bumbag'.",
@@ -658,12 +658,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'You packed your bug spray, ________?'",
       "options": {
-        "ก": "aren't you",
-        "ข": "did you",
-        "ค": "haven't you",
-        "ง": "didn't you"
+        "ก": "did you",
+        "ข": "didn't you",
+        "ค": "aren't you",
+        "ง": "haven't you"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Past simple positive verb 'packed' takes the negative tag 'didn't you?'.",
       "points": 1
     },
@@ -676,12 +676,12 @@
       "difficulty": "Medium",
       "question": "In Nick's family story on Page 5, why did Mum and Dad need to go back home from the airport?",
       "options": {
-        "ก": "Dad forgot his passport.",
-        "ข": "They forgot the money.",
+        "ก": "They forgot the money.",
+        "ข": "Dad forgot his passport.",
         "ค": "They lost their bags.",
         "ง": "They missed the plane."
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Page 5 answer key: 'Dad forgot his passport.'",
       "points": 1
     },
@@ -694,12 +694,12 @@
       "difficulty": "Easy",
       "question": "A low area of land between hills or mountains, often with a river running through it, is a:",
       "options": {
-        "ก": "ocean",
-        "ข": "desert",
-        "ค": "valley",
+        "ก": "desert",
+        "ข": "valley",
+        "ค": "ocean",
         "ง": "cave"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "A valley is a low land area situated between hills or mountains.",
       "points": 1
     },
@@ -712,12 +712,12 @@
       "difficulty": "Easy",
       "question": "A large natural hole in the side of a cliff or hill, or under the ground, is called a:",
       "options": {
-        "ก": "waterfall",
-        "ข": "valley",
-        "ค": "cave",
-        "ง": "reef"
+        "ก": "cave",
+        "ข": "waterfall",
+        "ค": "reef",
+        "ง": "valley"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "A cave is a natural underground chamber or hole in a hill/cliff.",
       "points": 1
     },
@@ -731,11 +731,11 @@
       "question": "A thick tropical forest that receives high amounts of rainfall is called a:",
       "options": {
         "ก": "desert",
-        "ข": "valley",
-        "ค": "rainforest",
+        "ข": "rainforest",
+        "ค": "valley",
         "ง": "glacier"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "A rainforest is a dense forest in a tropical area with heavy rainfall.",
       "points": 1
     },
@@ -749,11 +749,11 @@
       "question": "A large, dry, sandy area of land with very little rainfall is a:",
       "options": {
         "ก": "rainforest",
-        "ข": "valley",
-        "ค": "waterfall",
-        "ง": "desert"
+        "ข": "desert",
+        "ค": "valley",
+        "ง": "waterfall"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "A desert is a dry region with minimal rainfall.",
       "points": 1
     },
@@ -766,12 +766,12 @@
       "difficulty": "Medium",
       "question": "In Daisy's letter on Page 8, what is she writing to her grandparents about?",
       "options": {
-        "ก": "Her upcoming holiday plans and places to visit",
-        "ข": "Her new pet dog",
-        "ค": "Her school exam results",
+        "ก": "Her school exam results",
+        "ข": "Her upcoming holiday plans and places to visit",
+        "ค": "Her new pet dog",
         "ง": "Her trip to the market"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Daisy writes to her grandparents about her upcoming holiday and deciding what places to visit.",
       "points": 1
     },
@@ -784,12 +784,12 @@
       "difficulty": "Medium",
       "question": "Where does Daisy want to go hiking during her holiday?",
       "options": {
-        "ก": "In the city center",
-        "ข": "In the desert",
-        "ค": "On top of Mount Everest",
-        "ง": "In the large valley with a rainforest"
+        "ก": "In the desert",
+        "ข": "In the large valley with a rainforest",
+        "ค": "In the city center",
+        "ง": "On top of Mount Everest"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Letter excerpt: 'There's a large valley with a rainforest at the bottom. I want to go hiking there...'",
       "points": 1
     },
@@ -803,11 +803,11 @@
       "question": "What does Daisy want to do at the beach near the hotel?",
       "options": {
         "ก": "Go skiing",
-        "ข": "Build a wooden house",
-        "ค": "Visit a farm",
-        "ง": "Take a photo inside a big cave"
+        "ข": "Take a photo inside a big cave",
+        "ค": "Build a wooden house",
+        "ง": "Visit a farm"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Letter excerpt: 'There's a beach with some caves on it... I want to take a photo inside one.'",
       "points": 1
     },
@@ -820,12 +820,12 @@
       "difficulty": "Medium",
       "question": "Why does Daisy NOT want to visit the desert?",
       "options": {
-        "ก": "It is far away and she thinks it will be boring.",
-        "ข": "It is too cold.",
+        "ก": "It is too cold.",
+        "ข": "It is far away and she thinks it will be boring.",
         "ค": "She lost her map.",
         "ง": "Her parents forbid it."
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Letter excerpt: '...it's far away, and I don't want to go. I think it'll be boring.'",
       "points": 1
     },
@@ -838,10 +838,10 @@
       "difficulty": "Medium",
       "question": "Complete: 'When we are at the beach, we ________ go kayaking in the ocean.'",
       "options": {
-        "ก": "can't",
+        "ก": "must",
         "ข": "could",
         "ค": "shouldn't",
-        "ง": "must"
+        "ง": "can't"
       },
       "correctAnswer": "ข",
       "explanation": "'Could' expresses possibility or suggestions for holiday activities.",
@@ -856,12 +856,12 @@
       "difficulty": "Medium",
       "question": "Which activity is best matched with a river or ocean?",
       "options": {
-        "ก": "exploring a dry cave",
-        "ข": "climbing a volcano",
-        "ค": "kayaking",
-        "ง": "hiking up a mountain"
+        "ก": "climbing a volcano",
+        "ข": "kayaking",
+        "ค": "hiking up a mountain",
+        "ง": "exploring a dry cave"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "Kayaking is a water activity conducted on rivers or oceans.",
       "points": 1
     },
@@ -875,9 +875,9 @@
       "question": "True or False: Daisy wants to stay near the hotel instead of traveling far to the desert.",
       "options": {
         "ก": "True",
-        "ข": "Both True and False",
-        "ค": "False",
-        "ง": "Not Mentioned"
+        "ข": "False",
+        "ค": "Not Mentioned",
+        "ง": "Both True and False"
       },
       "correctAnswer": "ก",
       "explanation": "Daisy explicitly writes: 'I think we should stay near the hotel instead.'",
@@ -892,12 +892,12 @@
       "difficulty": "Easy",
       "question": "A line of rocks or coral underwater near the surface of the ocean is a:",
       "options": {
-        "ก": "valley",
-        "ข": "volcano",
-        "ค": "reef",
+        "ก": "reef",
+        "ข": "valley",
+        "ค": "volcano",
         "ง": "desert"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "A coral reef is an underwater marine ecosystem formed by coral colonies.",
       "points": 1
     },
@@ -910,12 +910,12 @@
       "difficulty": "Easy",
       "question": "What is another official scientific name for the Northern Lights?",
       "options": {
-        "ก": "Grand Canyon",
-        "ข": "Aurora Australis",
-        "ค": "Victoria Falls",
-        "ง": "Aurora Borealis"
+        "ก": "Aurora Australis",
+        "ข": "Aurora Borealis",
+        "ค": "Grand Canyon",
+        "ง": "Victoria Falls"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Page 9 text: 'Another name for this wonder is the Aurora Borealis.'",
       "points": 1
     },
@@ -928,8 +928,8 @@
       "difficulty": "Medium",
       "question": "What is the most common normal color of the Northern Lights?",
       "options": {
-        "ก": "pink",
-        "ข": "red",
+        "ก": "red",
+        "ข": "pink",
         "ค": "green",
         "ง": "blue"
       },
@@ -946,12 +946,12 @@
       "difficulty": "Medium",
       "question": "Which of the following countries is one of the best places to see the Northern Lights?",
       "options": {
-        "ก": "Norway",
-        "ข": "Thailand",
+        "ก": "Thailand",
+        "ข": "Norway",
         "ค": "Egypt",
         "ง": "Brazil"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Page 9 text: 'The best places to see them are Iceland, Norway and Sweden.'",
       "points": 1
     },
@@ -964,12 +964,12 @@
       "difficulty": "Easy",
       "question": "Where is the Grand Canyon located?",
       "options": {
-        "ก": "In Zambia, Africa",
+        "ก": "In the desert in Arizona, USA",
         "ข": "In Australia",
-        "ค": "In Mexico",
-        "ง": "In the desert in Arizona, USA"
+        "ค": "In Zambia, Africa",
+        "ง": "In Mexico"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ก",
       "explanation": "Page 9 text: 'This amazing natural wonder is in the desert in Arizona, USA.'",
       "points": 1
     },
@@ -982,12 +982,12 @@
       "difficulty": "Medium",
       "question": "How long is the Grand Canyon according to the textbook?",
       "options": {
-        "ก": "446 km",
-        "ข": "8,849 m",
+        "ก": "100 km",
+        "ข": "446 km",
         "ค": "2,300 km",
-        "ง": "100 km"
+        "ง": "8,849 m"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Page 9 text: 'It's 446km long, and in one place, it's 29km wide.'",
       "points": 1
     },
@@ -1000,12 +1000,12 @@
       "difficulty": "Easy",
       "question": "How high is Mount Everest, the highest mountain in the world?",
       "options": {
-        "ก": "8,849 m",
+        "ก": "2,800 m",
         "ข": "4,400 m",
-        "ค": "10,000 m",
-        "ง": "2,800 m"
+        "ค": "8,849 m",
+        "ง": "10,000 m"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ค",
       "explanation": "Page 9 text: 'This mountain in Asia is 8,849m high...'",
       "points": 1
     },
@@ -1018,12 +1018,12 @@
       "difficulty": "Medium",
       "question": "Who were the first two people to reach the summit of Mount Everest in 1953?",
       "options": {
-        "ก": "Neil Armstrong and Buzz Aldrin",
-        "ข": "Edmund Hillary and Tenzing Norgay",
+        "ก": "Edmund Hillary and Tenzing Norgay",
+        "ข": "Neil Armstrong and Buzz Aldrin",
         "ค": "Christopher Columbus and Marco Polo",
         "ง": "Frank and Nick"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Page 9 text: 'The first people to climb it were Edmund Hillary and Tenzing Norgay in 1953.'",
       "points": 1
     },
@@ -1036,10 +1036,10 @@
       "difficulty": "Medium",
       "question": "What makes Parícutin Volcano in Mexico unique among world volcanoes?",
       "options": {
-        "ก": "It is covered in ice.",
+        "ก": "It is the highest mountain in the world.",
         "ข": "It is the youngest volcano in the world, growing in a farmer's field in 1943.",
-        "ค": "It is the highest mountain in the world.",
-        "ง": "It is located under the ocean."
+        "ค": "It is located under the ocean.",
+        "ง": "It is covered in ice."
       },
       "correctAnswer": "ข",
       "explanation": "Page 10 text: 'Before 1943, this was just a farmer's field... It's the youngest volcano in the world.'",
@@ -1054,12 +1054,12 @@
       "difficulty": "Medium",
       "question": "On which river in Africa is Victoria Falls located?",
       "options": {
-        "ก": "The Nile River",
+        "ก": "The Amazon River",
         "ข": "The Congo River",
-        "ค": "The Amazon River",
-        "ง": "The Zambezi River"
+        "ค": "The Zambezi River",
+        "ง": "The Nile River"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ค",
       "explanation": "Page 10 text: 'This large waterfall is on the Zambezi River in Africa.'",
       "points": 1
     },
@@ -1072,12 +1072,12 @@
       "difficulty": "Medium",
       "question": "Victoria Falls is located on the border between which two African countries?",
       "options": {
-        "ก": "Zambia and Zimbabwe",
-        "ข": "South Africa and Namibia",
-        "ค": "Egypt and Sudan",
-        "ง": "Kenya and Tanzania"
+        "ก": "Egypt and Sudan",
+        "ข": "Zambia and Zimbabwe",
+        "ค": "Kenya and Tanzania",
+        "ง": "South Africa and Namibia"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Page 10 text: '...is in two different countries - Zambia and Zimbabwe.'",
       "points": 1
     },
@@ -1090,12 +1090,12 @@
       "difficulty": "Medium",
       "question": "How many types of coral are found in Australia's Great Barrier Reef?",
       "options": {
-        "ก": "400 types",
-        "ข": "1,500 types",
-        "ค": "4,000 types",
-        "ง": "100 types"
+        "ก": "100 types",
+        "ข": "400 types",
+        "ค": "1,500 types",
+        "ง": "4,000 types"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Page 10 text: '...famous for its 400 types of coral and 1,500 types of fish.'",
       "points": 1
     },
@@ -1108,12 +1108,12 @@
       "difficulty": "Medium",
       "question": "Why is the coral in the Great Barrier Reef starting to die?",
       "options": {
-        "ก": "Because there are too many fish",
-        "ข": "Because the ocean water is getting too cold",
-        "ค": "Because the ocean is getting warmer",
+        "ก": "Because the ocean water is getting too cold",
+        "ข": "Because the ocean is getting warmer",
+        "ค": "Because there are too many fish",
         "ง": "Because tourists take all the coral"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "Page 10 text: 'Sadly, as the ocean gets warmer, the coral is starting to die.'",
       "points": 1
     },

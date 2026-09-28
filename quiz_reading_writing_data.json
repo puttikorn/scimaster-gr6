@@ -1,0 +1,1916 @@
+{
+  "title": "Reading & Writing Assessment Grade 6 (Reading with Writing Gr.6 - MidFinal)",
+  "meta": {
+    "totalQuestions": 115,
+    "totalScore": 150,
+    "passingPercentage": 80,
+    "passingScore": 120,
+    "sections": [
+      {
+        "key": "MCQ",
+        "name": "Section A: Multiple Choice (ปรนัย)",
+        "count": 60,
+        "pointsPerQuestion": 1,
+        "totalPoints": 60
+      },
+      {
+        "key": "TF",
+        "name": "Section B: True / False (ถูก / ผิด)",
+        "count": 30,
+        "pointsPerQuestion": 1,
+        "totalPoints": 30
+      },
+      {
+        "key": "Scenario",
+        "name": "Section C: Scenario-Based (สถานการณ์จำลอง)",
+        "count": 15,
+        "pointsPerQuestion": 2,
+        "totalPoints": 30
+      },
+      {
+        "key": "ShortAnswer",
+        "name": "Section D: Short Answer (อัตนัย / อธิบายความรู้)",
+        "count": 10,
+        "pointsPerQuestion": 3,
+        "totalPoints": 30
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Easy",
+      "question": "What is the definition of the 'setting' of a story?",
+      "options": {
+        "ก": "The main message or moral of the story",
+        "ข": "Where and when a story takes place",
+        "ค": "The conflict between the main characters",
+        "ง": "The list of vocabulary words in a book"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Setting refers to the location (where) and time period/environment (when) in which a story occurs.",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Easy",
+      "question": "How can the setting affect a story?",
+      "options": {
+        "ก": "It only changes the title of the book.",
+        "ข": "It influences the characters' actions, mood, and plot events.",
+        "ค": "It has no impact on what characters do.",
+        "ง": "It replaces the need for any dialogue."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Setting sets the atmosphere and directly shapes character decisions and plot events.",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Easy",
+      "question": "In the story 'Lost and Found', what were Jaya and her family doing?",
+      "options": {
+        "ก": "Riding bicycles in the city",
+        "ข": "Hiking in their favorite park on a foggy morning",
+        "ค": "Sailing a boat near a lighthouse",
+        "ง": "Visiting a museum on a sunny afternoon"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Jaya, Manoj, and their Mom went hiking on a foggy morning to reach a hill with a crooked tree.",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "What was the family's destination for their picnic in 'Lost and Found'?",
+      "options": {
+        "ก": "A lighthouse near town",
+        "ข": "A hill with a tall, crooked tree on top",
+        "ค": "An old wooden bench on the left side of the main trail",
+        "ง": "A crowded restaurant in the city center"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Their goal was a hill topped with a distinctive tall, crooked tree where they liked to picnic.",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "How did Jaya and her family realize they were on the wrong trail?",
+      "options": {
+        "ก": "They saw a giant lighthouse right in front of them.",
+        "ข": "They noticed a long bench on the left side of the trail and checked the time.",
+        "ค": "A park ranger stopped them and gave them new directions.",
+        "ง": "They reached the ocean and could not walk any further."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Seeing the bench and noting it was almost noon made them realize they should have already reached their destination.",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "What weather condition created difficulty during the family's hike?",
+      "options": {
+        "ก": "Heavy snowfall and icy wind",
+        "ข": "Thick fog that blocked their view of landmarks",
+        "ค": "A sudden thunderous rainstorm",
+        "ง": "Extreme desert heat and lack of water"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The foggy morning obscured landmarks until they climbed high enough above the fog.",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "What landmark did Mom use to orient their position relative to south?",
+      "options": {
+        "ก": "The crooked tree",
+        "ข": "The lighthouse near town",
+        "ค": "The wooden bench",
+        "ง": "A giant waterfall"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Mom identified the lighthouse near town to know which direction was south.",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Hard",
+      "question": "Why did Jaya describe the destination hill as looking like 'an island in a sea of clouds'?",
+      "options": {
+        "ก": "The hill was completely surrounded by real ocean water.",
+        "ข": "The top of the hill stood above the thick fog layer surrounding it.",
+        "ค": "They were looking at a painting inside a museum.",
+        "ง": "The hill had a large lake floating on top of it."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Standing above the fog line made the hilltop look like an island rising out of white clouds.",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "Which question best helps a reader analyze the setting of a story?",
+      "options": {
+        "ก": "How many pages long is this chapter?",
+        "ข": "How does the environment shape the choices characters make?",
+        "ค": "What is the author's middle name?",
+        "ง": "Which font size is used for the text?"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Asking how the setting influences character choices helps readers understand its literary significance.",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Identify and Analyze Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Easy",
+      "question": "If a story takes place during a dark, stormy night in a dense forest, what mood is created?",
+      "options": {
+        "ก": "Cheerful and relaxing",
+        "ข": "Mysterious and tense",
+        "ค": "Boring and silly",
+        "ง": "Bright and celebratory"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Darkness, storms, and dense forests naturally evoke tension and mystery.",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Easy",
+      "question": "What are 'visuals' in a reading text?",
+      "options": {
+        "ก": "Pictures, diagrams, maps, and charts that provide extra information",
+        "ข": "The hard cover and binding of a physical book",
+        "ค": "The printed letters and font colors of the text",
+        "ง": "Audio recordings attached to a digital textbook"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Visuals include photos, diagrams, maps, and graphs that visually support and extend reading content.",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Easy",
+      "question": "Why do authors include visuals alongside text?",
+      "options": {
+        "ก": "To make the pages heavier",
+        "ข": "To provide information and context not fully described in text alone",
+        "ค": "To confuse readers who don't like pictures",
+        "ง": "To replace all written words in a book"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Visuals enhance comprehension by adding visual context and details not stated in text.",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "What is 'orienteering' as described in Unit 5?",
+      "options": {
+        "ก": "A indoor board game played with dice",
+        "ข": "An outdoor sport where racers use a map and compass to find controls",
+        "ค": "A swimming race held in an Olympic pool",
+        "ง": "A cooking contest using natural outdoor herbs"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Orienteering is a outdoor navigation race requiring map reading and compass skills.",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "In orienteering, what are 'controls'?",
+      "options": {
+        "ก": "Buttons on a stopwatch used to record lap times",
+        "ข": "Checkpoints marked on maps and marked in nature with special flags",
+        "ค": "Rules enforced by race judges along the trail",
+        "ง": "Obstacles like mud and fallen trees placed by organizers"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Controls are target checkpoints that competitors must locate using map coordinates.",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Easy",
+      "question": "What two essential tools must racers carry during an orienteering event?",
+      "options": {
+        "ก": "A camera and a smartphone",
+        "ข": "A map and a compass",
+        "ค": "A flashlight and a shovel",
+        "ง": "A tent and a sleeping bag"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Orienteers rely strictly on a detailed map and a magnetic compass to navigate.",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "What color scheme is typically used for control flags in orienteering?",
+      "options": {
+        "ก": "Black and white",
+        "ข": "Orange and white",
+        "ค": "Green and blue",
+        "ง": "Yellow and purple"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Orienteering control flags feature a distinctive square divided diagonally into orange and white.",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "According to the text on Lighthouses, where are lighthouses built?",
+      "options": {
+        "ก": "In the middle of dense mountain forests",
+        "ข": "On coastal shores and rocky cliffs near water",
+        "ค": "In urban town squares far from the ocean",
+        "ง": "On top of tall city skyscrapers"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Lighthouses are positioned along sea coasts and dangerous shorelines to warn vessels.",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "What key equipment does a lighthouse have to guide ships during heavy fog?",
+      "options": {
+        "ก": "A giant searchlight and a loud fog horn",
+        "ข": "A radar tower and radio speakers",
+        "ค": "A fireworks launcher and smoke signals",
+        "ง": "A flashing mirror and tolling church bells"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Lighthouses feature powerful lamps (lights) and acoustic fog horns to warn nearby ships.",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Easy",
+      "question": "What primary warning signal does a lighthouse give to ships?",
+      "options": {
+        "ก": "It invites ships to dock at the rocky shore.",
+        "ข": "It warns ships where land is so they avoid crashing into rocks.",
+        "ค": "It tells ships that bad weather is ending soon.",
+        "ง": "It signals that fresh drinking water is available."
+      },
+      "correctAnswer": "ข",
+      "explanation": "The light and horn warn sailors of dangerous coastline obstacles and shallow waters.",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Hard",
+      "question": "How does combining text with a map diagram help an orienteering racer?",
+      "options": {
+        "ก": "It lets them calculate exact walking elevation and terrain features visually.",
+        "ข": "It replaces the need to practice running.",
+        "ค": "It translates English directions into other languages automatically.",
+        "ง": "It provides exact weather forecasts for the entire week."
+      },
+      "correctAnswer": "ก",
+      "explanation": "Visual map diagrams reveal spatial relationships, contours, and landmarks instantly.",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Easy",
+      "question": "What is a 'bar graph' used for in reading informational texts?",
+      "options": {
+        "ก": "To display a timeline of historic fictional events",
+        "ข": "To compare quantities or numbers across categories using rectangular bars",
+        "ค": "To show photographs of famous authors",
+        "ง": "To list definitions of vocabulary words in alphabetical order"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Bar graphs visually compare data across discrete categories using bar lengths.",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "According to Unit 5, how many countries in the world were surveyed regarding official languages?",
+      "options": {
+        "ก": "50 countries",
+        "ข": "196 countries",
+        "ค": "500 countries",
+        "ง": "1,000 countries"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The bar graph study evaluated official language policies across 196 countries.",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "Which language is used as an official language in the highest number of countries?",
+      "options": {
+        "ก": "Spanish",
+        "ข": "English",
+        "ค": "French",
+        "ง": "Mandarin"
+      },
+      "correctAnswer": "ข",
+      "explanation": "English holds official status in more countries globally than any other single language.",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "What is an 'official language' of a country?",
+      "options": {
+        "ก": "A secret language known only by government officials",
+        "ข": "A language legally recognized and used for law, government, and education",
+        "ค": "Any slang words spoken by teenagers in a nation",
+        "ง": "A language that has no written alphabet"
+      },
+      "correctAnswer": "ข",
+      "explanation": "An official language is designated by law for government, legislation, and public education.",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Easy",
+      "question": "What special form of communication is used by people who are deaf or hard of hearing?",
+      "options": {
+        "ก": "Whistle signals",
+        "ข": "Sign languages",
+        "ค": "Morse code",
+        "ง": "Braille printing"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Sign languages are visual-gestural languages used by deaf and hard-of-hearing communities.",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "Are sign languages identical across all countries worldwide?",
+      "options": {
+        "ก": "Yes, there is only one universal sign language everywhere.",
+        "ข": "No, different countries have distinct sign languages (e.g., ASL, BSL).",
+        "ค": "Yes, all sign languages use English spelling rules.",
+        "ง": "No, sign languages are only used in hospitals."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Sign languages vary by country and region, such as American Sign Language (ASL) and British Sign Language (BSL).",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Hard",
+      "question": "If a country has 'no official language', what does this mean?",
+      "options": {
+        "ก": "Nobody in that country is allowed to speak.",
+        "ข": "The government has not legally designated one single language above all others.",
+        "ค": "The country has banned foreign books.",
+        "ง": "Only sign language is spoken there."
+      },
+      "correctAnswer": "ข",
+      "explanation": "It means no single language is legally codified as the sole official national language.",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "How does a bar graph help a reader understand statistical data faster than paragraph text?",
+      "options": {
+        "ก": "It presents numerical comparisons in a clear visual format.",
+        "ข": "It replaces all facts with imaginary stories.",
+        "ค": "It uses smaller font sizes to save paper.",
+        "ง": "It translates all numbers into roman numerals."
+      },
+      "correctAnswer": "ก",
+      "explanation": "Visual comparison of bar lengths allows readers to digest relative values immediately.",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Easy",
+      "question": "Which country brought the Spanish language to Mexico centuries ago?",
+      "options": {
+        "ก": "England",
+        "ข": "Spain",
+        "ค": "France",
+        "ง": "Italy"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Colonizers and settlers from Spain introduced Spanish to Mexico.",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "Why do many people in the United States speak English?",
+      "options": {
+        "ก": "English originated natively in North America.",
+        "ข": "Settlers from England brought the English language to North America.",
+        "ค": "The United States passed a law banning all other languages.",
+        "ง": "English was created by American scientists in 1900."
+      },
+      "correctAnswer": "ข",
+      "explanation": "English was brought to North America by English settlers and historical migration.",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Easy",
+      "question": "What is a 'prediction' in reading comprehension?",
+      "options": {
+        "ก": "A exact summary of what happened in chapter one",
+        "ข": "A sensible guess about what will happen next based on clues and knowledge",
+        "ค": "A list of grammatical errors found in a passage",
+        "ง": "The author's biography on the back cover"
+      },
+      "correctAnswer": "ข",
+      "explanation": "A prediction is an educated anticipation of future plot events using textual clues.",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Medium",
+      "question": "What clues should a reader use to make accurate predictions?",
+      "options": {
+        "ก": "Only the total page count of the book",
+        "ข": "Story clues, character actions/dialogue, and personal background knowledge",
+        "ค": "Random guesses without looking at the text",
+        "ง": "The color of the book cover illustration"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Good predictions blend textual evidence (clues, behavior) with real-world knowledge.",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Medium",
+      "question": "In 'The Mystery Pencil', why did Rosa ask Erico so many rapid questions?",
+      "options": {
+        "ก": "She was angry at him for breaking her desk.",
+        "ข": "She was curious and excited to learn about her new classmate.",
+        "ค": "She was testing him for a school examination.",
+        "ง": "She didn't know how to speak English properly."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Rosa was enthusiastic, curious, and talkative upon meeting Erico.",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Medium",
+      "question": "What does the term 'bilingual' mean?",
+      "options": {
+        "ก": "Speaking only one language fluently",
+        "ข": "Able to speak two languages fluently",
+        "ค": "Able to write without making spelling mistakes",
+        "ง": "Learning a language using computer software"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Bilingual refers to fluency in two distinct languages.",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Easy",
+      "question": "What is a 'living language'?",
+      "options": {
+        "ก": "A language that is used by people in daily life and continues to evolve",
+        "ข": "A language that can speak by itself on television",
+        "ค": "A language that was invented last year by children",
+        "ง": "A language that has no written dictionary"
+      },
+      "correctAnswer": "ก",
+      "explanation": "A living language has active native speakers and evolves through daily usage.",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Easy",
+      "question": "What is a 'dead language'?",
+      "options": {
+        "ก": "A language spoken only during nighttime",
+        "ข": "A language no longer spoken in daily life by any native community",
+        "ค": "A language that uses numbers instead of letters",
+        "ง": "A language that exists only in songs"
+      },
+      "correctAnswer": "ข",
+      "explanation": "A dead language (such as Latin) is no longer spoken as a primary native tongue in daily communication.",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Medium",
+      "question": "Which language has the largest number of native speakers in the world?",
+      "options": {
+        "ก": "English",
+        "ข": "Mandarin Chinese",
+        "ค": "Spanish",
+        "ง": "Hindi"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Mandarin Chinese has the highest total number of native speakers globally (~995M).",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Medium",
+      "question": "Latin is considered an example of a:",
+      "options": {
+        "ก": "Living language spoken in modern supermarkets",
+        "ข": "Dead language still studied in literature and science but not spoken natively",
+        "ค": "Newly created digital programming language",
+        "ง": "Sign language used in South America"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Latin is a classical dead language studied in academic contexts but lacking native speakers.",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Hard",
+      "question": "If only 50 elderly people speak a rare regional language today, what can you predict about its future?",
+      "options": {
+        "ก": "It will become the official language of the United Nations.",
+        "ข": "It is at high risk of disappearing and becoming a dead language.",
+        "ค": "Millions of students will start speaking it next year.",
+        "ง": "It will replace English on the internet."
+      },
+      "correctAnswer": "ข",
+      "explanation": "With very few elderly speakers remaining, a language faces imminent endangerment and extinction.",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Medium",
+      "question": "What does 'accent' mean when discussing language?",
+      "options": {
+        "ก": "The volume at which someone shouts",
+        "ข": "A distinctive way of pronouncing words associated with a region or nation",
+        "ค": "The length of sentences in a written story",
+        "ง": "The speed at which a person reads out loud"
+      },
+      "correctAnswer": "ข",
+      "explanation": "An accent is a regional or cultural pattern of pronunciation.",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Easy",
+      "question": "What is the main goal of a 'process essay'?",
+      "options": {
+        "ก": "To convince readers to buy a specific product",
+        "ข": "To explain step-by-step how to do or make something in chronological order",
+        "ค": "To write a fictional fairy tale about dragons",
+        "ง": "To describe a personal vacation with emotional poems"
+      },
+      "correctAnswer": "ข",
+      "explanation": "A process essay provides sequential instructions explaining how a task or operation is completed.",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Easy",
+      "question": "Which set of transition words is essential for organizing a process essay?",
+      "options": {
+        "ก": "Because, Since, Although, However",
+        "ข": "First, Next, Then, After that, Finally",
+        "ค": "Beautiful, Quickly, Red, Heavy",
+        "ง": "Yesterday, Someday, Never, Always"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Chronological sequence markers (First, Next, Then, Finally) guide step-by-step process writing.",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Medium",
+      "question": "Which transition word is most appropriate for starting the very first step of a process?",
+      "options": {
+        "ก": "Finally",
+        "ข": "First",
+        "ค": "Meanwhile",
+        "ง": "In conclusion"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'First' or 'To begin with' introduces the initial step of a procedure.",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Medium",
+      "question": "Which transition word signals the final step in a process essay?",
+      "options": {
+        "ก": "First",
+        "ข": "Secondly",
+        "ค": "Finally",
+        "ง": "For example"
+      },
+      "correctAnswer": "ค",
+      "explanation": "'Finally' or 'Lastly' designates the ultimate concluding step of a process.",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Medium",
+      "question": "Why are imperative action verbs (e.g., 'Fold', 'Cut', 'Mix') useful in process essays?",
+      "options": {
+        "ก": "They make sentences longer and harder to read.",
+        "ข": "They give clear, direct instructions to the reader.",
+        "ค": "They describe feelings and emotions.",
+        "ง": "They introduce past history facts."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Action verbs direct the reader precisely on what action to perform at each step.",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Hard",
+      "question": "If a process essay skips a step or presents steps out of order, what happens?",
+      "options": {
+        "ก": "The essay becomes more poetic and interesting.",
+        "ข": "The reader will get confused and fail to achieve the correct result.",
+        "ค": "The essay automatically wins a writing prize.",
+        "ง": "The topic changes to a book review."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Strict chronological sequence is crucial for instructional clarity in process writing.",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Medium",
+      "question": "In a process essay explaining 'How to Read a Map', what should be explained first?",
+      "options": {
+        "ก": "How to store the map in your backpack after hiking",
+        "ข": "How to orient the map with a compass and locate your starting point",
+        "ค": "What snack to eat when you finish hiking",
+        "ง": "How to draw a map from memory"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Orienting the map and identifying your starting location is the essential initial step.",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Easy",
+      "question": "What type of organizational structure does a process essay follow?",
+      "options": {
+        "ก": "Spatial order",
+        "ข": "Chronological (time) order",
+        "ค": "Compare and contrast order",
+        "ง": "Random order"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Process writing adheres strictly to chronological time sequence.",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Medium",
+      "question": "Which sentence uses a sequence transition correctly?",
+      "options": {
+        "ก": "First, stir the soup, and finally wash the vegetables before chopping.",
+        "ข": "First, wash the vegetables. Next, chop them into small pieces. Finally, add them to the pot.",
+        "ค": "Finally, turn on the stove. First, serve the hot soup to guests.",
+        "ง": "Then, wash the pot before you buy vegetables at the market first."
+      },
+      "correctAnswer": "ข",
+      "explanation": "The steps follow logical sequence: First (wash) -> Next (chop) -> Finally (cook/add).",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Medium",
+      "question": "What should the introduction of a process essay include?",
+      "options": {
+        "ก": "A detailed list of all mistakes you made last year",
+        "ข": "The purpose of the process and what the reader will accomplish",
+        "ค": "A secret code that readers must solve",
+        "ง": "A review of a movie you watched recently"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The intro states the objective of the process and why it is useful or important.",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Easy",
+      "question": "What is a 'book review'?",
+      "options": {
+        "ก": "A exact copy of all chapters in a book",
+        "ข": "A written evaluation expressing an opinion, summary, and recommendation about a book",
+        "ค": "A list of grammatical spelling rules for authors",
+        "ง": "A legal contract between a printer and a publisher"
+      },
+      "correctAnswer": "ข",
+      "explanation": "A review analyzes, summarizes, evaluates, and recommends a literary work.",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Easy",
+      "question": "What are the main structural parts of a standard book review?",
+      "options": {
+        "ก": "Headline, Advertisements, Coupon",
+        "ข": "Introduction (Summary), Body (Likes/Dislikes), Conclusion (Recommendation)",
+        "ค": "Chapter 1, Chapter 2, Index",
+        "ง": "Vocabulary list, Grammar notes, Quiz"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Reviews follow Intro/Summary -> Body evaluation -> Conclusion recommendation format.",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "Which phrases are commonly used in a review body paragraph to introduce supporting examples?",
+      "options": {
+        "ก": "First of all, Secondly",
+        "ข": "For example, For instance",
+        "ค": "In spite of, Nevertheless",
+        "ง": "Once upon a time, Long ago"
+      },
+      "correctAnswer": "ข",
+      "explanation": "'For example' and 'For instance' introduce specific text evidence supporting opinions.",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "What belongs in the summary section of a book review?",
+      "options": {
+        "ก": "A complete spoiler of the ending twist",
+        "ข": "A brief overview of the main plot, characters, and setting without spoiling the ending",
+        "ค": "A detailed list of the author's family background",
+        "ง": "The price of the book at different bookstores"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Summaries provide basic plot/character context while preserving resolution surprises.",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "Where in a review should the writer state their final recommendation and rating?",
+      "options": {
+        "ก": "In the very first sentence of the title",
+        "ข": "In the body paragraph describing character names",
+        "ค": "In the conclusion paragraph",
+        "ง": "In a footnote at the bottom of page 10"
+      },
+      "correctAnswer": "ค",
+      "explanation": "The conclusion summarizes final thoughts and delivers the final recommendation.",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "Which statement expresses an opinion suitable for a book review?",
+      "options": {
+        "ก": "The book has 124 pages and 8 chapters.",
+        "ข": "The author's description of the foggy setting makes the story incredibly exciting.",
+        "ค": "The book was published in London in 2020.",
+        "ง": "The main character is named Jaya."
+      },
+      "correctAnswer": "ข",
+      "explanation": "Evaluative opinions highlight strengths like vivid setting descriptions.",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Hard",
+      "question": "Why should a reviewer include both likes and dislikes in a balanced review?",
+      "options": {
+        "ก": "To make the review look twice as long",
+        "ข": "To give a fair, honest, and objective evaluation of the work",
+        "ค": "Because the publisher requires equal word counts",
+        "ง": "To confuse readers so they buy two books"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Addressing both strengths and minor drawbacks establishes credibility and fairness.",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "Which phrase is used to introduce a recommendation in a review?",
+      "options": {
+        "ก": "I strongly recommend this book to readers who enjoy outdoor mysteries.",
+        "ข": "First, open the front cover of the book.",
+        "ค": "In line 4, the word bench is a noun.",
+        "ง": "The bar graph shows 196 countries."
+      },
+      "correctAnswer": "ก",
+      "explanation": "Recommending target audiences is a key function of review conclusions.",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Easy",
+      "question": "What should a reviewer avoid doing in a book review summary?",
+      "options": {
+        "ก": "Mentioning the main characters' names",
+        "ข": "Giving away the entire secret ending (spoilers)",
+        "ค": "Describing the main setting",
+        "ง": "Mentioning the main genre of the book"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Revealing major plot climaxes or endings ruins the reading experience for potential readers.",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "Which sentence demonstrates proper use of 'for instance' in a review?",
+      "options": {
+        "ก": "The plot is fast-paced. For instance, in chapter two the characters get trapped in a foggy cave.",
+        "ข": "For instance, I read the book yesterday at school.",
+        "ค": "I didn't like the book for instance it was too expensive.",
+        "ง": "For instance, the author wrote a process essay."
+      },
+      "correctAnswer": "ก",
+      "explanation": "'For instance' correctly introduces a specific plot event demonstrating fast pacing.",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Setting Analysis",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Easy",
+      "question": "The setting of a story includes both the physical location and the time period.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Setting encompasses where and when story events take place.",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Setting Analysis",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Easy",
+      "question": "In 'Lost and Found', Jaya's family planned to picnic near a lighthouse.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "They planned to picnic on a hill with a tall, crooked tree on top, not near the lighthouse.",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Setting Analysis",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "The thick fog in 'Lost and Found' made it difficult for the family to see landmarks from the main trail.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Fog obscured their view of surrounding hills and landmarks.",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Setting Analysis",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "Mom used the lighthouse to determine which direction was North.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Mom used the lighthouse to determine which direction was South.",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Setting Analysis",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "When Jaya and her family climbed above the fog line, the hilltop looked like an island in a sea of clouds.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "The white fog below made the hilltop appear surrounded like an island.",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Setting Analysis",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Easy",
+      "question": "Setting has no effect on character feelings or plot choices in narrative stories.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Setting heavily influences character emotions, challenges, and decisions.",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Setting Analysis",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "A long wooden bench on the left side of the trail helped the family realize they were on the wrong path.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Passing the bench at nearly noon signaled they had hiked off their planned route.",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Easy",
+      "question": "Visuals in reading texts include pictures, diagrams, maps, and bar graphs.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Visual elements encompass all non-textual graphical aids that support comprehension.",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "Orienteering is an indoor sport where players use dice to move across a printed board.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Orienteering is an outdoor navigational sport using physical maps and compasses in nature.",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Easy",
+      "question": "Racers in orienteering events use a map and compass to find control points.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Navigation rely strictly on map and compass skills.",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "Control flags in orienteering are typically solid green and blue squares.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Control flags are split diagonally into orange and white.",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "Lighthouses use bright lamps and loud fog horns to warn ships away from dangerous shores during fog.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Lighthouses combine powerful lights and acoustic signals to guide maritime traffic.",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Use Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Easy",
+      "question": "Lighthouses are built in dense city centers to guide car traffic.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Lighthouses are built on coastal shorelines and cliffs to warn ships at sea.",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Easy",
+      "question": "A bar graph uses rectangular bars to compare quantities across different categories.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Bar graphs visually display statistical comparisons using bar height/length.",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "English is an official language in more countries than French or Spanish.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Statistical bar graphs show English holds official status in the highest number of nations.",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "Sign language is identical and universal in every country across the globe.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Sign languages vary regionally (ASL, BSL, Auslan, etc.).",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Easy",
+      "question": "An official language is a language legally designated by a government for public use.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Official languages are legally codified for laws, education, and government affairs.",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "If a country has no official language, citizens are not allowed to speak any language.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "It simply means no single language is legally codified as the sole official national language.",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "Spanish was introduced to Mexico by settlers and colonizers from Spain.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Historical contact brought Spanish from Spain to Mexico.",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Bar Graphs & Global Languages",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Easy",
+      "question": "Bar graphs make it harder to compare data than reading long text paragraphs.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Bar graphs provide visual clarity, making numerical comparison faster and easier.",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Easy",
+      "question": "A prediction in reading is a logical guess about future events based on clues and knowledge.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Predictions combine text clues with personal background knowledge.",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Medium",
+      "question": "Mandarin Chinese has the largest number of native speakers in the world.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Mandarin boasts the highest total of native speakers globally (~995M).",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Easy",
+      "question": "A 'dead language' is a language actively spoken every day by millions of children.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "A dead language (like Latin) is no longer spoken in daily life by a native community.",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Medium",
+      "question": "Bilingualism refers to the ability to speak two languages fluently.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Bilingual means fluent in two languages.",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Make Predictions",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Hard",
+      "question": "If a language has only 20 elderly speakers left, we can predict it will quickly become a dead language.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Extinction risk is extremely high when native speakers diminish to a tiny elderly population.",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Easy",
+      "question": "Process essays explain how to do or make something using step-by-step chronological order.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Process writing details sequential instructions clearly.",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Medium",
+      "question": "Transition words like 'First', 'Next', 'Then', and 'Finally' are used in process essays to signal sequence.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Sequence transitions guide readers through chronological steps.",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "A book review conclusion should always reveal the secret twist ending of the story.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Review conclusions should summarize recommendations without spoiling ending surprises.",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Book/Story Review Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "A book review should include both the writer's opinion and specific examples from the story to support that opinion.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Effective reviews back up opinions with textual evidence using phrases like 'for example' or 'for instance'.",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Process Essay Writing",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Medium",
+      "question": "In a process essay, the order of steps does not matter as long as all steps are mentioned.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Process essays require strict chronological order; mixing up steps leads to confusion and incorrect results.",
+      "points": 1
+    },
+    {
+      "id": 91,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Setting Analysis Scenario",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Hard",
+      "scenario": "Nop and his brother are reading a mystery story set in a deserted, creepy castle on a dark midnight during a thunderstorm. Nop predicts the characters will feel relaxed and go for a sunny picnic.",
+      "question": "Why is Nop's prediction illogical based on the setting?",
+      "correctAnswer": "Nop ignored the setting details (dark midnight, creepy deserted castle, thunderstorm) which evoke fear and tension, not relaxed sunny picnics.",
+      "explanation": "The setting (dark midnight, storm, creepy castle) creates fear and danger. A logical prediction would be that characters feel scared, encounter mysteries, or seek shelter.",
+      "points": 2
+    },
+    {
+      "id": 92,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Setting Analysis Scenario",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Hard",
+      "scenario": "In 'Lost and Found', Jaya's family realizes they cannot see the landmark crooked tree because heavy fog has rolled into the valley. Mom decides to hike up a smaller nearby hill.",
+      "question": "How does the setting directly influence Mom's decision?",
+      "correctAnswer": "The fog obscured ground landmarks in the valley, forcing Mom to move to higher elevation above the fog layer to regain visibility.",
+      "explanation": "Because fog trapped in the valley blocked their view, climbing higher allowed them to get above the fog line and locate nearby landmarks.",
+      "points": 2
+    },
+    {
+      "id": 93,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Orienteering Navigation Scenario",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Hard",
+      "scenario": "Suda is participating in her first outdoor orienteering race. She has a course map and a compass. At control point #3, she sees a dense pine forest on her left and a large boulder on her right.",
+      "question": "How should Suda use her visuals (map) and tools (compass) to reach control point #4?",
+      "correctAnswer": "She should align her map with her compass needle pointing North, locate boulder and forest symbols on the map, and follow the directional bearing to #4.",
+      "explanation": "Suda must orient the map to magnetic North using her compass, match the boulder and forest landmarks to map symbols, and follow the map's vector toward control #4.",
+      "points": 2
+    },
+    {
+      "id": 94,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Lighthouse Fog Warning Scenario",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Hard",
+      "scenario": "Captain Thorne is steering a cargo ship near a rocky coastline at night when sudden thick fog reduces visibility to zero. Suddenly, he hears a loud repeating horn and sees a sweeping beam of light.",
+      "question": "What visual/auditory landmark is Captain Thorne encountering, and what action should he take?",
+      "correctAnswer": "He is encountering a lighthouse warning signal; he must alter his ship's course away from the shore to prevent crashing into rocks.",
+      "explanation": "The lighthouse horn and light warn of dangerous coastal rocks. Captain Thorne must steer away from the coast into deeper safe waters.",
+      "points": 2
+    },
+    {
+      "id": 95,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Bar Graph Analysis Scenario",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Hard",
+      "scenario": "A student looks at a bar graph titled 'Official Languages of 196 Countries'. The bar for English reaches 59, French reaches 29, Arabic reaches 26, and Spanish reaches 21.",
+      "question": "What clear statistical conclusions can the student draw from this graph?",
+      "correctAnswer": "English is the official language in the greatest number of countries (59), while French is second (29), followed by Arabic and Spanish.",
+      "explanation": "The bar graph visually shows English leads worldwide with 59 countries, nearly double that of French (29), Arabic (26), and Spanish (21).",
+      "points": 2
+    },
+    {
+      "id": 96,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Sign Language Communication Scenario",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Hard",
+      "scenario": "An international student from Japan who uses Japanese Sign Language (JSL) meets an American student who uses American Sign Language (ASL). They find that some hand signs are different.",
+      "question": "Why do JSL and ASL have different sign gestures despite both being sign languages?",
+      "correctAnswer": "Because sign languages are independent, full languages developed within specific cultural regions, not a single universal code.",
+      "explanation": "Sign languages developed naturally within distinct national cultures, so JSL and ASL have unique vocabularies and grammar rules.",
+      "points": 2
+    },
+    {
+      "id": 97,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Language Classification Scenario",
+      "learningObjective": "LO-RW5",
+      "difficulty": "Hard",
+      "scenario": "Professor Miller explains that ancient Latin was spoken by Romans 2,000 years ago, but today no country uses Latin as its native daily spoken language. Meanwhile, Mandarin is spoken daily by nearly 1 billion people.",
+      "question": "How should a student classify Latin versus Mandarin based on these facts?",
+      "correctAnswer": "Latin is classified as a dead language, whereas Mandarin is classified as a living language with the world's largest native speaker population.",
+      "explanation": "Latin is a dead language because it lacks native daily speakers; Mandarin is a living language actively spoken by daily communities.",
+      "points": 2
+    },
+    {
+      "id": 98,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Bilingual Prediction Scenario",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Hard",
+      "scenario": "In a classroom story, Erico moved from Brazil to London. He speaks both Portuguese and English fluently. His classmate Rosa asks if he can help translate a letter from Lisbon.",
+      "question": "What prediction can you make about Erico's ability to help, and why?",
+      "correctAnswer": "Erico will be able to translate it because Portuguese is the native language of both Brazil and Portugal, and he is bilingual.",
+      "explanation": "Because Erico is bilingual in Portuguese and English, and Portuguese is spoken in Portugal (Lisbon), he can easily translate the letter.",
+      "points": 2
+    },
+    {
+      "id": 99,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Process Essay Order Scenario",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Hard",
+      "scenario": "Kanya is writing a process essay titled 'How to Pack a Hiking Backpack'. She writes: 'Finally, put heavy items at the bottom. First, adjust the shoulder straps. Next, close the zipper.'",
+      "question": "What is wrong with Kanya's process essay, and how should she revise it?",
+      "correctAnswer": "Her chronological sequence is scrambled. She should start with 'First, put heavy items at the bottom...', followed by packing, closing zippers, and finally adjusting straps.",
+      "explanation": "The steps are out of logical order. She must place heavy gear at the bottom first, pack lighter gear next, zip up, and finally adjust shoulder straps.",
+      "points": 2
+    },
+    {
+      "id": 100,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Process Essay Transition Scenario",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Hard",
+      "scenario": "A student wants to write a process essay explaining how to navigate using a compass. He has listed 4 steps: 1. Hold compass flat. 2. Turn housing until N aligns with needle. 3. Look at direction arrow. 4. Walk toward target.",
+      "question": "How can he connect these 4 steps into a clear instructional paragraph using transition words?",
+      "correctAnswer": "By using sequence words: 'First, hold compass flat. Next, turn housing until N aligns with needle. Then, look at direction arrow. Finally, walk toward target.'",
+      "explanation": "Use transitions: First, hold the compass flat. Next, turn the dial until N matches the needle. Then, read your directional arrow. Finally, walk towards your target.",
+      "points": 2
+    },
+    {
+      "id": 101,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Book Review Summary Scenario",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Hard",
+      "scenario": "In her draft book review of 'The Mystery Pencil', May writes 3 full pages summarizing every single event, including how the detective catches the thief on the final page.",
+      "question": "What critical mistake did May make in her review summary, and how should she fix it?",
+      "correctAnswer": "She included major spoilers and gave away the ending. She should shorten the summary and leave the resolution secret.",
+      "explanation": "May included plot spoilers by revealing the ending. A good summary provides premise and conflict without revealing the climax or mystery resolution.",
+      "points": 2
+    },
+    {
+      "id": 102,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Book Review Example Usage Scenario",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Hard",
+      "scenario": "Tom writes in his book review: 'I found the main character very funny.' He wants to add specific evidence from the story to support this opinion.",
+      "question": "How can Tom use the phrase 'for example' or 'for instance' to strengthen his review body paragraph?",
+      "correctAnswer": "He should write: 'I found the main character very funny. For example, in chapter three he accidentally wore two different shoes to school and made everyone laugh.'",
+      "explanation": "Tom can state: 'The character is very funny. For instance, in chapter 3 he makes hilarious jokes while trying to pitch a tent in the fog.'",
+      "points": 2
+    },
+    {
+      "id": 103,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Book Review Conclusion Scenario",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Hard",
+      "scenario": "Ploy has written her summary and body paragraphs evaluating a mystery novel's plot and characters. She is now writing her final concluding paragraph.",
+      "question": "What key elements must Ploy include to complete her book review conclusion effectively?",
+      "correctAnswer": "She must state her final overall opinion, deliver a clear recommendation (who should read it), and provide a star rating.",
+      "explanation": "The conclusion must summarize her overall impression, give a recommendation on who would enjoy the book, and state a final rating.",
+      "points": 2
+    },
+    {
+      "id": 104,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Predicting Character Action Scenario",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Hard",
+      "scenario": "In a story, Manoj drops his map while hiking in a windy, foggy forest. He sees the wind blowing the map toward a steep cliff edge.",
+      "question": "Based on story context and safety knowledge, what should Manoj predict and do?",
+      "correctAnswer": "Manoj should not chase the map dangerously close to the cliff edge; he should stay safe with his family and rely on visible landmarks or Mom's guidance.",
+      "explanation": "Manoj should prioritize safety over the lost map, stay back from the cliff, and work with his family to navigate using landmarks.",
+      "points": 2
+    },
+    {
+      "id": 105,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Visual vs Text Analysis Scenario",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Hard",
+      "scenario": "An article about orienteering describes how racers run through forests. Next to the text is a diagram showing a map grid with contour lines, scale bar, and control legend.",
+      "question": "What specific information does the visual diagram provide that text paragraphs usually omit?",
+      "correctAnswer": "The exact scale ratio (e.g., 1:10,000), contour line elevation intervals, and precise geometric control symbols.",
+      "explanation": "The diagram provides exact spatial measurements, elevation contours, scale ratios, and graphic map legends not easily detailed in prose text.",
+      "points": 2
+    },
+    {
+      "id": 106,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Analyze Story Setting",
+      "learningObjective": "LO-RW1",
+      "difficulty": "Medium",
+      "question": "Explain how the foggy weather setting in 'Lost and Found' created both a problem and a resolution for Jaya and her family.",
+      "correctAnswer": "Problem: The thick fog obscured valley landmarks, causing the family to take a wrong turn onto a smaller hill near a bench. Resolution: Climbing higher up the small hill took them above the fog line, allowing them to see the lighthouse (South) and spot their target hill with the crooked tree (Northeast).",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 107,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Importance of Reading Visuals",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "Why are visual aids like maps, diagrams, and compasses essential in informational texts such as 'The World of Orienteering'?",
+      "correctAnswer": "Visual aids provide spatial relationships, geographic scale, and exact directional details that written words alone cannot convey quickly. In orienteering, maps and compasses allow readers to visualize how racers locate checkpoints and navigate terrain accurately.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 108,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Bar Graph Interpretation",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "Explain the main insights provided by a bar graph showing the official languages of 196 countries, and why some countries have multiple official languages.",
+      "correctAnswer": "The bar graph highlights global language distribution, showing English as official in the highest number of nations (59), followed by French and Spanish. Countries may adopt multiple official languages due to diverse ethnic populations, colonial history, or cultural heritage.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 109,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Living vs. Dead Languages",
+      "learningObjective": "LO-RW5",
+      "difficulty": "Medium",
+      "question": "Compare and contrast 'living languages' and 'dead languages'. Provide one example of each from your reading.",
+      "correctAnswer": "Living languages (e.g., Mandarin Chinese) are actively spoken in daily life by native communities and continue to evolve. Dead languages (e.g., Latin) are no longer spoken as a primary native language in daily communication, though they may still be studied academically.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 110,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Predicting Text Outcomes",
+      "learningObjective": "LO-RW4",
+      "difficulty": "Medium",
+      "question": "Describe the process of making a reading prediction. What two main sources of information must a reader combine to make an accurate prediction?",
+      "correctAnswer": "To make an accurate prediction, a reader must combine: 1) Textual clues (character dialogue, actions, foreshadowing details) with 2) Personal background knowledge (real-world experience and logic) to anticipate reasonable plot outcomes.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 111,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Process Essay Structure",
+      "learningObjective": "LO-RW6",
+      "difficulty": "Medium",
+      "question": "Outline the essential structural components and key transition words needed to write an effective process essay.",
+      "correctAnswer": "A process essay requires: 1) An introduction stating the goal/purpose of the process, 2) Body paragraphs detailing steps in strict chronological order using sequence transition words (First, Next, Then, After that, Finally), and 3) A conclusion summarizing the final result or tip.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 112,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Writing a Balanced Book Review",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "Explain the main sections of a book review and why it is important to include both likes and minor dislikes in the body paragraph.",
+      "correctAnswer": "A book review includes an Introduction (summary), Body (evaluation of strengths and weaknesses), and Conclusion (recommendation/rating). Including both likes and dislikes creates a fair, balanced, and credible evaluation that helps readers decide if the book suits them.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 113,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Role of Lighthouses in Maritime Safety",
+      "learningObjective": "LO-RW2",
+      "difficulty": "Medium",
+      "question": "Based on the non-fiction reading passage, explain how lighthouses protect ships near rocky shorelines during severe fog.",
+      "correctAnswer": "Lighthouses built on coastal shores operate high-powered lamps that shine beams far across the ocean and blast loud fog horns when fog rolls in. These visual and sound signals warn ship captains of shallow waters and rocky shorelines, preventing shipwrecks.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 114,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Using Example Transitions in Writing",
+      "learningObjective": "LO-RW7",
+      "difficulty": "Medium",
+      "question": "Write two original sentences demonstrating how to use 'for example' and 'for instance' to support an opinion about a book's characters or setting.",
+      "correctAnswer": "Example 1: 'The setting of the story is exceptionally scary; for example, the author describes a dark, howling wind blowing through the abandoned castle.' Example 2: 'The main character is very brave; for instance, she steps into the foggy forest alone to save her lost puppy.'",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 115,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Sign Language and Linguistic Diversity",
+      "learningObjective": "LO-RW3",
+      "difficulty": "Medium",
+      "question": "Discuss the importance of sign languages in society and explain why sign language is considered a true language rather than just simple hand gestures.",
+      "correctAnswer": "Sign languages (such as ASL) are vital visual-gestural languages that allow deaf and hard-of-hearing individuals to communicate fully. They are true languages because they possess complex grammar, syntax, extensive vocabulary, and regional variations, just like spoken languages.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    }
+  ]
+}

@@ -47,11 +47,11 @@
       "question": "Which of the following is considered a PURE SUBSTANCE because it contains only one type of particle?",
       "options": {
         "ก": "Coffee",
-        "ข": "Salad",
-        "ค": "Water",
+        "ข": "Water",
+        "ค": "Salad",
         "ง": "Wine"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "Water is a pure substance containing only water molecules. Coffee, salad, and wine are mixtures.",
       "points": 1
     },
@@ -64,9 +64,9 @@
       "difficulty": "Easy",
       "question": "What is a mixture?",
       "options": {
-        "ก": "A liquid that has completely boiled away",
+        "ก": "A substance containing only one type of element",
         "ข": "A combination of two or more different substances mixed together",
-        "ค": "A substance containing only one type of element",
+        "ค": "A liquid that has completely boiled away",
         "ง": "A rock formed from magma"
       },
       "correctAnswer": "ข",
@@ -82,12 +82,12 @@
       "difficulty": "Easy",
       "question": "Which characteristic best describes a HOMOGENEOUS mixture?",
       "options": {
-        "ก": "It contains only one type of atom",
-        "ข": "Components are visibly different and easily separated by eye",
-        "ค": "It always settles at the bottom",
-        "ง": "The composition is uniform throughout the mixture"
+        "ก": "Components are visibly different and easily separated by eye",
+        "ข": "The composition is uniform throughout the mixture",
+        "ค": "It contains only one type of atom",
+        "ง": "It always settles at the bottom"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "A homogeneous mixture has a uniform appearance and composition throughout.",
       "points": 1
     },
@@ -100,12 +100,12 @@
       "difficulty": "Medium",
       "question": "Which of the following is a HOMOGENEOUS mixture?",
       "options": {
-        "ก": "Vinegar",
+        "ก": "Muddy water",
         "ข": "Shrimp paste sauce",
-        "ค": "Cendol dessert",
-        "ง": "Muddy water"
+        "ค": "Vinegar",
+        "ง": "Cendol dessert"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ค",
       "explanation": "Vinegar is a homogeneous mixture with a uniform appearance. Muddy water, shrimp paste sauce, and cendol are heterogeneous.",
       "points": 1
     },
@@ -118,10 +118,10 @@
       "difficulty": "Easy",
       "question": "Which characteristic describes a HETEROGENEOUS mixture?",
       "options": {
-        "ก": "It is identical to a pure substance",
+        "ก": "The components are uniformly distributed",
         "ข": "The composition is NOT uniform throughout and components are visibly different",
-        "ค": "The components are uniformly distributed",
-        "ง": "It cannot be separated"
+        "ค": "It cannot be separated",
+        "ง": "It is identical to a pure substance"
       },
       "correctAnswer": "ข",
       "explanation": "Heterogeneous mixtures have a non-uniform composition with visibly distinct parts.",
@@ -136,10 +136,10 @@
       "difficulty": "Medium",
       "question": "Why is soil classified as a HETEROGENEOUS mixture?",
       "options": {
-        "ก": "Because it is completely uniform throughout",
+        "ก": "Because it contains only one type of particle",
         "ข": "Because one sample may contain dirt while another contains grass, rocks, or earthworms",
-        "ค": "Because it dissolves in water",
-        "ง": "Because it contains only one type of particle"
+        "ค": "Because it is completely uniform throughout",
+        "ง": "Because it dissolves in water"
       },
       "correctAnswer": "ข",
       "explanation": "Soil is heterogeneous because its composition varies depending on the sample taken (dirt, grass, organic matter, worms).",
@@ -155,11 +155,11 @@
       "question": "Fish sauce, tomato ketchup, and syrup all share which mixture classification?",
       "options": {
         "ก": "Heterogeneous mixtures",
-        "ข": "Igneous mixtures",
+        "ข": "Homogeneous mixtures",
         "ค": "Pure elements",
-        "ง": "Homogeneous mixtures"
+        "ง": "Igneous mixtures"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Fish sauce, ketchup, and syrup have a uniform appearance throughout, making them homogeneous mixtures.",
       "points": 1
     },
@@ -173,11 +173,11 @@
       "question": "Muddy water, cendol dessert, and shrimp paste sauce are classified as:",
       "options": {
         "ก": "Homogeneous mixtures",
-        "ข": "Gaseous solutions",
+        "ข": "Heterogeneous mixtures",
         "ค": "Pure substances",
-        "ง": "Heterogeneous mixtures"
+        "ง": "Gaseous solutions"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "These mixtures have visibly different components and non-uniform appearance, making them heterogeneous.",
       "points": 1
     },
@@ -190,12 +190,12 @@
       "difficulty": "Easy",
       "question": "Which pair consists of PURE SUBSTANCES?",
       "options": {
-        "ก": "Milk and soda",
-        "ข": "Salad and soup",
-        "ค": "Gold ring and pure salt",
-        "ง": "Coffee and tea"
+        "ก": "Gold ring and pure salt",
+        "ข": "Coffee and tea",
+        "ค": "Salad and soup",
+        "ง": "Milk and soda"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "A golden ring (gold) and pure salt (sodium chloride) consist of one type of particle/compound.",
       "points": 1
     },
@@ -208,12 +208,12 @@
       "difficulty": "Easy",
       "question": "What are the 'components' of a mixture?",
       "options": {
-        "ก": "The container holding the liquid",
-        "ข": "The individual substances or items that are mixed together",
-        "ค": "The heat required to boil the mixture",
-        "ง": "The chemical symbols of elements"
+        "ก": "The individual substances or items that are mixed together",
+        "ข": "The heat required to boil the mixture",
+        "ค": "The chemical symbols of elements",
+        "ง": "The container holding the liquid"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Components are the distinct individual materials that come together to form a mixture.",
       "points": 1
     },
@@ -244,12 +244,12 @@
       "difficulty": "Medium",
       "question": "Saline solution (salt dissolved in water) is classified as a:",
       "options": {
-        "ก": "Pure element",
+        "ก": "Homogeneous mixture",
         "ข": "Heterogeneous mixture",
-        "ค": "Homogeneous mixture",
+        "ค": "Pure element",
         "ง": "Sediment"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "Saline solution is a uniform mixture of dissolved salt in water (homogeneous).",
       "points": 1
     },
@@ -262,12 +262,12 @@
       "difficulty": "Easy",
       "question": "When is HANDPICKING the most suitable method to separate a mixture?",
       "options": {
-        "ก": "When separating salt from seawater",
-        "ข": "When solid particles are dissolved in water",
-        "ค": "When unwanted solids are mixed with wanted solids and their sizes/shapes are visibly different",
+        "ก": "When solid particles are dissolved in water",
+        "ข": "When unwanted solids are mixed with wanted solids and their sizes/shapes are visibly different",
+        "ค": "When separating salt from seawater",
         "ง": "When separating gas from liquid"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "Handpicking is used when components are solid, visibly distinct, and large enough to pick by hand (e.g., shells on beach, husks from rice).",
       "points": 1
     },
@@ -280,12 +280,12 @@
       "difficulty": "Medium",
       "question": "What is WINNOWING used for in agriculture?",
       "options": {
-        "ก": "Attracting iron clips with a magnet",
+        "ก": "Separating chaff or husk from grain using wind/air current",
         "ข": "Filtering coconut debris from milk",
-        "ค": "Heating saltwater to get salt",
-        "ง": "Separating chaff or husk from grain using wind/air current"
+        "ค": "Attracting iron clips with a magnet",
+        "ง": "Heating saltwater to get salt"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ก",
       "explanation": "Winnowing uses air flow/wind to blow away lighter chaff/husks from heavier grains.",
       "points": 1
     },
@@ -298,12 +298,12 @@
       "difficulty": "Easy",
       "question": "What property allows particles to be separated by SIEVING?",
       "options": {
-        "ก": "Difference in color",
-        "ข": "Difference in boiling point",
-        "ค": "Difference in particle size using a mesh/sieve",
-        "ง": "Difference in magnetic property"
+        "ก": "Difference in magnetic property",
+        "ข": "Difference in particle size using a mesh/sieve",
+        "ค": "Difference in boiling point",
+        "ง": "Difference in color"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "Sieving separates solid particles of varying sizes (e.g., sieving flour or sand).",
       "points": 1
     },
@@ -317,11 +317,11 @@
       "question": "FILTRATION is best used to separate:",
       "options": {
         "ก": "A soluble solid dissolved in a liquid",
-        "ข": "Two gases",
+        "ข": "An insoluble solid from a liquid using a porous filter paper or cloth",
         "ค": "Two magnetic metals",
-        "ง": "An insoluble solid from a liquid using a porous filter paper or cloth"
+        "ง": "Two gases"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Filtration separates insoluble solid particles (like coconut pulp or tea leaves) from a liquid using a filter.",
       "points": 1
     },
@@ -334,12 +334,12 @@
       "difficulty": "Easy",
       "question": "Which method is used to separate dissolved salt from seawater in salt farming?",
       "options": {
-        "ก": "Evaporation",
-        "ข": "Magnetic separation",
-        "ค": "Filtration",
+        "ก": "Filtration",
+        "ข": "Evaporation",
+        "ค": "Magnetic separation",
         "ง": "Handpicking"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "Evaporation heats the mixture until the liquid solvent turns to vapor, leaving the soluble solid (salt) behind.",
       "points": 1
     },
@@ -370,12 +370,12 @@
       "difficulty": "Easy",
       "question": "Which tool is used to separate paper clips or iron nails from sand?",
       "options": {
-        "ก": "A filter paper",
-        "ข": "A magnifying glass",
-        "ค": "A sieve",
-        "ง": "A magnet"
+        "ก": "A sieve",
+        "ข": "A filter paper",
+        "ค": "A magnet",
+        "ง": "A magnifying glass"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ค",
       "explanation": "Magnetic separation uses a magnet to attract magnetic materials (iron clips/nails) away from non-magnetic sand.",
       "points": 1
     },
@@ -389,9 +389,9 @@
       "question": "To separate black debris from freshly squeezed coconut milk, what method should be used?",
       "options": {
         "ก": "Filtration using filter cloth",
-        "ข": "Magnetic separation",
+        "ข": "Evaporation using solar heat",
         "ค": "Winnowing",
-        "ง": "Evaporation using solar heat"
+        "ง": "Magnetic separation"
       },
       "correctAnswer": "ก",
       "explanation": "Filtration through cloth traps solid debris while liquid coconut milk passes through.",
@@ -406,12 +406,12 @@
       "difficulty": "Easy",
       "question": "To separate large lumps from fine flour, bakers use:",
       "options": {
-        "ก": "Sedimentation",
-        "ข": "Sieving",
-        "ค": "Winnowing",
-        "ง": "Evaporation"
+        "ก": "Sieving",
+        "ข": "Sedimentation",
+        "ค": "Evaporation",
+        "ง": "Winnowing"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Sieving allows fine flour particles to pass through the mesh while trapping larger lumps.",
       "points": 1
     },
@@ -425,9 +425,9 @@
       "question": "Removing light husks from harvested rice grains using wind is called:",
       "options": {
         "ก": "Winnowing",
-        "ข": "Filtration",
-        "ค": "Evaporation",
-        "ง": "Sedimentation"
+        "ข": "Sedimentation",
+        "ค": "Filtration",
+        "ง": "Evaporation"
       },
       "correctAnswer": "ก",
       "explanation": "Winnowing separates light rice husks from heavy rice grains via wind/air current.",
@@ -442,12 +442,12 @@
       "difficulty": "Medium",
       "question": "In solar salt farming, how does the Sun's energy produce salt crystals?",
       "options": {
-        "ก": "Solar light turns salt into gas",
-        "ข": "Solar heat filters the seawater",
-        "ค": "Solar energy attracts salt magnetically",
-        "ง": "Solar heat causes water to evaporate, leaving solid salt crystals behind"
+        "ก": "Solar heat causes water to evaporate, leaving solid salt crystals behind",
+        "ข": "Solar light turns salt into gas",
+        "ค": "Solar heat filters the seawater",
+        "ง": "Solar energy attracts salt magnetically"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ก",
       "explanation": "Solar heat evaporates the water solvent, leaving pure salt crystals behind.",
       "points": 1
     },
@@ -460,12 +460,12 @@
       "difficulty": "Easy",
       "question": "Paper clips mixed with sand can be most quickly separated by:",
       "options": {
-        "ก": "Winnowing",
-        "ข": "Using a magnet (Magnetic Separation)",
+        "ก": "Using a magnet (Magnetic Separation)",
+        "ข": "Handpicking one by one",
         "ค": "Evaporation",
-        "ง": "Handpicking one by one"
+        "ง": "Winnowing"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Magnetic separation rapidly attracts all iron paper clips out of the sand.",
       "points": 1
     },
@@ -479,11 +479,11 @@
       "question": "What is a GEOLOGIST?",
       "options": {
         "ก": "A scientist who studies plants and animals",
-        "ข": "A doctor who treats skin",
-        "ค": "A scientist who studies the solid, liquid, and gaseous matter of Earth and its rock processes",
-        "ง": "A scientist who studies weather patterns"
+        "ข": "A scientist who studies the solid, liquid, and gaseous matter of Earth and its rock processes",
+        "ค": "A scientist who studies weather patterns",
+        "ง": "A doctor who treats skin"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "A geologist is a scientist who studies Earth's rocks, minerals, and geological processes.",
       "points": 1
     },
@@ -496,10 +496,10 @@
       "difficulty": "Easy",
       "question": "What are FOSSILS?",
       "options": {
-        "ก": "Volcanic ash particles",
+        "ก": "Man-made plastic models of animals",
         "ข": "Preserved remains or traces of ancient dead plants and animals found in rocks",
         "ค": "Crystals formed from magma",
-        "ง": "Man-made plastic models of animals"
+        "ง": "Volcanic ash particles"
       },
       "correctAnswer": "ข",
       "explanation": "Fossils are preserved remains or impressions of ancient organisms found in rock layers.",
@@ -514,12 +514,12 @@
       "difficulty": "Easy",
       "question": "What is a ROCK?",
       "options": {
-        "ก": "A naturally occurring solid mass or combination of minerals",
-        "ข": "A liquid chemical solution",
-        "ค": "A frozen gas cube",
-        "ง": "A synthetic plastic block"
+        "ก": "A synthetic plastic block",
+        "ข": "A naturally occurring solid mass or combination of minerals",
+        "ค": "A liquid chemical solution",
+        "ง": "A frozen gas cube"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "ข",
       "explanation": "A rock is a naturally occurring solid mass composed of one or more minerals.",
       "points": 1
     },
@@ -532,12 +532,12 @@
       "difficulty": "Easy",
       "question": "What are the THREE main categories of rocks on Earth?",
       "options": {
-        "ก": "Hard, Soft, and Medium",
-        "ข": "Granite, Marble, and Gold",
-        "ค": "Igneous, Sedimentary, and Metamorphic",
+        "ก": "Igneous, Sedimentary, and Metamorphic",
+        "ข": "Hard, Soft, and Medium",
+        "ค": "Granite, Marble, and Gold",
         "ง": "Volcanic, Oceanic, and Desert"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "The three primary rock classes are Igneous, Sedimentary, and Metamorphic rocks.",
       "points": 1
     },
@@ -569,11 +569,11 @@
       "question": "What is the difference between MAGMA and LAVA?",
       "options": {
         "ก": "Magma is cold; lava is hot",
-        "ข": "Magma is solid; lava is gas",
-        "ค": "There is no difference",
-        "ง": "Magma is molten rock UNDER Earth's surface; lava is molten rock ON Earth's surface"
+        "ข": "Magma is molten rock UNDER Earth's surface; lava is molten rock ON Earth's surface",
+        "ค": "Magma is solid; lava is gas",
+        "ง": "There is no difference"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Magma is molten rock beneath Earth's crust; lava is molten rock that erupts onto Earth's surface.",
       "points": 1
     },
@@ -586,12 +586,12 @@
       "difficulty": "Medium",
       "question": "Granite, quartz, feldspar, and mica are examples of:",
       "options": {
-        "ก": "Fossils",
-        "ข": "Igneous rocks formed from slow-cooling magma inside Earth's crust",
-        "ค": "Sedimentary rocks from mud",
-        "ง": "Metamorphic rocks from slate"
+        "ก": "Igneous rocks formed from slow-cooling magma inside Earth's crust",
+        "ข": "Sedimentary rocks from mud",
+        "ค": "Metamorphic rocks from slate",
+        "ง": "Fossils"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Granite and its component minerals (quartz, feldspar, mica) form from slow-cooling intrusive magma.",
       "points": 1
     },
@@ -604,12 +604,12 @@
       "difficulty": "Medium",
       "question": "Which igneous rock is a natural volcanic glass formed by extremely rapid cooling of lava?",
       "options": {
-        "ก": "Shale",
-        "ข": "Obsidian",
+        "ก": "Obsidian",
+        "ข": "Limestone",
         "ค": "Marble",
-        "ง": "Limestone"
+        "ง": "Shale"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Obsidian is a volcanic glass formed when lava cools so rapidly that crystals cannot form.",
       "points": 1
     },
@@ -622,12 +622,12 @@
       "difficulty": "Medium",
       "question": "How do SEDIMENTARY rocks form?",
       "options": {
-        "ก": "From extreme heat melting rock inside the mantle",
-        "ข": "From nuclear reactions",
-        "ค": "When layers of sediment (sand, silt, mud, organic remains) compress and cement over long periods",
-        "ง": "From direct volcanic lava cooling"
+        "ก": "From direct volcanic lava cooling",
+        "ข": "When layers of sediment (sand, silt, mud, organic remains) compress and cement over long periods",
+        "ค": "From extreme heat melting rock inside the mantle",
+        "ง": "From nuclear reactions"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ข",
       "explanation": "Sedimentary rocks form when layers of accumulated sediment compress and cement together over time.",
       "points": 1
     },
@@ -640,12 +640,12 @@
       "difficulty": "Medium",
       "question": "Shale, sandstone, limestone, conglomerate, and gypsum are all examples of:",
       "options": {
-        "ก": "Metamorphic rocks",
-        "ข": "Sedimentary rocks",
-        "ค": "Molten rocks",
-        "ง": "Igneous rocks"
+        "ก": "Sedimentary rocks",
+        "ข": "Igneous rocks",
+        "ค": "Metamorphic rocks",
+        "ง": "Molten rocks"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Shale, sandstone, limestone, conglomerate, and gypsum are major sedimentary rock types.",
       "points": 1
     },
@@ -658,12 +658,12 @@
       "difficulty": "Hard",
       "question": "Limestone is a sedimentary rock formed primarily from:",
       "options": {
-        "ก": "Volcanic ash",
-        "ข": "Cooling lava",
-        "ค": "Compressed granite",
-        "ง": "Materials rich in calcium carbonate, such as ancient shells and marine skeletons"
+        "ก": "Cooling lava",
+        "ข": "Materials rich in calcium carbonate, such as ancient shells and marine skeletons",
+        "ค": "Volcanic ash",
+        "ง": "Compressed granite"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Limestone forms from accumulated shells, coral, and marine debris rich in calcium carbonate.",
       "points": 1
     },
@@ -694,12 +694,12 @@
       "difficulty": "Hard",
       "question": "Which metamorphic rock forms from the parent rock GRANITE under intense heat and pressure?",
       "options": {
-        "ก": "Marble",
+        "ก": "Gneiss",
         "ข": "Slate",
-        "ค": "Gneiss",
+        "ค": "Marble",
         "ง": "Quartzite"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "Gneiss is a foliated metamorphic rock that forms from granite.",
       "points": 1
     },
@@ -712,12 +712,12 @@
       "difficulty": "Hard",
       "question": "SLATE is a metamorphic rock that forms from which parent sedimentary rock?",
       "options": {
-        "ก": "Limestone",
-        "ข": "Basalt",
-        "ค": "Shale",
-        "ง": "Sandstone"
+        "ก": "Shale",
+        "ข": "Limestone",
+        "ค": "Sandstone",
+        "ง": "Basalt"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "Slate forms when the sedimentary rock shale is subjected to heat and pressure.",
       "points": 1
     },
@@ -730,12 +730,12 @@
       "difficulty": "Hard",
       "question": "MARBLE is a metamorphic rock formed from the transformation of:",
       "options": {
-        "ก": "Granite",
-        "ข": "Pumice",
-        "ค": "Limestone",
+        "ก": "Limestone",
+        "ข": "Granite",
+        "ค": "Pumice",
         "ง": "Obsidian"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "Marble forms when limestone undergoes metamorphism under heat and pressure.",
       "points": 1
     },
@@ -749,11 +749,11 @@
       "question": "What is a key physical characteristic of many METAMORPHIC rocks?",
       "options": {
         "ก": "They are soft and crumble easily in water",
-        "ข": "They contain active lava",
-        "ค": "They float on water",
-        "ง": "They often have visible layered/foliated bands and are harder than their parent rocks"
+        "ข": "They often have visible layered/foliated bands and are harder than their parent rocks",
+        "ค": "They contain active lava",
+        "ง": "They float on water"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "Metamorphic rocks are generally harder than parent rocks and frequently display layered/foliated banding.",
       "points": 1
     },
@@ -767,8 +767,8 @@
       "question": "Which light volcanic igneous rock has a porous structure filled with air bubbles that allows it to float on water?",
       "options": {
         "ก": "Pumice",
-        "ข": "Gneiss",
-        "ค": "Granite",
+        "ข": "Granite",
+        "ค": "Gneiss",
         "ง": "Marble"
       },
       "correctAnswer": "ก",
@@ -784,12 +784,12 @@
       "difficulty": "Medium",
       "question": "What is the ROCK CYCLE?",
       "options": {
-        "ก": "A single eruption of a volcano",
-        "ข": "A bicycle made of stone",
-        "ค": "The rotation of Earth on its axis",
-        "ง": "A continuous geological process by which rocks are created, transformed, destroyed, and reformed over time"
+        "ก": "A bicycle made of stone",
+        "ข": "A continuous geological process by which rocks are created, transformed, destroyed, and reformed over time",
+        "ค": "A single eruption of a volcano",
+        "ง": "The rotation of Earth on its axis"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ข",
       "explanation": "The Rock Cycle is the continuous process connecting the creation, transformation, and recycling of igneous, sedimentary, and metamorphic rocks.",
       "points": 1
     },
@@ -802,12 +802,12 @@
       "difficulty": "Hard",
       "question": "If a metamorphic rock is pushed deep into the Earth and subjected to extreme heat until it melts into magma, what type of rock will form when that magma cools?",
       "options": {
-        "ก": "Sedimentary rock",
-        "ข": "Metamorphic rock",
-        "ค": "Fossil rock",
-        "ง": "Igneous rock"
+        "ก": "Igneous rock",
+        "ข": "Sedimentary rock",
+        "ค": "Metamorphic rock",
+        "ง": "Fossil rock"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ก",
       "explanation": "When melted magma cools and solidifies, it forms an igneous rock.",
       "points": 1
     },
@@ -838,10 +838,10 @@
       "difficulty": "Easy",
       "question": "Granite, limestone, and marble are widely used in daily life as:",
       "options": {
-        "ก": "Clothing fibers",
+        "ก": "Food additives",
         "ข": "Construction materials, flooring, countertops, and building decorations",
         "ค": "Fuel for cars",
-        "ง": "Food additives"
+        "ง": "Clothing fibers"
       },
       "correctAnswer": "ข",
       "explanation": "Granite, limestone, and marble are major construction materials for buildings, tiles, and monuments.",
@@ -856,12 +856,12 @@
       "difficulty": "Easy",
       "question": "Which hard igneous rock is commonly used to make heavy kitchen mortar and pestle sets?",
       "options": {
-        "ก": "Pumice",
+        "ก": "Granite",
         "ข": "Gypsum",
-        "ค": "Granite",
-        "ง": "Shale"
+        "ค": "Shale",
+        "ง": "Pumice"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "Granite's hardness and durability make it ideal for kitchen mortar and pestle sets.",
       "points": 1
     },
@@ -875,9 +875,9 @@
       "question": "Aluminum is a metal derived from minerals used to make:",
       "options": {
         "ก": "Cans, foil, electrical wiring, and aircraft parts",
-        "ข": "Paper towels",
-        "ค": "Cement blocks",
-        "ง": "Glass bottles"
+        "ข": "Cement blocks",
+        "ค": "Glass bottles",
+        "ง": "Paper towels"
       },
       "correctAnswer": "ก",
       "explanation": "Aluminum is lightweight and corrosion-resistant, used for cans, foil, wiring, and transportation.",
@@ -892,12 +892,12 @@
       "difficulty": "Medium",
       "question": "COPPER is widely used for ________, while LEAD is used for ________.",
       "options": {
-        "ก": "making glass / food packaging",
-        "ข": "clothing / shoes",
-        "ค": "electrical wiring / car batteries and wire covering",
+        "ก": "electrical wiring / car batteries and wire covering",
+        "ข": "making glass / food packaging",
+        "ค": "clothing / shoes",
         "ง": "fertilizer / plastic"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "Copper is an excellent electrical conductor (wiring); Lead is dense and corrosion-resistant (batteries/shielding).",
       "points": 1
     },
@@ -910,12 +910,12 @@
       "difficulty": "Medium",
       "question": "What process breaks down solid rocks into smaller sediment particles at Earth's surface?",
       "options": {
-        "ก": "Magnetic pull",
+        "ก": "Weathering and erosion",
         "ข": "Volcanic melting",
-        "ค": "Sedimentation",
-        "ง": "Weathering and erosion"
+        "ค": "Magnetic pull",
+        "ง": "Sedimentation"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ก",
       "explanation": "Weathering (chemical/physical breakdown) and erosion (transport by wind/water) reduce rocks to sediments.",
       "points": 1
     },
@@ -928,12 +928,12 @@
       "difficulty": "Hard",
       "question": "Which sedimentary rock forms when rounded gravel and sand particles are cemented together by iron oxide?",
       "options": {
-        "ก": "Slate",
+        "ก": "Conglomerate",
         "ข": "Basalt",
-        "ค": "Conglomerate",
+        "ค": "Slate",
         "ง": "Obsidian"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "Conglomerate is a sedimentary rock composed of rounded gravel and sand cemented by iron oxide or calcite.",
       "points": 1
     },
@@ -964,12 +964,12 @@
       "difficulty": "Medium",
       "question": "Sandstone is formed primarily from compressed grains of:",
       "options": {
-        "ก": "Dead dinosaurs",
+        "ก": "Quartz sand and silt",
         "ข": "Volcanic glass",
-        "ค": "Clay particles only",
-        "ง": "Quartz sand and silt"
+        "ค": "Dead dinosaurs",
+        "ง": "Clay particles only"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ก",
       "explanation": "Sandstone is a clastic sedimentary rock composed mainly of quartz sand grains.",
       "points": 1
     },
@@ -983,9 +983,9 @@
       "question": "Which sedimentary rock is formed from compressed fine mud and clay?",
       "options": {
         "ก": "Shale",
-        "ข": "Gneiss",
+        "ข": "Granite",
         "ค": "Pumice",
-        "ง": "Granite"
+        "ง": "Gneiss"
       },
       "correctAnswer": "ก",
       "explanation": "Shale forms from the compaction of fine-grained mud and clay sediments.",
@@ -1001,9 +1001,9 @@
       "question": "Because of its porous bubble structure, pumice can be used for:",
       "options": {
         "ก": "Water filtration and abrasive polishing",
-        "ข": "Fueling rockets",
-        "ค": "Baking bread",
-        "ง": "Making computer microchips"
+        "ข": "Making computer microchips",
+        "ค": "Fueling rockets",
+        "ง": "Baking bread"
       },
       "correctAnswer": "ก",
       "explanation": "Pumice's porous structure makes it useful as a filtration medium and abrasive agent.",
@@ -1018,12 +1018,12 @@
       "difficulty": "Medium",
       "question": "BASALT is a dark, dense igneous rock commonly crushed and used for:",
       "options": {
-        "ก": "Jewelry rings",
-        "ข": "Road base construction and railway ballast",
+        "ก": "Road base construction and railway ballast",
+        "ข": "Jewelry rings",
         "ค": "Writing paper",
         "ง": "Cosmetics"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Basalt is extremely tough and dense, making it ideal for crushed road bases and railway ballast.",
       "points": 1
     },
@@ -1036,12 +1036,12 @@
       "difficulty": "Hard",
       "question": "In which type of rock are FOSSILS almost exclusively found?",
       "options": {
-        "ก": "Molten magma",
-        "ข": "Sedimentary rocks",
-        "ค": "Intrusive igneous rocks",
-        "ง": "High-grade metamorphic rocks"
+        "ก": "Sedimentary rocks",
+        "ข": "Intrusive igneous rocks",
+        "ค": "High-grade metamorphic rocks",
+        "ง": "Molten magma"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "ก",
       "explanation": "Fossils are preserved in sedimentary rocks because the gentle deposition of sediment does not destroy organism remains (unlike molten igneous or high-heat metamorphic processes).",
       "points": 1
     },
@@ -1054,12 +1054,12 @@
       "difficulty": "Medium",
       "question": "In sea salt production, seawater is trapped in shallow coastal fields. What natural energy source drives the separation process?",
       "options": {
-        "ก": "Chemical explosives",
-        "ข": "Magnetic fields",
-        "ค": "Wind turbines",
-        "ง": "Solar heat (Sunlight)"
+        "ก": "Solar heat (Sunlight)",
+        "ข": "Wind turbines",
+        "ค": "Magnetic fields",
+        "ง": "Chemical explosives"
       },
-      "correctAnswer": "ง",
+      "correctAnswer": "ก",
       "explanation": "Solar heat from sunlight supplies the energy to evaporate water and crystallize sea salt.",
       "points": 1
     },
@@ -1073,9 +1073,9 @@
       "question": "Thai 'Nam Prik Kapi' (Shrimp paste sauce) contains lime juice, fish sauce, sugar, chili, and turkey berries. It is classified as:",
       "options": {
         "ก": "A heterogeneous mixture because chili and berries are visibly distinct",
-        "ข": "An igneous solution",
-        "ค": "A homogeneous mixture",
-        "ง": "A pure substance"
+        "ข": "A homogeneous mixture",
+        "ค": "A pure substance",
+        "ง": "An igneous solution"
       },
       "correctAnswer": "ก",
       "explanation": "Shrimp paste sauce has visibly distinct components (chili flakes, berries, liquid), making it heterogeneous.",
@@ -1091,9 +1091,9 @@
       "question": "Thai Cendol (Lod Chong) contains coconut milk, pandan noodles, palm sugar, and ice. It is a:",
       "options": {
         "ก": "Heterogeneous mixture",
-        "ข": "Pure element",
-        "ค": "Geological sediment",
-        "ง": "Homogeneous mixture"
+        "ข": "Homogeneous mixture",
+        "ค": "Pure element",
+        "ง": "Geological sediment"
       },
       "correctAnswer": "ก",
       "explanation": "Cendol contains visibly distinct green noodles, coconut milk, and syrup, forming a heterogeneous mixture.",
@@ -1108,12 +1108,12 @@
       "difficulty": "Easy",
       "question": "Which two major topics comprise the Grade 6 Science curriculum module in the textbook?",
       "options": {
-        "ก": "Space travel & Chemistry lab",
+        "ก": "Separating Mixtures & Rocks/Minerals (including Rock Cycle)",
         "ข": "Plant Anatomy & Electricity only",
-        "ค": "Separating Mixtures & Rocks/Minerals (including Rock Cycle)",
+        "ค": "Space travel & Chemistry lab",
         "ง": "Animal classification only"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "ก",
       "explanation": "The curriculum covers Unit 2 (Separating Mixtures) and Unit 3 (Rocks, Minerals, and the Rock Cycle).",
       "points": 1
     },
