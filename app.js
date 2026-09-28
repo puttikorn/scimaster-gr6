@@ -24,15 +24,15 @@ const state = {
 // Storage Keys Generator
 function getStorageKeys() {
   const prefix = state.currentSubject === 'math' ? 'mathmaster_gr6'
-               : state.currentSubject === 'thai' ? 'thaimaster_gr6'
-               : state.currentSubject === 'programming' ? 'coding_gr6'
-               : state.currentSubject === 'chinese' ? 'chinese_gr6'
-               : state.currentSubject === 'english' ? 'english_gr6'
-               : state.currentSubject === 'math_en' ? 'mathmaster_en_gr6'
-               : state.currentSubject === 'sci_en' ? 'scimaster_en_gr6'
-               : state.currentSubject === 'grammar' ? 'grammar_gr6'
-               : state.currentSubject === 'phonics' ? 'phonics_gr6'
-               : 'scimaster_gr6';
+    : state.currentSubject === 'thai' ? 'thaimaster_gr6'
+      : state.currentSubject === 'programming' ? 'coding_gr6'
+        : state.currentSubject === 'chinese' ? 'chinese_gr6'
+          : state.currentSubject === 'english' ? 'english_gr6'
+            : state.currentSubject === 'math_en' ? 'mathmaster_en_gr6'
+              : state.currentSubject === 'sci_en' ? 'scimaster_en_gr6'
+                : state.currentSubject === 'grammar' ? 'grammar_gr6'
+                  : state.currentSubject === 'phonics' ? 'phonics_gr6'
+                    : 'scimaster_gr6';
   return {
     STORAGE_KEY: `${prefix}_exam_state_v1`,
     RESULT_KEY: `${prefix}_exam_result_v1`
@@ -95,18 +95,18 @@ const retryExamBtn = document.getElementById('retryExamBtn');
 // Initialize Application
 async function init() {
   updateSubjectThemeUI();
-  
+
   const dataFile = state.currentSubject === 'math' ? 'quiz_math_data.json'
-               : state.currentSubject === 'thai' ? 'quiz_thai_data.json'
-               : state.currentSubject === 'programming' ? 'quiz_programming_data.json'
-               : state.currentSubject === 'chinese' ? 'quiz_chinese_data.json'
-               : state.currentSubject === 'english' ? 'quiz_english_data.json'
-               : state.currentSubject === 'math_en' ? 'quiz_math_en_data.json'
-               : state.currentSubject === 'sci_en' ? 'quiz_sci_en_data.json'
-               : state.currentSubject === 'grammar' ? 'quiz_grammar_data.json'
-               : state.currentSubject === 'phonics' ? 'quiz_phonics_data.json'
-               : 'quiz_data.json';
-  
+    : state.currentSubject === 'thai' ? 'quiz_thai_data.json'
+      : state.currentSubject === 'programming' ? 'quiz_programming_data.json'
+        : state.currentSubject === 'chinese' ? 'quiz_chinese_data.json'
+          : state.currentSubject === 'english' ? 'quiz_english_data.json'
+            : state.currentSubject === 'math_en' ? 'quiz_math_en_data.json'
+              : state.currentSubject === 'sci_en' ? 'quiz_sci_en_data.json'
+                : state.currentSubject === 'grammar' ? 'quiz_grammar_data.json'
+                  : state.currentSubject === 'phonics' ? 'quiz_phonics_data.json'
+                    : 'quiz_data.json';
+
   try {
     const res = await fetch(dataFile);
     const data = await res.json();
@@ -142,7 +142,7 @@ async function init() {
 // Switch Subject Function
 function switchSubject(newSubject) {
   if (state.currentSubject === newSubject) return;
-  
+
   // Save current subject state first
   saveState();
   if (state.timerInterval) clearInterval(state.timerInterval);
@@ -235,7 +235,7 @@ function updateSubjectThemeUI() {
     document.title = 'SciMaster Gr.6 - ข้อสอบประเมินผลวิทยาศาสตร์ ป.6 ฉบับออนไลน์';
   }
 
-  // Toggle Switch โหมดฝึกฝน (เฉลยทันที) แสดงเฉพาะวิชาภาษาไทย ป.6 เท่านั้น
+  // Toggle Switch โหมดฝึกฝน (เฉลยทันที)
   const modeToggleGroup = document.querySelector('.mode-toggle-group');
   if (modeToggleGroup) {
     if (state.currentSubject === 'thai') {
@@ -267,17 +267,17 @@ function restoreResultModal(r) {
   const secs = r.timeSpentSeconds % 60;
   document.getElementById('resTimeSpent').innerHTML = `<i class="fa-regular fa-clock"></i> ใช้เวลาทำข้อสอบ: ${mins} นาที ${secs} วินาที`;
   document.getElementById('scoreSecA').innerText = `${r.secAScore}/60`;
-  document.getElementById('pctSecA').innerText  = `${Math.round((r.secAScore/60)*100)}%`;
-  document.getElementById('barSecA').style.width = `${(r.secAScore/60)*100}%`;
+  document.getElementById('pctSecA').innerText = `${Math.round((r.secAScore / 60) * 100)}%`;
+  document.getElementById('barSecA').style.width = `${(r.secAScore / 60) * 100}%`;
   document.getElementById('scoreSecB').innerText = `${r.secBScore}/30`;
-  document.getElementById('pctSecB').innerText  = `${Math.round((r.secBScore/30)*100)}%`;
-  document.getElementById('barSecB').style.width = `${(r.secBScore/30)*100}%`;
+  document.getElementById('pctSecB').innerText = `${Math.round((r.secBScore / 30) * 100)}%`;
+  document.getElementById('barSecB').style.width = `${(r.secBScore / 30) * 100}%`;
   document.getElementById('scoreSecC').innerText = `${r.secCScore}/30`;
-  document.getElementById('pctSecC').innerText  = `${Math.round((r.secCScore/30)*100)}%`;
-  document.getElementById('barSecC').style.width = `${(r.secCScore/30)*100}%`;
+  document.getElementById('pctSecC').innerText = `${Math.round((r.secCScore / 30) * 100)}%`;
+  document.getElementById('barSecC').style.width = `${(r.secCScore / 30) * 100}%`;
   document.getElementById('scoreSecD').innerText = `${r.secDScore}/30`;
-  document.getElementById('pctSecD').innerText  = `${Math.round((r.secDScore/30)*100)}%`;
-  document.getElementById('barSecD').style.width = `${(r.secDScore/30)*100}%`;
+  document.getElementById('pctSecD').innerText = `${Math.round((r.secDScore / 30) * 100)}%`;
+  document.getElementById('barSecD').style.width = `${(r.secDScore / 30) * 100}%`;
   resultModal.style.display = 'flex';
 }
 
@@ -493,8 +493,8 @@ function renderCurrentQuestion() {
 
     const ta = document.createElement('textarea');
     ta.className = 'sa-textarea';
-    ta.placeholder = q.section === 'Scenario' 
-      ? 'พิมพ์คำตอบ วิธีการคำนวณ หรือเหตุผลเชิงประยุกต์...' 
+    ta.placeholder = q.section === 'Scenario'
+      ? 'พิมพ์คำตอบ วิธีการคำนวณ หรือเหตุผลเชิงประยุกต์...'
       : 'พิมพ์คำอธิบายแสดงวิธีคิด หลักการ และตัวอย่างประกอบอย่างละเอียด...';
     ta.value = currentAnswer || '';
 
@@ -704,8 +704,8 @@ function setupEventListeners() {
 
   toggleTimerBtn.addEventListener('click', () => {
     state.timerPaused = !state.timerPaused;
-    toggleTimerBtn.innerHTML = state.timerPaused 
-      ? '<i class="fa-solid fa-play"></i>' 
+    toggleTimerBtn.innerHTML = state.timerPaused
+      ? '<i class="fa-solid fa-play"></i>'
       : '<i class="fa-solid fa-pause"></i>';
     toggleTimerBtn.title = state.timerPaused ? 'เริ่มจับเวลาต่อ' : 'หยุดจับเวลาชั่วคราว';
   });
@@ -728,7 +728,7 @@ function setupEventListeners() {
       if (!isNaN(mins) && mins >= 0) {
         state.timerSeconds = mins * 60;
         saveState();
-        
+
         // Update display immediately
         const m = Math.floor(state.timerSeconds / 60);
         const s = state.timerSeconds % 60;
@@ -743,7 +743,7 @@ function setupEventListeners() {
   finishExamBtn.addEventListener('click', () => {
     const answered = Object.keys(state.userAnswers).length;
     const remaining = state.questions.length - answered;
-    const msg = remaining > 0 
+    const msg = remaining > 0
       ? `คุณยังทำข้อสอบไม่ครบ (เหลืออีก ${remaining} ข้อ)\nคุณแน่ใจหรือไม่ว่าต้องการส่งข้อสอบตอนนี้?`
       : 'คุณตอบครบทุกข้อแล้ว ต้องการส่งข้อสอบและดูผลการประเมินหรือไม่?';
     if (confirm(msg)) {
@@ -880,26 +880,28 @@ function submitExam() {
 
   // Breakdown Bars
   document.getElementById('scoreSecA').innerText = `${secAScore}/60`;
-  document.getElementById('pctSecA').innerText = `${Math.round((secAScore/60)*100)}%`;
-  document.getElementById('barSecA').style.width = `${(secAScore/60)*100}%`;
+  document.getElementById('pctSecA').innerText = `${Math.round((secAScore / 60) * 100)}%`;
+  document.getElementById('barSecA').style.width = `${(secAScore / 60) * 100}%`;
 
   document.getElementById('scoreSecB').innerText = `${secBScore}/30`;
-  document.getElementById('pctSecB').innerText = `${Math.round((secBScore/30)*100)}%`;
-  document.getElementById('barSecB').style.width = `${(secBScore/30)*100}%`;
+  document.getElementById('pctSecB').innerText = `${Math.round((secBScore / 30) * 100)}%`;
+  document.getElementById('barSecB').style.width = `${(secBScore / 30) * 100}%`;
 
   document.getElementById('scoreSecC').innerText = `${secCScore}/30`;
-  document.getElementById('pctSecC').innerText = `${Math.round((secCScore/30)*100)}%`;
-  document.getElementById('barSecC').style.width = `${(secCScore/30)*100}%`;
+  document.getElementById('pctSecC').innerText = `${Math.round((secCScore / 30) * 100)}%`;
+  document.getElementById('barSecC').style.width = `${(secCScore / 30) * 100}%`;
 
   document.getElementById('scoreSecD').innerText = `${secDScore}/30`;
-  document.getElementById('pctSecD').innerText = `${Math.round((secDScore/30)*100)}%`;
-  document.getElementById('barSecD').style.width = `${(secDScore/30)*100}%`;
+  document.getElementById('pctSecD').innerText = `${Math.round((secDScore / 30) * 100)}%`;
+  document.getElementById('barSecD').style.width = `${(secDScore / 30) * 100}%`;
 
   resultModal.style.display = 'flex';
 
   // Persist graded result so it survives a server reset or page reload
-  saveResult({ totalScore, secAScore, secBScore, secCScore, secDScore,
-               isPassed, timeSpentSeconds: state.timeSpentSeconds });
+  saveResult({
+    totalScore, secAScore, secBScore, secCScore, secDScore,
+    isPassed, timeSpentSeconds: state.timeSpentSeconds
+  });
   saveState(); // Also persist the final answers
 }
 
