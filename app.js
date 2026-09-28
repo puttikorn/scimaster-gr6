@@ -515,9 +515,9 @@ function renderCurrentQuestion() {
     answerContainer.appendChild(saWrapper);
   }
 
-  // Explanation Box in Practice Mode (only after answered) or after submitted
+  // Explanation Box is displayed ONLY when an answer has been selected for this question
   const isAnswered = currentAnswer !== undefined && currentAnswer !== null && String(currentAnswer).trim() !== '';
-  if ((state.practiceMode && isAnswered) || state.isSubmitted) {
+  if (isAnswered && (state.practiceMode || state.isSubmitted)) {
     explanationBox.style.display = 'block';
     if (q.section === 'MCQ' || q.section === 'TF') {
       const correctTxt = q.section === 'MCQ' ? `ตัวเลือก: ${q.correctAnswer}` : (q.correctAnswer === 'True' ? 'จริง (True)' : 'เท็จ (False)');
