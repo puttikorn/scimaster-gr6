@@ -234,6 +234,18 @@ function updateSubjectThemeUI() {
     if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้วิทยาศาสตร์ ป.6';
     document.title = 'SciMaster Gr.6 - ข้อสอบประเมินผลวิทยาศาสตร์ ป.6 ฉบับออนไลน์';
   }
+
+  // Toggle Switch โหมดฝึกฝน (เฉลยทันที) แสดงเฉพาะวิชาภาษาไทย ป.6 เท่านั้น
+  const modeToggleGroup = document.querySelector('.mode-toggle-group');
+  if (modeToggleGroup) {
+    if (state.currentSubject === 'thai') {
+      modeToggleGroup.style.display = 'flex';
+    } else {
+      modeToggleGroup.style.display = 'none';
+      state.practiceMode = false;
+      if (practiceModeToggle) practiceModeToggle.checked = false;
+    }
+  }
 }
 
 // Restore result modal from saved result data (after server reset)
@@ -303,7 +315,7 @@ function loadSavedState() {
     state.userAnswers = parsed.userAnswers || {};
     state.bookmarks = new Set(parsed.bookmarks || []);
     state.currentIndex = parsed.currentIndex || 0;
-    state.practiceMode = parsed.practiceMode || false;
+    state.practiceMode = state.currentSubject === 'thai' ? (parsed.practiceMode || false) : false;
     state.timeSpentSeconds = parsed.timeSpentSeconds || 0;
     state.isSubmitted = parsed.isSubmitted || false;
 
