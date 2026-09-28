@@ -515,8 +515,9 @@ function renderCurrentQuestion() {
     answerContainer.appendChild(saWrapper);
   }
 
-  // Explanation Box in Practice Mode or after submitted
-  if (state.practiceMode || state.isSubmitted) {
+  // Explanation Box in Practice Mode (only after answered) or after submitted
+  const isAnswered = currentAnswer !== undefined && currentAnswer !== null && String(currentAnswer).trim() !== '';
+  if ((state.practiceMode && isAnswered) || state.isSubmitted) {
     explanationBox.style.display = 'block';
     if (q.section === 'MCQ' || q.section === 'TF') {
       const correctTxt = q.section === 'MCQ' ? `ตัวเลือก: ${q.correctAnswer}` : (q.correctAnswer === 'True' ? 'จริง (True)' : 'เท็จ (False)');
