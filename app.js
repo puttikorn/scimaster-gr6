@@ -13,7 +13,7 @@ const state = {
   bookmarks: new Set(),
   activeSectionFilter: 'ALL',
   paletteFilter: 'all', // 'all', 'unanswered', 'bookmarked'
-
+  practiceMode: false,
   timerSeconds: 3600,  // 60 minutes
   timerInterval: null,
   timerPaused: false,
@@ -72,6 +72,7 @@ const expText = document.getElementById('expText');
 
 const prevBtn = document.getElementById('prevBtn');
 const nextBtn = document.getElementById('nextBtn');
+const practiceModeToggle = document.getElementById('practiceModeToggle');
 
 const questionGrid = document.getElementById('questionGrid');
 
@@ -155,6 +156,7 @@ function switchSubject(newSubject) {
   state.bookmarks.clear();
   state.activeSectionFilter = 'ALL';
   state.paletteFilter = 'all';
+  state.practiceMode = false;
 
   state.timerSeconds = 3600;
   state.timerPaused = false;
@@ -276,7 +278,7 @@ function saveState() {
     currentIndex: state.currentIndex,
     timerSeconds: state.timerSeconds,
     timeSpentSeconds: state.timeSpentSeconds,
-
+    practiceMode: state.practiceMode,
     isSubmitted: state.isSubmitted,
     savedAt: Date.now() // Track real-world save timestamp
   };
@@ -301,7 +303,7 @@ function loadSavedState() {
     state.userAnswers = parsed.userAnswers || {};
     state.bookmarks = new Set(parsed.bookmarks || []);
     state.currentIndex = parsed.currentIndex || 0;
-
+    state.practiceMode = parsed.practiceMode || false;
     state.timeSpentSeconds = parsed.timeSpentSeconds || 0;
     state.isSubmitted = parsed.isSubmitted || false;
 
@@ -316,6 +318,7 @@ function loadSavedState() {
     }
 
 
+    if (practiceModeToggle) practiceModeToggle.checked = state.practiceMode;
   } catch (e) {
     console.warn('Could not parse saved state:', e);
   }
@@ -400,8 +403,8 @@ function renderCurrentQuestion() {
         card.classList.add('selected');
       }
 
-      // After submission, show correct/wrong highlight
-      if (state.isSubmitted && currentAnswer) {
+      // In practice mode or after submission, show correct/wrong highlight
+      if ((state.practiceMode || state.isSubmitted) && currentAnswer) {
         if (letter === q.correctAnswer) {
           card.classList.add('correct-highlight');
         } else if (currentAnswer === letter && letter !== q.correctAnswer) {
@@ -441,7 +444,7 @@ function renderCurrentQuestion() {
     btnFalse.innerHTML = '<i class="fa-solid fa-xmark"></i> เท็จ (False)';
     if (currentAnswer === 'False') btnFalse.classList.add('selected-false');
 
-    if (state.isSubmitted && currentAnswer) {
+    if ((state.practiceMode || state.isSubmitted) && currentAnswer) {
       if (q.correctAnswer === 'True') {
         btnTrue.classList.add('correct-highlight');
       } else {
@@ -500,8 +503,8 @@ function renderCurrentQuestion() {
     answerContainer.appendChild(saWrapper);
   }
 
-  // Explanation Box after submitted
-  if (state.isSubmitted) {
+  // Explanation Box in Practice Mode or after submitted
+  if (state.practiceMode || state.isSubmitted) {
     explanationBox.style.display = 'block';
     if (q.section === 'MCQ' || q.section === 'TF') {
       const correctTxt = q.section === 'MCQ' ? `ตัวเลือก: ${q.correctAnswer}` : (q.correctAnswer === 'True' ? 'จริง (True)' : 'เท็จ (False)');
@@ -694,6 +697,15 @@ function setupEventListeners() {
     toggleTimerBtn.title = state.timerPaused ? 'เริ่มจับเวลาต่อ' : 'หยุดจับเวลาชั่วคราว';
   });
 
+  // Practice Mode Toggle
+  if (practiceModeToggle) {
+    practiceModeToggle.addEventListener('change', (e) => {
+      state.practiceMode = e.target.checked;
+      saveState();
+      renderCurrentQuestion();
+    });
+  }
+
   // Edit Timer (Custom Remaining Time)
   editTimerBtn.addEventListener('click', () => {
     const currentMins = Math.floor(state.timerSeconds / 60);
@@ -761,6 +773,8 @@ function setupEventListeners() {
 
   reviewAllAnswersBtn.addEventListener('click', () => {
     resultModal.style.display = 'none';
+    state.practiceMode = true;
+    if (practiceModeToggle) practiceModeToggle.checked = true;
     renderCurrentQuestion();
   });
 
