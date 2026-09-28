@@ -430,7 +430,7 @@ function renderCurrentQuestion() {
       `;
 
       card.addEventListener('click', () => {
-        if (state.isSubmitted) return;
+        state.isSubmitted = false;
         state.userAnswers[q.id] = letter;
         saveState();
         renderCurrentQuestion();
@@ -465,7 +465,7 @@ function renderCurrentQuestion() {
     }
 
     btnTrue.addEventListener('click', () => {
-      if (state.isSubmitted) return;
+      state.isSubmitted = false;
       state.userAnswers[q.id] = 'True';
       saveState();
       renderCurrentQuestion();
@@ -474,7 +474,7 @@ function renderCurrentQuestion() {
     });
 
     btnFalse.addEventListener('click', () => {
-      if (state.isSubmitted) return;
+      state.isSubmitted = false;
       state.userAnswers[q.id] = 'False';
       saveState();
       renderCurrentQuestion();
@@ -499,7 +499,7 @@ function renderCurrentQuestion() {
     ta.value = currentAnswer || '';
 
     ta.addEventListener('input', (e) => {
-      if (state.isSubmitted) return;
+      state.isSubmitted = false;
       state.userAnswers[q.id] = e.target.value;
       saveState();
       renderQuestionGrid();
