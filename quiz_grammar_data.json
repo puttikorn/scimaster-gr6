@@ -1,5 +1,5 @@
 {
-  "title": "English Grammar Assessment Grade 6 (Grammar Gr.6 - MidFinal)",
+  "title": "Grammar",
   "meta": {
     "totalQuestions": 115,
     "totalScore": 150,
@@ -1124,7 +1124,7 @@
       "topic": "Past Continuous Structure",
       "learningObjective": "Recall past continuous formula.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The past continuous tense is formed using was/were + verb-ing.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1140,7 +1140,7 @@
       "topic": "Past Continuous Specific Time",
       "learningObjective": "Recall past continuous time usage.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The past continuous talks about an action that was in progress at a specific time in the past.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1156,7 +1156,7 @@
       "topic": "When Clause Rule",
       "learningObjective": "Recall 'when' clause tense rule.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "A clause introduced by 'when' is often in the past simple tense (e.g., 'when the doorbell rang').",
       "options": {
         "True": "True",
         "False": "False"
@@ -1172,7 +1172,7 @@
       "topic": "While Clause Rule",
       "learningObjective": "Recall 'while' clause tense rule.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "A clause introduced by 'while' is often in the past simple tense.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1188,7 +1188,7 @@
       "topic": "Past Continuous Agreement",
       "learningObjective": "Recall subject-verb agreement for was/were.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "We use 'was' with I, he, she, it, and 'were' with we, you, they.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1204,7 +1204,7 @@
       "topic": "Future with Will",
       "learningObjective": "Recall 'will' usage.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The future tense with 'will' is used to make predictions or state future facts.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1220,7 +1220,7 @@
       "topic": "Future Negative 'Won't'",
       "learningObjective": "Recall 'won't' contraction.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The negative form of 'will' is 'will not', which contracts to 'won't'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1236,7 +1236,7 @@
       "topic": "Be Going To Intention",
       "learningObjective": "Recall 'be going to' usage.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "'Be going to' is used to express future plans and intentions.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1252,7 +1252,7 @@
       "topic": "Present Continuous as Future",
       "learningObjective": "Recall present continuous for future.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "The present continuous tense can never be used to talk about future plans.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1268,7 +1268,7 @@
       "topic": "Present Perfect Link",
       "learningObjective": "Recall present perfect core function.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The present perfect tense expresses a link between the past and the present.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1284,7 +1284,7 @@
       "topic": "Present Perfect Formula",
       "learningObjective": "Recall present perfect formula.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The present perfect tense is formed with subject + have/has + past participle (V3).",
       "options": {
         "True": "True",
         "False": "False"
@@ -1300,7 +1300,7 @@
       "topic": "Regular Past Participles",
       "learningObjective": "Recall regular V3 forms.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The past participle of regular verbs is the same as their simple past form (ending in -ed).",
       "options": {
         "True": "True",
         "False": "False"
@@ -1316,7 +1316,7 @@
       "topic": "Time Word 'For'",
       "learningObjective": "Recall 'for' usage in present perfect.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "In present perfect, 'for' is used to state a specific starting point in time (e.g., for 3 o'clock).",
       "options": {
         "True": "True",
         "False": "False"
@@ -1332,7 +1332,7 @@
       "topic": "Time Word 'Since'",
       "learningObjective": "Recall 'since' usage in present perfect.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "In present perfect, 'since' is used to state the starting point of an action (e.g., since yesterday).",
       "options": {
         "True": "True",
         "False": "False"
@@ -1348,7 +1348,7 @@
       "topic": "Irregular V3 of Be",
       "learningObjective": "Recall V3 of 'be'.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The past participle (V3) of the verb 'be' is 'been'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1364,7 +1364,7 @@
       "topic": "Irregular V3 of Catch",
       "learningObjective": "Recall V3 of 'catch'.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The past participle (V3) of 'catch' is 'catched'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1380,7 +1380,7 @@
       "topic": "Irregular V3 of Eat",
       "learningObjective": "Recall V3 of 'eat'.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The past participle (V3) of 'eat' is 'eaten'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1396,7 +1396,7 @@
       "topic": "Modal 'May' and 'Might'",
       "learningObjective": "Recall may/might possibility function.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Modal verbs 'may' and 'might' express possibility in the present or future.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1412,7 +1412,7 @@
       "topic": "Polite Request 'May I'",
       "learningObjective": "Recall 'May I' function.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "'May I borrow your pen?' is a polite question asking for permission.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1428,7 +1428,7 @@
       "topic": "Polite Request 'Could I'",
       "learningObjective": "Recall 'Could I' function.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "'Could I...?' can be used to ask for permission politely.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1444,7 +1444,7 @@
       "topic": "Action Request 'Would You'",
       "learningObjective": "Recall 'Would you' vs 'May I'.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "'Would you close the door?' is asking for permission for yourself to close the door.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1460,7 +1460,7 @@
       "topic": "Past Ability 'Could'",
       "learningObjective": "Recall 'could' for past ability.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "'Could' can be used as the past tense of 'can' to express past ability.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1476,7 +1476,7 @@
       "topic": "Prohibition 'Mustn't'",
       "learningObjective": "Recall 'mustn't' definition.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "'You mustn't smoke here' means you are not allowed to smoke here.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1492,7 +1492,7 @@
       "topic": "Lack of Obligation 'Don't have to'",
       "learningObjective": "Recall 'don't have to' meaning.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "'You don't have to get up early' means it is forbidden to get up early.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1508,7 +1508,7 @@
       "topic": "Obligation 'Must'",
       "learningObjective": "Recall 'must' function.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "'Must' expresses strong obligation or necessity.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1524,7 +1524,7 @@
       "topic": "Past Obligation 'Had to'",
       "learningObjective": "Recall past obligation form.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "The past tense of 'must' and 'have to' for past obligation is 'had to'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1540,7 +1540,7 @@
       "topic": "Advice 'Should'",
       "learningObjective": "Recall 'should' function.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "'Should' is used to give advice or recommendations.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1556,7 +1556,7 @@
       "topic": "Suggestions 'Shall We'",
       "learningObjective": "Recall 'shall we' function.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "'Shall we go to the park?' is used to make a suggestion to a group.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1572,7 +1572,7 @@
       "topic": "Refusal 'Won't'",
       "learningObjective": "Recall 'won't' refusal function.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "'He won't teach us next year' expresses a future negative fact or refusal.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1588,7 +1588,7 @@
       "topic": "Grade 6 Grammar Scope",
       "learningObjective": "Recall unit scope.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Mastering Past Continuous, Future, Present Perfect, and Modals enables students to communicate complex past, present, and future ideas accurately.",
       "options": {
         "True": "True",
         "False": "False"

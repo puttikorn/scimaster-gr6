@@ -1,5 +1,5 @@
 {
-  "title": "English Phonics Assessment Grade 6 (Phonics Gr.6 - MidFinal)",
+  "title": "Phonics",
   "meta": {
     "totalQuestions": 115,
     "totalScore": 150,
@@ -1124,7 +1124,7 @@
       "topic": "Affix Structure",
       "learningObjective": "Recall definition of root word.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The root of a word is the core base to which prefixes and suffixes are attached.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1140,7 +1140,7 @@
       "topic": "Prefix Position",
       "learningObjective": "Recall prefix position.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "A prefix is added to the END of a root word.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1156,7 +1156,7 @@
       "topic": "Word Length & Pronunciation",
       "learningObjective": "Analyze affix impact on pronunciation.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Adding prefixes and suffixes makes a word longer, which can make it more difficult to pronounce without syllable division rules.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1172,7 +1172,7 @@
       "topic": "Prefix Meaning 're-'",
       "learningObjective": "Recall 're-' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The prefix 're-' means 'before'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1188,7 +1188,7 @@
       "topic": "Prefix Meaning 'pre-'",
       "learningObjective": "Recall 'pre-' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The prefix 'pre-' means 'before', as in 'preview' and 'predict'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1204,7 +1204,7 @@
       "topic": "Prefix Meaning 'mis-'",
       "learningObjective": "Recall 'mis-' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The prefix 'mis-' in 'misbehave' means 'wrongly' or 'badly'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1220,7 +1220,7 @@
       "topic": "Prefix Meaning 'de-'",
       "learningObjective": "Recall 'de-' meaning.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "The prefix 'de-' means 'to add or increase'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1236,7 +1236,7 @@
       "topic": "Prefix Meaning 'bi-'",
       "learningObjective": "Recall 'bi-' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "A 'biweekly' publication comes out twice a week.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1252,7 +1252,7 @@
       "topic": "Prefix Meaning 'tri-'",
       "learningObjective": "Recall 'tri-' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The prefix 'tri-' means 'three', as in 'triangle' or 'tricycle'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1268,7 +1268,7 @@
       "topic": "Prefix Meaning 'sub-'",
       "learningObjective": "Recall 'sub-' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The prefix 'sub-' means 'under' or 'below', as in 'submarine' and 'subway'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1284,7 +1284,7 @@
       "topic": "Prefix Assimilation 'im-'",
       "learningObjective": "Recall 'im-' assimilation rule.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "We use the prefix 'im-' before words starting with 'p' or 'm', such as 'impossible'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1300,7 +1300,7 @@
       "topic": "Prefix Assimilation 'ir-'",
       "learningObjective": "Recall 'ir-' assimilation rule.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "The prefix 'ir-' is used before root words starting with the letter 'r', such as 'irregular'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1316,7 +1316,7 @@
       "topic": "Prefix Assimilation 'il-'",
       "learningObjective": "Recall 'il-' assimilation rule.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "The prefix 'il-' attaches to root words beginning with 'l', such as 'illegal' and 'illogical'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1332,7 +1332,7 @@
       "topic": "Opposite Prefix 'un-'",
       "learningObjective": "Recall 'un-' function.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Adding 'un-' to 'tidy' creates 'untidy', which means 'not tidy'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1348,7 +1348,7 @@
       "topic": "Suffix Definition",
       "learningObjective": "Recall suffix definition.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "A suffix is added to the beginning of a word.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1364,7 +1364,7 @@
       "topic": "Common Suffixes",
       "learningObjective": "Identify top common suffixes.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The suffixes '-es', '-ed', and '-ing' are among the most common suffixes in English.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1380,7 +1380,7 @@
       "topic": "Suffix '-less'",
       "learningObjective": "Recall '-less' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The suffix '-less' means 'full of'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1396,7 +1396,7 @@
       "topic": "Suffix '-ful'",
       "learningObjective": "Recall '-ful' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The word 'successful' means 'full of success'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1412,7 +1412,7 @@
       "topic": "Suffix '-able'",
       "learningObjective": "Recall '-able' meaning.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "The suffix '-able' means 'capable of being', as in 'washable'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1428,7 +1428,7 @@
       "topic": "Spelling Rule Y-to-I",
       "learningObjective": "Recall y-to-i rule.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "When adding '-ness' to 'happy', the spelling remains 'happyness'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1444,7 +1444,7 @@
       "topic": "Spelling Rule Silent E",
       "learningObjective": "Recall silent-e dropping rule.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "When adding a suffix starting with a vowel to a root ending in silent 'e', we usually drop the silent 'e'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1460,7 +1460,7 @@
       "topic": "Spelling Rule Doubling",
       "learningObjective": "Recall 1-1-1 doubling rule.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "In the word 'swimming', the final 'm' of 'swim' is doubled before adding '-ing'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1476,7 +1476,7 @@
       "topic": "Suffix '-ment'",
       "learningObjective": "Recall '-ment' word class.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Adding '-ment' to a verb creates a noun (e.g., excite -> excitement).",
       "options": {
         "True": "True",
         "False": "False"
@@ -1492,7 +1492,7 @@
       "topic": "Suffix '-en'",
       "learningObjective": "Recall '-en' verb formation.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Adding '-en' to 'dark' creates 'darken', which is a verb meaning 'to make dark'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1508,7 +1508,7 @@
       "topic": "Suffix '-tion' Stress",
       "learningObjective": "Recall '-tion' stress rule.",
       "difficulty": "Hard",
-      "question": "",
+      "question": "In words ending with '-tion', the primary stress falls on the '-tion' suffix itself.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1524,7 +1524,7 @@
       "topic": "Suffix '-ity' Stress",
       "learningObjective": "Recall '-ity' stress rule.",
       "difficulty": "Hard",
-      "question": "",
+      "question": "In words ending with '-ity' (like 'purity'), primary stress falls on the syllable immediately preceding '-ity'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1540,7 +1540,7 @@
       "topic": "Prefix Stress in Verbs",
       "learningObjective": "Recall prefix stress in verbs.",
       "difficulty": "Hard",
-      "question": "",
+      "question": "In prefixed verbs like 'repeat' and 'restart', the prefix 're-' receives the strongest stress.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1556,7 +1556,7 @@
       "topic": "Prefix Meaning 'non-'",
       "learningObjective": "Recall 'non-' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The prefix 'non-' means 'not', as in 'nonliving' and 'nonstop'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1572,7 +1572,7 @@
       "topic": "Prefix Meaning 'mid-'",
       "learningObjective": "Recall 'mid-' meaning.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The prefix 'mid-' means 'middle', as in 'midday' and 'midnight'.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1588,7 +1588,7 @@
       "topic": "Affix Curriculum Goal",
       "learningObjective": "Recall Grade 6 Phonics goal.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Mastering prefixes, suffixes, and stress patterns helps students pronounce and spell long English words correctly.",
       "options": {
         "True": "True",
         "False": "False"

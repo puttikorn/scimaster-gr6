@@ -66,7 +66,7 @@ def parse_quiz_file(md_filename, output_json, title_name):
         topic = re.search(r'\* \*\*(?:หัวข้อ|Topic)\*\*:\s*(.*)', block)
         lo = re.search(r'\* \*\*(?:จุดประสงค์การเรียนรู้|Learning Objective)\*\*:\s*(.*)', block)
         diff = re.search(r'\* \*\*(?:ระดับความยาก|Difficulty)\*\*:\s*(.*)', block)
-        stmt = re.search(r'\* \*\*(?:ข้อความ|Statement|Prompt)\*\*:\s*(.*)', block)
+        stmt = re.search(r'\* \*\*(?:ข้อความ|Statement|Prompt|Question|โจทย์)\*\*:\s*(.*)', block)
         ans = re.search(r'\* \*\*(?:คำตอบ|Answer|Correct Answer)\*\*:\s*(True|False|ถูก|ผิด)', block, re.IGNORECASE)
         exp = re.search(r'\* \*\*(?:คำอธิบาย|Explanation)\*\*:\s*(.*)', block)
         

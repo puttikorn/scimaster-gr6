@@ -1,5 +1,5 @@
 {
-  "title": "Science Assessment Grade 6 (Science Gr.6 - MidFinal)",
+  "title": "Science EN",
   "meta": {
     "totalQuestions": 115,
     "totalScore": 150,
@@ -1124,7 +1124,7 @@
       "topic": "Pure Substance Particle Count",
       "learningObjective": "Recall pure substance definition.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "A pure substance contains only one type of particle.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1140,7 +1140,7 @@
       "topic": "Mixture Definition",
       "learningObjective": "Recall mixture definition.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "A mixture contains two or more different substances mixed together.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1156,7 +1156,7 @@
       "topic": "Homogeneous Uniformity",
       "learningObjective": "Recall homogeneous characteristics.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "A homogeneous mixture has a uniform appearance throughout.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1172,7 +1172,7 @@
       "topic": "Heterogeneous Uniformity",
       "learningObjective": "Recall heterogeneous characteristics.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "A heterogeneous mixture has a uniform composition throughout.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1188,7 +1188,7 @@
       "topic": "Soil Classification",
       "learningObjective": "Recall soil mixture type.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Soil is an example of a homogeneous mixture.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1204,7 +1204,7 @@
       "topic": "Vinegar Classification",
       "learningObjective": "Recall vinegar mixture type.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Vinegar is an example of a homogeneous mixture.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1220,7 +1220,7 @@
       "topic": "Handpicking Condition",
       "learningObjective": "Recall handpicking requirement.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Handpicking can be used when solid materials in a mixture are visibly different in size or shape.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1236,7 +1236,7 @@
       "topic": "Winnowing Function",
       "learningObjective": "Recall winnowing wind function.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Winnowing uses wind to separate heavy chaff from light grain.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1252,7 +1252,7 @@
       "topic": "Sieving Requirement",
       "learningObjective": "Recall sieving particle size rule.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Sieving separates solid particles of different sizes using a mesh or sieve.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1268,7 +1268,7 @@
       "topic": "Filtration Solubility",
       "learningObjective": "Recall filtration solubility requirement.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Filtration is used to separate a soluble solid that is completely dissolved in a liquid.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1284,7 +1284,7 @@
       "topic": "Evaporation Process",
       "learningObjective": "Recall evaporation process.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Evaporation separates a dissolved solid from a liquid by heating the mixture until the liquid turns into gas.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1300,7 +1300,7 @@
       "topic": "Sedimentation Density",
       "learningObjective": "Recall sedimentation settling.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Sedimentation is the process where heavier insoluble solids settle down at the bottom of a liquid over time.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1316,7 +1316,7 @@
       "topic": "Magnetic Attraction",
       "learningObjective": "Recall magnetic separation rule.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "A magnet can separate iron paper clips from sand because iron is a magnetic material.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1332,7 +1332,7 @@
       "topic": "Geologist Study Scope",
       "learningObjective": "Recall geologist definition.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "A geologist is a scientist who studies rocks, minerals, and Earth processes.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1348,7 +1348,7 @@
       "topic": "Fossil Presence in Igneous Rock",
       "learningObjective": "Recall fossil preservation environment.",
       "difficulty": "Hard",
-      "question": "",
+      "question": "Fossils are commonly found intact inside igneous rocks that formed from hot liquid magma.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1364,7 +1364,7 @@
       "topic": "Three Rock Categories",
       "learningObjective": "Recall 3 rock classes.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The three main types of rocks are igneous, sedimentary, and metamorphic rocks.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1380,7 +1380,7 @@
       "topic": "Igneous Magma Origin",
       "learningObjective": "Recall igneous formation.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Igneous rocks form from the cooling and hardening of magma or lava.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1396,7 +1396,7 @@
       "topic": "Magma Location",
       "learningObjective": "Recall magma vs lava location.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Magma is molten rock found on top of Earth's surface.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1412,7 +1412,7 @@
       "topic": "Granite Cooling Rate",
       "learningObjective": "Recall granite slow cooling.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Granite forms inside Earth's crust when magma cools slowly, producing a coarse-grained texture.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1428,7 +1428,7 @@
       "topic": "Obsidian Cooling Rate",
       "learningObjective": "Recall obsidian rapid cooling.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Obsidian forms when lava cools so rapidly that no crystals form, resulting in natural volcanic glass.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1444,7 +1444,7 @@
       "topic": "Sedimentary Compaction",
       "learningObjective": "Recall sedimentary compaction.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Sedimentary rocks form when layers of sediment compress and cement together over time.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1460,7 +1460,7 @@
       "topic": "Limestone Shell Origin",
       "learningObjective": "Recall limestone origin.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Limestone is a sedimentary rock rich in calcium carbonate from ancient shells and skeletons.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1476,7 +1476,7 @@
       "topic": "Metamorphic Heat and Pressure",
       "learningObjective": "Recall metamorphic formation conditions.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Metamorphic rocks are formed when existing rocks melt completely into liquid magma.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1492,7 +1492,7 @@
       "topic": "Gneiss Parent Rock",
       "learningObjective": "Recall gneiss parent rock.",
       "difficulty": "Hard",
-      "question": "",
+      "question": "Gneiss is a metamorphic rock formed from granite.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1508,7 +1508,7 @@
       "topic": "Slate Parent Rock",
       "learningObjective": "Recall slate parent rock.",
       "difficulty": "Hard",
-      "question": "",
+      "question": "Slate is a metamorphic rock formed from shale.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1524,7 +1524,7 @@
       "topic": "Marble Parent Rock",
       "learningObjective": "Recall marble parent rock.",
       "difficulty": "Hard",
-      "question": "",
+      "question": "Marble is a metamorphic rock formed from limestone.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1540,7 +1540,7 @@
       "topic": "Pumice Floating Property",
       "learningObjective": "Recall pumice density.",
       "difficulty": "Medium",
-      "question": "",
+      "question": "Pumice is a porous volcanic rock that can float on water.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1556,7 +1556,7 @@
       "topic": "The Rock Cycle Continuity",
       "learningObjective": "Recall Rock Cycle continuous nature.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "The Rock Cycle is a continuous process that transforms rocks from one type to another.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1572,7 +1572,7 @@
       "topic": "Granite Kitchen Use",
       "learningObjective": "Recall granite mortar use.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Granite is commonly used to make heavy kitchen mortar and pestle sets because it is hard and durable.",
       "options": {
         "True": "True",
         "False": "False"
@@ -1588,7 +1588,7 @@
       "topic": "Copper Electrical Use",
       "learningObjective": "Recall copper electrical conductivity.",
       "difficulty": "Easy",
-      "question": "",
+      "question": "Copper is a metal widely used for electrical wiring in homes and appliances.",
       "options": {
         "True": "True",
         "False": "False"
