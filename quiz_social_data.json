@@ -1,0 +1,1916 @@
+{
+  "title": "Social Studies Assessment Grade 6 (สังคมศึกษา Gr.6 - MidFinal)",
+  "meta": {
+    "totalQuestions": 115,
+    "totalScore": 150,
+    "passingPercentage": 80,
+    "passingScore": 120,
+    "sections": [
+      {
+        "key": "MCQ",
+        "name": "Section A: Multiple Choice (ปรนัย)",
+        "count": 60,
+        "pointsPerQuestion": 1,
+        "totalPoints": 60
+      },
+      {
+        "key": "TF",
+        "name": "Section B: True / False (ถูก / ผิด)",
+        "count": 30,
+        "pointsPerQuestion": 1,
+        "totalPoints": 30
+      },
+      {
+        "key": "Scenario",
+        "name": "Section C: Scenario-Based (สถานการณ์จำลอง)",
+        "count": 15,
+        "pointsPerQuestion": 2,
+        "totalPoints": 30
+      },
+      {
+        "key": "ShortAnswer",
+        "name": "Section D: Short Answer (อัตนัย / อธิบายความรู้)",
+        "count": 10,
+        "pointsPerQuestion": 3,
+        "totalPoints": 30
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Producers and Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "What is the primary role of a producer in an economic system?",
+      "options": {
+        "ก": "To consume finished goods and services for personal use",
+        "ข": "To combine factors of production to make goods and services",
+        "ค": "To collect taxes on behalf of the central government",
+        "ง": "To issue banknotes and regulate national currency"
+      },
+      "correctAnswer": "ข",
+      "explanation": "A producer combines factors of production (land, labor, capital, entrepreneurship) to produce goods and services to satisfy consumer needs.",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Factors of Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "Which factor of production includes natural resources like soil, water, and forests?",
+      "options": {
+        "ก": "Labor",
+        "ข": "Capital",
+        "ค": "Land",
+        "ง": "Entrepreneurship"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Land refers to all natural resources used in production, including soil, water, minerals, and forests.",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Factors of Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "Machinery, factory buildings, and physical tools belong to which factor of production?",
+      "options": {
+        "ก": "Land",
+        "ข": "Capital",
+        "ค": "Labor",
+        "ง": "Entrepreneurship"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Capital includes man-made physical tools, machinery, equipment, and buildings used to produce other goods and services.",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Factors of Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "What human resource provides physical effort, skills, and knowledge to produce goods?",
+      "options": {
+        "ก": "Labor",
+        "ข": "Capital",
+        "ค": "Land",
+        "ง": "Government"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Labor consists of human physical and mental effort used in the production process.",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Factors of Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Medium",
+      "question": "Which factor of production takes risks and organizes land, labor, and capital to start a business?",
+      "options": {
+        "ก": "Laborer",
+        "ข": "Shareholder",
+        "ค": "Entrepreneurship",
+        "ง": "Consumer"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Entrepreneurship involves taking financial risks and combining land, labor, and capital to operate a enterprise.",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Quality Producers",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "What is a key characteristic of a quality and responsible producer?",
+      "options": {
+        "ก": "Using illegal raw materials to cut costs",
+        "ข": "Considering environmental impact and maintaining honesty",
+        "ค": "Maximizing short-term profit by misleading consumers",
+        "ง": "Discharging untreated toxic waste into public rivers"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Quality producers practice ethics, honesty toward customers, social responsibility, and environmental protection.",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Quality Producers",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Medium",
+      "question": "Why should factory owners treat industrial wastewater before discharging it into public waterways?",
+      "options": {
+        "ก": "To increase the market price of their finished products",
+        "ข": "To fulfill corporate social responsibility and prevent water pollution",
+        "ค": "To reduce the number of factory workers needed",
+        "ง": "To avoid paying taxes to the local government"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Treating wastewater prevents ecological destruction, protects public health, and shows social and environmental responsibility.",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Production Planning",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Medium",
+      "question": "Why is thorough planning important for a producer before starting production?",
+      "options": {
+        "ก": "It guarantees 100% profit without any market risk",
+        "ข": "It reduces errors, minimizes resource waste, and sets clear goals",
+        "ค": "It removes the need to hire skilled labor",
+        "ง": "It allows producers to avoid obeying consumer protection laws"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Proper planning allows producers to allocate resources efficiently, reduce operational errors, and set clear business targets.",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Resource Efficiency",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Medium",
+      "question": "What does 'efficiency' in resource utilization mean?",
+      "options": {
+        "ก": "Using as many natural resources as quickly as possible",
+        "ข": "Producing maximum output using minimal resource inputs without waste",
+        "ค": "Stopping all manufacturing activities to preserve resources",
+        "ง": "Importing all raw materials from foreign countries"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Resource efficiency means utilizing limited input resources effectively to produce maximum useful output with minimal waste.",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Resource Effectiveness",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Medium",
+      "question": "What is the difference between resource 'efficiency' and 'effectiveness'?",
+      "options": {
+        "ก": "Efficiency focuses on doing things right (minimal waste), while effectiveness focuses on achieving goals",
+        "ข": "Efficiency means high cost, while effectiveness means low cost",
+        "ค": "Effectiveness applies only to agriculture, while efficiency applies to technology",
+        "ง": "There is no difference between efficiency and effectiveness"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Efficiency measures input-to-output optimization (doing things right), whereas effectiveness measures target achievement (doing the right things).",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Benefits of Quality Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "How does producing high-quality goods benefit the producer in the long run?",
+      "options": {
+        "ก": "It builds consumer trust, enhances brand reputation, and increases sales",
+        "ข": "It increases customer complaints and legal disputes",
+        "ค": "It guarantees government subsidies for life",
+        "ง": "It eliminates competition in the market completely"
+      },
+      "correctAnswer": "ก",
+      "explanation": "High-quality products earn customer trust, foster brand loyalty, and build a positive long-term reputation that drives sustainable sales.",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Benefits of Quality Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "How does high product quality benefit consumers?",
+      "options": {
+        "ก": "It ensures safety, durability, and value for money spent",
+        "ข": "It forces consumers to buy replacement items frequently",
+        "ค": "It lowers product safety standards across the industry",
+        "ง": "It prevents consumers from making price comparisons"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Quality products are safe, long-lasting, and reliable, saving consumers money and protecting their health.",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Factors of Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Medium",
+      "question": "A baker uses flour, sugar, an electric oven, a bakery shop, and hired assistants. What represents 'Capital'?",
+      "options": {
+        "ก": "The flour and sugar",
+        "ข": "The electric oven and bakery building",
+        "ค": "The hired assistants",
+        "ง": "The baker's enterprise skill"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The electric oven and bakery building are man-made physical equipment and facilities used in production (Capital).",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Environmental Ethics",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Medium",
+      "question": "Which action by a paper manufacturer demonstrates sustainable environmental stewardship?",
+      "options": {
+        "ก": "Cutting down natural forests without planting new trees",
+        "ข": "Using eco-friendly pulp and planting trees to replace harvested ones",
+        "ค": "Dumping chemical bleach directly into local canal water",
+        "ง": "Burning scrap waste in open fields during peak summer"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Replanting trees and using eco-friendly materials ensures sustainable resource renewal and environmental protection.",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Producer Ethics",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "A food producer conceals expiration dates to sell expired canned items. Which producer obligation is violated?",
+      "options": {
+        "ก": "Honesty and consumer safety ethics",
+        "ข": "Labor union registration requirements",
+        "ค": "Central bank interest rate compliance",
+        "ง": "Export tariff calculation rules"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Concealing expiration dates violates fundamental producer ethics, honesty, and food safety standards.",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Informed Consumers",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "What is an 'informed consumer'?",
+      "options": {
+        "ก": "A person who buys whatever is shown in online advertisements",
+        "ข": "A consumer who carefully evaluates necessity, price, quality, and safety before buying",
+        "ค": "A buyer who always chooses the most expensive branded items",
+        "ง": "A person who shops without looking at product labels"
+      },
+      "correctAnswer": "ข",
+      "explanation": "An informed consumer researches products, evaluates actual needs versus wants, compares prices, and verifies safety credentials.",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Needs vs. Wants",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "Which of the following is classified as a basic human 'Need' (ปัจจัย 4)?",
+      "options": {
+        "ก": "Latest smartphone",
+        "ข": "Designer sunglasses",
+        "ค": "Nutritious food",
+        "ง": "Video game console"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Nutritious food is one of the 4 basic human needs (Food, Clothing, Shelter, Medicine) required for survival.",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Needs vs. Wants",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "Which item represents a consumer 'Want' rather than a basic need?",
+      "options": {
+        "ก": "Clean drinking water",
+        "ข": "Basic prescription medicine",
+        "ค": "Luxury sports shoes",
+        "ง": "Adequate shelter"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Luxury sports shoes are desirable goods (wants) that enhance lifestyle but are not mandatory for basic survival.",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Wise Buying Principles",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Easy",
+      "question": "What are the key principles an informed consumer should consider before purchasing a product?",
+      "options": {
+        "ก": "Brand name, popularity, luxury status, and flash sale discounts",
+        "ข": "Necessity, usefulness, economy (price-to-quality ratio), and safety",
+        "ค": "Color, packaging design, celebrity endorsement, and speed of delivery",
+        "ง": "Size of advertisement, store location, payment method, and friend's opinion"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Wise purchasing is based on Necessity (ความจำเป็น), Usefulness (ประโยชน์), Economy (ความประหยัด), and Safety (ความปลอดภัย).",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Product Labels",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "Why should consumers inspect product labels before buying packaged foods?",
+      "options": {
+        "ก": "To see if the logo color matches their preferences",
+        "ข": "To check ingredients, manufacturing date, expiration date, and certification marks",
+        "ค": "To count the number of words printed on the package",
+        "ง": "To find out which celebrity endorsed the product"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Labels provide vital information regarding ingredients, nutritional content, expiration dates, usage instructions, and safety standards.",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Imperfections",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Medium",
+      "question": "What is a common flaw in consumer purchasing behavior in the digital era?",
+      "options": {
+        "ก": "Comparing prices across multiple trusted stores",
+        "ข": "Impulse buying triggered by deceptive social media ads without checking necessity",
+        "ค": "Reading safety certificates and expiration dates carefully",
+        "ง": "Making a shopping list before visiting the market"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Impulse buying driven by aggressive online promotions and social media hype without verifying necessity or quality is a common consumer flaw.",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Sustainable Resources - 3Rs",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Easy",
+      "question": "What does the 'Reduce' principle in sustainable resource management mean?",
+      "options": {
+        "ก": "Using items once and throwing them in public bins",
+        "ข": "Decreasing unnecessary consumption and minimizing waste generation",
+        "ค": "Processing waste materials into totally new items using factory heat",
+        "ง": "Buying duplicate goods during seasonal promotional sales"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Reduce means decreasing overall resource consumption and avoiding wasteful purchases to generate less garbage.",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Sustainable Resources - 3Rs",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Easy",
+      "question": "Using a durable cloth bag instead of single-use plastic bags when grocery shopping is an example of:",
+      "options": {
+        "ก": "Recycle",
+        "ข": "Reuse",
+        "ค": "Repair",
+        "ง": "Reject"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Reusing cloth shopping bags multiple times prevents single-use plastic consumption and cuts down environmental waste.",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Sustainable Resources - 3Rs",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Medium",
+      "question": "Converting crushed glass bottles into molten raw material to manufacture new glassware is known as:",
+      "options": {
+        "ก": "Reducing",
+        "ข": "Reusing",
+        "ค": "Recycling",
+        "ง": "Refilling"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Recycling involves processing collected waste materials industrially into raw materials to manufacture new products.",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Protection Mark",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "Which Thai government agency certifies food and drug safety standards (FDA mark / อย.)?",
+      "options": {
+        "ก": "Ministry of Transport",
+        "ข": "Food and Drug Administration (สำนักงานคณะกรรมการอาหารและยา)",
+        "ค": "Bank of Thailand",
+        "ง": "Department of Customs"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The FDA (สำนักงานคณะกรรมการอาหารและยา - อย.) inspects and certifies food, drugs, and cosmetics safety in Thailand.",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Protection Mark",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "What does the TISI mark (มอก.) on electrical appliances signify?",
+      "options": {
+        "ก": "Thai Industrial Standards Institute certification for quality and safety",
+        "ข": "Tax Payment Exemption Mark",
+        "ค": "Imported Goods Excise Approval",
+        "ง": "Organic Agricultural Guarantee"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The TISI mark (มอก. - Thai Industrial Standards Institute) certifies industrial and electrical product quality and safety.",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Economic Resource Scarcity",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Medium",
+      "question": "What fundamental economic problem forces individuals and societies to make choices?",
+      "options": {
+        "ก": "Unlimited resources and limited human wants",
+        "ข": "Scarcity: Unlimited human wants combined with limited natural resources",
+        "ค": "Excess supply of goods in all global markets",
+        "ง": "Government prohibition of private business operations"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The core economic problem is Scarcity (ความขาดแคลน): resources are finite, whereas human needs and wants are virtually unlimited.",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Value of Informed Consumption",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Medium",
+      "question": "How does smart consumer choice help reduce municipal waste issues in cities?",
+      "options": {
+        "ก": "By selecting products with minimal, eco-friendly packaging and long lifespan",
+        "ข": "By throwing away household items as soon as new models are released",
+        "ค": "By demanding plastic bags for every single purchased item",
+        "ง": "By shopping exclusively at international luxury stores"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Choosing durable goods with minimal packaging reduces garbage volume and municipal waste processing burdens.",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Smart Shopping Budget",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Medium",
+      "question": "A Grade 6 student receives 100 Baht allowance per day. What is the smartest budget allocation?",
+      "options": {
+        "ก": "Spend 100 Baht immediately on mobile game top-ups",
+        "ข": "Buy essential lunch (40 Baht), save 30 Baht, and spend remaining on snacks",
+        "ค": "Borrow 50 Baht more from friends to buy expensive branded stationery",
+        "ง": "Skip lunch completely to save 100 Baht for toys"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Prioritizing essential food, setting aside systematic savings, and spending modestly on wants is the smartest financial practice.",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Environmental Conservation",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Medium",
+      "question": "What is an effective community strategy to promote sustainable energy usage?",
+      "options": {
+        "ก": "Leaving air conditioners on 24 hours a day in community halls",
+        "ข": "Switching to energy-efficient LED light bulbs and utilizing solar power",
+        "ค": "Using gasoline generators instead of grid electricity",
+        "ง": "Burning dried leaves to heat water during cold seasons"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Using energy-saving LED lighting and renewable energy sources like solar panels promotes sustainable energy conservation.",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Economic Units",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "What are the three main economic units in a national circular economy?",
+      "options": {
+        "ก": "Farmers, Factory workers, and Overseas tourists",
+        "ข": "Households, Business firms, and Government",
+        "ค": "Buyers, Sellers, and Advertisers",
+        "ง": "Commercial banks, Central bank, and Stock exchanges"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The three basic economic sectors/units are Households (หน่วยครัวเรือน), Business firms (หน่วยธุรกิจ), and Government (หน่วยรัฐบาล).",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Household Sector Role",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "In the economic cycle, what does the Household sector supply to Business firms?",
+      "options": {
+        "ก": "Public infrastructure and national defense",
+        "ข": "Factors of production (labor, land, capital) and consumer demand",
+        "ค": "Paper currency banknotes and coin minting",
+        "ง": "Corporate tax collection guidelines"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Households own factors of production (labor, land, capital) and sell/rent them to firms, while buying goods produced by business firms.",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Business Sector Role",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "What returns do Households receive from Business firms for providing their Labor?",
+      "options": {
+        "ก": "Rent",
+        "ข": "Wages / Salaries",
+        "ค": "Interest",
+        "ง": "Taxes"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Households receive Wages or Salaries (ค่าจ้าง/เงินเดือน) in exchange for supplying Labor to Business firms.",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Commercial Banks",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "What is the primary commercial function of a retail bank (ธนาคารพาณิชย์)?",
+      "options": {
+        "ก": "Printing currency notes and managing national gold reserves",
+        "ข": "Accepting money deposits from savers and extending credit loans to borrowers",
+        "ค": "Collecting personal income tax for the Ministry of Finance",
+        "ง": "Passing commercial legislation in Parliament"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Commercial banks act as financial intermediaries accepting public deposits and offering loans to individuals and businesses.",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Interest Rates",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "How do commercial banks earn income to maintain their operations?",
+      "options": {
+        "ก": "By receiving monthly funding directly from foreign governments",
+        "ข": "By charging higher interest rates on loans than the interest rates paid on deposits",
+        "ค": "By selling consumer goods in department stores",
+        "ง": "By collecting fines from traffic violators"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The net interest margin—the difference between higher loan interest charged to borrowers and lower deposit interest paid to savers—is bank revenue.",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Central Bank (Bank of Thailand)",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "Which financial institution holds the exclusive legal authority to issue banknotes in Thailand?",
+      "options": {
+        "ก": "Bangkok Bank",
+        "ข": "Government Savings Bank (GSB)",
+        "ค": "Bank of Thailand (BOT / ธนาคารแห่งประเทศไทย)",
+        "ง": "Krungthai Bank"
+      },
+      "correctAnswer": "ค",
+      "explanation": "The Bank of Thailand (BOT) is the country's central bank, responsible for issuing currency notes and monetary policy.",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Central Bank (BOT) Duties",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "What is a principal responsibility of the Bank of Thailand (BOT)?",
+      "options": {
+        "ก": "Providing personal car loans directly to individual citizens",
+        "ข": "Maintaining national economic stability, monetary policy, and currency reserves",
+        "ค": "Operating retail grocery stores across all provinces",
+        "ง": "Setting retail prices for agricultural crops"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The central bank regulates commercial banks, controls money supply, maintains foreign reserves, and ensures macro-economic stability.",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Role of Government",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "Why does the government collect taxes from citizens and private companies?",
+      "options": {
+        "ก": "To distribute equal cash directly to business owners every month",
+        "ข": "To finance public infrastructure, education, healthcare, and public safety",
+        "ค": "To deposit funds into foreign private investment funds for profit",
+        "ง": "To eliminate all private commercial businesses in the country"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Tax revenue funds essential public infrastructure (roads, bridges, schools, hospitals, security) that benefit the entire society.",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Direct Tax",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "Which of the following is classified as a 'Direct Tax' (ภาษีทางตรง)?",
+      "options": {
+        "ก": "Value Added Tax (VAT) paid on convenience store snacks",
+        "ข": "Personal Income Tax (ภาษีเงินได้บุคคลธรรมดา) paid on earned salaries",
+        "ค": "Excise tax included in fuel prices at gas stations",
+        "ง": "Customs import duty on foreign electronics"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Personal income tax and corporate income tax are direct taxes levied directly on the entity earning the income.",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Indirect Tax",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "When you buy a pen at a convenience store and pay 7% Value Added Tax (VAT), what type of tax is this?",
+      "options": {
+        "ก": "Direct tax",
+        "ข": "Indirect tax (ภาษีทางอ้อม)",
+        "ค": "Property inheritance tax",
+        "ง": "Land value tax"
+      },
+      "correctAnswer": "ข",
+      "explanation": "VAT is an indirect tax collected from buyers through consumption expenditure and passed to the government via sellers.",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Government Public Services",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "Which service is provided by the government using public tax revenue?",
+      "options": {
+        "ก": "Luxury private yacht rentals",
+        "ข": "Public free schooling, highways, and public hospitals",
+        "ค": "Private streaming movie subscriptions",
+        "ง": "Five-star hotel accommodation"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Public education, road networks, national security, and public health systems are funded through tax revenue.",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Economic Circular Flow",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "question": "What happens in the economy when households increase savings in banks during economic uncertainty?",
+      "options": {
+        "ก": "Commercial banks gain funds to lend to businesses for capital investments",
+        "ข": "The government immediately stops collecting all tax revenue",
+        "ค": "All businesses stop paying wages to their workers",
+        "ง": "The Bank of Thailand burns paper currency notes"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Increased deposits provide liquidity for banks to grant loans for business expansion and capital investment.",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Tax Compliance",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "Why is tax evasion (refusing to pay legal taxes) harmful to a country?",
+      "options": {
+        "ก": "It causes commercial banks to close down immediately",
+        "ข": "It deprives the state of revenues needed to build schools, hospitals, and infrastructure",
+        "ค": "It increases total exports to international markets",
+        "ง": "It makes all consumer products cheaper in retail markets"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Tax evasion deprives the nation of revenue required for essential public services and public welfare improvement.",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Specialized Financial Institutions",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "Which state-owned specialized bank in Thailand primarily focuses on supporting farmers and agricultural activities?",
+      "options": {
+        "ก": "Bank of Thailand (BOT)",
+        "ข": "Bank for Agriculture and Agricultural Cooperatives (BAAC / ธ.ก.ส.)",
+        "ค": "Government Housing Bank (GHB / ธ.อาคารสงเคราะห์)",
+        "ง": "Export-Import Bank of Thailand"
+      },
+      "correctAnswer": "ข",
+      "explanation": "BAAC (ธ.ก.ส.) provides credit, financial services, and agricultural development support specifically to Thai farmers.",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Government Housing Bank",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "What is the main specialized role of the Government Housing Bank (ธอส.)?",
+      "options": {
+        "ก": "Providing low-interest housing loans to help citizens buy homes",
+        "ข": "Exporting Thai rice to overseas markets",
+        "ค": "Managing national traffic light control systems",
+        "ง": "Printing student textbooks for primary schools"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The GHB (ธนาคารอาคารสงเคราะห์ - ธอส.) provides housing credit to help citizens own residential property.",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Local Economic Groups",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "What is the main goal of establishing local economic groups like Agricultural Cooperatives (สหกรณ์การเกษตร)?",
+      "options": {
+        "ก": "To create a monopoly and drive small farmers out of business",
+        "ข": "To pool resources, gain bargaining power, and help members sell produce fairly",
+        "ค": "To operate private casinos in rural villages",
+        "ง": "To replace official government local administrations"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Agricultural cooperatives help members pool farm inputs, share machinery, gain price bargaining power, and improve income.",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Cooperative Principles",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "What principle defines the ownership and operation of a Cooperative (สหกรณ์)?",
+      "options": {
+        "ก": "Owned by a single wealthy private investor for personal profit",
+        "ข": "Jointly owned and democratically controlled by member-owners for mutual benefit",
+        "ค": "Directly managed by foreign military forces",
+        "ง": "Operated as a non-profit charity with no fee collections"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Cooperatives are autonomous associations of persons united voluntarily to meet common economic needs through a jointly-owned, democratic enterprise.",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Cooperatives",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "What is the primary function of a Stores Cooperative (สหกรณ์ร้านค้า)?",
+      "options": {
+        "ก": "Providing agricultural tractors to members",
+        "ข": "Purchasing household consumer goods in bulk to sell to members at fair prices",
+        "ค": "Collecting local land taxes for the government",
+        "ง": "Issuing international credit cards to rural farmers"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Store cooperatives buy consumer goods in wholesale bulk and distribute them to member-consumers at fair prices with annual dividend rebates.",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Savings Cooperatives",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "How does a Credit / Savings Cooperative (สหกรณ์ออมทรัพย์) assist its members?",
+      "options": {
+        "ก": "By promoting systematic savings among members and granting low-interest emergency loans",
+        "ข": "By manufacturing heavy road paving machinery",
+        "ค": "By offering free overseas holiday trips every year",
+        "ง": "By operating public bus lines in provincial capitals"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Savings cooperatives encourage thrift/savings among member groups (e.g. teachers, factory workers) and offer fair credit loans.",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "OTOP Product Development",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "What does the OTOP (One Tambon One Product) project aim to promote in Thailand?",
+      "options": {
+        "ก": "Importing luxury cars from European manufacturers",
+        "ข": "Developing local community wisdom and craftsmanship into market-ready products",
+        "ค": "Replacing all traditional local foods with fast food franchises",
+        "ง": "Exporting raw unprocessed timber logs without local processing"
+      },
+      "correctAnswer": "ข",
+      "explanation": "OTOP promotes local village wisdom, culture, and craftsmanship by upgrading village products for national and export markets.",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Protection Act",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Easy",
+      "question": "Under the Thai Consumer Protection Act, how many fundamental consumer rights are legally guaranteed?",
+      "options": {
+        "ก": "3 rights",
+        "ข": "5 rights",
+        "ค": "7 rights",
+        "ง": "10 rights"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The Consumer Protection Act explicitly guarantees 5 fundamental rights to consumers.",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Right to Information",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Easy",
+      "question": "The right to receive true, accurate, and sufficient product labels and advertisement descriptions is which consumer right?",
+      "options": {
+        "ก": "Right to freedom of choice",
+        "ข": "Right to receive accurate information and description of quality",
+        "ค": "Right to safety",
+        "ง": "Right to fair contract terms"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Right 1 guarantees consumers truthful, non-deceptive advertising labels and complete product information (สิทธิที่จะได้รับข่าวสารรวมทั้งคำพรรณนาคุณภาพที่ถูกต้อง).",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Right to Safety",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "If an electric appliance is manufactured with uninsulated wires that cause shocks, which consumer right is violated?",
+      "options": {
+        "ก": "Right to free speech",
+        "ข": "Right to safety in using goods and services",
+        "ค": "Right to form political parties",
+        "ง": "Right to international travel"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The Right to Safety (สิทธิที่จะได้รับความปลอดภัยจากการใช้สินค้าหรือบริการ) mandates that products must meet safe quality standards.",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Right to Fair Contracts",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "When a credit company inserts hidden unfair penalty fees into fine print contracts, which consumer right protects the buyer?",
+      "options": {
+        "ก": "Right to fair contract terms (สิทธิที่จะได้รับความเป็นธรรมในการทำสัญญา)",
+        "ข": "Right to immediate cash refund without proof",
+        "ค": "Right to ownership of factory assets",
+        "ง": "Right to set interest rates independently"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Right 4 protects consumers from unfair contract terms and oppressive clauses imposed by businesses.",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Right to Compensation",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "If a consumer suffers food poisoning from contaminated canned food, what right allows them to claim financial damages?",
+      "options": {
+        "ก": "Right to consider product packaging designs",
+        "ข": "Right to receive consideration and financial compensation for damages (สิทธิที่จะได้รับการพิจารณาและชดเชยความเสียหาย)",
+        "ค": "Right to open a competing food store",
+        "ง": "Right to vote in local municipal elections"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Right 5 grants consumers legal protection and financial compensation when harmed by defective or unsafe products.",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Labor Protection Law",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Easy",
+      "question": "Under Thai Labor Protection Law, what is the standard maximum normal working hours per day for general labor?",
+      "options": {
+        "ก": "Not exceeding 6 hours per day",
+        "ข": "Not exceeding 8 hours per day",
+        "ค": "Not exceeding 12 hours per day",
+        "ง": "Not exceeding 14 hours per day"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Normal work hours in general industries must not exceed 8 hours per day (or 48 hours per week).",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Labor Rights - Equal Pay",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "According to labor law principles, male and female employees performing identical work of equal value must receive:",
+      "options": {
+        "ก": "Higher pay for male employees only",
+        "ข": "Equal wage rates and overtime pay",
+        "ค": "Lower pay for female employees",
+        "ง": "Payment in food coupons instead of money"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Labor law strictly mandates equal pay for equal work regardless of gender.",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Labor Rights - Rest Periods",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "How much continuous rest time must an employer grant to an employee after working 5 consecutive hours?",
+      "options": {
+        "ก": "At least 15 minutes",
+        "ข": "At least 30 minutes",
+        "ค": "At least 1 hour (60 minutes)",
+        "ง": "No rest time is required"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Workers are legally entitled to a continuous rest period of not less than 1 hour per day after working 5 consecutive hours.",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Labor Welfare & Safety",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "What mandatory obligation does a factory owner have regarding employee workplace safety?",
+      "options": {
+        "ก": "Providing protective gear (helmets, gloves, safety boots) and a safe working environment",
+        "ข": "Charging workers a monthly fee for drinking water in the factory",
+        "ค": "Requiring workers to buy their own emergency first-aid supplies",
+        "ง": "Locking emergency fire exit doors during night shifts"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Employers must provide safe working conditions, clean environment, and appropriate safety equipment to protect workers.",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Consumer Protection Agency (OCPB)",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Easy",
+      "question": "Which Thai government agency directly receives public complaints regarding unfair consumer treatment and false ads?",
+      "options": {
+        "ก": "Office of the Consumer Protection Board (OCPB / สคบ.)",
+        "ข": "Department of Highway Maintenance",
+        "ค": "Meteorological Department",
+        "ง": "Royal Thai Mint"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The Office of the Consumer Protection Board (OCPB - สคบ.) handles consumer complaints and enforces consumer rights.",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Factors of Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "Money used to purchase shares on the stock market is classified directly as physical 'Capital' in economics.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "In economics, financial money is financial capital, whereas physical Capital specifically refers to man-made tools, machinery, and buildings used in production.",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Quality Producers",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "A quality producer prioritizes long-term social responsibility and environmental safety over short-term illegal profit.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Responsible producers integrate ethical conduct, environmental care, and customer satisfaction into their business operations.",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Factors of Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Medium",
+      "question": "The profit earned by an entrepreneur is the reward for taking financial risks and organizing land, labor, and capital.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Profit is the economic return earned by entrepreneurship for managing risk and production factors.",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Producer Responsibilities",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "Discharging raw toxic chemicals into canals at night is acceptable if it helps lower production costs for export items.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Illegal dumping of toxic waste violates producer ethics, environmental law, and social responsibility.",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Informed Consumers",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "An informed consumer evaluates whether a product is a true necessity before deciding to make a purchase.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Distinguishing between needs and wants is a core step in rational, informed consumer behavior.",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Needs vs. Wants",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "A luxury smartwatch is considered one of the 4 basic human survival needs (ปัจจัย 4).",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "The 4 basic survival needs are Food, Clothing, Shelter, and Medicine. A smartwatch is a luxury want.",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Consumer Rights",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "Consumers have the legal right to receive accurate information regarding ingredients and expiration dates on product labels.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "The Consumer Protection Act explicitly guarantees the right to truthful and adequate product information.",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Sustainable Resource Management",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Easy",
+      "question": "The 'Reuse' principle involves processing waste plastic in a high-temperature factory furnace to remake plastic resin.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Melting waste in a factory to make new resin is 'Recycling'. 'Reuse' means using an item again in its existing form (e.g. glass jar for storage).",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Sustainable Resource Management",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Medium",
+      "question": "Turning off water taps while brushing teeth is an practical application of the 'Reduce' resource conservation principle.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Reducing unnecessary water usage decreases overall resource waste.",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Certification Marks",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Easy",
+      "question": "The อย. (FDA) symbol on food containers certifies that the product has passed national food safety standards.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "The Food and Drug Administration (อย.) mark guarantees safety compliance for food, drugs, and cosmetics.",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Certification Marks",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Medium",
+      "question": "The TISI mark (มอก.) is issued by the Ministry of Tourism to guarantee hotel room cleanliness.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "The TISI mark (มอก.) is issued by the Thai Industrial Standards Institute (Ministry of Industry) for industrial product safety.",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Economic Circular Flow",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "In a national economy, households supply labor to business firms and receive wages in return.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Households sell labor services to business firms in exchange for wage/salary payments.",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Role of Commercial Banks",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "Commercial banks earn operational profits primarily by charging higher interest rates on loans than they pay on savings deposits.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "The positive spread between loan interest income and deposit interest expense provides bank revenue.",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Central Bank (Bank of Thailand)",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "Any commercial retail bank in Thailand is legally allowed to print its own paper banknotes.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Only the central bank (Bank of Thailand / ธนาคารแห่งประเทศไทย) has the sole legal authority to issue paper banknotes.",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Central Bank Functions",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "The Bank of Thailand acts as the banker to commercial banks and manages national foreign exchange reserves.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "The central bank oversees commercial banks, manages foreign currency reserves, and maintains national monetary stability.",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Taxation Role",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "Governments collect taxes solely to pay monthly cash bonuses to government officials.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Taxes fund public goods and infrastructure such as highways, schools, hospitals, police, and national defense.",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Direct vs Indirect Taxes",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "Personal Income Tax paid annually by working employees based on their earnings is an example of an Indirect Tax.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Personal Income Tax is a Direct Tax because it is levied directly on the person who earns the income.",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Indirect Tax (VAT)",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "Value Added Tax (VAT) is an indirect tax added to the retail price of consumer goods and paid by the final buyer.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "VAT is an indirect tax collected from end consumers at the point of sale.",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Local Cooperatives",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "An Agricultural Cooperative is created to help farmers pool produce, buy fertilizer at lower bulk prices, and gain market bargaining power.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Cooperatives empower individual small farmers through collective purchasing and marketing strength.",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Cooperative Structure",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "In a cooperative enterprise, each member usually gets voting rights proportional to their personal wealth.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Cooperatives follow democratic principles: 'One member, one vote', regardless of the number of shares held.",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Savings Cooperatives",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "Savings Cooperatives promote financial discipline by enabling member groups to save regularly and borrow money at fair interest rates.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Savings cooperatives foster financial self-reliance and protect members from high-interest illegal loan sharks.",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "OTOP Local Products",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Easy",
+      "question": "OTOP projects encourage rural communities to utilize local raw materials and cultural wisdom to create marketable products.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "OTOP focuses on local community empowerment, native craftsmanship, and income generation.",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Consumer Rights",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Easy",
+      "question": "Consumers have no legal right to seek compensation if a defective electronic product causes a fire in their home.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Under Right 5 of the Consumer Protection Act, consumers have the legal right to financial compensation for damages caused by defective goods.",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Labor Protection Laws",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Easy",
+      "question": "Under Thai law, the normal working time for general office labor must not exceed 8 hours per day.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Labor protection law caps standard work hours at 8 hours per day (48 hours per week).",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Labor Rights - Equal Opportunity",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "Employers are legally allowed to pay female employees less than male employees for performing identical work with identical qualifications.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Thai labor law mandates equal pay for equal work regardless of employee gender.",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Labor Welfare",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Medium",
+      "question": "Factory owners are required by law to provide basic medical first-aid facilities and safety gear for their workforce.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Workplace safety equipment and basic medical first-aid provisions are mandatory legal requirements for employers.",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Consumer Protection Agency",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Easy",
+      "question": "The Office of the Consumer Protection Board (OCPB / สคบ.) assists consumers who have been cheated by false advertisements.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "OCPB handles public complaints regarding deceptive advertising and unfair business terms.",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Economic Scarcity",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Medium",
+      "question": "Because natural resources are infinite, human society does not need to conserve energy or plan resource usage.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Natural resources are finite and limited, making planning and conservation essential.",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Specialized State Banks",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Medium",
+      "question": "The Government Savings Bank (GSB / ธนาคารออมสิน) actively promotes youth savings and financial literacy in Thailand.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "GSB plays a major historical role in promoting public thrift, youth savings programs, and community banking.",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Wise Budgeting",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Easy",
+      "question": "Creating a daily income and expense log helps individuals track spending and increase personal savings.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Keeping income-expense records provides visual awareness of spending habits, helping identify unnecessary expenses.",
+      "points": 1
+    },
+    {
+      "id": 91,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Wise Consumer Budgeting",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Hard",
+      "scenario": "Somsak has a daily budget of 120 Baht for school. He needs to pay 40 Baht for a healthy lunch and 20 Baht for round-trip bus fare. In the canteen, he sees a trendy imported toy costing 80 Baht and a fresh fruit cup costing 15 Baht.",
+      "question": "How should Somsak allocate his budget according to wise consumer principles?",
+      "correctAnswer": "Somsak must first cover his fixed necessities: lunch (40 Baht) + bus fare (20 Baht) = 60 Baht. Remaining money = 60 Baht. He should buy the healthy fruit cup (15 Baht) or save the remaining 60 Baht. He must decline buying the toy (80 Baht) because it exceeds his remaining budget (60 Baht) and is a non-essential want.",
+      "explanation": "Wise consumers prioritize essential living expenses (Needs) first, allocate systematic savings second, and avoid overspending on non-essential items (Wants).",
+      "points": 2
+    },
+    {
+      "id": 92,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Producer Social Responsibility",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Hard",
+      "scenario": "A seafood processing factory in Samut Sakhon generates 5,000 liters of organic waste liquid daily. The factory manager considers two options: Option A (Dump waste into the nearby canal at night to save 50,000 Baht/month), or Option B (Install a 200,000 Baht bio-filtration system to turn waste into agricultural fertilizer).",
+      "question": "Which option should the factory choose to demonstrate quality producer leadership, and why?",
+      "correctAnswer": "The factory should choose Option B. Installing a bio-filtration system prevents canal pollution, protects public marine health, and creates usable organic fertilizer. Option A is illegal, damages community water, and violates producer ethics.",
+      "explanation": "Quality producers uphold social responsibility, respect environmental laws, and invest in sustainable waste treatment despite upfront costs.",
+      "points": 2
+    },
+    {
+      "id": 93,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Factors of Production Allocation",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Hard",
+      "scenario": "Kanya inherits a 5-rai vacant land plot near a university. She has 500,000 Baht in savings. She decides to hire two construction workers to build a student study cafe and buy coffee machines and tables.",
+      "question": "Identify the four factors of production present in Kanya's new business venture.",
+      "correctAnswer": "1. Land: The inherited 5-rai plot near the university. 2. Labor: The two hired construction workers and cafe staff. 3. Capital: The 500,000 Baht savings, coffee machines, tables, and cafe building. 4. Entrepreneurship: Kanya, who combines these resources and takes business risks.",
+      "explanation": "A complete business startup integrates all four production factors: Land (natural site), Labor (human effort), Capital (equipment/funds), and Entrepreneurship (risk-taker/manager).",
+      "points": 2
+    },
+    {
+      "id": 94,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Consumer Rights Violation",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Hard",
+      "scenario": "Vichai bought an electric rice cooker from a department store. The box had no user manual, no manufacturer address, and no TISI (มอก.) safety mark. On the first day of use, the cooker short-circuited and burned his kitchen countertop.",
+      "question": "Which consumer rights were violated, and what legal steps can Vichai take under Thai consumer law?",
+      "correctAnswer": "Violated Rights: 1. Right to receive accurate information/labeling (missing manual, manufacturer details, and safety mark). 2. Right to safety in using goods. Action: Vichai can file a complaint with the Office of the Consumer Protection Board (OCPB / สคบ.) and demand full financial compensation from the store/manufacturer under Right 5 (Right to compensation for damages).",
+      "explanation": "Consumer rights protect buyers against unsafe, uncertified products and provide legal channels for damage recovery through OCPB.",
+      "points": 2
+    },
+    {
+      "id": 95,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Agricultural Cooperative Benefit",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "scenario": "In a rural subdistrict, 30 cassava farmers individually sell cassava roots to middleman traders for 1.8 Baht/kg, while buying fertilizer at high retail prices (1,200 Baht/bag). A local leader proposes forming an Agricultural Cooperative.",
+      "question": "How will forming an Agricultural Cooperative solve the farmers' economic problems?",
+      "correctAnswer": "By forming a cooperative, farmers can bulk-purchase fertilizer directly from manufacturers at wholesale prices (e.g. 900 Baht/bag), reducing costs. Additionally, by pooling their total cassava yield, they gain price bargaining power to sell directly to starch factories at higher rates (e.g. 2.5 Baht/kg).",
+      "explanation": "Agricultural cooperatives eliminate unfair middleman exploitation through collective purchasing power and consolidated market selling.",
+      "points": 2
+    },
+    {
+      "id": 96,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Role of Financial Institutions",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "scenario": "A local software startup needs 2 million Baht to purchase high-performance servers, while a retired teacher wants to earn interest on her 500,000 Baht savings safely. Neither knows the other personally.",
+      "question": "Explain how the Commercial Banking system bridges the economic gap between the teacher and the software startup.",
+      "correctAnswer": "The teacher deposits her 500,000 Baht into a commercial bank account, earning deposit interest. The commercial bank pools her deposit with other savings to grant a 2 million Baht business loan to the startup. The startup pays loan interest to the bank. The bank uses this interest spread to operate and pay deposit interest back to the teacher.",
+      "explanation": "Commercial banks act as financial intermediaries, transferring idle funds from savers to productive investors in the economy.",
+      "points": 2
+    },
+    {
+      "id": 97,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Central Bank Intervention",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "scenario": "During an economic crisis, several commercial banks face rumor-driven mass customer deposit withdrawals (bank run), threatening national financial collapse. At the same time, counterfeit banknotes appear in night markets.",
+      "question": "What actions should the Bank of Thailand (BOT) execute to handle these issues?",
+      "correctAnswer": "1. Financial Stability: BOT acts as the 'Lender of Last Resort' to supply emergency liquidity loans to commercial banks, restoring depositor confidence. 2. Currency Integrity: BOT issues warning advisories on security features of genuine banknotes and coordinates note replacements to eliminate counterfeits.",
+      "explanation": "The Bank of Thailand maintains national financial stability as lender of last resort and manages paper currency integrity.",
+      "points": 2
+    },
+    {
+      "id": 98,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Government Tax Revenue Allocation",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "scenario": "A provincial government collects 50 million Baht in local land and tax revenue. The town council debates whether to spend the money on building a public library and fixing broken bridges, or holding a luxury festival for council members.",
+      "question": "Evaluate these spending proposals based on government economic duty.",
+      "correctAnswer": "The government must spend tax revenue on public goods: building the public library and repairing bridges. This directly enhances education, transport safety, and public welfare for all citizens. Spending public funds on luxury festivals for officials is misuse of tax revenue.",
+      "explanation": "Tax revenue must be spent on public services, infrastructure, and social welfare that benefit the community equitably.",
+      "points": 2
+    },
+    {
+      "id": 99,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Sustainable Resource Strategy (3Rs)",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Hard",
+      "scenario": "A primary school generates 100 kg of plastic water bottles, leftover lunch food waste, and single-sided paper scraps every day.",
+      "question": "Design a 3Rs sustainability plan for the school to manage these waste streams effectively.",
+      "correctAnswer": "1. Single-sided paper: 'Reuse' blank back sides for draft worksheets, then 'Recycle' shredded paper. 2. Plastic bottles: 'Reduce' by encouraging refillable water flasks; collect remaining bottles for 'Recycle' sales to fund school projects. 3. Food waste: Convert into organic compost fertilizer for school gardens.",
+      "explanation": "Applying 3Rs principles systematically reduces waste volume, lowers disposal costs, and generates eco-friendly value.",
+      "points": 2
+    },
+    {
+      "id": 100,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Labor Law Rights Case",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Hard",
+      "scenario": "An garment factory supervisor forces female workers to work 12 hours a day without overtime pay, grants only 15 minutes of lunch break, and pays them 20% less than male workers doing the same sewing tasks.",
+      "question": "Identify three labor protection violations in this scenario under Thai labor law.",
+      "correctAnswer": "1. Work Hours & OT: Exceeding 8 hours/day and refusing legal overtime pay violates work hour laws. 2. Rest Period: Granting only 15 minutes rest violates the legal requirement of at least 1 hour rest after 5 work hours. 3. Gender Wage Gap: Paying female workers 20% less for identical work violates equal pay laws.",
+      "explanation": "Labor protection laws guarantee maximum 8-hour workdays, mandatory 1-hour rest periods, overtime compensation, and gender pay equality.",
+      "points": 2
+    },
+    {
+      "id": 101,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "OTOP Product Elevation",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "scenario": "A rural village produces delicious homemade dried mangoes, but sells them in plain unsealed plastic bags at local roadside stalls with short shelf life and low income.",
+      "question": "How can the village apply the OTOP strategy to elevate their product quality and market value?",
+      "correctAnswer": "The village can: 1. Packaging & Safety: Upgrade to vacuum-sealed foil packaging with อย. FDA certification and clear nutritional labeling. 2. Branding: Create a unique OTOP community brand telling the local orchard story. 3. Distribution: Expand sales to online e-commerce platforms and provincial souvenir shops.",
+      "explanation": "OTOP enhances local village products by improving hygienic packaging, obtaining safety standards, creating strong branding, and expanding retail markets.",
+      "points": 2
+    },
+    {
+      "id": 102,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Direct vs. Indirect Tax Impact",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "scenario": "Pranee earns a monthly salary of 40,000 Baht and pays personal income tax at the end of the year. Every time she buys groceries, she pays 7% Value Added Tax (VAT) on her bill.",
+      "question": "Compare Pranee's tax burdens: Which is direct and which is indirect, and how do their collection mechanisms differ?",
+      "correctAnswer": "Personal income tax is a Direct Tax paid directly by Pranee to the Revenue Department based on her personal earnings. VAT is an Indirect Tax included in grocery prices; the grocery store collects VAT from Pranee at purchase and remits it to the government.",
+      "explanation": "Direct taxes are levied directly on income/wealth, whereas indirect taxes are collected via consumption transactions.",
+      "points": 2
+    },
+    {
+      "id": 103,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Savings Cooperative vs. Illegal Loan Sharks",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "scenario": "A factory worker needs 20,000 Baht for his child's school tuition. An informal loan shark offers instant cash but charges 20% interest per month (240% per year) with violent enforcement. The factory Savings Cooperative offers loans at 6% annual interest.",
+      "question": "Why should the worker choose the Savings Cooperative over the loan shark?",
+      "correctAnswer": "The worker should choose the Savings Cooperative. The cooperative charges a legal, low annual interest rate (6% per year = 1,200 Baht total interest), protecting him from financial ruin. The loan shark's 20% monthly rate (48,000 Baht annual interest) causes escalating debt spirals and illegal harassment.",
+      "explanation": "Savings cooperatives protect working members from exploitative informal debt by offering fair credit rates and legal financial safety.",
+      "points": 2
+    },
+    {
+      "id": 104,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Consumer Product Label Inspection",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Hard",
+      "scenario": "Sunee is buying canned tuna at a supermarket. She finds two brands: Brand A (100 Baht, shiny box, no expiration date, no อย. number), and Brand B (85 Baht, clear อย. number, manufacturing date: 01/2026, expiry date: 01/2028, full nutrition label).",
+      "question": "Which brand should Sunee buy, and why?",
+      "correctAnswer": "Sunee should buy Brand B. Brand B is certified safe with an อย. number, provides explicit manufacturing/expiry dates, includes nutrition information, and is more economical (85 Baht). Brand A is uncertified, lacks mandatory expiration details, presents food safety risks, and is overpriced.",
+      "explanation": "Smart purchasing requires verifying food safety marks (อย.), expiration dates, ingredient labels, and price value.",
+      "points": 2
+    },
+    {
+      "id": 105,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Sustainable Community Resource Management",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Hard",
+      "scenario": "A lakeside village suffers from declining fish populations because residents dump household garbage into the lake and use fine-mesh nets that catch juvenile fish.",
+      "question": "Propose a comprehensive community action plan to restore the lake ecosystem.",
+      "correctAnswer": "1. Waste Management: Establish village waste collection points and ban dumping garbage into the lake. 2. Fishing Regulation: Enforce seasonal fishing bans during spawning season and ban fine-mesh juvenile fish nets. 3. Rehabilitation: Organise community tree planting along lake banks and release young native fish fry into the water.",
+      "explanation": "Sustainable community management requires waste disposal rules, fish conservation laws, and active habitat restoration.",
+      "points": 2
+    },
+    {
+      "id": 106,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Factors of Production",
+      "learningObjective": "LO-SOC1",
+      "difficulty": "Hard",
+      "question": "Define the four factors of production in economics and give one concrete example for each factor in a bakery business.",
+      "correctAnswer": "1. Land: Natural resources used (e.g. wheat plot site, water, natural gas). 2. Labor: Human physical/mental effort (e.g. bakers, pastry chefs, counter clerks). 3. Capital: Man-made physical tools and facilities (e.g. baking ovens, mixers, bakery building). 4. Entrepreneurship: Business management and risk-taking (e.g. the bakery owner who organizes ingredients, staff, and marketing).",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 107,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Quality Producer Characteristics",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Hard",
+      "question": "Detail three key obligations that a manufacturer must maintain to be recognized as a responsible and high-quality producer.",
+      "correctAnswer": "1. Ethics & Honesty: Using safe, standardized raw materials without deceiving consumers about quality or quantity. 2. Environmental Responsibility: Treating factory waste/wastewater before release and reducing pollution. 3. Social & Labor Welfare: Complying with safety regulations, paying fair wages, and supporting community development.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 108,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Wise Consumer Decision Principles",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Hard",
+      "question": "Explain the four core principles of wise consumer purchasing (Necessity, Usefulness, Economy, and Safety) with a practical example.",
+      "correctAnswer": "1. Necessity (ความจำเป็น): Choosing items required for living (e.g. school uniform) over luxury wants. 2. Usefulness (ประโยชน์): Selecting products that provide real function and health benefits (e.g. fresh milk vs soft drinks). 3. Economy (ความประหยัด): Comparing prices, quality, and quantities to get the best value for money. 4. Safety (ความปลอดภัย): Inspecting safety marks (อย., มอก.) and expiration dates before buying.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 109,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Sustainable Resource Management (3Rs)",
+      "learningObjective": "LO-SOC2",
+      "difficulty": "Hard",
+      "question": "Explain the 3Rs principles (Reduce, Reuse, Recycle) in sustainable resource conservation and provide one clear household example for each.",
+      "correctAnswer": "1. Reduce: Decreasing consumption and waste generation (e.g. turning off lights when leaving a room, avoiding over-packaged items). 2. Reuse: Using items multiple times in their current form (e.g. using a glass jam jar as a pen holder, carrying cloth shopping bags). 3. Recycle: Processing collected waste materials industrially into raw materials to make new items (e.g. sending crushed aluminum cans to a factory to manufacture new metal cans).",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 110,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Economic Circular Flow",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "question": "Describe the economic interdependence among Households, Business Firms, and the Government in a national economy.",
+      "correctAnswer": "Households supply labor and factors of production to Business Firms, receiving wages and income. Business Firms produce goods and services for Households to buy. Both Households and Business Firms pay taxes to the Government. The Government uses tax revenue to provide public infrastructure, public security, free education, and healthcare services to both households and businesses.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 111,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Role of Commercial Banks vs Central Bank",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "question": "Compare the key differences in primary functions between Commercial Banks (ธนาคารพาณิชย์) and the Central Bank (Bank of Thailand / ธนาคารแห่งประเทศไทย).",
+      "correctAnswer": "Commercial Banks deal directly with the public by accepting money deposits, granting personal/business loans, and offering payment transfer services for profit. In contrast, the Central Bank (Bank of Thailand) does not serve the general public directly; it acts as the government's bank, issues paper banknotes, sets monetary policy, regulates commercial banks, and maintains national monetary and financial stability.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 112,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Tax Structure & Public Benefits",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "question": "Differentiate between Direct Taxes and Indirect Taxes, and explain how tax collection benefits society as a whole.",
+      "correctAnswer": "Direct Taxes (e.g. personal income tax, corporate profit tax) are charged directly on the income or wealth of individuals/companies. Indirect Taxes (e.g. Value Added Tax - VAT, excise tax) are included in the price of goods/services and paid by consumers upon purchase. Tax revenues fund essential public goods—such as national defense, public highways, state hospitals, public schools, and disaster relief—that benefit society equitably.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 113,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Cooperative Principles & Types",
+      "learningObjective": "LO-SOC3",
+      "difficulty": "Hard",
+      "question": "Explain the core purpose of a Cooperative (สหกรณ์) and describe the main functions of Agricultural Cooperatives and Savings Cooperatives.",
+      "correctAnswer": "A Cooperative is a member-owned, democratically-run organization aimed at helping members solve shared economic challenges. Agricultural Cooperatives help farmers bulk-purchase agricultural supplies at lower prices and gain price bargaining power for selling crops. Savings Cooperatives encourage systematic savings among member groups and provide fair, low-interest credit loans to protect members from exploitative loan sharks.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 114,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Consumer Rights Protection",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Hard",
+      "question": "Outline three legal rights guaranteed under the Thai Consumer Protection Act and describe how the Office of the Consumer Protection Board (OCPB / สคบ.) protects citizens.",
+      "correctAnswer": "Guaranteed Rights include: 1. Right to receive true and adequate product information. 2. Right to safety in using products/services. 3. Right to receive consideration and financial compensation for damages. The OCPB (สคบ.) enforces these rights by investigating misleading advertising, inspecting unsafe goods, mediating disputes between consumers and sellers, and litigating on behalf of cheated consumers.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 115,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Labor Rights & Welfare Regulations",
+      "learningObjective": "LO-SOC4",
+      "difficulty": "Hard",
+      "question": "Summarize three key protections guaranteed to workers under Thai Labor Protection Law regarding work hours, rest periods, and overtime compensation.",
+      "correctAnswer": "1. Normal Work Hours: Limited to a maximum of 8 hours per day (or 48 hours per week) for general work. 2. Rest Periods: Mandatory minimum continuous rest of 1 hour per day after 5 hours of work. 3. Overtime (OT) Compensation: Employers must obtain worker consent and pay higher OT wage rates (e.g. 1.5x to 3x normal hourly rate) for work performed beyond normal hours or on rest days.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    }
+  ]
+}

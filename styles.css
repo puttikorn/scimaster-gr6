@@ -307,6 +307,12 @@ body {
   box-shadow: 0 0 12px rgba(20, 184, 166, 0.4);
 }
 
+.subject-pill.social-theme.active {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.25), rgba(217, 119, 6, 0.25));
+  border-color: #f59e0b;
+  box-shadow: 0 0 12px rgba(245, 158, 11, 0.4);
+}
+
 
 .header-center {
   display: flex;

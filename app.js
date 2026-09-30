@@ -33,7 +33,8 @@ function getStorageKeys() {
                 : state.currentSubject === 'grammar' ? 'grammar_gr6'
                   : state.currentSubject === 'phonics' ? 'phonics_gr6'
                     : state.currentSubject === 'reading_writing' ? 'reading_writing_gr6'
-                      : 'scimaster_gr6';
+                      : state.currentSubject === 'social' ? 'social_gr6'
+                        : 'scimaster_gr6';
   return {
     STORAGE_KEY: `${prefix}_exam_state_v1`,
     RESULT_KEY: `${prefix}_exam_result_v1`
@@ -56,6 +57,7 @@ const subSciEnBtn = document.getElementById('subSciEnBtn');
 const subGrammarBtn = document.getElementById('subGrammarBtn');
 const subPhonicsBtn = document.getElementById('subPhonicsBtn');
 const subReadingWritingBtn = document.getElementById('subReadingWritingBtn');
+const subSocialBtn = document.getElementById('subSocialBtn');
 
 const qSectionBadge = document.getElementById('qSectionBadge');
 const qTopicBadge = document.getElementById('qTopicBadge');
@@ -108,7 +110,8 @@ async function init() {
                 : state.currentSubject === 'grammar' ? 'quiz_grammar_data.json'
                   : state.currentSubject === 'phonics' ? 'quiz_phonics_data.json'
                     : state.currentSubject === 'reading_writing' ? 'quiz_reading_writing_data.json'
-                      : 'quiz_data.json';
+                      : state.currentSubject === 'social' ? 'quiz_social_data.json'
+                        : 'quiz_data.json';
 
   try {
     const res = await fetch(dataFile);
@@ -172,8 +175,8 @@ function switchSubject(newSubject) {
 
 function updateSubjectThemeUI() {
   // Remove active from all pills first
-  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn, subChineseBtn, subEngBtn, subMathEnBtn, subSciEnBtn, subGrammarBtn, subPhonicsBtn, subReadingWritingBtn].forEach(btn => {
-    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme', 'chinese-theme', 'english-theme', 'math-en-theme', 'sci-en-theme', 'grammar-theme', 'phonics-theme', 'reading-writing-theme');
+  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn, subChineseBtn, subEngBtn, subMathEnBtn, subSciEnBtn, subGrammarBtn, subPhonicsBtn, subReadingWritingBtn, subSocialBtn].forEach(btn => {
+    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme', 'chinese-theme', 'english-theme', 'math-en-theme', 'sci-en-theme', 'grammar-theme', 'phonics-theme', 'reading-writing-theme', 'social-theme');
   });
 
   if (state.currentSubject === 'math') {
@@ -236,6 +239,12 @@ function updateSubjectThemeUI() {
     if (brandIcon) brandIcon.className = 'fa-solid fa-book-open-reader pulse-icon';
     if (portalTitle) portalTitle.innerText = 'Reading & Writing Assessment Grade 6';
     document.title = 'Reading & Writing Gr.6 - Online Exam';
+  } else if (state.currentSubject === 'social') {
+    if (subSocialBtn) { subSocialBtn.classList.add('active', 'social-theme'); }
+    if (brandTitle) brandTitle.innerText = 'SOCIALMASTER GR.6';
+    if (brandIcon) brandIcon.className = 'fa-solid fa-earth-asia pulse-icon';
+    if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้สังคมศึกษา ป.6';
+    document.title = 'SocialMaster Gr.6 - ข้อสอบประเมินผลสังคมศึกษา ป.6 ฉบับออนไลน์';
   } else {
     if (subSciBtn) { subSciBtn.classList.add('active'); }
     if (brandTitle) brandTitle.innerText = 'SCIMASTER GR.6';
@@ -646,6 +655,9 @@ function setupEventListeners() {
   }
   if (subReadingWritingBtn) {
     subReadingWritingBtn.addEventListener('click', () => switchSubject('reading_writing'));
+  }
+  if (subSocialBtn) {
+    subSocialBtn.addEventListener('click', () => switchSubject('social'));
   }
 
   // Navigation Buttons
