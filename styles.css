@@ -313,6 +313,12 @@ body {
   box-shadow: 0 0 12px rgba(245, 158, 11, 0.4);
 }
 
+.subject-pill.history-theme.active {
+  background: linear-gradient(135deg, rgba(225, 29, 72, 0.25), rgba(190, 18, 60, 0.25));
+  border-color: #e11d48;
+  box-shadow: 0 0 12px rgba(225, 29, 72, 0.4);
+}
+
 
 .header-center {
   display: flex;

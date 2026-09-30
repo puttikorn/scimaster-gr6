@@ -1,0 +1,1916 @@
+{
+  "title": "History Assessment Grade 6 (ประวัติศาสตร์ Gr.6 - MidFinal)",
+  "meta": {
+    "totalQuestions": 115,
+    "totalScore": 150,
+    "passingPercentage": 80,
+    "passingScore": 120,
+    "sections": [
+      {
+        "key": "MCQ",
+        "name": "Section A: Multiple Choice (ปรนัย)",
+        "count": 60,
+        "pointsPerQuestion": 1,
+        "totalPoints": 60
+      },
+      {
+        "key": "TF",
+        "name": "Section B: True / False (ถูก / ผิด)",
+        "count": 30,
+        "pointsPerQuestion": 1,
+        "totalPoints": 30
+      },
+      {
+        "key": "Scenario",
+        "name": "Section C: Scenario-Based (สถานการณ์จำลอง)",
+        "count": 15,
+        "pointsPerQuestion": 2,
+        "totalPoints": 30
+      },
+      {
+        "key": "ShortAnswer",
+        "name": "Section D: Short Answer (อัตนัย / อธิบายความรู้)",
+        "count": 10,
+        "pointsPerQuestion": 3,
+        "totalPoints": 30
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Importance of Buddhism",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "Why is Buddhism considered an identity of the Thai nation?",
+      "options": {
+        "ก": "Because all citizens are legally forced to become Buddhist monks",
+        "ข": "Because Buddhist moral principles have shaped Thai cultural values, politeness, and hospitality",
+        "ค": "Because Buddhism originated inside the borders of ancient Thailand",
+        "ง": "Because Thai law prohibits all other religions from operating in the country"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Buddhism has deeply influenced Thai social manners, friendliness ('Land of Smiles'), and cultural ethics over centuries.",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Buddhism as Cultural Heritage",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "Which architectural site represents Thai Buddhist cultural heritage?",
+      "options": {
+        "ก": "Eiffel Tower",
+        "ข": "Wat Phra Kaew (Grand Palace Temple)",
+        "ค": "Parthenon",
+        "ง": "Colosseum"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Wat Phra Kaew and traditional Thai temples represent the pinnacle of Thai Buddhist art, architecture, and cultural heritage.",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Buddha's Life - Relinquishing Life",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "Where did the Buddha perform the 'Relinquishing of Life Duration' (ปลงอายุสังขาร) three months before Parinibbana?",
+      "options": {
+        "ก": "Lumbini Grove",
+        "ข": "Pavala Cetiya in Vesali",
+        "ค": "Sanath Deer Park in Sarnath",
+        "ง": "Bodh Gaya under the Bodhi tree"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The Buddha performed the relinquishing of his life duration at Pavala Cetiya in Vesali, announcing he would attain Parinibbana in three months.",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Buddha's Life - Last Disciple",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "Who was the last direct disciple (ปัจฉิมสาวก) ordained by the Buddha right before his Parinibbana?",
+      "options": {
+        "ก": "Subhadda",
+        "ข": "Ananda",
+        "ค": "Sariputta",
+        "ง": "Moggallana"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Subhadda the wandering ascetic requested to hear the Buddha's teaching at Kusinara and became his final ordained disciple (ปัจฉิมสาวก).",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Buddha's Life - Parinibbana",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "In which town did the Buddha attain Parinibbana under the dual Sala trees?",
+      "options": {
+        "ก": "Rajagaha",
+        "ข": "Kusinara (Kushinagar)",
+        "ค": "Kapilavastu",
+        "ง": "Varanasi"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The Buddha attained Parinibbana in the Upavattana Sala Grove of the Mallian royal family at Kusinara.",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Buddha's Life - Holy Relics",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "Which Brahmin mediated and distributed the Buddha's holy relics (พระบรมสารีริกธาตุ) among eight royal kingdoms after cremation?",
+      "options": {
+        "ก": "Asita Devala",
+        "ข": "Kondanna Brahmin",
+        "ค": "Dona Brahmin (โทณพราหมณ์)",
+        "ง": "Anuruddha"
+      },
+      "correctAnswer": "ค",
+      "explanation": "Dona Brahmin stepped in to prevent war and fairly distributed the sacred relics into eight equal portions for eight royal stupas.",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Holy Pilgrimage Sites",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "Which holy site (สังเวชนียสถาน) represents the place where the Buddha attained Enlightenment (ตรัสรู้)?",
+      "options": {
+        "ก": "Lumbini (Nepal)",
+        "ข": "Bodh Gaya (India)",
+        "ค": "Sarnath (India)",
+        "ง": "Kusinara (India)"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Bodh Gaya is the sacred place where Prince Siddhattha attained Supreme Enlightenment under the Bodhi tree.",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Holy Pilgrimage Sites",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "Where is Lumbini Grove, the birthplace (ประสูติ) of Prince Siddhattha, located today?",
+      "options": {
+        "ก": "Modern Nepal",
+        "ข": "Modern Sri Lanka",
+        "ค": "Modern Myanmar",
+        "ง": "Modern Thailand"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Lumbini Grove, the birthplace of the Buddha, is located in modern Nepal.",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Dhiti Kosala Jataka",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "What is the central moral lesson of the Dhiti Kosala Jataka (ทีฆีติโกสลชาดก)?",
+      "options": {
+        "ก": "Hatred is never ended by hatred, but only by non-hatred and forgiveness",
+        "ข": "Physical strength is the only key to winning military victories",
+        "ค": "Wealth and gold can buy eternal happiness",
+        "ง": "Deception is acceptable if it accomplishes political goals"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Prince Dhighavu remembered his father King Dhighiti's dying words: 'Hatred ceases not by hatred, but by love and non-forgiveness.'",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Sabbadathi Jataka",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "What moral warning does the Sabbadathi Jataka (สัพพทาฐิชาดก) provide to society?",
+      "options": {
+        "ก": "Power intoxicates the foolish and leads to downfall through excessive greed and pride",
+        "ข": "Animals should never live together in forests",
+        "ค": "Jackals are superior rulers compared to lions",
+        "ง": "Kings must conquer all neighboring countries by force"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The jackal who gained magical power over all beasts became intoxicated with pride, leading to his own ruin and destruction.",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Exemplary Buddhists",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "Phra Sasana Sophon (Euan Chintatto) is remembered for which key contribution to Thai Buddhism?",
+      "options": {
+        "ก": "Translating scripture and promoting education and moral development among Thai youth",
+        "ข": "Building military fortifications during the Ayutthaya period",
+        "ค": "Establishing Thailand's first paper currency printing press",
+        "ง": "Leading commercial banking development in Asia"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Phra Sasana Sophon was a highly respected Thai Buddhist monk who dedicated his life to education, scripture study, and youth ethics.",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Exemplary Buddhists",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "Acharn Sathien Phongphatthanasit contributed to Thai society primarily as a:",
+      "options": {
+        "ก": "Dedicated Buddhist scholar who explained Dhamma principles clearly for public moral application",
+        "ข": "Famous international military commander",
+        "ค": "Royal court painter in the Rattanakosin era",
+        "ง": "Pioneer of modern rubber plantations in southern Thailand"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Acharn Sathien was a prominent Buddhist lay scholar who explained Buddhist philosophy and ethics to the general public.",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Holy Pilgrimage Sites",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "Where did the Buddha deliver his First Sermon (Dhammacakkappavattana Sutta) to the Five Ascetics?",
+      "options": {
+        "ก": "Lumbini Grove",
+        "ข": "Sarnath Deer Park (Isipatana)",
+        "ค": "Kusinara Sala Grove",
+        "ง": "Pavala Cetiya"
+      },
+      "correctAnswer": "ข",
+      "explanation": "The First Sermon was preached at the Deer Park in Isipatana near Sarnath (Varanasi).",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Buddha's Life - Cremation",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "The royal cremation ceremony of the Buddha's body took place at which monument in Kusinara?",
+      "options": {
+        "ก": "Makutabandhana Cetiya (มกุฏพันธนเจดีย์)",
+        "ข": "Sanchi Stupa",
+        "ค": "Anuradhapura Stupa",
+        "ง": "Shwedagon Pagoda"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The Mallian kings performed the cremation at the Makutabandhana Cetiya in Kusinara.",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Three Jewels of Buddhism",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "With the ordination of Kondanna after the First Sermon, which fundamental event occurred?",
+      "options": {
+        "ก": "The complete Three Jewels (Buddha, Dhamma, Sangha) were fully established for the first time",
+        "ข": "The Buddha returned to his palace in Kapilavastu permanently",
+        "ค": "The first Buddhist council was held immediately",
+        "ง": "The Tripitaka was printed into paper books"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Kondanna's ordination created the first Buddhist monk, completing the Triple Gem (พระรัตนตรัย: พระพุทธ, พระธรรม, พระสงฆ์).",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Moral Lessons of Jataka",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "In the Dhiti Kosala Jataka, why did Prince Dhighavu put away his sword instead of executing King Brahmadatta?",
+      "options": {
+        "ก": "Because he remembered his father's teaching on overcoming vengeance with forgiveness",
+        "ข": "Because he lost his balance and dropped his weapon",
+        "ค": "Because royal guards ambushed him from behind",
+        "ง": "Because King Brahmadatta paid him a large monetary bribe"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Prince Dhighavu chose forgiveness over revenge, ending the endless cycle of blood feuds.",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Buddhism and Thai Culture",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "Which traditional Thai festival is directly connected to Buddhist merit-making and rain conservation traditions?",
+      "options": {
+        "ก": "Songkran and Loy Krathong",
+        "ข": "Vassa (Khao Phansa / Entering Rains Retreat)",
+        "ค": "Christmas",
+        "ง": "New Year's Eve Countdown"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Khao Phansa (Entering Rains Retreat) and Ok Phansa are traditional Buddhist merit-making observances in Thailand.",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Dhamma Practice in Daily Life",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "What is the basic moral foundation (ศีล 5) for layman Buddhists to maintain peaceful co-existence?",
+      "options": {
+        "ก": "5 Moral Precepts (refraining from killing, stealing, sexual misconduct, lying, and intoxicants)",
+        "ข": "5 Corporate Tax Regulations",
+        "ค": "5 Military Strategy Laws",
+        "ง": "5 Foreign Language Grammar Rules"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The 5 Moral Precepts (ศีล 5) guide everyday ethical conduct for lay Buddhists.",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Importance of Buddhism",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "How do Buddhist temples (วัด) historically serve as community centers in Thai society?",
+      "options": {
+        "ก": "As centers for education, moral instruction, community gatherings, and social welfare",
+        "ข": "As private stock trading exchanges for merchants",
+        "ค": "As heavy industrial manufacturing factories",
+        "ง": "As tax collection headquarters for foreign embassies"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Historically, Thai temples served as schools, hospitals, cultural centers, and spiritual sanctuaries for local communities.",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Buddhist Heritage - Literature",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "Which classical Thai literary work written by King Li Thai of Sukhothai describes Buddhist cosmology and moral ethics?",
+      "options": {
+        "ก": "Tribhumikatha (Traibhumikatha / ไตรภูมิพระร่วง)",
+        "ข": "Inao",
+        "ค": "Khun Chang Khun Phaen",
+        "ง": "Ramakien"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Traibhumikatha (ไตรภูมิพระร่วง) was authored by King Li Thai to instruct subjects on karma, virtues, and Buddhist cosmology.",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Method Steps",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "What is the very FIRST step in the 5-step Historical Method (วิธีการทางประวัติศาสตร์)?",
+      "options": {
+        "ก": "Synthesizing the final research report",
+        "ข": "Formulating the research topic or question (กำหนดหัวข้อที่จะศึกษา)",
+        "ค": "Gathering historical artifacts",
+        "ง": "Critiquing the honesty of historical witnesses"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Step 1 of the Historical Method is defining a clear topic, research question, or historical boundary to study.",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Method Steps",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "What is the second step in the Historical Method after choosing a topic?",
+      "options": {
+        "ก": "Gathering historical evidence and sources (รวบรวมหลักฐาน)",
+        "ข": "Publishing a textbook immediately",
+        "ค": "Evaluating internal bias of sources",
+        "ง": "Writing conclusions without reading documents"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Step 2 involves searching for and collecting relevant primary and secondary historical evidence.",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Method Steps - Criticism",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "What is the primary purpose of Step 3: Source Criticism (การประเมินคุณค่าหลักฐาน / วิพากษ์หลักฐาน)?",
+      "options": {
+        "ก": "To verify the authenticity, reliability, age, and accuracy of historical evidence",
+        "ข": "To translate all documents into English",
+        "ค": "To burn original historical palm-leaf manuscripts",
+        "ง": "To count the number of pages in historical books"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Source criticism (external and internal criticism) checks whether an evidence item is genuine and accurate.",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Criticism - External",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Checking whether a stone inscription is made of genuine ancient stone and whether its ink/carving style matches the historical era is an example of:",
+      "options": {
+        "ก": "External Criticism (การวิพากษ์ภายนอก)",
+        "ข": "Internal Criticism (การวิพากษ์ภายใน)",
+        "ค": "Synthesizing the final paper",
+        "ง": "Choosing a research topic"
+      },
+      "correctAnswer": "ก",
+      "explanation": "External criticism evaluates the physical authenticity, material, age, and external origin of the evidence.",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Criticism - Internal",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Analyzing whether an author of a royal chronicle had personal bias or exaggerated troop numbers is known as:",
+      "options": {
+        "ก": "External Criticism",
+        "ข": "Internal Criticism (การวิพากษ์ภายใน)",
+        "ค": "Collecting physical artifacts",
+        "ง": "Topic selection"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Internal criticism assesses the credibility, truthfulness, motives, and reliability of the text/author's content.",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Method Steps - Final Step",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "What is the FIFTH and final step of the Historical Method?",
+      "options": {
+        "ก": "Synthesizing, organizing, and presenting historical findings (เรียบเรียงและนำเสนอ)",
+        "ข": "Formulating a new unverified hypothesis",
+        "ค": "Discarding all collected research data",
+        "ง": "Gathering more primary stone tablets"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Step 5 is synthesizing the analyzed historical facts into a coherent narrative report or presentation.",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Types of Historical Evidence",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "What is a 'Primary Source' (หลักฐานชั้นต้น / ปฐมภูมิ) in historical research?",
+      "options": {
+        "ก": "Evidence created during the actual historical time period by direct eye-witnesses or contemporaries",
+        "ข": "A textbook written by a modern high school teacher in 2025",
+        "ค": "A movie dramatization created by a contemporary film studio",
+        "ง": "An encyclopedia summary published on a modern blog"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Primary sources are direct contemporary records, artifacts, or eye-witness accounts produced during the period being studied.",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Primary Source Examples",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "Which of the following is considered a Primary Historical Source for Sukhothai history?",
+      "options": {
+        "ก": "King Ramkhamhaeng Inscription Stone No. 1 (ศิลาจารึกพ่อขุนรามคำแหง)",
+        "ข": "A modern Grade 6 social studies textbook",
+        "ค": "A historical fiction novel written in 2010",
+        "ง": "A cartoon animation about ancient kings"
+      },
+      "correctAnswer": "ก",
+      "explanation": "King Ramkhamhaeng's Stone Inscription No. 1 is an authentic primary source carved during the Sukhothai period.",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Types of Historical Evidence",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "What is a 'Secondary Source' (หลักฐานชั้นรอง / ทุติยภูมิ)?",
+      "options": {
+        "ก": "Accounts, books, or analyses written after the event by researchers who did not witness the event directly",
+        "ข": "Original royal letters written during the Ayutthaya war",
+        "ค": "Ancient pottery dug up from Ban Chiang archaeological site",
+        "ง": "Inscribed palm-leaf manuscripts from the 14th century"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Secondary sources synthesize, analyze, or interpret primary sources long after the historical event occurred.",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Secondary Source Examples",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Which item is classified as a Secondary Source?",
+      "options": {
+        "ก": "A historical analysis book written by a modern university professor analyzing Ayutthaya trade records",
+        "ข": "An original treaty signed by King Chulalongkorn and France in 1893",
+        "ค": "An ancient bronze bell excavated from an old temple foundation",
+        "ง": "Coins minted during the reign of King Rama IV"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Modern academic books analyzing past events are secondary sources derived from studying original primary data.",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Artifacts",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "Ancient bronze drums, pottery jars, and stone axes excavated from archaeological sites are examples of:",
+      "options": {
+        "ก": "Non-written primary archaeological artifacts (หลักฐานชั้นต้นไม่เป็นลายลักษณ์อักษร)",
+        "ข": "Secondary written textbooks",
+        "ค": "Deceptive modern propaganda materials",
+        "ง": "Digital online databases"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Unwritten physical items like pottery and bronze tools created in ancient times are primary non-written artifacts.",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Chronicles (พงศาวดาร)",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Royal Chronicles (พระราชพงศาวดาร) primarily record historical events related to:",
+      "options": {
+        "ก": "Monarchs, royal court decrees, state wars, and political dynasties",
+        "ข": "Daily market prices of vegetables in rural villages",
+        "ค": "Folk stories and fairy tales of mythical creatures",
+        "ง": "Modern weather forecasts in foreign countries"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Chronicles (พงศาวดาร) are historical records focusing on royal deeds, military campaigns, and state governance.",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Evidence Evaluation",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Why should historians compare multiple primary sources before writing a historical account?",
+      "options": {
+        "ก": "Because a single witness account may contain personal bias, errors, or incomplete perspectives",
+        "ข": "Because law requires using at least 50 documents per sentence",
+        "ค": "Because ancient historians were not allowed to write the truth",
+        "ง": "Because primary sources are always completely false"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Cross-referencing multiple sources helps eliminate individual bias and reconstruct a balanced historical reality.",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Written vs Non-Written Evidence",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "Which historical item is classified as 'Written Evidence' (หลักฐานที่เป็นลายลักษณ์อักษร)?",
+      "options": {
+        "ก": "Royal decrees recorded on palm leaves (ใบลาน)",
+        "ข": "Ancient terracotta roof tiles",
+        "ค": "Stone spearheads from the Paleolithic era",
+        "ง": "Gold ornaments excavated from ancient crypts"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Palm-leaf manuscripts, inscriptions, letters, and archives containing written script are written evidence.",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Interpretation",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "What does Step 4: Data Interpretation (การตีความข้อมูล) require a historian to do?",
+      "options": {
+        "ก": "Analyze the underlying meaning of verified facts objectively without personal prejudice",
+        "ข": "Invent fictional stories to fill gaps in historical records",
+        "ค": "Change original historical dates to fit modern calendars",
+        "ง": "Select only facts that support a predetermined political opinion"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Data interpretation involves analyzing proven historical facts with academic objectivity to understand cause-and-effect relationships.",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Bias",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "When reading a war report written by a victorious general, a historian should be cautious of:",
+      "options": {
+        "ก": "Exaggeration of enemy casualties and minimization of own army losses due to bias",
+        "ข": "The color of the paper used in modern printing presses",
+        "ค": "The price of the book in retail bookstores",
+        "ง": "The font size of the English translation"
+      },
+      "correctAnswer": "ก",
+      "explanation": "War accounts by victors frequently contain self-serving bias, requiring careful internal criticism by historians.",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Ban Chiang Archaeological Site",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "Ban Chiang in Udon Thani is world-famous for providing primary archaeological evidence of:",
+      "options": {
+        "ก": "Prehistoric painted pottery and early bronze metallurgy in Southeast Asia",
+        "ข": "Ayutthaya period royal palaces",
+        "ค": "Rattanakosin period steam locomotives",
+        "ง": "Sukhothai stone inscriptions"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Ban Chiang is a UNESCO World Heritage site known for prehistoric bronze age technology and painted pottery.",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Historical Facts vs Opinions",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Which statement represents a historical 'Fact' rather than an opinion?",
+      "options": {
+        "ก": "King Ramkhamhaeng established the Thai alphabet inscription in 1826 B.E. (1283 C.E.)",
+        "ข": "Sukhothai was the most fun kingdom in human history",
+        "ค": "Ancient soldiers were much braver than modern people",
+        "ง": "Ayutthaya architecture is prettier than European castles"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Verifiable dates and documented historical events represent facts, whereas subjective claims are opinions.",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Local History Evidence",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "If a student wants to study the history of their home village, what local primary source would be most valuable?",
+      "options": {
+        "ก": "Oral interviews with elderly village founders and old local temple records",
+        "ข": "A national world geography atlas published in London",
+        "ค": "A futuristic sci-fi novel about space exploration",
+        "ง": "A modern fashion magazine"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Local oral histories from village elders, old family photos, and local temple registers provide direct primary evidence.",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Importance of Historical Method",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Why is applying the Historical Method essential for historical study?",
+      "options": {
+        "ก": "It ensures historical conclusions are grounded in reliable, verified evidence rather than rumors or myths",
+        "ข": "It guarantees that historical research can be completed in under 5 minutes",
+        "ค": "It allows researchers to rewrite history without needing evidence",
+        "ง": "It eliminates the need to read old documents"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The Historical Method provides a rigorous scientific framework to discover truth and prevent unverified myths from being accepted as history.",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Thailand's Neighbors - Myanmar",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "What is the official capital city of Myanmar (เมียนมา) today?",
+      "options": {
+        "ก": "Yangon (Rangoon)",
+        "ข": "Naypyidaw (เนปยีดอ)",
+        "ค": "Mandalay",
+        "ง": "Bagan"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Naypyidaw replaced Yangon as the official administrative capital of Myanmar in 2005.",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Thailand's Neighbors - Laos",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "Which historical kingdom is recognized as the ancient historical predecessor of modern Laos?",
+      "options": {
+        "ก": "Lan Xang Kingdom (อาณาจักรล้านช้าง)",
+        "ข": "Khmer Empire",
+        "ค": "Majapahit Empire",
+        "ง": "Srivijaya Kingdom"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The Lan Xang Kingdom (Kingdom of a Million Elephants) founded by King Fa Ngum is the historical ancestor of modern Laos.",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Thailand's Neighbors - Laos Capital",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "What is the capital city of the Lao People's Democratic Republic (สปป. ลาว)?",
+      "options": {
+        "ก": "Vientiane (เวียงจันทน์)",
+        "ข": "Luang Prabang",
+        "ค": "Pakse",
+        "ง": "Savannakhet"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Vientiane is the capital and largest city of Laos.",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Thailand's Neighbors - Cambodia",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "Which world-famous ancient stone temple monument complex is located in Cambodia?",
+      "options": {
+        "ก": "Angkor Wat (ปราสาทนครวัด)",
+        "ข": "Borobudur",
+        "ค": "Shwedagon Pagoda",
+        "ง": "Bagan Stupas"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Angkor Wat in Siem Reap, Cambodia, is one of the largest and most famous religious monuments in the world.",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Thailand's Neighbors - Malaysia Religion",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "What is the official state religion of Malaysia?",
+      "options": {
+        "ก": "Buddhism",
+        "ข": "Islam",
+        "ค": "Christianity",
+        "ง": "Hinduism"
+      },
+      "correctAnswer": "ข",
+      "explanation": "Islam is the official constitutional religion of Malaysia.",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Thailand's Neighbors - Malaysia Capital",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "What is the federal capital city of Malaysia?",
+      "options": {
+        "ก": "Kuala Lumpur",
+        "ข": "George Town",
+        "ค": "Johor Bahru",
+        "ง": "Malacca"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Kuala Lumpur is the federal capital and main commercial hub of Malaysia.",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Government Systems - Constitutional Monarchy",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Medium",
+      "question": "Which group of Southeast Asian countries share a Constitutional Monarchy system where a King is Head of State under constitution?",
+      "options": {
+        "ก": "Thailand, Cambodia, and Malaysia",
+        "ข": "Vietnam, Laos, and Myanmar",
+        "ค": "Singapore, Philippines, and Indonesia",
+        "ง": "Brunei, Vietnam, and Laos"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Thailand, Cambodia, and Malaysia operating under constitutional monarchy systems (Malaysia uses a rotational monarchy system among hereditary rulers).",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Government Systems - Republic",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Medium",
+      "question": "Which neighboring Southeast Asian country is governed as a Republic with an elected President as Head of State?",
+      "options": {
+        "ก": "Myanmar and Indonesia",
+        "ข": "Thailand",
+        "ค": "Cambodia",
+        "ง": "Brunei Darussalam"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Myanmar, Indonesia, Singapore, and the Philippines operate as Republics with Presidents as Heads of State.",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Government Systems - Socialist State",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Medium",
+      "question": "What form of government system is practiced in Laos and Vietnam?",
+      "options": {
+        "ก": "Socialist / Communist Republic (ระบอบสังคมนิยมคอมมิวนิสต์)",
+        "ข": "Absolute Monarchy",
+        "ค": "Federal Constitutional Republic with King",
+        "ง": "Parliamentary Oligarchy"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Both Laos and Vietnam are single-party Socialist/Communist Republics.",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Thailand's Bordering Countries",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "Thailand shares land borders with four neighboring countries. Which of the following does NOT share a land border with Thailand?",
+      "options": {
+        "ก": "Vietnam",
+        "ข": "Myanmar",
+        "ค": "Laos",
+        "ง": "Malaysia"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Vietnam does not share a direct physical land border with Thailand (separated by Laos and Cambodia).",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ASEAN Founding Year",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Easy",
+      "question": "In which year was the Association of Southeast Asian Nations (ASEAN / สมาคมอาเซียน) founded by the Bangkok Declaration?",
+      "options": {
+        "ก": "1967 (พ.ศ. 2510)",
+        "ข": "1945",
+        "ค": "1999",
+        "ง": "2015"
+      },
+      "correctAnswer": "ก",
+      "explanation": "ASEAN was officially established on August 8, 1967, with the signing of the Bangkok Declaration in Thailand.",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ASEAN Founding Members",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Medium",
+      "question": "How many original founding member nations signed the Bangkok Declaration establishing ASEAN in 1967?",
+      "options": {
+        "ก": "5 nations (Thailand, Malaysia, Indonesia, Philippines, Singapore)",
+        "ข": "10 nations",
+        "ค": "3 nations",
+        "ง": "12 nations"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The 5 founding nations were Thailand, Malaysia, Indonesia, Philippines, and Singapore.",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ASEAN Member Count",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Easy",
+      "question": "How many full member countries comprise ASEAN today?",
+      "options": {
+        "ก": "10 countries",
+        "ข": "5 countries",
+        "ค": "15 countries",
+        "ง": "20 countries"
+      },
+      "correctAnswer": "ก",
+      "explanation": "ASEAN consists of 10 member nations across Southeast Asia.",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ASEAN Motto",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Easy",
+      "question": "What is the official motto of ASEAN?",
+      "options": {
+        "ก": "One Vision, One Identity, One Community",
+        "ข": "Peace, Wealth, Power",
+        "ค": "Global Unity and Trade Supremacy",
+        "ง": "Freedom, Equality, Brotherhood"
+      },
+      "correctAnswer": "ก",
+      "explanation": "'One Vision, One Identity, One Community' is the official ASEAN motto.",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ASEAN Emblem",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Medium",
+      "question": "What does the central symbol of 10 yellow paddy stalks (รวงข้าวสีทอง 10 รวง) on the ASEAN flag represent?",
+      "options": {
+        "ก": "The 10 member nations bound together in friendship and solidarity",
+        "ข": "The 10 main rivers of Southeast Asia",
+        "ค": "The 10 major crops exported to Europe",
+        "ง": "The 10 founding kings of ancient Asian empires"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The 10 golden rice stalks represent the 10 Southeast Asian nations bound together in solidarity.",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "ASEAN Community Pillars",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Medium",
+      "question": "The ASEAN Community consists of three core pillars. Which of the following is NOT one of the three pillars?",
+      "options": {
+        "ก": "ASEAN Space Exploration Community",
+        "ข": "ASEAN Political-Security Community (APSC)",
+        "ค": "ASEAN Economic Community (AEC)",
+        "ง": "ASEAN Socio-Cultural Community (ASCC)"
+      },
+      "correctAnswer": "ก",
+      "explanation": "The 3 ASEAN pillars are Political-Security (APSC), Economic (AEC), and Socio-Cultural (ASCC).",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Economic Development - Singapore",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Medium",
+      "question": "Why is Singapore recognized as an economic leader in Southeast Asia despite its small land size?",
+      "options": {
+        "ก": "It developed an advanced financial hub, strategic global port, and high-tech service economy",
+        "ข": "It possesses the largest oil reserves in the world",
+        "ค": "It relies exclusively on agricultural rice exports",
+        "ง": "It has no foreign trade connections"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Singapore leveraged strategic location, human capital, financial infrastructure, and shipping logistics to achieve high economic status.",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Cultural Diversity in ASEAN",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Medium",
+      "question": "Why is Southeast Asia recognized as one of the most culturally diverse regions in the world?",
+      "options": {
+        "ก": "Due to centuries of trade, migration, and coexistence of major religions (Buddhism, Islam, Christianity, Hinduism)",
+        "ข": "Because all countries speak the exact same dialect",
+        "ค": "Because foreign visitors are banned from entering",
+        "ง": "Because no historical events occurred before 1900"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Crossroad maritime geography brought diverse religious traditions, languages, and ethnic heritage across Southeast Asia.",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Benefits of ASEAN Economic Community (AEC)",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Medium",
+      "question": "How does the ASEAN Economic Community (AEC) benefit member countries?",
+      "options": {
+        "ก": "By promoting free flow of goods, services, investment, skilled labor, and regional economic integration",
+        "ข": "By imposing high tariffs on all goods traded between neighboring member states",
+        "ค": "By forcing all citizens to use a single currency printed in Europe",
+        "ง": "By prohibiting regional tourism between member states"
+      },
+      "correctAnswer": "ก",
+      "explanation": "AEC facilitates regional trade, investment flow, reduced tariffs, and economic collaboration across the 10 member states.",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "section": "MCQ",
+      "sectionName": "Section A: Multiple Choice",
+      "topic": "Thailand's Role in ASEAN",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Medium",
+      "question": "What key historical role did Thailand play in the creation of ASEAN?",
+      "options": {
+        "ก": "Thailand hosted the signing of the founding Bangkok Declaration in 1967 and acted as a key regional mediator",
+        "ข": "Thailand opposed the formation of any regional association",
+        "ค": "Thailand joined ASEAN as the 10th member in 1999",
+        "ง": "Thailand demanded to relocate ASEAN headquarters to North America"
+      },
+      "correctAnswer": "ก",
+      "explanation": "Thailand hosted the 1967 founding meeting in Bangkok, under Foreign Minister Thanat Khoman, establishing ASEAN.",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Buddhism & Thai Culture",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "Buddhism is recognized as a fundamental pillar of Thai national identity and cultural heritage.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Buddhism deeply permeates Thai architecture, literature, social etiquette, and national traditions.",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Buddha's Life - Relinquishing Life",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "The Buddha announced his intention to attain Parinibbana in three months while staying at Pavala Cetiya in Vesali.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "This event is known as the Relinquishing of Life Duration (ปลงอายุสังขาร) at Pavala Cetiya.",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Buddha's Life - Last Disciple",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "Subhadda was the first monk ordained by the Buddha at Sarnath Deer Park.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Kondanna was the first monk ordained at Sarnath. Subhadda was the last disciple (ปัจฉิมสาวก) ordained at Kusinara.",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Buddha's Relics",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "Dona Brahmin divided the Buddha's holy relics into eight equal portions to prevent armed conflict among regional kings.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Dona Brahmin mediated peacefully and distributed the relics into eight equal shares for stupa construction.",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Jataka Stories",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "The main moral lesson of the Dhiti Kosala Jataka is that vengeance and violence should be pursued until all enemies are destroyed.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "The core lesson of Dhiti Kosala Jataka is that hatred is overcome by non-hatred and forgiveness, not by revenge.",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Sabbadathi Jataka",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Medium",
+      "question": "In the Sabbadathi Jataka, the jackal's downfall was caused by his excessive arrogance and intoxication with magical power.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "The jackal became prideful and drunk with power, causing his own destruction.",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Exemplary Buddhists",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "Phra Sasana Sophon (Euan Chintatto) dedicated his life to promoting Buddhist scripture study and youth moral education.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "He was a distinguished Thai monk who advanced religious education and moral development.",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Holy Pilgrimage Sites",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Easy",
+      "question": "The place where the Buddha attained Parinibbana is located at Sarnath Deer Park.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Parinibbana occurred at Kusinara. Sarnath is the site of the First Sermon (ตรัสรู้ at Bodh Gaya, ประสูติ at Lumbini).",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Historical Method Steps",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "The first step of the 5-step Historical Method is writing the final research report.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "The first step is formulating the research topic (กำหนดหัวข้อ). Writing the final report is step 5.",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Historical Method - Evidence Collection",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "Gathering primary documents, inscriptions, and artifacts takes place in Step 2 of the Historical Method.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Step 2 is evidence collection (การรวบรวมหลักฐาน).",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Historical Criticism",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "External Criticism evaluates whether a historical document or artifact is physically authentic and genuine.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "External criticism examines physical materials, age, writing style, and physical authenticity.",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Historical Criticism",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Internal Criticism focuses on checking the physical stone material of an ancient inscription.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Checking physical stone material is External Criticism. Internal criticism analyzes the author's credibility, content accuracy, and personal bias.",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Primary Historical Sources",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "A modern school textbook written in 2025 is classified as a Primary Source for ancient Sukhothai history.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Modern textbooks analyzing past eras are Secondary Sources. Primary sources were created during the historical era itself.",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Primary Source Examples",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "King Ramkhamhaeng's Stone Inscription No. 1 is a primary historical source for Sukhothai historical research.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "It is an original contemporary inscription produced during the Sukhothai kingdom.",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Secondary Sources",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Secondary sources are historical accounts compiled and analyzed after the event by researchers who did not witness the event directly.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Secondary sources interpret and synthesize primary data long after the event occurred.",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Historical Artifacts",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Easy",
+      "question": "Ban Chiang painted pottery and bronze tools excavated from ancient burial mounds are unwritten primary artifacts.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Prehistoric physical objects made in ancient times are primary non-written archaeological artifacts.",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Chronicles (พงศาวดาร)",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Royal Chronicles focus primarily on recording ordinary village recipes and international sports events.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Royal Chronicles (พงศาวดาร) record royal monarchies, state wars, political decrees, and dynastic affairs.",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Historical Objectivity",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Medium",
+      "question": "Historians should rely on a single historical document without cross-checking other sources to ensure speed.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Historians must cross-reference multiple independent sources to detect bias and uncover objective historical truth.",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Thailand's Neighbors - Myanmar Capital",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "Naypyidaw is the current official capital city of Myanmar.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Naypyidaw became the official administrative capital of Myanmar in 2005.",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Thailand's Neighbors - Laos History",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "The ancient Lan Xang Kingdom is recognized as the historical predecessor of modern Laos.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Lan Xang (Kingdom of a Million Elephants) formed the historical foundations of Laos.",
+      "points": 1
+    },
+    {
+      "id": 81,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Thailand's Neighbors - Cambodia",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "Angkor Wat is a famous ancient stone temple complex located in Myanmar.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Angkor Wat is located in Siem Reap, Cambodia.",
+      "points": 1
+    },
+    {
+      "id": 82,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Thailand's Neighbors - Malaysia Religion",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "Islam is the official state religion of Malaysia.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Islam holds official constitutional status as the state religion of Malaysia.",
+      "points": 1
+    },
+    {
+      "id": 83,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Government Systems",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Medium",
+      "question": "Thailand, Cambodia, and Malaysia all operate under Constitutional Monarchy systems with Kings as Heads of State.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "All three nations have constitutional monarchies, though Malaysia utilizes a rotational monarchy system among royal sultans.",
+      "points": 1
+    },
+    {
+      "id": 84,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Government Systems - Republic",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Medium",
+      "question": "Singapore and the Philippines operate as Constitutional Monarchies with hereditary kings.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Both Singapore and the Philippines are Republics with elected Presidents as Heads of State.",
+      "points": 1
+    },
+    {
+      "id": 85,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Government Systems - Socialist State",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Medium",
+      "question": "Laos and Vietnam are single-party Socialist / Communist Republics.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "Both Laos (สปป. ลาว) and Vietnam (สาธารณรัฐสังคมนิยมเวียดนาม) are socialist republics.",
+      "points": 1
+    },
+    {
+      "id": 86,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "Geography of Thailand's Neighbors",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Easy",
+      "question": "Thailand shares a direct physical land border with Vietnam.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "Thailand does not share a direct land border with Vietnam. Vietnam is separated from Thailand by Laos and Cambodia.",
+      "points": 1
+    },
+    {
+      "id": 87,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ASEAN Founding",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Easy",
+      "question": "ASEAN was founded in Bangkok, Thailand, in 1967 by the Bangkok Declaration.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "The Bangkok Declaration was signed on August 8, 1967, at Saranrom Palace in Bangkok.",
+      "points": 1
+    },
+    {
+      "id": 88,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ASEAN Member Count",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Easy",
+      "question": "There are currently 10 member countries in ASEAN.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "ASEAN comprises 10 Southeast Asian member states.",
+      "points": 1
+    },
+    {
+      "id": 89,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ASEAN Emblem",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Medium",
+      "question": "The 10 golden paddy stalks on the ASEAN flag represent the 10 major European trading partners.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "False",
+      "explanation": "The 10 golden paddy stalks represent the 10 Southeast Asian member countries bound in solidarity.",
+      "points": 1
+    },
+    {
+      "id": 90,
+      "section": "TF",
+      "sectionName": "Section B: True / False",
+      "topic": "ASEAN Community Pillars",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Medium",
+      "question": "The ASEAN Economic Community (AEC) aims to create a single market and production base for free flow of goods and services.",
+      "options": {
+        "True": "True",
+        "False": "False"
+      },
+      "correctAnswer": "True",
+      "explanation": "The AEC pillar promotes regional market integration, trade expansion, and free movement of skilled labor.",
+      "points": 1
+    },
+    {
+      "id": 91,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Applying Historical Method - Step 1 & 2",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Hard",
+      "scenario": "Napa wants to study why her local riverside town in Ayutthaya experienced major flooding 200 years ago during the reign of King Rama III. She begins by visiting local old temples to look for palm-leaf manuscripts and interviewing temple abbots.",
+      "question": "Which steps of the 5-step Historical Method is Napa executing, and what should be her next step?",
+      "correctAnswer": "Napa has completed Step 1 (Defining the research topic: flooding 200 years ago in Ayutthaya) and is currently executing Step 2 (Gathering primary evidence: searching palm-leaf records and conducting oral history interviews). Her immediate next step must be Step 3: Source Criticism (evaluating the authenticity, physical condition, author credibility, and factual accuracy of the gathered manuscripts and oral statements).",
+      "explanation": "The Historical Method requires systematic progression: Topic Definition -> Evidence Collection -> Source Criticism -> Interpretation -> Synthesis.",
+      "points": 2
+    },
+    {
+      "id": 92,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Source Criticism Application",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Hard",
+      "scenario": "A researcher finds two historical documents describing a 17th-century battle: Document A (written by a court scribe of the winning king claiming 100,000 enemy casualties without friendly losses) and Document B (a merchant's logbook from a neutral foreign ship anchored in the bay reporting modest skirmishes).",
+      "question": "How should the researcher apply Internal Criticism to evaluate these conflicting accounts?",
+      "correctAnswer": "The researcher should apply Internal Criticism to identify author bias. Document A contains obvious court propaganda bias (exaggerating enemy deaths and hiding own losses to flatter the king). Document B, written by an independent neutral observer with no political stake, is likely more objective regarding battle scale. The researcher must cross-reference both accounts with physical site evidence rather than taking Document A at face value.",
+      "explanation": "Internal criticism examines author motivation, political bias, and credibility to extract objective historical facts.",
+      "points": 2
+    },
+    {
+      "id": 93,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Primary vs. Secondary Source Evaluation",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Hard",
+      "scenario": "Student Krai is writing a report on King Chulalongkorn's abolition of slavery in Thailand. He uses two sources: Source 1 (The original Royal Gazette decree published in 1905 C.E.) and Source 2 (A history website article published in 2024 by an unverified blogger).",
+      "question": "Categorize these sources into Primary vs Secondary and evaluate which provides greater historical authority.",
+      "correctAnswer": "Source 1 (Royal Gazette 1905) is a Primary Source created directly during the historical event by the royal government, carrying authoritative legal and factual evidence. Source 2 (2024 blog article) is a Secondary Source of unverified quality. Krai must rely on Source 1 as his primary authority while double-checking Source 2 against peer-reviewed academic history books.",
+      "explanation": "Primary contemporary legal documents provide direct historical authority, whereas unverified internet blogs require strict verification.",
+      "points": 2
+    },
+    {
+      "id": 94,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Jataka Moral Application in Conflict Resolution",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Hard",
+      "scenario": "Two students, Anan and Chai, get into a physical fight during football practice. Anan vows to ambush Chai after school with a stick to get revenge. Their teacher tells them the story of Prince Dhighavu from the Dhiti Kosala Jataka.",
+      "question": "How should Anan reflect upon the Dhiti Kosala Jataka to resolve this conflict peacefully?",
+      "correctAnswer": "Anan should reflect on King Dhighiti's dying words: 'Hatred ceases not by hatred, but by forgiveness.' In the Jataka, Prince Dhighavu spared his enemy King Brahmadatta, ending generations of blood feuds and bringing peace. Anan should put away his weapon, apologize for his anger, and talk to Chai to resolve their misunderstanding through non-violence.",
+      "explanation": "The Dhiti Kosala Jataka teaches that breaking the cycle of revenge through forgiveness brings lasting peace.",
+      "points": 2
+    },
+    {
+      "id": 95,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Buddha's Life - Holy Relics Mediation",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Hard",
+      "scenario": "After the Buddha's Parinibbana in Kusinara, seven powerful neighboring kings marched their armies to Kusinara, threatening full-scale war to claim the Buddha's sacred cremation relics. Dona Brahmin stepped forward with a golden vessel.",
+      "question": "Analyze Dona Brahmin's action and explain how his intervention preserved Buddhist peace.",
+      "correctAnswer": "Dona Brahmin delivered a diplomatic sermon reminding the kings that the Buddha taught peace and non-violence, making it disgraceful to wage war over his sacred remains. He proposed dividing the relics into eight equal portions for each kingdom to build stupas. The kings agreed, avoiding a bloody war and spreading the relics across ancient India.",
+      "explanation": "Dona Brahmin's diplomatic intervention prevented military conflict and ensured widespread veneration of sacred relics.",
+      "points": 2
+    },
+    {
+      "id": 96,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Buddhism as National Identity & Heritage",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Hard",
+      "scenario": "Foreign tourists visiting Bangkok notice that Thai people greet each other with a gentle 'Wai', show high respect to elders, donate food to morning monks, and build beautiful temple murals depicting historical stories.",
+      "question": "Explain how Buddhism forms the underlying foundation of these Thai cultural characteristics.",
+      "correctAnswer": "Buddhism emphasizes moral values such as Metta (loving-kindness), Karuna (compassion), respect for elders, and generosity (Dana). Morning alms-giving reflects Buddhist merit-making, while temple murals and architecture preserve historical artistic craftsmanship. These Buddhist-inspired traits create Thailand's unique cultural identity ('Siam, Land of Smiles').",
+      "explanation": "Thai social etiquette, hospitality, art, and moral traditions are deeply rooted in centuries of Buddhist teachings.",
+      "points": 2
+    },
+    {
+      "id": 97,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Neighboring Country Analysis - Myanmar Transition",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Hard",
+      "scenario": "A group of Thai traders wants to expand business into Myanmar. They analyze Myanmar's capital city, government structure, main economic resources, and cultural traditions.",
+      "question": "Summarize the key geographical, political, and economic facts about Myanmar for the traders.",
+      "correctAnswer": "1. Capital: Naypyidaw (administrative capital; Yangon is the main commercial port). 2. Governance: Republic system with a President. 3. Economy & Resources: Rich in natural gas, teak timber, gems, and jade; growing trade with Thailand and China. 4. Culture: Predominantly Theravada Buddhist (e.g. Shwedagon Pagoda) with high respect for religious customs.",
+      "explanation": "Myanmar is a resource-rich neighboring republic with deep Buddhist heritage and strong trade links with Thailand.",
+      "points": 2
+    },
+    {
+      "id": 98,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Neighboring Country Analysis - Laos Development",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Hard",
+      "scenario": "Thailand imports substantial hydroelectric electricity from Laos, which is known as the 'Battery of Southeast Asia'.",
+      "question": "Analyze the historical background, geography, government system, and economic development of Laos.",
+      "correctAnswer": "1. History: Formerly the ancient Lan Xang Kingdom (ล้านช้าง). 2. Geography: Landlocked country with Mekong River flowing along Thai-Lao borders. 3. Government: Single-party Socialist / Communist Republic (สปป. ลาว) headed by a President. 4. Economy: Hydropower energy exports, mining, agricultural produce, and eco-tourism.",
+      "explanation": "Laos is a landlocked socialist republic with rich Lan Xang heritage and major hydropower trade with Thailand.",
+      "points": 2
+    },
+    {
+      "id": 99,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Neighboring Country Analysis - Malaysia Diversity",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Hard",
+      "scenario": "Malaysia is a multicultural nation bordering southern Thailand. A Thai student notices that Malaysia has Malay, Chinese, and Indian populations living together under a federal constitutional monarchy.",
+      "question": "Describe the political, religious, and economic characteristics of Malaysia.",
+      "correctAnswer": "1. Governance: Federal Constitutional Monarchy with a rotational Head of State (Yang di-Pertuan Agong) elected among hereditary state sultans. 2. Religion & Demographics: Islam is the official state religion; population includes Malays, Chinese, and Indians. 3. Economy: High economic stability, major exporter of palm oil, rubber, petroleum, and electronics.",
+      "explanation": "Malaysia is a stable, multi-ethnic constitutional monarchy with strong industrial, agricultural, and commercial sectors.",
+      "points": 2
+    },
+    {
+      "id": 100,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Government System Comparison - Regional ASEAN",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Hard",
+      "scenario": "A political science student compares government systems across three ASEAN countries: Country X (King as Head of State under Constitution), Country Y (Elected President in a Republic), and Country Z (Socialist One-Party State).",
+      "question": "Match Thailand, Myanmar, and Vietnam to Countries X, Y, and Z, and justify your classification.",
+      "correctAnswer": "1. Country X = Thailand: Constitutional Monarchy with King as Head of State under constitution. 2. Country Y = Myanmar: Republic system headed by a President. 3. Country Z = Vietnam: Socialist / Communist Republic governed by a single-party state.",
+      "explanation": "Southeast Asian nations utilize diverse governance models including Constitutional Monarchies, Republics, and Socialist States.",
+      "points": 2
+    },
+    {
+      "id": 101,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "ASEAN Community Pillars Integration",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Hard",
+      "scenario": "A Thai engineering student plans to work in Singapore after graduation under ASEAN professional mobility agreements, while a Thai fruit farmer exports durian to Malaysia tax-free under regional tariff reductions.",
+      "question": "Identify which ASEAN Community Pillar enables these activities and explain its economic goal.",
+      "correctAnswer": "These activities are enabled by the ASEAN Economic Community (AEC) pillar. The AEC aims to establish a single market and production base across the 10 member states, facilitating zero-tariff regional trade in goods, investment flows, and mutual recognition agreements for skilled professionals.",
+      "explanation": "The AEC pillar promotes regional economic integration, market expansion, and mobility of goods, capital, and skilled labor.",
+      "points": 2
+    },
+    {
+      "id": 102,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "ASEAN Founding & Geopolitical Role",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Hard",
+      "scenario": "In 1967, five Southeast Asian foreign ministers gathered at Saranrom Palace in Bangkok during cold war tensions to sign the Bangkok Declaration.",
+      "question": "Why was ASEAN formed, who were the 5 original founding members, and what is its official motto?",
+      "correctAnswer": "1. Purpose: Formed to promote regional peace, political stability, economic growth, and cultural cooperation. 2. 5 Founding Members: Thailand, Indonesia, Malaysia, Philippines, and Singapore. 3. Official Motto: 'One Vision, One Identity, One Community'.",
+      "explanation": "ASEAN was established in Bangkok in 1967 by 5 founding states to foster regional security, economic development, and unity.",
+      "points": 2
+    },
+    {
+      "id": 103,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Evaluating Historical Distortion & Myths",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Hard",
+      "scenario": "A social media video claims that ancient Thai soldiers used laser weapons 1,000 years ago, citing a blurry self-made drawing as proof.",
+      "question": "How can a Grade 6 student apply the 5-step Historical Method to debunk this false claim?",
+      "correctAnswer": "1. Topic: Investigate ancient Thai military technology. 2. Evidence: Gather authentic primary artifacts (ancient bronze swords, iron spears, stone inscriptions, contemporary foreign logs). 3. Source Criticism: Apply external/internal criticism to the video drawing—it lacks historical material proof, carbon dating, or primary record validation. 4. Interpretation & Synthesis: Conclude scientifically that laser claims are unhistorical internet hoaxes.",
+      "explanation": "Rigorous source evaluation under the Historical Method protects students against historical disinformation and hoaxes.",
+      "points": 2
+    },
+    {
+      "id": 104,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Buddha's Life - 4 Holy Pilgrimage Sites (สังเวชนียสถาน 4)",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Hard",
+      "scenario": "A Thai Buddhist pilgrim travels to India and Nepal to visit the four major sacred sites commemorating key events in the Buddha's life.",
+      "question": "List the four holy pilgrimage locations (สังเวชนียสถาน 4) and match each to its corresponding life event.",
+      "correctAnswer": "1. Lumbini (Nepal): Site of Prince Siddhattha's Birth (ประสูติ). 2. Bodh Gaya (India): Site of Supreme Enlightenment under the Bodhi tree (ตรัสรู้). 3. Sarnath Deer Park (India): Site of First Sermon / Dhamma Wheel (ปฐมเทศนา). 4. Kusinara (India): Site of Parinibbana under the dual Sala trees (ปรินิพพาน).",
+      "explanation": "The 4 holy pilgrimage sites represent the four principal monumental milestones in the life of the Buddha.",
+      "points": 2
+    },
+    {
+      "id": 105,
+      "section": "Scenario",
+      "sectionName": "Section C: Scenario-Based",
+      "topic": "Cultural Preservation & Regional Unity",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Hard",
+      "scenario": "A school organizes an 'ASEAN Cultural Day' where students showcase traditional national costumes, traditional foods (e.g. Nasi Lemak, Amok, Tom Yum), and shared historical ties.",
+      "question": "Why is understanding neighboring ASEAN history and cultural diversity important for Thai youth?",
+      "correctAnswer": "Understanding neighboring histories fosters mutual respect, eliminates historic nationalistic prejudices, builds peaceful regional coexistence, and prepares youth to thrive actively within the ASEAN Socio-Cultural Community (ASCC).",
+      "explanation": "Cultural education builds regional harmony, empathy, and constructive cooperation among ASEAN member nations.",
+      "points": 2
+    },
+    {
+      "id": 106,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Importance of Buddhism in Thai History",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Hard",
+      "question": "Explain three distinct ways Buddhism has served as a foundational pillar of Thai national identity and culture throughout history.",
+      "correctAnswer": "1. Identity & Ethics: Buddhist moral principles (e.g. Metta, Karuna, Five Precepts) shaped Thai social manners, hospitality ('Land of Smiles'), and ethical standards. 2. Cultural & Artistic Heritage: Faith inspired national architecture (temples, stupas), fine arts (mural paintings, Buddha statues), and classical literature (Traibhumikatha). 3. Social & Educational Center: Historically, Buddhist temples (วัด) served as community education centers, healthcare hubs, and social gathering places.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 107,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Buddha's Life - Parinibbana Milestones",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Hard",
+      "question": "Describe the sequence of major events surrounding the Buddha's Parinibbana from Relinquishing Life Duration to Relic Distribution.",
+      "correctAnswer": "1. Relinquishing Life (ปลงอายุสังขาร): At Pavala Cetiya in Vesali, announcing Parinibbana in 3 months. 2. Last Disciple (ปัจฉิมสาวก): Ordaining Subhadda at Kusinara. 3. Parinibbana (ปรินิพพาน): Passing away between dual Sala trees at Kusinara. 4. Royal Cremation (ถวายพระเพลิง): At Makutabandhana Cetiya. 5. Relic Distribution (แจกพระบรมสารีริกธาตุ): Dona Brahmin mediated among eight royal kingdoms to distribute relics into eight stupas peacefully.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 108,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Moral Lessons of Jataka Stories",
+      "learningObjective": "LO-HIS1",
+      "difficulty": "Hard",
+      "question": "Summarize the story and moral lesson of Dhiti Kosala Jataka (ทีฆีติโกสลชาดก) and explain its relevance to modern society.",
+      "correctAnswer": "In Dhiti Kosala Jataka, King Dhighiti was executed by King Brahmadatta. Dhighiti's son, Prince Dhighavu, gained an opportunity to kill Brahmadatta in revenge but chose to spare his life, honoring his father's final words: 'Hatred is not ended by hatred, but by forgiveness.' Moved by this mercy, Brahmadatta restored Dhighavu's kingdom. The story teaches modern society that non-violence and forgiveness end destructive cycles of revenge.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 109,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Five Steps of the Historical Method",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Hard",
+      "question": "List the 5 steps of the Historical Method (วิธีการทางประวัติศาสตร์) in correct chronological order and briefly explain the task performed in each step.",
+      "correctAnswer": "1. Formulating the Topic (กำหนดหัวข้อ): Defining the research question or historical boundary. 2. Evidence Gathering (รวบรวมหลักฐาน): Collecting relevant primary and secondary sources. 3. Source Criticism (ประเมินคุณค่าหลักฐาน): Evaluating external authenticity and internal credibility. 4. Data Interpretation (ตีความและวิเคราะห์ข้อมูล): Analyzing verified facts objectively to determine cause-and-effect. 5. Synthesis & Presentation (เรียบเรียงและนำเสนอ): Structuring analyzed findings into a coherent historical report.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 110,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Primary vs. Secondary Historical Evidence",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Hard",
+      "question": "Define Primary Sources and Secondary Sources in historical research, and provide two concrete examples of each type from Thai history.",
+      "correctAnswer": "1. Primary Sources (หลักฐานชั้นต้น): Contemporary evidence created during the actual historical period by eye-witnesses or participants. Examples: King Ramkhamhaeng Stone Inscription No. 1, Ayutthaya Royal Chronicles (ใบลาน/จดหมายเหตุ), Ban Chiang bronze pottery. 2. Secondary Sources (หลักฐานชั้นรอง): Accounts, textbooks, or analyses written after the event by researchers analyzing primary data. Examples: Modern Grade 6 history textbooks, academic research journal articles written by modern historians.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 111,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "External Criticism vs. Internal Criticism",
+      "learningObjective": "LO-HIS2",
+      "difficulty": "Hard",
+      "question": "Explain the key differences between External Criticism and Internal Criticism in Step 3 of the Historical Method.",
+      "correctAnswer": "External Criticism (วิพากษ์ภายนอก) evaluates the physical authenticity and material origin of historical evidence (e.g. testing stone age, ink chemistry, manuscript paper, handwriting style, to ensure it is not a modern physical forgery). Internal Criticism (วิพากษ์ภายใน) evaluates the content credibility and truthfulness of the written text itself (e.g. analyzing author motives, personal bias, exaggeration, or political propaganda to determine factual accuracy).",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 112,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Thailand's Neighboring Countries Overview",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Hard",
+      "question": "Provide the official capital city, primary religion, and historical background for Thailand's neighboring countries: Myanmar, Laos, and Malaysia.",
+      "correctAnswer": "1. Myanmar: Capital = Naypyidaw; Primary Religion = Theravada Buddhism; History = Rich empire history (Bagan, Konbaung), former British colony, resource-rich republic. 2. Laos: Capital = Vientiane; Primary Religion = Theravada Buddhism; History = Ancient Lan Xang Kingdom (ล้านช้าง), former French colony, landlocked socialist republic. 3. Malaysia: Capital = Kuala Lumpur; Official Religion = Islam; History = Maritime trading crossroads, former British colony, multicultural federal constitutional monarchy.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 113,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Regional Governance Systems Comparison",
+      "learningObjective": "LO-HIS3",
+      "difficulty": "Hard",
+      "question": "Compare the three main types of government systems found in Southeast Asian nations, naming at least one country example for each system.",
+      "correctAnswer": "1. Constitutional Monarchy: Head of State is a King operating under constitutional law. Examples: Thailand, Cambodia, Malaysia (rotational monarchy). 2. Republic: Head of State is an elected President. Examples: Myanmar, Singapore, Indonesia, Philippines. 3. Socialist / Communist Republic: Governed under single-party socialist leadership with a President. Examples: Laos (สปป. ลาว), Vietnam.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 114,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "History and Founding of ASEAN",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Hard",
+      "question": "Explain the founding background of ASEAN, listing its founding date, founding location, 5 original member states, and official motto.",
+      "correctAnswer": "1. Founding Date & Location: August 8, 1967, established by the Bangkok Declaration signed at Saranrom Palace in Bangkok, Thailand. 2. 5 Original Member States: Thailand, Indonesia, Malaysia, Philippines, and Singapore. 3. Official Motto: 'One Vision, One Identity, One Community'. 4. Core Purpose: To promote regional peace, political stability, economic growth, and social-cultural integration.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    },
+    {
+      "id": 115,
+      "section": "ShortAnswer",
+      "sectionName": "Section D: Short Answer",
+      "topic": "Three Pillars of the ASEAN Community",
+      "learningObjective": "LO-HIS4",
+      "difficulty": "Hard",
+      "question": "Name and describe the core objectives of the three community pillars comprising the integrated ASEAN Community.",
+      "correctAnswer": "1. ASEAN Political-Security Community (APSC): Ensures regional peace, political stability, conflict resolution, and non-violence among member states. 2. ASEAN Economic Community (AEC): Creates a single market and production base with free flow of goods, services, investment, and skilled labor. 3. ASEAN Socio-Cultural Community (ASCC): Promotes human development, social welfare, environmental protection, and shared cultural identity among ASEAN peoples.",
+      "explanation": "Evaluation based on grammatical correctness, clarity, and completeness of explanation.",
+      "points": 3
+    }
+  ]
+}

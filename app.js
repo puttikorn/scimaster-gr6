@@ -34,7 +34,8 @@ function getStorageKeys() {
                   : state.currentSubject === 'phonics' ? 'phonics_gr6'
                     : state.currentSubject === 'reading_writing' ? 'reading_writing_gr6'
                       : state.currentSubject === 'social' ? 'social_gr6'
-                        : 'scimaster_gr6';
+                        : state.currentSubject === 'history' ? 'history_gr6'
+                          : 'scimaster_gr6';
   return {
     STORAGE_KEY: `${prefix}_exam_state_v1`,
     RESULT_KEY: `${prefix}_exam_result_v1`
@@ -58,6 +59,7 @@ const subGrammarBtn = document.getElementById('subGrammarBtn');
 const subPhonicsBtn = document.getElementById('subPhonicsBtn');
 const subReadingWritingBtn = document.getElementById('subReadingWritingBtn');
 const subSocialBtn = document.getElementById('subSocialBtn');
+const subHistoryBtn = document.getElementById('subHistoryBtn');
 
 const qSectionBadge = document.getElementById('qSectionBadge');
 const qTopicBadge = document.getElementById('qTopicBadge');
@@ -111,7 +113,8 @@ async function init() {
                   : state.currentSubject === 'phonics' ? 'quiz_phonics_data.json'
                     : state.currentSubject === 'reading_writing' ? 'quiz_reading_writing_data.json'
                       : state.currentSubject === 'social' ? 'quiz_social_data.json'
-                        : 'quiz_data.json';
+                        : state.currentSubject === 'history' ? 'quiz_history_data.json'
+                          : 'quiz_data.json';
 
   try {
     const res = await fetch(dataFile);
@@ -175,8 +178,8 @@ function switchSubject(newSubject) {
 
 function updateSubjectThemeUI() {
   // Remove active from all pills first
-  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn, subChineseBtn, subEngBtn, subMathEnBtn, subSciEnBtn, subGrammarBtn, subPhonicsBtn, subReadingWritingBtn, subSocialBtn].forEach(btn => {
-    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme', 'chinese-theme', 'english-theme', 'math-en-theme', 'sci-en-theme', 'grammar-theme', 'phonics-theme', 'reading-writing-theme', 'social-theme');
+  [subSciBtn, subMathBtn, subThaiBtn, subProgBtn, subChineseBtn, subEngBtn, subMathEnBtn, subSciEnBtn, subGrammarBtn, subPhonicsBtn, subReadingWritingBtn, subSocialBtn, subHistoryBtn].forEach(btn => {
+    if (btn) btn.classList.remove('active', 'math-theme', 'thai-theme', 'programming-theme', 'chinese-theme', 'english-theme', 'math-en-theme', 'sci-en-theme', 'grammar-theme', 'phonics-theme', 'reading-writing-theme', 'social-theme', 'history-theme');
   });
 
   if (state.currentSubject === 'math') {
@@ -245,6 +248,12 @@ function updateSubjectThemeUI() {
     if (brandIcon) brandIcon.className = 'fa-solid fa-earth-asia pulse-icon';
     if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้สังคมศึกษา ป.6';
     document.title = 'SocialMaster Gr.6 - ข้อสอบประเมินผลสังคมศึกษา ป.6 ฉบับออนไลน์';
+  } else if (state.currentSubject === 'history') {
+    if (subHistoryBtn) { subHistoryBtn.classList.add('active', 'history-theme'); }
+    if (brandTitle) brandTitle.innerText = 'HISTORYMASTER GR.6';
+    if (brandIcon) brandIcon.className = 'fa-solid fa-landmark pulse-icon';
+    if (portalTitle) portalTitle.innerText = 'ระบบทดสอบวัดผลการเรียนรู้ประวัติศาสตร์ ป.6';
+    document.title = 'HistoryMaster Gr.6 - ข้อสอบประเมินผลประวัติศาสตร์ ป.6 ฉบับออนไลน์';
   } else {
     if (subSciBtn) { subSciBtn.classList.add('active'); }
     if (brandTitle) brandTitle.innerText = 'SCIMASTER GR.6';
@@ -658,6 +667,9 @@ function setupEventListeners() {
   }
   if (subSocialBtn) {
     subSocialBtn.addEventListener('click', () => switchSubject('social'));
+  }
+  if (subHistoryBtn) {
+    subHistoryBtn.addEventListener('click', () => switchSubject('history'));
   }
 
   // Navigation Buttons
