@@ -265,13 +265,7 @@ function updateSubjectThemeUI() {
   // Toggle Switch โหมดฝึกฝน (เฉลยทันที)
   const modeToggleGroup = document.querySelector('.mode-toggle-group');
   if (modeToggleGroup) {
-    if (state.currentSubject === 'thai') {
-      modeToggleGroup.style.display = 'flex';
-    } else {
-      modeToggleGroup.style.display = 'none';
-      state.practiceMode = false;
-      if (practiceModeToggle) practiceModeToggle.checked = false;
-    }
+    modeToggleGroup.style.display = 'flex';
   }
 }
 
@@ -342,7 +336,7 @@ function loadSavedState() {
     state.userAnswers = parsed.userAnswers || {};
     state.bookmarks = new Set(parsed.bookmarks || []);
     state.currentIndex = parsed.currentIndex || 0;
-    state.practiceMode = state.currentSubject === 'thai' ? (parsed.practiceMode || false) : false;
+    state.practiceMode = parsed.practiceMode || false;
     state.timeSpentSeconds = parsed.timeSpentSeconds || 0;
     state.isSubmitted = parsed.isSubmitted || false;
 
