@@ -1,4 +1,4 @@
-# Knowledge Assessment Quiz: History Grade 6 (ประวัติศาสตร์ ป.6 - MidFinal)
+# Knowledge Assessment Quiz: ประวัติศาสตร์และพระพุทธศาสนา ชั้น ป.6 (ประวัติศาสตร์ ป.6 - MidFinal)
 
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  QUIZ DATA — SciMaster Gr.6 Platform (History / ประวัติศาสตร์)        ║
@@ -13,25 +13,25 @@
 ### 1. หน่วยการเรียนรู้ที่ 1: พระพุทธศาสนาและประวัติศาสดา (Buddhism, Buddha's Life & Jataka Stories)
 * **ความสำคัญของพระพุทธศาสนา**: พระพุทธศาสนาในฐานะเอกลักษณ์ของชาติไทย รากฐานและมรดกทางวัฒนธรรม สถาบันหลักศูนย์รวมจิตใจ และหลักในการพัฒนาชาติ
 * **พุทธประวัติ**: เหตุการณ์ปลงอายุสังขาร ณ ปาวาลเจดีย์, ปัจฉิมสาวก (พระสุภัททะ), ปรินิพพาน ณ สาลวโนทยาน เมืองกุสินารา, การถวายพระเพลิง, การแจกพระบรมสารีริกธาตุโดยโทณพราหมณ์, และสังเวชนียสถาน 4 แห่ง
-* **ชาดกและศาสนิกชนตัวอย่าง**: ทีฆีติโกสลชาดก (การไม่จองเวรเป็นคุณธรรมสูงสุด), สัพพทาฐิชาดก (การไม่ลุ่มหลงในอำนาจ), พระสาสนโสภณ (เอื้อน ชินทัตโต) และอาจารย์เสถียร พงศทะสิทธิ์
+* **ชาดกและศาสนิกชนตัวอย่าง**: ทีฆีติโกสลชาดก (การไม่จองเวรเป็นคุณธรรมสูงสุด), สัพพทาฐิชาดก (การไม่ลุ่มหลงในอำนาจและความโลภ), พระสาสนโสภณ (เอื้อน ชินทัตโต) และอาจารย์เสถียร พงศทะสิทธิ์
 
 ### 2. หน่วยการเรียนรู้ที่ 2: วิธีการทางประวัติศาสตร์และหลักฐานทางประวัติศาสตร์ (Historical Method & Evidence)
 * **ขั้นตอนของวิธีการทางประวัติศาสตร์ 5 ขั้น**: 1. กำหนดหัวข้อ 2. รวบรวมหลักฐาน 3. ประเมินคุณค่าหลักฐาน (วิพากษ์ภายนอก/ภายใน) 4. ตีความและวิเคราะห์ข้อมูล 5. เรียบเรียงและนำเสนอ
-* **ประเภทของหลักฐานทางประวัติศาสตร์**: หลักฐานชั้นต้น (ปฐมภูมิ: ศิลาจารึก, พงศาวดาร, โบราณวัตถุ) vs หลักฐานชั้นรอง (ทุติยภูมิ: ตำราเรียน, งานวิจัยประวัติศาสตร์)
+* **ประเภทของหลักฐานทางประวัติศาสตร์**: หลักฐานชั้นต้น (ปฐมภูมิ: ศิลาจารึก, พงศาวดาร, โบราณวัตถุ, บันทึกจดหมายเหตุ) vs หลักฐานชั้นรอง (ทุติยภูมิ: ตำราเรียน, งานวิจัยประวัติศาสตร์, สารคดี)
 
 ### 3. หน่วยการเรียนรู้ที่ 3: ประเทศเพื่อนบ้านและภูมิภาคเอเชียตะวันออกเฉียงใต้ (Thailand's Neighbors & Regional History)
-* **พัฒนาการของประเทศเพื่อนบ้าน**: เมียนมา (พม่า), ลาว (อาณาจักรล้านช้าง), กัมพูชา (อาณาจักรขอม), มาเลเซีย, เวียดนาม
+* **พัฒนาการของประเทศเพื่อนบ้าน**: เมียนมา (พม่า), ลาว (อาณาจักรล้านช้าง), กัมพูชา (อาณาจักรขอม), มาเลเซีย, เวียดนาม, สิงคโปร์, อินโดนีเซีย
 * **ระบบการเมืองและการปกครอง**: การปกครองระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข (ไทย กัมพูชา มาเลเซีย), ระบอบประธานาธิบดี (เมียนมา สิงคโปร์ อินโดนีเซีย ฟิลิปปินส์), และระบอบสังคมนิยมคอมมิวนิสต์ (ลาว เวียดนาม)
-* **ความร่วมมือในภูมิภาค**: ประวัติความเป็นมา ความสำคัญ และบทบาทของสมาคมประชาชาติแห่งเอเชียตะวันออกเฉียงใต้ (ASEAN)
+* **ความร่วมมือในภูมิภาค**: ประวัติความเป็นมา ความสำคัญ และบทบาทของสมาคมประชาชาติแห่งเอเชียตะวันออกเฉียงใต้ (ASEAN) รวม 10 ประเทศสมาชิก
 
 ---
 
 ## Learning Objectives Mapping (แผนผังจุดประสงค์การเรียนรู้)
 
-* **LO-HIS1**: Knowledge & Understanding of Buddhist history, Buddha's life events, Jataka teachings, and exemplary Buddhists.
-* **LO-HIS2**: Application of the 5-step Historical Method and classification of primary/secondary historical evidence.
-* **LO-HIS3**: Analysis of geographical, historical, economic, and political development of Thailand's neighboring countries.
-* **LO-HIS4**: Evaluation & Synthesis of regional ASEAN cooperation, cultural diversity, and constitutional governance systems.
+* **LO-HIS1**: ความรู้ความเข้าใจเกี่ยวกับประวัติศาสตร์พระพุทธศาสนา พุทธประวัติ ชาดก และแบบอย่างคุณธรรมของศาสนิกชนตัวอย่าง
+* **LO-HIS2**: การประยุกต์ใช้วิธีการทางประวัติศาสตร์ 5 ขั้นตอนและการจำแนกหลักฐานชั้นต้นและหลักฐานชั้นรอง
+* **LO-HIS3**: การวิเคราะห์พัฒนาการทางประวัติศาสตร์ ภูมิศาสตร์ เศรษฐกิจ และการเมืองการปกครองของประเทศเพื่อนบ้าน
+* **LO-HIS4**: การประเมินและสังเคราะห์ความร่วมมือในภูมิภาคอาเซียน (ASEAN) ความหลากหลายทางวัฒนธรรม และระบอบการปกครอง
 
 ---
 
@@ -49,1075 +49,1176 @@
 ---
 
 # Section A: Multiple Choice Questions (ปรนัย 4 ตัวเลือก)
+
+# Section A: Multiple Choice Questions (ปรนัย 4 ตัวเลือก)
+
 #### ข้อ 1
-* **Topic**: Importance of Buddhism
+* **Topic**: ความสำคัญของพระพุทธศาสนา
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Easy
-* **Prompt**: Why is Buddhism considered an identity of the Thai nation?
-* ก. Because all citizens are legally forced to become Buddhist monks
-* ข. Because Buddhist moral principles have shaped Thai cultural values, politeness, and hospitality
-* ค. Because Buddhism originated inside the borders of ancient Thailand
-* ง. Because Thai law prohibits all other religions from operating in the country
+* **Prompt**: เพราะเหตุใดพระพุทธศาสนาจึงได้รับยกย่องว่าเป็นเอกลักษณ์และมรดกทางวัฒนธรรมของชาติไทย?
+* ก. เพราะประชาชนทุกคนถูกบังคับตามกฎหมายให้บวชเป็นพระภิกษุ
+* ข. เพราะหลักธรรมคำสอนและประเพณีทางศาสนาหล่อหลอมวิถีชีวิต กิริยาและมารยาทของคนไทยมานานนับศตวรรษ
+* ค. เพราะพระพุทธศาสนากำเนิดขึ้นภายในดินแดนประเทศไทยเป็นแห่งแรกของโลก
+* ง. เพราะกฎหมายไทยห้ามไม่ให้ศาสนาอื่นเข้ามาเผยแผ่ในประเทศ
 * **Correct Answer**: ข
-* **Explanation**: Buddhism has deeply influenced Thai social manners, friendliness ('Land of Smiles'), and cultural ethics over centuries.
+* **Explanation**: พระพุทธศาสนาวางรากฐานทางวัฒนธรรม ภาษา ประเพณี สถาปัตยกรรม และวิถีชีวิตไทยจนเป็นเอกลักษณ์ของชาติ
+
 #### ข้อ 2
-* **Topic**: Buddhism as Cultural Heritage
+* **Topic**: มรดกทางวัฒนธรรม
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Easy
-* **Prompt**: Which architectural site represents Thai Buddhist cultural heritage?
-* ก. Eiffel Tower
-* ข. Wat Phra Kaew (Grand Palace Temple)
-* ค. Parthenon
-* ง. Colosseum
+* **Prompt**: สถานที่หรือสถาปัตยกรรมในข้อใดจัดเป็นมรดกทางวัฒนธรรมอันทรงคุณค่าที่ได้รับอิทธิพลจากพระพุทธศาสนา?
+* ก. หอไอเฟล
+* ข. วัดพระศรีรัตนศาสดาราม (วัดพระแก้ว)
+* ค. วิหารพาร์เธนอน
+* ง. โคลอสเซียม
 * **Correct Answer**: ข
-* **Explanation**: Wat Phra Kaew and traditional Thai temples represent the pinnacle of Thai Buddhist art, architecture, and cultural heritage.
+* **Explanation**: วัดพระแก้วและวัดวาอารามต่าง ๆ ทั่วประเทศไทยเป็นมรดกสถาปัตยกรรมและจิตรกรรมพุทธศิลป์อันงดงามของไทย
+
 #### ข้อ 3
-* **Topic**: Buddha's Life - Relinquishing Life
+* **Topic**: พุทธประวัติ - ปลงอายุสังขาร
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Medium
-* **Prompt**: Where did the Buddha perform the 'Relinquishing of Life Duration' (ปลงอายุสังขาร) three months before Parinibbana?
-* ก. Lumbini Grove
-* ข. Pavala Cetiya in Vesali
-* ค. Sanath Deer Park in Sarnath
-* ง. Bodh Gaya under the Bodhi tree
+* **Prompt**: พระพุทธเจ้าทรงกระทำ 'การปลงอายุสังขาร' ณ สถานที่ใด ก่อนเสด็จดับขันธปรินิพพานเป็นเวลา 3 เดือน?
+* ก. สวนลุมพินีวัน
+* ข. ปาวาลเจดีย์ เมืองเวสาลี
+* ค. ป่าอิสิปตนมฤคทายวัน
+* ง. ใต้ต้นพระศรีมหาโพธิ์ พุทธคยา
 * **Correct Answer**: ข
-* **Explanation**: The Buddha performed the relinquishing of his life duration at Pavala Cetiya in Vesali, announcing he would attain Parinibbana in three months.
+* **Explanation**: พระพุทธองค์ทรงปลงอายุสังขาร ณ ปาวาลเจดีย์ เมืองเวสาลี ในวันเพ็ญเดือน 3 (วันมาฆบูชา) ว่าจะปรินิพพานในอีก 3 เดือน
+
 #### ข้อ 4
-* **Topic**: Buddha's Life - Last Disciple
+* **Topic**: พุทธประวัติ - ปัจฉิมสาวก
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Medium
-* **Prompt**: Who was the last direct disciple (ปัจฉิมสาวก) ordained by the Buddha right before his Parinibbana?
-* ก. Subhadda
-* ข. Ananda
-* ค. Sariputta
-* ง. Moggallana
-* **Correct Answer**: ก
-* **Explanation**: Subhadda the wandering ascetic requested to hear the Buddha's teaching at Kusinara and became his final ordained disciple (ปัจฉิมสาวก).
-#### ข้อ 5
-* **Topic**: Buddha's Life - Parinibbana
-* **Learning Objective**: LO-HIS1
-* **Difficulty**: Easy
-* **Prompt**: In which town did the Buddha attain Parinibbana under the dual Sala trees?
-* ก. Rajagaha
-* ข. Kusinara (Kushinagar)
-* ค. Kapilavastu
-* ง. Varanasi
-* **Correct Answer**: ข
-* **Explanation**: The Buddha attained Parinibbana in the Upavattana Sala Grove of the Mallian royal family at Kusinara.
-#### ข้อ 6
-* **Topic**: Buddha's Life - Holy Relics
-* **Learning Objective**: LO-HIS1
-* **Difficulty**: Medium
-* **Prompt**: Which Brahmin mediated and distributed the Buddha's holy relics (พระบรมสารีริกธาตุ) among eight royal kingdoms after cremation?
-* ก. Asita Devala
-* ข. Kondanna Brahmin
-* ค. Dona Brahmin (โทณพราหมณ์)
-* ง. Anuruddha
+* **Prompt**: สาวกองค์สุดท้ายของพระพุทธเจ้าที่ได้รับการบวชก่อนเสด็จดับขันธปรินิพพาน (ปัจฉิมสาวก) คือใคร?
+* ก. พระอานนท์
+* ข. พระสารีบุตร
+* ค. พระสุภัททปริพาชก
+* ง. พระโมคคัลลานะ
 * **Correct Answer**: ค
-* **Explanation**: Dona Brahmin stepped in to prevent war and fairly distributed the sacred relics into eight equal portions for eight royal stupas.
+* **Explanation**: พระสุภัททปริพาชกได้เข้าเฝ้าฟังธรรมและขอบวช จนได้บรรลุเป็นพระอรหันต์ ถือเป็นปัจฉิมสาวกองค์สุดท้าย
+
+#### ข้อ 5
+* **Topic**: พุทธประวัติ - สถานที่ปรินิพพาน
+* **Learning Objective**: LO-HIS1
+* **Difficulty**: Easy
+* **Prompt**: พระมหาบุรุษเสด็จดับขันธปรินิพพาน ณ สถานที่ใด?
+* ก. สาลวโนทยาน เมืองกุสินารา
+* ข. เชตวันมหาวิหาร เมืองสาวัตถี
+* ค. เวฬุวันมหาวิหาร เมืองราชคฤห์
+* ง. ลุมพินีวัน เมืองกบิลพัสดุ์
+* **Correct Answer**: ก
+* **Explanation**: เสด็จดับขันธปรินิพพานใต้ต้นสาระคู่ ณ สาลวโนทยาน เมืองกุสินารา ในวันเพ็ญเดือน 6 (วันวิสาขบูชา)
+
+#### ข้อ 6
+* **Topic**: พุทธประวัติ - การแจกพระบรมสารีริกธาตุ
+* **Learning Objective**: LO-HIS1
+* **Difficulty**: Medium
+* **Prompt**: ใครคือผู้ทำหน้าที่ไกล่เกลี่ยสงครามแย่งชิงและเป็นประธานแบ่งพระบรมสารีริกธาตุให้แก่กษัตริย์ 8 เมือง?
+* ก. อชาตศัตรู
+* ข. โทณพราหมณ์
+* ค. หมอชีวกโกมารภัจจ์
+* ง. พระอานนท์
+* **Correct Answer**: ข
+* **Explanation**: โทณพราหมณ์ได้กล่าวสุนทรพจน์เตือนสติ และรับหน้าที่แบ่งพระบรมสารีริกธาตุด้วยทะนานทองคำให้แก่มัลลกษัตริย์และกษัตริย์เมืองต่าง ๆ
+
 #### ข้อ 7
-* **Topic**: Holy Pilgrimage Sites
+* **Topic**: สังเวชนียสถาน 4 แห่ง
 * **Learning Objective**: LO-HIS1
-* **Difficulty**: Medium
-* **Prompt**: Which holy site (สังเวชนียสถาน) represents the place where the Buddha attained Enlightenment (ตรัสรู้)?
-* ก. Lumbini (Nepal)
-* ข. Bodh Gaya (India)
-* ค. Sarnath (India)
-* ง. Kusinara (India)
-* **Correct Answer**: ข
-* **Explanation**: Bodh Gaya is the sacred place where Prince Siddhattha attained Supreme Enlightenment under the Bodhi tree.
+* **Difficulty**: Easy
+* **Prompt**: สังเวชนียสถานหมายถึงสถานที่เกี่ยวเนื่องกับเหตุการณ์สำคัญ 4 ประการของพระพุทธเจ้า ข้อใดจับคู่ถูกต้อง?
+* ก. สถานที่ประสูติ - สวนลุมพินีวัน
+* ข. สถานที่ตรัสรู้ - เมืองกุสินารา
+* ค. สถานที่แสดงปฐมเทศนา - สวนลุมพินีวัน
+* ง. สถานที่ปรินิพพาน - พุทธคยา
+* **Correct Answer**: ก
+* **Explanation**: ประสูติ (ลุมพินีวัน), ตรัสรู้ (พุทธคยา), ปฐมเทศนา (สารนาถ/ป่าอิสิปตนมฤคทายวัน), ปรินิพพาน (กุสินารา)
+
 #### ข้อ 8
-* **Topic**: Holy Pilgrimage Sites
+* **Topic**: ชาดก - ทีฆีติโกสลชาดก
 * **Learning Objective**: LO-HIS1
-* **Difficulty**: Easy
-* **Prompt**: Where is Lumbini Grove, the birthplace (ประสูติ) of Prince Siddhattha, located today?
-* ก. Modern Nepal
-* ข. Modern Sri Lanka
-* ค. Modern Myanmar
-* ง. Modern Thailand
-* **Correct Answer**: ก
-* **Explanation**: Lumbini Grove, the birthplace of the Buddha, is located in modern Nepal.
+* **Difficulty**: Medium
+* **Prompt**: คติธรรมและข้อคิดสำคัญที่สุดที่ได้จากการศึกษา 'ทีฆีติโกสลชาดก' คือเรื่องใด?
+* ก. การขยันหมั่นเพียรในการทำงาน
+* ข. เวรย่อมไม่ระงับด้วยการจองเวร แต่ระงับด้วยการไม่จองเวร (การให้อภัย)
+* ค. การประหยัดอดออมเงินทอง
+* ง. การกล้าหาญในการสู้รบกับศัตรู
+* **Correct Answer**: ข
+* **Explanation**: ทีฆาวุกุมารทรงไม่ฆ่าพระเจ้าพรหมทัตเพื่อล้างแค้น แต่เลือกให้อภัย สอนว่าการไม่จองเวรย่อมนำมาซึ่งสันติสุข
+
 #### ข้อ 9
-* **Topic**: Dhiti Kosala Jataka
+* **Topic**: ชาดก - สัพพทาฐิชาดก
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Medium
-* **Prompt**: What is the central moral lesson of the Dhiti Kosala Jataka (ทีฆีติโกสลชาดก)?
-* ก. Hatred is never ended by hatred, but only by non-hatred and forgiveness
-* ข. Physical strength is the only key to winning military victories
-* ค. Wealth and gold can buy eternal happiness
-* ง. Deception is acceptable if it accomplishes political goals
+* **Prompt**: ข้อคิดและคติธรรมสำคัญจาก 'สัพพทาฐิชาดก' (สุนัขจิ้งจอกผู้หลงในอำนาจ) คือข้อใด?
+* ก. ผู้ที่หลงในอำนาจและขาดความยั้งคิดย่อมพบกับความพินาศในที่สุด
+* ข. ความกตัญญูกตเวทีต่อผู้มีพระคุณ
+* ค. การมีความเมตตาต่อสัตว์ป่า
+* ง. การสะสมทรัพย์สินเงินทองให้มากที่สุด
 * **Correct Answer**: ก
-* **Explanation**: Prince Dhighavu remembered his father King Dhighiti's dying words: 'Hatred ceases not by hatred, but by love and non-forgiveness.'
+* **Explanation**: สุนัขจิ้งจอกหลงอำนาจ สั่งให้สัตว์ร้ายโห่ร้องจนสุดท้ายตนเองและพวกพ้องได้รับภัยพิบัติ สอนไม่ให้ลุ่มหลงในอำนาจ
+
 #### ข้อ 10
-* **Topic**: Sabbadathi Jataka
+* **Topic**: ศาสนิกชนตัวอย่าง
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Medium
-* **Prompt**: What moral warning does the Sabbadathi Jataka (สัพพทาฐิชาดก) provide to society?
-* ก. Power intoxicates the foolish and leads to downfall through excessive greed and pride
-* ข. Animals should never live together in forests
-* ค. Jackals are superior rulers compared to lions
-* ง. Kings must conquer all neighboring countries by force
-* **Correct Answer**: ก
-* **Explanation**: The jackal who gained magical power over all beasts became intoxicated with pride, leading to his own ruin and destruction.
+* **Prompt**: คุณธรรมสำคัญของ 'พระสาสนโสภณ (เอื้อน ชินทัตโต)' ที่ศาสนิกชนควรนำมาเป็นแบบอย่างคือข้อใด?
+* ก. ความเชี่ยวชาญในการทำสงคราม
+* ข. ความตั้งใจศึกษาพระปริยัติธรรม ความถ่อมตน และความเมตตากรุณา
+* ค. การสะสมวัตถุโบราณราคาแพง
+* ง. การประกอบธุรกิจค้าขายจนร่ำรวย
+* **Correct Answer**: ข
+* **Explanation**: ท่านเป็นผู้เคร่งครัดในศีลาจารวัตร ใฝ่รู้ อ่อนน้อมถ่อมตน และอุทิศตนเพื่อสั่งสอนศาสนา
+
 #### ข้อ 11
-* **Topic**: Exemplary Buddhists
+* **Topic**: ศาสนิกชนตัวอย่าง
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Medium
-* **Prompt**: Phra Sasana Sophon (Euan Chintatto) is remembered for which key contribution to Thai Buddhism?
-* ก. Translating scripture and promoting education and moral development among Thai youth
-* ข. Building military fortifications during the Ayutthaya period
-* ค. Establishing Thailand's first paper currency printing press
-* ง. Leading commercial banking development in Asia
+* **Prompt**: อาจารย์เสถียร พงศทะสิทธิ์ มีบทบาทสำคัญและเป็นแบบอย่างด้านใดในพระพุทธศาสนา?
+* ก. การแต่งตำราและเผยแผ่ความรู้พุทธศาสนวิทยาอย่างลึกซึ้งแก่สังคม
+* ข. การเป็นนักรบปกป้องกรุงศรีอยุธยา
+* ค. การเป็นเจ้าของโรงงานอุตสาหกรรม
+* ง. การเป็นผู้ริเริ่มประเพณีสงกรานต์
 * **Correct Answer**: ก
-* **Explanation**: Phra Sasana Sophon was a highly respected Thai Buddhist monk who dedicated his life to education, scripture study, and youth ethics.
+* **Explanation**: อาจารย์เสถียรเป็นปราชญ์ทางพระพุทธศาสนา อุทิศชีวิตแต่งหนังสือและบรรยายธรรมะเผยแผ่ความรู้บริสุทธิ์
+
 #### ข้อ 12
-* **Topic**: Exemplary Buddhists
+* **Topic**: วันสำคัญทางพระพุทธศาสนา
 * **Learning Objective**: LO-HIS1
-* **Difficulty**: Medium
-* **Prompt**: Acharn Sathien Phongphatthanasit contributed to Thai society primarily as a:
-* ก. Dedicated Buddhist scholar who explained Dhamma principles clearly for public moral application
-* ข. Famous international military commander
-* ค. Royal court painter in the Rattanakosin era
-* ง. Pioneer of modern rubber plantations in southern Thailand
-* **Correct Answer**: ก
-* **Explanation**: Acharn Sathien was a prominent Buddhist lay scholar who explained Buddhist philosophy and ethics to the general public.
+* **Difficulty**: Easy
+* **Prompt**: วันสำคัญทางพระพุทธศาสนาวันใดที่เกิดเหตุการณ์พระธรรมสาวก 1,250 องค์มาประชุมกันโดยมิได้นัดหมาย (วันจาตุรงคสันนิบาต)?
+* ก. วันวิสาขบูชา
+* ข. วันมาฆบูชา
+* ค. วันอาสาฬหบูชา
+* ง. วันอัฏฐมีบูชา
+* **Correct Answer**: ข
+* **Explanation**: วันมาฆบูชา (ขึ้น 15 ค่ำ เดือน 3) เกิดเหตุจาตุรงคสันนิบาต และพระสัมมาสัมพุทธเจ้าทรงแสดงโอวาทปาติโมกข์
+
 #### ข้อ 13
-* **Topic**: Holy Pilgrimage Sites
+* **Topic**: วันสำคัญทางพระพุทธศาสนา
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Easy
-* **Prompt**: Where did the Buddha deliver his First Sermon (Dhammacakkappavattana Sutta) to the Five Ascetics?
-* ก. Lumbini Grove
-* ข. Sarnath Deer Park (Isipatana)
-* ค. Kusinara Sala Grove
-* ง. Pavala Cetiya
-* **Correct Answer**: ข
-* **Explanation**: The First Sermon was preached at the Deer Park in Isipatana near Sarnath (Varanasi).
+* **Prompt**: วันอาสาฬหบูชา มีความสำคัญทางพระพุทธศาสนาอย่างไร?
+* ก. เป็นวันที่พระพุทธเจ้าทรงแสดงปฐมเทศนา (ธัมมจักกัปปวัตตนสูตร) และเกิดพระรัตนตรัยครบ 3 ประการ
+* ข. เป็นวันที่พระพุทธเจ้าประสูติ ตรัสรู้ และปรินิพพาน
+* ค. เป็นวันที่ทรงถวายพระเพลิงพระบรมศพ
+* ง. เป็นวันที่ปลงอายุสังขาร
+* **Correct Answer**: ก
+* **Explanation**: วันอาสาฬหบูชาเป็นวันที่แสดงปฐมเทศนาแก่ปัญจวัคคีย์ และเกิดพระอริยสงฆ์องค์แรก (พระอัญญาโกณฑัญญะ) ทำให้รัตนตรัยสมบูรณ์
+
 #### ข้อ 14
-* **Topic**: Buddha's Life - Cremation
-* **Learning Objective**: LO-HIS1
-* **Difficulty**: Medium
-* **Prompt**: The royal cremation ceremony of the Buddha's body took place at which monument in Kusinara?
-* ก. Makutabandhana Cetiya (มกุฏพันธนเจดีย์)
-* ข. Sanchi Stupa
-* ค. Anuradhapura Stupa
-* ง. Shwedagon Pagoda
+* **Topic**: การประยุกต์ใช้หลักธรรม
+* **Learning Objective**: LO-SOC2
+* **Difficulty**: Easy
+* **Prompt**: นักเรียนควรนำหลักธรรม 'เบญจศีล' (ศีล 5) ข้อที่ 1 (เว้นจากการฆ่าสัตว์) ไปใช้ในชีวิตประจำวันอย่างไร?
+* ก. ไม่รังแก ไม่แกล้งทรมานสัตว์ และมีความเมตตากรุณาต่อสิ่งมีชีวิต
+* ข. ไม่พูดโกหกหลอกลวงผู้อื่น
+* ค. ไม่หยิบฉวยสิ่งของของเพื่อนโดยไม่ได้รับอนุญาต
+* ง. ไม่งดเว้นการดื่มสุราเมรัย
 * **Correct Answer**: ก
-* **Explanation**: The Mallian kings performed the cremation at the Makutabandhana Cetiya in Kusinara.
+* **Explanation**: ศีลข้อ 1 ละเว้นจากการฆ่าสัตว์ทรมานสัตว์ ส่งเสริมความเมตตากรุณา
+
 #### ข้อ 15
-* **Topic**: Three Jewels of Buddhism
+* **Topic**: การทำบุญตักบาตร
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Easy
-* **Prompt**: With the ordination of Kondanna after the First Sermon, which fundamental event occurred?
-* ก. The complete Three Jewels (Buddha, Dhamma, Sangha) were fully established for the first time
-* ข. The Buddha returned to his palace in Kapilavastu permanently
-* ค. The first Buddhist council was held immediately
-* ง. The Tripitaka was printed into paper books
+* **Prompt**: การทำบุญตักบาตรและการฟังธรรมในวันหยุดประจำสัปดาห์ ส่งผลดีต่อจิตใจของชาวพุทธอย่างไร?
+* ก. ช่วยลดความโลภ ฝึกจิตใจให้สงบ มีสติ และสืบทอดอายุพระพุทธศาสนา
+* ข. ทำให้สอบได้คะแนนเต็ม 100% โดยไม่ต้องอ่านหนังสือ
+* ค. ช่วยให้มีอำนาจเหนือผู้อื่นในสังคม
+* ง. ได้รับการยกเว้นไม่เสียภาษีให้แก่รัฐบาล
 * **Correct Answer**: ก
-* **Explanation**: Kondanna's ordination created the first Buddhist monk, completing the Triple Gem (พระรัตนตรัย: พระพุทธ, พระธรรม, พระสงฆ์).
+* **Explanation**: การทำบุญช่วยละความเกียจคร้าน ลดความโลภ ก่อเกิดสติปัญญาและจิตใจที่เบาบาน
+
 #### ข้อ 16
-* **Topic**: Moral Lessons of Jataka
-* **Learning Objective**: LO-HIS1
-* **Difficulty**: Medium
-* **Prompt**: In the Dhiti Kosala Jataka, why did Prince Dhighavu put away his sword instead of executing King Brahmadatta?
-* ก. Because he remembered his father's teaching on overcoming vengeance with forgiveness
-* ข. Because he lost his balance and dropped his weapon
-* ค. Because royal guards ambushed him from behind
-* ง. Because King Brahmadatta paid him a large monetary bribe
+* **Topic**: วิธีการทางประวัติศาสตร์
+* **Learning Objective**: LO-HIS2
+* **Difficulty**: Easy
+* **Prompt**: วิธีการทางประวัติศาสตร์มีวัตถุประสงค์หลักเพื่ออะไร?
+* ก. เพื่อสืบค้น ค้นหาข้อเท็จจริง และเรื่องราวในอดีตอย่างมีเหตุผล น่าเชื่อถือ และเป็นระบบ
+* ข. เพื่อท่องจำชื่อกษัตริย์ในอดีตให้ได้มากที่สุด
+* ค. เพื่อเขียนนิยายอิงประวัติศาสตร์เพื่อความสนุกสนานเพลิดเพลิน
+* ง. เพื่อทำลายหลักฐานโบราณวัตถุที่ไม่ต้องการ
 * **Correct Answer**: ก
-* **Explanation**: Prince Dhighavu chose forgiveness over revenge, ending the endless cycle of blood feuds.
+* **Explanation**: วิธีการทางประวัติศาสตร์เป็นกระบวนการค้นหาข้อเท็จจริงในอดีตอย่างเป็นระบบโดยใช้อ้างอิงหลักฐาน
+
 #### ข้อ 17
-* **Topic**: Buddhism and Thai Culture
-* **Learning Objective**: LO-HIS1
+* **Topic**: ขั้นตอนวิธีการทางประวัติศาสตร์
+* **Learning Objective**: LO-HIS2
 * **Difficulty**: Easy
-* **Prompt**: Which traditional Thai festival is directly connected to Buddhist merit-making and rain conservation traditions?
-* ก. Songkran and Loy Krathong
-* ข. Vassa (Khao Phansa / Entering Rains Retreat)
-* ค. Christmas
-* ง. New Year's Eve Countdown
+* **Prompt**: ขั้นตอนแรกสุดของวิธีการทางประวัติศาสตร์ 5 ขั้นตอน คือข้อใด?
+* ก. การรวบรวมหลักฐาน
+* ข. การกำหนดหัวข้อที่ต้องการศึกษา
+* ค. การประเมินคุณค่าหลักฐาน
+* ง. การเรียบเรียงและนำเสนอ
 * **Correct Answer**: ข
-* **Explanation**: Khao Phansa (Entering Rains Retreat) and Ok Phansa are traditional Buddhist merit-making observances in Thailand.
+* **Explanation**: ขั้นตอนที่ 1 คือการตั้งประเด็นหรือกำหนดหัวข้อคำถามทางประวัติศาสตร์ที่สนใจต้องการค้นหา
+
 #### ข้อ 18
-* **Topic**: Dhamma Practice in Daily Life
-* **Learning Objective**: LO-HIS1
+* **Topic**: ขั้นตอนวิธีการทางประวัติศาสตร์
+* **Learning Objective**: LO-HIS2
 * **Difficulty**: Easy
-* **Prompt**: What is the basic moral foundation (ศีล 5) for layman Buddhists to maintain peaceful co-existence?
-* ก. 5 Moral Precepts (refraining from killing, stealing, sexual misconduct, lying, and intoxicants)
-* ข. 5 Corporate Tax Regulations
-* ค. 5 Military Strategy Laws
-* ง. 5 Foreign Language Grammar Rules
-* **Correct Answer**: ก
-* **Explanation**: The 5 Moral Precepts (ศีล 5) guide everyday ethical conduct for lay Buddhists.
+* **Prompt**: การนำข้อมูลหลักฐานที่ผ่านการวิเคราะห์ตีความแล้ว มาเขียนจัดลำดับเรื่องราวให้ต่อเนื่องน่าสนใจ จัดเป็นขั้นตอนใด?
+* ก. ขั้นตอนที่ 1: กำหนดหัวข้อ
+* ข. ขั้นตอนที่ 3: ประเมินคุณค่าหลักฐาน
+* ค. ขั้นตอนที่ 5: การเรียบเรียงและการนำเสนอ
+* ง. ขั้นตอนที่ 2: การรวบรวมหลักฐาน
+* **Correct Answer**: ค
+* **Explanation**: ขั้นตอนที่ 5 คือการเรียบเรียงและนำเสนอเรื่องราว (Synthesizing & Presenting) อย่างเป็นระบบมีเหตุผล
+
 #### ข้อ 19
-* **Topic**: Importance of Buddhism
-* **Learning Objective**: LO-HIS1
+* **Topic**: การประเมินคุณค่าหลักฐาน
+* **Learning Objective**: LO-HIS2
 * **Difficulty**: Medium
-* **Prompt**: How do Buddhist temples (วัด) historically serve as community centers in Thai society?
-* ก. As centers for education, moral instruction, community gatherings, and social welfare
-* ข. As private stock trading exchanges for merchants
-* ค. As heavy industrial manufacturing factories
-* ง. As tax collection headquarters for foreign embassies
+* **Prompt**: การตรวจสอบว่าหลักฐานชิ้นนั้นเป็นของจริงหรือของทำเลียนแบบขึ้นมาใหม่ เรียกว่าอะไร?
+* ก. การวิพากษ์หลักฐานภายนอก (External Criticism)
+* ข. การวิพากษ์หลักฐานภายใน (Internal Criticism)
+* ค. การตั้งสมมติฐานทางวิทยาศาสตร์
+* ง. การสังเคราะห์วรรณกรรม
 * **Correct Answer**: ก
-* **Explanation**: Historically, Thai temples served as schools, hospitals, cultural centers, and spiritual sanctuaries for local communities.
+* **Explanation**: การวิพากษ์ภายนอกคือการพิสูจน์ตัวหลักฐาน เช่น ความเก่าแก่ เนื้อสาร อายุของกระดาษ/หิน ว่าเป็นของจริงหรือไม่
+
 #### ข้อ 20
-* **Topic**: Buddhist Heritage - Literature
-* **Learning Objective**: LO-HIS1
+* **Topic**: การประเมินคุณค่าหลักฐาน
+* **Learning Objective**: LO-HIS2
 * **Difficulty**: Medium
-* **Prompt**: Which classical Thai literary work written by King Li Thai of Sukhothai describes Buddhist cosmology and moral ethics?
-* ก. Tribhumikatha (Traibhumikatha / ไตรภูมิพระร่วง)
-* ข. Inao
-* ค. Khun Chang Khun Phaen
-* ง. Ramakien
-* **Correct Answer**: ก
-* **Explanation**: Traibhumikatha (ไตรภูมิพระร่วง) was authored by King Li Thai to instruct subjects on karma, virtues, and Buddhist cosmology.
+* **Prompt**: การตรวจสอบความน่าเชื่อถือของเนื้อหา ข้อมูล ความอคติ หรือความอุปทานของผู้บันทึกหลักฐาน เรียกว่าอะไร?
+* ก. การวิพากษ์หลักฐานภายนอก
+* ข. การวิพากษ์หลักฐานภายใน (Internal Criticism)
+* ค. การกำหนดหัวข้อศึกษา
+* ง. การจัดเก็บหลักฐานเข้าพิพิธภัณฑ์
+* **Correct Answer**: ข
+* **Explanation**: การวิพากษ์ภายในคือการประเมินเนื้อหาข้อมูลภายในหลักฐานว่าถูกต้อง เที่ยงตรง หรือมีอคติแอบแฝงหรือไม่
+
 #### ข้อ 21
-* **Topic**: Historical Method Steps
+* **Topic**: ประเภทหลักฐาน - ชั้นต้น
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Easy
-* **Prompt**: What is the very FIRST step in the 5-step Historical Method (วิธีการทางประวัติศาสตร์)?
-* ก. Synthesizing the final research report
-* ข. Formulating the research topic or question (กำหนดหัวข้อที่จะศึกษา)
-* ค. Gathering historical artifacts
-* ง. Critiquing the honesty of historical witnesses
+* **Prompt**: ข้อใดจัดเป็น 'หลักฐานชั้นต้น' (ปฐมภูมิ) ทางประวัติศาสตร์?
+* ก. หนังสือตำราเรียนประวัติศาสตร์ ป.6
+* ข. ศิลาจารึกสุโขทัย หลักที่ 1 และจดหมายเหตุของช่างบันทึกในยุคสมัยนั้น
+* ค. ละครโทรทัศน์อิงประวัติศาสตร์เรื่องยุทธหัตถี
+* ง. บทความวิเคราะห์ประวัติศาสตร์ในนิตยสารปัจจุบัน
 * **Correct Answer**: ข
-* **Explanation**: Step 1 of the Historical Method is defining a clear topic, research question, or historical boundary to study.
+* **Explanation**: หลักฐานชั้นต้นคือหลักฐานที่เกิดขึ้นในยุคสมัยนั้นจริง เช่น ศิลาจารึก จดหมายเหตุ โบราณวัตถุ บันทึกร่วมสมัย
+
 #### ข้อ 22
-* **Topic**: Historical Method Steps
+* **Topic**: ประเภทหลักฐาน - ชั้นรอง
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Easy
-* **Prompt**: What is the second step in the Historical Method after choosing a topic?
-* ก. Gathering historical evidence and sources (รวบรวมหลักฐาน)
-* ข. Publishing a textbook immediately
-* ค. Evaluating internal bias of sources
-* ง. Writing conclusions without reading documents
-* **Correct Answer**: ก
-* **Explanation**: Step 2 involves searching for and collecting relevant primary and secondary historical evidence.
+* **Prompt**: ข้อใดจัดเป็น 'หลักฐานชั้นรอง' (ทุติยภูมิ) ทางประวัติศาสตร์?
+* ก. โครงกระดูกมนุษย์โบราณที่บ้านเชียง
+* ข. หนังสือเรียบเรียงชีวประวัติสมเด็จพระนเรศวรมหาราชที่แต่งขึ้นในปัจจุบัน
+* ค. ขวานหินขัดยุคหินใหม่
+* ง. เครื่องเบญจรงค์สมัยรัตนโกสินทร์ตอนต้น
+* **Correct Answer**: ข
+* **Explanation**: หลักฐานชั้นรองคือผลงานที่เรียบเรียงขึ้นภายหลังโดยอาศัยหลักฐานชั้นต้น เช่น ตำราเรียน หนังสือประวัติศาสตร์
+
 #### ข้อ 23
-* **Topic**: Historical Method Steps - Criticism
+* **Topic**: ความสำคัญของหลักฐานชั้นต้น
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Medium
-* **Prompt**: What is the primary purpose of Step 3: Source Criticism (การประเมินคุณค่าหลักฐาน / วิพากษ์หลักฐาน)?
-* ก. To verify the authenticity, reliability, age, and accuracy of historical evidence
-* ข. To translate all documents into English
-* ค. To burn original historical palm-leaf manuscripts
-* ง. To count the number of pages in historical books
+* **Prompt**: เหตุใดนักประวัติศาสตร์จึงให้ความสำคัญและน่าเชื่อถือแก่หลักฐานชั้นต้นมากกว่าหลักฐานชั้นรอง?
+* ก. เพราะหลักฐานชั้นต้นสร้างขึ้นโดยผู้ที่อยู่ในเหตุการณ์จริงหรือในยุคสมัยนั้นโดยตรง
+* ข. เพราะหลักฐานชั้นต้นมีตัวอักษรพิมพ์สวยงามอ่านง่ายกว่า
+* ค. เพราะหลักฐานชั้นต้นสามารถหาซื้อได้ง่ายตามร้านหนังสือ
+* ง. เพราะหลักฐานชั้นต้นไม่มีวันชำรุดเสียหายเลย
 * **Correct Answer**: ก
-* **Explanation**: Source criticism (external and internal criticism) checks whether an evidence item is genuine and accurate.
+* **Explanation**: หลักฐานชั้นต้นบันทึกหรือสร้างโดยผู้ร่วมเหตุการณ์โดยตรง จึงมีความใกล้ชิดกับความจริงในอดีตมากที่สุด
+
 #### ข้อ 24
-* **Topic**: Historical Criticism - External
+* **Topic**: ตัวอย่างหลักฐานทางประวัติศาสตร์
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Medium
-* **Prompt**: Checking whether a stone inscription is made of genuine ancient stone and whether its ink/carving style matches the historical era is an example of:
-* ก. External Criticism (การวิพากษ์ภายนอก)
-* ข. Internal Criticism (การวิพากษ์ภายใน)
-* ค. Synthesizing the final paper
-* ง. Choosing a research topic
+* **Prompt**: จดหมายเหตุลาลูแบร์ (บันทึกของราชทูตฝรั่งเศสที่เข้ามาในสมัยสมเด็จพระนารายณ์มหาราช) จัดเป็นหลักฐานประเภทใด?
+* ก. หลักฐานชั้นต้นที่เป็นลายลักษณ์อักษร
+* ข. หลักฐานชั้นรองที่ไม่เป็นลายลักษณ์อักษร
+* ค. ตำนานโบราณเล่าปากต่อปาก
+* ง. โบราณวัตถุยุคหิน
 * **Correct Answer**: ก
-* **Explanation**: External criticism evaluates the physical authenticity, material, age, and external origin of the evidence.
+* **Explanation**: บันทึกของลาลูแบร์เขียนขึ้นในสมัยอยุธยาโดยผู้อยู่ในเหตุการณ์จริง จึงเป็นหลักฐานชั้นต้นที่เป็นลายลักษณ์อักษร
+
 #### ข้อ 25
-* **Topic**: Historical Criticism - Internal
+* **Topic**: การตีความทางประวัติศาสตร์
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Medium
-* **Prompt**: Analyzing whether an author of a royal chronicle had personal bias or exaggerated troop numbers is known as:
-* ก. External Criticism
-* ข. Internal Criticism (การวิพากษ์ภายใน)
-* ค. Collecting physical artifacts
-* ง. Topic selection
+* **Prompt**: เหตุใดนักประวัติศาสตร์ 2 คนที่ศึกษาหลักฐานชิ้นเดียวกัน จึงอาจสรุปเรื่องราวประวัติศาสตร์แตกต่างกันได้?
+* ก. เพราะนักประวัติศาสตร์คนหนึ่งไม่ได้อ่านหลักฐาน
+* ข. เพราะแต่ละคนอาจมีมุมมอง ประสบการณ์ หรือการตีความข้อมูลที่แตกต่างกันอย่างมีเหตุผล
+* ค. เพราะหลักฐานนั้นเปลี่ยนข้อความเองตามเวลา
+* ง. เพราะกฎหมายห้ามไม่ให้นักประวัติศาสตร์มีความเห็นเหมือนกัน
 * **Correct Answer**: ข
-* **Explanation**: Internal criticism assesses the credibility, truthfulness, motives, and reliability of the text/author's content.
+* **Explanation**: การตีความขึ้นอยู่กับมุมมอง การวิเคราะห์ และกรอบความคิดของแต่ละบุคคล แต่ต้องมีหลักฐานรองรับ
+
 #### ข้อ 26
-* **Topic**: Historical Method Steps - Final Step
+* **Topic**: การสืบค้นประวัติศาสตร์ท้องถิ่น
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Easy
-* **Prompt**: What is the FIFTH and final step of the Historical Method?
-* ก. Synthesizing, organizing, and presenting historical findings (เรียบเรียงและนำเสนอ)
-* ข. Formulating a new unverified hypothesis
-* ค. Discarding all collected research data
-* ง. Gathering more primary stone tablets
+* **Prompt**: หากนักเรียนต้องการศึกษาประวัติความเป็นมาของวัดเก่าแก่ในชุมชนของตนเอง ควรเริ่มรวบรวมหลักฐานจากแหล่งใด?
+* ก. สัมภาษณ์พระผู้ใหญ่และผู้เฒ่าผู้แก่ในชุมชน พร้อมสำรวจโบราณสถานและเจ้าอาวาส
+* ข. อ่านนิตยสารการท่องเที่ยวต่างประเทศ
+* ค. คาดเดาเอาเองตามจินตนาการ
+* ง. ค้นหาจากหนังสือการ์ตูนตลก
 * **Correct Answer**: ก
-* **Explanation**: Step 5 is synthesizing the analyzed historical facts into a coherent narrative report or presentation.
+* **Explanation**: การศึกษาท้องถิ่นควรเริ่มจากหลักฐานในชุมชน เช่น ปราชญ์ชาวบ้าน พระสงฆ์ สำรวจวัด และจดหมายเหตุท้องถิ่น
+
 #### ข้อ 27
-* **Topic**: Types of Historical Evidence
+* **Topic**: ข้อควรระวังในการศึกษาประวัติศาสตร์
 * **Learning Objective**: LO-HIS2
-* **Difficulty**: Easy
-* **Prompt**: What is a 'Primary Source' (หลักฐานชั้นต้น / ปฐมภูมิ) in historical research?
-* ก. Evidence created during the actual historical time period by direct eye-witnesses or contemporaries
-* ข. A textbook written by a modern high school teacher in 2025
-* ค. A movie dramatization created by a contemporary film studio
-* ง. An encyclopedia summary published on a modern blog
+* **Difficulty**: Medium
+* **Prompt**: สิ่งใดเป็นข้อควรระวังสำคัญที่สุดในการอ่านและวิเคราะห์หลักฐานทางประวัติศาสตร์?
+* ก. อย่าหลงเชื่อข้อมูลทันทีโดยไม่ได้ตรวจสอบความถูกต้องและอคติของผู้บันทึก
+* ข. อย่าอ่านหลักฐานเกินกว่า 5 นาที
+* ค. อย่าใช้หลักฐานที่เป็นลายลักษณ์อักษรเลย
+* ง. อย่าเปรียบเทียบข้อมูลจากหลักฐานหลายๆ ชิ้น
 * **Correct Answer**: ก
-* **Explanation**: Primary sources are direct contemporary records, artifacts, or eye-witness accounts produced during the period being studied.
+* **Explanation**: นักประวัติศาสตร์ต้องวางอคติ และต้องตรวจสอบความถูกต้อง ความสมบูรณ์ และเจตนาของผู้บันทึกเสมอ
+
 #### ข้อ 28
-* **Topic**: Primary Source Examples
+* **Topic**: ประโยชน์ของการศึกษาวิธีการทางประวัติศาสตร์
 * **Learning Objective**: LO-HIS2
-* **Difficulty**: Easy
-* **Prompt**: Which of the following is considered a Primary Historical Source for Sukhothai history?
-* ก. King Ramkhamhaeng Inscription Stone No. 1 (ศิลาจารึกพ่อขุนรามคำแหง)
-* ข. A modern Grade 6 social studies textbook
-* ค. A historical fiction novel written in 2010
-* ง. A cartoon animation about ancient kings
-* **Correct Answer**: ก
-* **Explanation**: King Ramkhamhaeng's Stone Inscription No. 1 is an authentic primary source carved during the Sukhothai period.
+* **Difficulty**: Medium
+* **Prompt**: ทักษะสำคัญที่นักเรียนได้รับจากการฝึกใช้วิธีการทางประวัติศาสตร์ ซึ่งนำไปใช้ในชีวิตประจำวันได้คือข้อใด?
+* ก. ความสามารถในการจดจำเบอร์โทรศัพท์
+* ข. การคิดอย่างมีวิจารณญาณ มีเหตุผล ตรวจสอบข้อเท็จจริงก่อนเชื่อข่าวสาร (Media Literacy)
+* ค. การทำงานศิลปะด้วยดินน้ำมัน
+* ง. การคำนวณสูตรคณิตศาสตร์ชั้นสูง
+* **Correct Answer**: ข
+* **Explanation**: ฝึกให้เป็นคนมีเหตุผล ไม่หลงเชื่อข่าวลือ ข่าวปลอม (Fake News) ตรวจสอบหลักฐานก่อนตัดสินใจ
+
 #### ข้อ 29
-* **Topic**: Types of Historical Evidence
+* **Topic**: หลักฐานที่ไม่เป็นลายลักษณ์อักษร
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Easy
-* **Prompt**: What is a 'Secondary Source' (หลักฐานชั้นรอง / ทุติยภูมิ)?
-* ก. Accounts, books, or analyses written after the event by researchers who did not witness the event directly
-* ข. Original royal letters written during the Ayutthaya war
-* ค. Ancient pottery dug up from Ban Chiang archaeological site
-* ง. Inscribed palm-leaf manuscripts from the 14th century
+* **Prompt**: สิ่งใดต่อไปนี้จัดเป็นหลักฐานทางประวัติศาสตร์ประเภท 'ไม่เป็นลายลักษณ์อักษร'?
+* ก. กำแพงเมืองโบราณและเครื่องสังกะสีโบราณ
+* ข. พงศาวดารกรุงศรีอยุธยา
+* ค. จดหมายเหตุสยาม
+* ง. ใบลานบันทึกชาดก
 * **Correct Answer**: ก
-* **Explanation**: Secondary sources synthesize, analyze, or interpret primary sources long after the historical event occurred.
+* **Explanation**: กำแพงเมือง เครื่องใช้ โบราณวัตถุ โครงกระดูก เป็นหลักฐานที่ไม่เป็นลายลักษณ์อักษร
+
 #### ข้อ 30
-* **Topic**: Secondary Source Examples
+* **Topic**: พงศาวดาร
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Medium
-* **Prompt**: Which item is classified as a Secondary Source?
-* ก. A historical analysis book written by a modern university professor analyzing Ayutthaya trade records
-* ข. An original treaty signed by King Chulalongkorn and France in 1893
-* ค. An ancient bronze bell excavated from an old temple foundation
-* ง. Coins minted during the reign of King Rama IV
+* **Prompt**: 'พงศาวดาร' เป็นหลักฐานทางประวัติศาสตร์ประเภทใด และมุ่งเน้นบันทึกเรื่องราวเกี่ยวกับสิ่งใดเป็นหลัก?
+* ก. หลักฐานลายลักษณ์อักษร มุ่งเน้นบันทึกพระราชกรณียกิจของพระมหากษัตริย์และเหตุการณ์บ้านเมือง
+* ข. หลักฐานชั้นรอง มุ่งเน้นบันทึกวิถีชีวิตของชาวนาเท่านั้น
+* ค. หลักฐานที่ไม่เป็นลายลักษณ์อักษร มุ่งเน้นบันทึกตำนานเทพเจ้า
+* ง. หนังสือเรียนแต่งใหม่ในสมัยปัจจุบัน
 * **Correct Answer**: ก
-* **Explanation**: Modern academic books analyzing past events are secondary sources derived from studying original primary data.
+* **Explanation**: พงศาวดารบันทึกเหตุการณ์บ้านเมือง การสงคราม และพระราชกรณียกิจของพระมหากษัตริย์ จัดเป็นหลักฐานลายลักษณ์อักษร
+
 #### ข้อ 31
-* **Topic**: Historical Artifacts
-* **Learning Objective**: LO-HIS2
+* **Topic**: ภูมิภาคเอเชียตะวันออกเฉียงใต้
+* **Learning Objective**: LO-HIS3
 * **Difficulty**: Easy
-* **Prompt**: Ancient bronze drums, pottery jars, and stone axes excavated from archaeological sites are examples of:
-* ก. Non-written primary archaeological artifacts (หลักฐานชั้นต้นไม่เป็นลายลักษณ์อักษร)
-* ข. Secondary written textbooks
-* ค. Deceptive modern propaganda materials
-* ง. Digital online databases
+* **Prompt**: ประเทศไทยตั้งอยู่ในภูมิภาคใดของทวีปเอเชีย?
+* ก. เอเชียตะวันออกเฉียงใต้ (Southeast Asia)
+* ข. เอเชียใต้
+* ค. เอเชียกลาง
+* ง. เอเชียตะวันตกเฉียงใต้
 * **Correct Answer**: ก
-* **Explanation**: Unwritten physical items like pottery and bronze tools created in ancient times are primary non-written artifacts.
+* **Explanation**: ประเทศไทยตั้งอยู่ในภูมิภาคเอเชียตะวันออกเฉียงใต้ หรือภูมิภาคอาเซียน
+
 #### ข้อ 32
-* **Topic**: Chronicles (พงศาวดาร)
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Medium
-* **Prompt**: Royal Chronicles (พระราชพงศาวดาร) primarily record historical events related to:
-* ก. Monarchs, royal court decrees, state wars, and political dynasties
-* ข. Daily market prices of vegetables in rural villages
-* ค. Folk stories and fairy tales of mythical creatures
-* ง. Modern weather forecasts in foreign countries
-* **Correct Answer**: ก
-* **Explanation**: Chronicles (พงศาวดาร) are historical records focusing on royal deeds, military campaigns, and state governance.
+* **Topic**: ประเทศเพื่อนบ้านที่มีพรมแดนติดกับไทย
+* **Learning Objective**: LO-HIS3
+* **Difficulty**: Easy
+* **Prompt**: ประเทศใดต่อไปนี้ 'ไม่มี' อาณาเขตพรมแดนทางบกติดต่อกับประเทศไทยโดยตรง?
+* ก. เมียนมา
+* ข. ลาว
+* ค. กัมพูชา
+* ง. เวียดนาม
+* **Correct Answer**: ง
+* **Explanation**: เวียดนามไม่มีพรมแดนทางบกติดกับไทย (มีประเทศลาวและกัมพูชากั้นกลาง) ประเทศที่มีพรมแดนติดไทยคือ เมียนมา ลาว กัมพูชา มาเลเซีย
+
 #### ข้อ 33
-* **Topic**: Historical Evidence Evaluation
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Medium
-* **Prompt**: Why should historians compare multiple primary sources before writing a historical account?
-* ก. Because a single witness account may contain personal bias, errors, or incomplete perspectives
-* ข. Because law requires using at least 50 documents per sentence
-* ค. Because ancient historians were not allowed to write the truth
-* ง. Because primary sources are always completely false
+* **Topic**: ประเทศเพื่อนบ้าน - ลาว
+* **Learning Objective**: LO-HIS3
+* **Difficulty**: Easy
+* **Prompt**: ประเทศสาธารณรัฐประชาธิปไตยประชาชนลาว (สปป.ลาว) มีลักษณะทางภูมิศาสตร์โดดเด่นอย่างไร?
+* ก. เป็นประเทศเดียวในเอเชียตะวันออกเฉียงใต้ที่ไม่มีพื้นที่ติดทะเล (Landlocked Country)
+* ข. เป็นประเทศที่เป็นเกาะขนาดใหญ่ที่สุดในโลก
+* ค. เป็นประเทศที่มีภูเขาไฟมีชีวิตมากที่สุด
+* ง. เป็นประเทศที่มีประชากรมากที่สุดในอาเซียน
 * **Correct Answer**: ก
-* **Explanation**: Cross-referencing multiple sources helps eliminate individual bias and reconstruct a balanced historical reality.
+* **Explanation**: สปป.ลาว เป็นประเทศเดียวในอาเซียนที่ไม่มีทางออกสู่ทะเล มีแม่น้ำโขงเป็นแม่น้ำสายสำคัญ
+
 #### ข้อ 34
-* **Topic**: Written vs Non-Written Evidence
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Easy
-* **Prompt**: Which historical item is classified as 'Written Evidence' (หลักฐานที่เป็นลายลักษณ์อักษร)?
-* ก. Royal decrees recorded on palm leaves (ใบลาน)
-* ข. Ancient terracotta roof tiles
-* ค. Stone spearheads from the Paleolithic era
-* ง. Gold ornaments excavated from ancient crypts
+* **Topic**: ประเทศเพื่อนบ้าน - เมียนมา
+* **Learning Objective**: LO-HIS3
+* **Difficulty**: Medium
+* **Prompt**: มรดกทางวัฒนธรรมและความเชื่อที่สำคัญยิ่งของประชาชนชาวเมียนมา (พม่า) คือสถานที่ใด?
+* ก. มหาเจดีย์ชเวดากอง
+* ข. นครวัด
+* ค. บโรพุทโธ
+* ง. พระธาตุหลวง
 * **Correct Answer**: ก
-* **Explanation**: Palm-leaf manuscripts, inscriptions, letters, and archives containing written script are written evidence.
+* **Explanation**: มหาเจดีย์ชเวดากอง ณ เมืองย่างกุ้ง เป็นศูนย์รวมจิตใจและเจดีย์ทองคำอันศักดิ์สิทธิ์ของชาวเมียนมา
+
 #### ข้อ 35
-* **Topic**: Historical Interpretation
-* **Learning Objective**: LO-HIS2
+* **Topic**: ประเทศเพื่อนบ้าน - กัมพูชา
+* **Learning Objective**: LO-HIS3
 * **Difficulty**: Medium
-* **Prompt**: What does Step 4: Data Interpretation (การตีความข้อมูล) require a historian to do?
-* ก. Analyze the underlying meaning of verified facts objectively without personal prejudice
-* ข. Invent fictional stories to fill gaps in historical records
-* ค. Change original historical dates to fit modern calendars
-* ง. Select only facts that support a predetermined political opinion
+* **Prompt**: สิ่งก่อสร้างปราสาทหินขนาดใหญ่และได้รับยกย่องเป็น 1 ใน 7 สิ่งมหัศจรรย์ของโลกในกัมพูชา คือสถานที่ใด?
+* ก. ปราสาทนครวัด (พนมเปญ/เสียมราฐ)
+* ข. พระธาตุหลวง
+* ค. เจดีย์ชเวดากอง
+* ง. ภูเขาทอง
 * **Correct Answer**: ก
-* **Explanation**: Data interpretation involves analyzing proven historical facts with academic objectivity to understand cause-and-effect relationships.
+* **Explanation**: ปราสาทนครวัด (Angkor Wat) ในกัมพูชาเป็นสถาปัตยกรรมขอมโบราณอันยิ่งใหญ่และเป็นมรดกโลก
+
 #### ข้อ 36
-* **Topic**: Historical Bias
-* **Learning Objective**: LO-HIS2
+* **Topic**: ประเทศเพื่อนบ้าน - มาเลเซีย
+* **Learning Objective**: LO-HIS3
 * **Difficulty**: Medium
-* **Prompt**: When reading a war report written by a victorious general, a historian should be cautious of:
-* ก. Exaggeration of enemy casualties and minimization of own army losses due to bias
-* ข. The color of the paper used in modern printing presses
-* ค. The price of the book in retail bookstores
-* ง. The font size of the English translation
+* **Prompt**: ประเทศมาเลเซีย มีลักษณะประชากรและวัฒนธรรมที่หลากหลาย (Multicultural) ประกอบด้วยเชื้อชาติหลักใดบ้าง?
+* ก. มลายู จีน และอินเดีย
+* ข. ไทย ฝรั่งเศส และรัสเซีย
+* ค. ญี่ปุ่น เกาหลี และอาหรับ
+* ง. พม่า ลาว และเวียดนาม
 * **Correct Answer**: ก
-* **Explanation**: War accounts by victors frequently contain self-serving bias, requiring careful internal criticism by historians.
+* **Explanation**: มาเลเซียเป็นสังคมพหุวัฒนธรรม มีชาวมลายู (นับถือศาสนาอิสลาม) ชาวจีน และชาวอินเดียเป็นกลุ่มประชากรหลัก
+
 #### ข้อ 37
-* **Topic**: Ban Chiang Archaeological Site
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Easy
-* **Prompt**: Ban Chiang in Udon Thani is world-famous for providing primary archaeological evidence of:
-* ก. Prehistoric painted pottery and early bronze metallurgy in Southeast Asia
-* ข. Ayutthaya period royal palaces
-* ค. Rattanakosin period steam locomotives
-* ง. Sukhothai stone inscriptions
+* **Topic**: ระบอบการปกครองประเทศเพื่อนบ้าน
+* **Learning Objective**: LO-HIS3
+* **Difficulty**: Medium
+* **Prompt**: ประเทศใดในภูมิภาคเอเชียตะวันออกเฉียงใต้ที่มีระบอบการปกครองแบบ 'สังคมนิยมคอมมิวนิสต์'?
+* ก. ลาว และ เวียดนาม
+* ข. ไทย และ มาเลเซีย
+* ค. สิงคโปร์ และ ฟิลิปปินส์
+* ง. อินโดนีเซีย และ บรูไน
 * **Correct Answer**: ก
-* **Explanation**: Ban Chiang is a UNESCO World Heritage site known for prehistoric bronze age technology and painted pottery.
+* **Explanation**: สปป.ลาว และ สาธารณรัฐสังคมนิยมเวียดนาม ปกครองด้วยระบอบสังคมนิยมคอมมิวนิสต์ โดยมีพรรคการเมืองเดียว
+
 #### ข้อ 38
-* **Topic**: Historical Facts vs Opinions
-* **Learning Objective**: LO-HIS2
+* **Topic**: ระบอบการปกครองประเทศเพื่อนบ้าน
+* **Learning Objective**: LO-HIS3
 * **Difficulty**: Medium
-* **Prompt**: Which statement represents a historical 'Fact' rather than an opinion?
-* ก. King Ramkhamhaeng established the Thai alphabet inscription in 1826 B.E. (1283 C.E.)
-* ข. Sukhothai was the most fun kingdom in human history
-* ค. Ancient soldiers were much braver than modern people
-* ง. Ayutthaya architecture is prettier than European castles
+* **Prompt**: ประเทศใดในอาเซียนที่มีรูปแบบการปกครองระบอบสมบูรณาญาสิทธิราชย์โดยมีสมเด็จพระราชาธิบดีทรงเป็นประมุขและหัวหน้ารัฐบาล?
+* ก. บรูไนดารุสซาลาม
+* ข. ฟิลิปปินส์
+* ค. สิงคโปร์
+* ง. ติมอร์-เลสเต
 * **Correct Answer**: ก
-* **Explanation**: Verifiable dates and documented historical events represent facts, whereas subjective claims are opinions.
+* **Explanation**: บรูไนดารุสซาลาม ปกครองด้วยระบอบสมบูรณาญาสิทธิราชย์ มีซุลต่าน (สมเด็จพระราชาธิบดี) เป็นประมุข
+
 #### ข้อ 39
-* **Topic**: Local History Evidence
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Medium
-* **Prompt**: If a student wants to study the history of their home village, what local primary source would be most valuable?
-* ก. Oral interviews with elderly village founders and old local temple records
-* ข. A national world geography atlas published in London
-* ค. A futuristic sci-fi novel about space exploration
-* ง. A modern fashion magazine
+* **Topic**: ศูนย์กลางเศรษฐกิจและเทคโนโลยี
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Easy
+* **Prompt**: ประเทศเกาะขนาดเล็กในอาเซียนที่มีความก้าวหน้าทางเศรษฐกิจ การเงิน และการท่าเรือระดับโลกคือประเทศใด?
+* ก. สิงคโปร์
+* ข. กัมพูชา
+* ค. เมียนมา
+* ง. ลาว
 * **Correct Answer**: ก
-* **Explanation**: Local oral histories from village elders, old family photos, and local temple registers provide direct primary evidence.
+* **Explanation**: สิงคโปร์เป็นประเทศศูนย์กลางทางการเงิน ท่าเรือพาณิชย์ และเทคโนโลยีระดับนำของภูมิภาคและของโลก
+
 #### ข้อ 40
-* **Topic**: Importance of Historical Method
-* **Learning Objective**: LO-HIS2
+* **Topic**: ประเทศหมู่เกาะขนาดใหญ่
+* **Learning Objective**: LO-HIS3
 * **Difficulty**: Medium
-* **Prompt**: Why is applying the Historical Method essential for historical study?
-* ก. It ensures historical conclusions are grounded in reliable, verified evidence rather than rumors or myths
-* ข. It guarantees that historical research can be completed in under 5 minutes
-* ค. It allows researchers to rewrite history without needing evidence
-* ง. It eliminates the need to read old documents
+* **Prompt**: ประเทศใดในอาเซียนที่เป็นประเทศหมู่เกาะขนาดใหญ่ที่สุดในโลก และมีประชากรนับถือศาสนาอิสลามมากที่สุด?
+* ก. อินโดนีเซีย
+* ข. ฟิลิปปินส์
+* ค. มาเลเซีย
+* ง. ไทย
 * **Correct Answer**: ก
-* **Explanation**: The Historical Method provides a rigorous scientific framework to discover truth and prevent unverified myths from being accepted as history.
+* **Explanation**: อินโดนีเซียประกอบด้วยเกาะมากกว่า 17,000 เกาะ และเป็นประเทศที่มีมุสลิมมากที่สุดในโลก
+
 #### ข้อ 41
-* **Topic**: Thailand's Neighbors - Myanmar
+* **Topic**: ศาสนาในเอเชียตะวันออกเฉียงใต้
 * **Learning Objective**: LO-HIS3
-* **Difficulty**: Easy
-* **Prompt**: What is the official capital city of Myanmar (เมียนมา) today?
-* ก. Yangon (Rangoon)
-* ข. Naypyidaw (เนปยีดอ)
-* ค. Mandalay
-* ง. Bagan
-* **Correct Answer**: ข
-* **Explanation**: Naypyidaw replaced Yangon as the official administrative capital of Myanmar in 2005.
+* **Difficulty**: Medium
+* **Prompt**: ประเทศฟิลิปปินส์ ประชาชนส่วนใหญ่นับถือศาสนาใด ซึ่งได้รับอิทธิพลจากประเทศสเปนที่เคยเข้ามายึดครอง?
+* ก. คริสต์ศาสนา (นิกายโรมันคาทอลิก)
+* ข. พระพุทธศาสนา
+* ค. ศาสนาอิสลาม
+* ง. ศาสนาพราหมณ์-ฮินดู
+* **Correct Answer**: ก
+* **Explanation**: ฟิลิปปินส์ตกเป็นตกเป็นเมืองขึ้นของสเปนกว่า 300 ปี ทำให้ประชากรส่วนใหญ่นับถือคริสต์นิกายโรมันคาทอลิก
+
 #### ข้อ 42
-* **Topic**: Thailand's Neighbors - Laos
+* **Topic**: ประวัติศาสตร์การล่าอาณานิคม
 * **Learning Objective**: LO-HIS3
-* **Difficulty**: Easy
-* **Prompt**: Which historical kingdom is recognized as the ancient historical predecessor of modern Laos?
-* ก. Lan Xang Kingdom (อาณาจักรล้านช้าง)
-* ข. Khmer Empire
-* ค. Majapahit Empire
-* ง. Srivijaya Kingdom
+* **Difficulty**: Hard
+* **Prompt**: ประเทศเดียวในภูมิภาคเอเชียตะวันออกเฉียงใต้ที่ 'ไม่เคยตกเป็นตกเป็นเมืองขึ้น (อาณานิคม)' ของชาติตะวันตกคือประเทศใด?
+* ก. ประเทศไทย (สยาม)
+* ข. เมียนมา
+* ค. เวียดนาม
+* ง. อินโดนีเซีย
 * **Correct Answer**: ก
-* **Explanation**: The Lan Xang Kingdom (Kingdom of a Million Elephants) founded by King Fa Ngum is the historical ancestor of modern Laos.
+* **Explanation**: ประเทศไทย (สยาม) ดำเนินนโยบายการต่างประเทศอย่างชาญฉลาดและปฏิรูปประเทศในสมัย ร.5 จนรักษาเอกราชไว้ได้
+
 #### ข้อ 43
-* **Topic**: Thailand's Neighbors - Laos Capital
-* **Learning Objective**: LO-HIS3
+* **Topic**: อาเซียน - การก่อตั้ง
+* **Learning Objective**: LO-HIS4
 * **Difficulty**: Easy
-* **Prompt**: What is the capital city of the Lao People's Democratic Republic (สปป. ลาว)?
-* ก. Vientiane (เวียงจันทน์)
-* ข. Luang Prabang
-* ค. Pakse
-* ง. Savannakhet
+* **Prompt**: สมาคมประชาชาติแห่งเอเชียตะวันออกเฉียงใต้ (ASEAN) ก่อตั้งขึ้นอย่างเป็นทางการ ณ เมืองหลวงของประเทศใด?
+* ก. กรุงเทพมหานคร ประเทศไทย (ปฏิญญากรุงเทพฯ พ.ศ. 2510)
+* ข. กรุงจาการ์ตา ประเทศอินโดนีเซีย
+* ค. กรุงกัวลาลัมเปอร์ ประเทศมาเลเซีย
+* ง. กรุงมะนิลา ประเทศฟิลิปปินส์
 * **Correct Answer**: ก
-* **Explanation**: Vientiane is the capital and largest city of Laos.
+* **Explanation**: อาเซียนก่อตั้งขึ้นเมื่อวันที่ 8 สิงหาคม พ.ศ. 2510 ณ พระราชวังพญาไท กรุงเทพฯ โดยการลงนาม 'ปฏิญญากรุงเทพฯ'
+
 #### ข้อ 44
-* **Topic**: Thailand's Neighbors - Cambodia
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Easy
-* **Prompt**: Which world-famous ancient stone temple monument complex is located in Cambodia?
-* ก. Angkor Wat (ปราสาทนครวัด)
-* ข. Borobudur
-* ค. Shwedagon Pagoda
-* ง. Bagan Stupas
+* **Topic**: อาเซียน - ประเทศผู้ก่อตั้ง
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Medium
+* **Prompt**: ข้อใดคือ 5 ประเทศสมาชิกผู้ร่วมก่อตั้งสมาคมอาเซียนในยุคเริ่มแรก?
+* ก. ไทย, อินโดนีเซีย, มาเลเซีย, ฟิลิปปินส์, สิงคโปร์
+* ข. ไทย, ลาว, กัมพูชา, เวียดนาม, พม่า
+* ค. บรูไน, ติมอร์, สิงคโปร์, ไทย, เวียดนาม
+* ง. จีน, ญี่ปุ่น, เกาหลีใต้, ไทย, อินเดีย
 * **Correct Answer**: ก
-* **Explanation**: Angkor Wat in Siem Reap, Cambodia, is one of the largest and most famous religious monuments in the world.
+* **Explanation**: 5 ประเทศผู้ก่อตั้ง ได้แก่ ไทย อินโดนีเซีย มาเลเซีย ฟิลิปปินส์ และสิงคโปร์
+
 #### ข้อ 45
-* **Topic**: Thailand's Neighbors - Malaysia Religion
-* **Learning Objective**: LO-HIS3
+* **Topic**: สัญลักษณ์ของอาเซียน
+* **Learning Objective**: LO-HIS4
 * **Difficulty**: Easy
-* **Prompt**: What is the official state religion of Malaysia?
-* ก. Buddhism
-* ข. Islam
-* ค. Christianity
-* ง. Hinduism
-* **Correct Answer**: ข
-* **Explanation**: Islam is the official constitutional religion of Malaysia.
+* **Prompt**: สัญลักษณ์ต้นข้าวสีเหลือง 10 ต้นมัดรวมกัน ในรวงข้าวอาเซียน หมายถึงสิ่งใด?
+* ก. ความมุ่งมั่นของ 10 ประเทศสมาชิกอาเซียนที่ผูกพันกันด้วยมิตรภาพและความเป็นน้ำหนึ่งใจเดียวกัน
+* ข. จำนวนสปีชีส์ของพันธุ์ข้าวไทยที่ส่งออกมากที่สุด
+* ค. จำนวนทวีปทั่วโลก
+* ง. จำนวนปีที่ใช้ในการก่อตั้งองค์กร
+* **Correct Answer**: ก
+* **Explanation**: รวงข้าวสีเหลือง 10 ต้น มัดรวมกัน หมายถึง ประเทศสมาชิกทั้ง 10 ประเทศที่ร่วมมือและผูกพันกันอย่างมั่นคง
+
 #### ข้อ 46
-* **Topic**: Thailand's Neighbors - Malaysia Capital
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Easy
-* **Prompt**: What is the federal capital city of Malaysia?
-* ก. Kuala Lumpur
-* ข. George Town
-* ค. Johor Bahru
-* ง. Malacca
-* **Correct Answer**: ก
-* **Explanation**: Kuala Lumpur is the federal capital and main commercial hub of Malaysia.
+* **Topic**: 3 เสาหลักอาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Medium
+* **Prompt**: ประชาคมอาเซียน (ASEAN Community) ขับเคลื่อนความร่วมมือผ่าน 3 เสาหลัก ข้อใด 'ไม่ใช่' 3 เสาหลักอาเซียน?
+* ก. ประชาคมการเมืองและความมั่นคงอาเซียน (APSC)
+* ข. ประชาคมเศรษฐกิจอาเซียน (AEC)
+* ค. ประชาคมสังคมและวัฒนธรรมอาเซียน (ASCC)
+* ง. ประชาคมอุตสาหกรรมอวกาศและการทหารระดับโลก (AWC)
+* **Correct Answer**: ง
+* **Explanation**: 3 เสาหลักอาเซียน ได้แก่ 1. การเมืองและความมั่นคง (APSC) 2. เศรษฐกิจ (AEC) 3. สังคมและวัฒนธรรม (ASCC)
+
 #### ข้อ 47
-* **Topic**: Government Systems - Constitutional Monarchy
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Medium
-* **Prompt**: Which group of Southeast Asian countries share a Constitutional Monarchy system where a King is Head of State under constitution?
-* ก. Thailand, Cambodia, and Malaysia
-* ข. Vietnam, Laos, and Myanmar
-* ค. Singapore, Philippines, and Indonesia
-* ง. Brunei, Vietnam, and Laos
+* **Topic**: วัตถุประสงค์ของการก่อตั้งอาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Easy
+* **Prompt**: เป้าหมายสำคัญที่สุดของการรวมกลุ่มกันเป็นประชาคมอาเซียนคือข้อใด?
+* ก. เพื่อสร้างความสันติภาพ สอดส่องความมั่นคง ส่งเสริมเจริญเติบโตทางเศรษฐกิจและวัฒนธรรมในภูมิภาค
+* ข. เพื่อทำสงครามสู้รบกับมหาอำนาจชาติตะวันตก
+* ค. เพื่อยกเลิกภาษาท้องถิ่นและใช้ภาษาเดียวเหมือนกันหมด
+* ง. เพื่อตั้งกฎหมายบังคับเปลี่ยนศาสนาแก่ประชาชน
 * **Correct Answer**: ก
-* **Explanation**: Thailand, Cambodia, and Malaysia operating under constitutional monarchy systems (Malaysia uses a rotational monarchy system among hereditary rulers).
+* **Explanation**: อาเซียนเน้นสันติภาพ เสถียรภาพ การพัฒนาเศรษฐกิจ สังคม และความร่วมมือในภูมิภาค
+
 #### ข้อ 48
-* **Topic**: Government Systems - Republic
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Medium
-* **Prompt**: Which neighboring Southeast Asian country is governed as a Republic with an elected President as Head of State?
-* ก. Myanmar and Indonesia
-* ข. Thailand
-* ค. Cambodia
-* ง. Brunei Darussalam
+* **Topic**: คำขวัญของอาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Easy
+* **Prompt**: คำขวัญอย่างเป็นทางการของสมาคมอาเซียนคือข้อใด?
+* ก. One Vision, One Identity, One Community (หนึ่งวิสัยทัศน์ หนึ่งอัตลักษณ์ หนึ่งประชาคม)
+* ข. Unity is Strength (ความสามัคคีคือพลัง)
+* ค. Land of Smiles (สยามเมืองยิ้ม)
+* ง. Peace and Freedom for All (สันติภาพและเสรีภาพเพื่อทุกคน)
 * **Correct Answer**: ก
-* **Explanation**: Myanmar, Indonesia, Singapore, and the Philippines operate as Republics with Presidents as Heads of State.
+* **Explanation**: คำขวัญอาเซียนคือ 'One Vision, One Identity, One Community' (หนึ่งวิสัยทัศน์ หนึ่งอัตลักษณ์ หนึ่งประชาคม)
+
 #### ข้อ 49
-* **Topic**: Government Systems - Socialist State
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Medium
-* **Prompt**: What form of government system is practiced in Laos and Vietnam?
-* ก. Socialist / Communist Republic (ระบอบสังคมนิยมคอมมิวนิสต์)
-* ข. Absolute Monarchy
-* ค. Federal Constitutional Republic with King
-* ง. Parliamentary Oligarchy
+* **Topic**: ภาษาทางการของอาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Easy
+* **Prompt**: ภาษาที่ใช้เป็นภาษากลางในการทำงานและการประชุมทางการขององค์กรอาเซียนคือภาษาใด?
+* ก. ภาษาอังกฤษ
+* ข. ภาษาไทย
+* ค. ภาษามลายู
+* ง. ภาษาจีนกลาง
 * **Correct Answer**: ก
-* **Explanation**: Both Laos and Vietnam are single-party Socialist/Communist Republics.
+* **Explanation**: กฎบัตรอาเซียนกำหนดให้ 'ภาษาอังกฤษ' เป็นภาษาที่ใช้ในการทำงาน (Working Language) ของอาเซียน
+
 #### ข้อ 50
-* **Topic**: Thailand's Bordering Countries
-* **Learning Objective**: LO-HIS3
+* **Topic**: วันอาเซียน
+* **Learning Objective**: LO-HIS4
 * **Difficulty**: Easy
-* **Prompt**: Thailand shares land borders with four neighboring countries. Which of the following does NOT share a land border with Thailand?
-* ก. Vietnam
-* ข. Myanmar
-* ค. Laos
-* ง. Malaysia
+* **Prompt**: วันอาเซียน (ASEAN Day) ตรงกับวันที่เท่าใดของทุกปี?
+* ก. 8 สิงหาคม
+* ข. 13 เมษายน
+* ค. 5 ธันวาคม
+* ง. 1 มกราคม
 * **Correct Answer**: ก
-* **Explanation**: Vietnam does not share a direct physical land border with Thailand (separated by Laos and Cambodia).
+* **Explanation**: วันที่ 8 สิงหาคมของทุกปีเป็นวันอาเซียน เพื่อระลึกถึงวันลงนามก่อตั้งปฏิญญากรุงเทพฯ พ.ศ. 2510
+
 #### ข้อ 51
-* **Topic**: ASEAN Founding Year
+* **Topic**: ประโยชน์ที่ไทยได้รับจากอาเซียน
 * **Learning Objective**: LO-HIS4
-* **Difficulty**: Easy
-* **Prompt**: In which year was the Association of Southeast Asian Nations (ASEAN / สมาคมอาเซียน) founded by the Bangkok Declaration?
-* ก. 1967 (พ.ศ. 2510)
-* ข. 1945
-* ค. 1999
-* ง. 2015
+* **Difficulty**: Medium
+* **Prompt**: ประเทศไทยได้รับประโยชน์ทางเศรษฐกิจอย่างไรจากการเป็นสมาชิกประชาคมเศรษฐกิจอาเซียน (AEC)?
+* ก. ขยายตลาดการค้าและการส่งออก ลดภาษีศุลกากรระหว่างสมาชิก และดึงดูดการท่องเที่ยว/ลงทุน
+* ข. ทำให้ไม่ต้องทำเกษตรกรรมอีกต่อไป
+* ค. ได้รับการยกเว้นไม่เสียค่าน้ำค่าไฟตลอดไป
+* ง. บังคับให้ทุกประเทศต้องใช้เงินบาทไทยเป็นเงินตราหลัก
 * **Correct Answer**: ก
-* **Explanation**: ASEAN was officially established on August 8, 1967, with the signing of the Bangkok Declaration in Thailand.
+* **Explanation**: AEC ช่วยเปิดตลาดเสรีการค้าและการบริการ ลดภาษี ทำให้ไทยส่งออกสินค้าและดึงดูดการท่องเที่ยวและลงทุนง่ายขึ้น
+
 #### ข้อ 52
-* **Topic**: ASEAN Founding Members
+* **Topic**: ความร่วมมือด้านสังคมและวัฒนธรรม
 * **Learning Objective**: LO-HIS4
 * **Difficulty**: Medium
-* **Prompt**: How many original founding member nations signed the Bangkok Declaration establishing ASEAN in 1967?
-* ก. 5 nations (Thailand, Malaysia, Indonesia, Philippines, Singapore)
-* ข. 10 nations
-* ค. 3 nations
-* ง. 12 nations
+* **Prompt**: การแลกเปลี่ยนวัฒนธรรม การแข่งขันกีฬาซีเกมส์ (SEA Games) จัดเป็นความร่วมมืออาเซียนตามเสาหลักใด?
+* ก. ประชาคมสังคมและวัฒนธรรมอาเซียน (ASCC)
+* ข. ประชาคมการเมืองและความมั่นคงอาเซียน (APSC)
+* ค. ประชาคมเศรษฐกิจอาเซียน (AEC)
+* ง. สภาการเงินและตลาดหลักทรัพย์แห่งเอเชีย
 * **Correct Answer**: ก
-* **Explanation**: The 5 founding nations were Thailand, Malaysia, Indonesia, Philippines, and Singapore.
+* **Explanation**: กีฬา ศิลปะ การศึกษา สิ่งแวดล้อม การหล่อหลอมจิตใจ จัดอยู่ในเสาหลักสังคมและวัฒนธรรม (ASCC)
+
 #### ข้อ 53
-* **Topic**: ASEAN Member Count
+* **Topic**: กฎบัตรอาเซียน
 * **Learning Objective**: LO-HIS4
-* **Difficulty**: Easy
-* **Prompt**: How many full member countries comprise ASEAN today?
-* ก. 10 countries
-* ข. 5 countries
-* ค. 15 countries
-* ง. 20 countries
+* **Difficulty**: Medium
+* **Prompt**: 'กฎบัตรอาเซียน' (ASEAN Charter) มีความสำคัญเปรียบเสมือนสิ่งใดขององค์กรอาเซียน?
+* ก. เปรียบเสมือน 'รัฐธรรมนูญ' ที่วางกรอบกฎหมาย โครงสร้าง และกติกาการทำงานของอาเซียน
+* ข. เป็นหนังสือการ์ตูนประวัติศาสตร์
+* ค. เป็นพาสปอร์ตเดินทางฟรีทั่วโลก
+* ง. เป็นใบรับรองมาตรฐานสินค้า OTOP
 * **Correct Answer**: ก
-* **Explanation**: ASEAN consists of 10 member nations across Southeast Asia.
+* **Explanation**: กฎบัตรอาเซียนทำให้อาเซียนมีสถานะเป็นนิติบุคคลและมีกฎเกณฑ์ธรรมนูญชัดเจน
+
 #### ข้อ 54
-* **Topic**: ASEAN Motto
+* **Topic**: สำนักเลขาธิการอาเซียน
 * **Learning Objective**: LO-HIS4
-* **Difficulty**: Easy
-* **Prompt**: What is the official motto of ASEAN?
-* ก. One Vision, One Identity, One Community
-* ข. Peace, Wealth, Power
-* ค. Global Unity and Trade Supremacy
-* ง. Freedom, Equality, Brotherhood
+* **Difficulty**: Medium
+* **Prompt**: สำนักงานเลขาธิการอาเซียน (ASEAN Secretariat) ตั้งอยู่ที่เมืองหลวงของประเทศใด?
+* ก. กรุงจาการ์ตา ประเทศอินโดนีเซีย
+* ข. กรุงเทพมหานคร ประเทศไทย
+* ค. กรุงฮานอย ประเทศเวียดนาม
+* ง. กรุงดิลี ประเทศติมอร์-เลสเต
 * **Correct Answer**: ก
-* **Explanation**: 'One Vision, One Identity, One Community' is the official ASEAN motto.
+* **Explanation**: สำนักงานเลขาธิการอาเซียนตั้งอยู่ที่กรุงจาการ์ตา ประเทศอินโดนีเซีย
+
 #### ข้อ 55
-* **Topic**: ASEAN Emblem
+* **Topic**: ประเทศสมาชิกอาเซียนล่าสุด
 * **Learning Objective**: LO-HIS4
 * **Difficulty**: Medium
-* **Prompt**: What does the central symbol of 10 yellow paddy stalks (รวงข้าวสีทอง 10 รวง) on the ASEAN flag represent?
-* ก. The 10 member nations bound together in friendship and solidarity
-* ข. The 10 main rivers of Southeast Asia
-* ค. The 10 major crops exported to Europe
-* ง. The 10 founding kings of ancient Asian empires
+* **Prompt**: ประเทศสมาชิกล่าสุดลำดับที่ 10 ที่เข้าเป็นสมาชิกอาเซียนเมื่อ พ.ศ. 2542 คือประเทศใด?
+* ก. กัมพูชา
+* ข. เวียดนาม
+* ค. ลาว
+* ง. เมียนมา
 * **Correct Answer**: ก
-* **Explanation**: The 10 golden rice stalks represent the 10 Southeast Asian nations bound together in solidarity.
+* **Explanation**: กัมพูชาเข้าเป็นสมาชิกลำดับที่ 10 เมื่อปี พ.ศ. 2542 (ต่อจากเวียดนาม ลาว พม่า)
+
 #### ข้อ 56
-* **Topic**: ASEAN Community Pillars
+* **Topic**: ความหลากหลายทางวัฒนธรรมในอาเซียน
 * **Learning Objective**: LO-HIS4
-* **Difficulty**: Medium
-* **Prompt**: The ASEAN Community consists of three core pillars. Which of the following is NOT one of the three pillars?
-* ก. ASEAN Space Exploration Community
-* ข. ASEAN Political-Security Community (APSC)
-* ค. ASEAN Economic Community (AEC)
-* ง. ASEAN Socio-Cultural Community (ASCC)
+* **Difficulty**: Easy
+* **Prompt**: การปรับตัวของเด็กนักเรียนในการเตรียมพร้อมสู่การเป็น 'พลเมืองอาเซียน' ควรปฏิบัติตนอย่างไร?
+* ก. เรียนรู้ภาษาอังกฤษและภาษาเพื่อนบ้าน ยอมรับความหลากหลายทางวัฒนธรรมและเคารพผู้อื่น
+* ข. มองข้ามและดูถูกวัฒนธรรมของประเทศเพื่อนบ้าน
+* ค. เลิกเรียนวิชาประวัติศาสตร์ไทย
+* ง. ปฏิเสธการคบหาสมาคมกับชาวต่างชาติ
 * **Correct Answer**: ก
-* **Explanation**: The 3 ASEAN pillars are Political-Security (APSC), Economic (AEC), and Socio-Cultural (ASCC).
+* **Explanation**: การเป็นพลเมืองอาเซียนต้องเปิดใจเคารพความหลากหลาย ฝึกภาษา และมีน้ำใจมิตรภาพ
+
 #### ข้อ 57
-* **Topic**: Economic Development - Singapore
+* **Topic**: ทรัพยากรและเศรษฐกิจของเพื่อนบ้าน
 * **Learning Objective**: LO-HIS3
 * **Difficulty**: Medium
-* **Prompt**: Why is Singapore recognized as an economic leader in Southeast Asia despite its small land size?
-* ก. It developed an advanced financial hub, strategic global port, and high-tech service economy
-* ข. It possesses the largest oil reserves in the world
-* ค. It relies exclusively on agricultural rice exports
-* ง. It has no foreign trade connections
+* **Prompt**: ประเทศเวียดนาม มีสินค้าส่งออกทางเกษตรกรรมที่สำคัญและเป็นคู่แข่งสำคัญของไทยในตลาดโลกคือสินค้าใด?
+* ก. ข้าว และ กาแฟ
+* ข. ยางพารา และ น้ำมันดิบ
+* ค. ทุเรียน และ มะพร้าว
+* ง. ข้าวมอลต์ และ แอปเปิล
 * **Correct Answer**: ก
-* **Explanation**: Singapore leveraged strategic location, human capital, financial infrastructure, and shipping logistics to achieve high economic status.
+* **Explanation**: เวียดนามเป็นผู้ส่งออกข้าวและกาแฟรายใหญ่ระดับโลก
+
 #### ข้อ 58
-* **Topic**: Cultural Diversity in ASEAN
-* **Learning Objective**: LO-HIS4
-* **Difficulty**: Medium
-* **Prompt**: Why is Southeast Asia recognized as one of the most culturally diverse regions in the world?
-* ก. Due to centuries of trade, migration, and coexistence of major religions (Buddhism, Islam, Christianity, Hinduism)
-* ข. Because all countries speak the exact same dialect
-* ค. Because foreign visitors are banned from entering
-* ง. Because no historical events occurred before 1900
+* **Topic**: การเรียนรู้ประวัติศาสตร์เพื่อนบ้าน
+* **Learning Objective**: LO-HIS3
+* **Difficulty**: Easy
+* **Prompt**: ประโยชน์สำคัญที่สุดของการศึกษาประวัติศาสตร์และวัฒนธรรมของประเทศเพื่อนบ้านคือข้อใด?
+* ก. สร้างความเข้าใจอันดี ลดอคติ ขัดแย้ง และส่งเสริมความร่วมมือมิตรภาพยั่งยืน
+* ข. เพื่อหาวิธีข่มขู่แข่งขันทำสงคราม
+* ค. เพื่อเลียนแบบวิถีชีวิตจนลืมความเป็นไทย
+* ง. เพื่อโต้เถียงชนะในโซเชียลมีเดีย
 * **Correct Answer**: ก
-* **Explanation**: Crossroad maritime geography brought diverse religious traditions, languages, and ethnic heritage across Southeast Asia.
+* **Explanation**: ช่วยสร้างความเข้าใจ เรียนรู้อดีตเพื่อก้าวข้ามความขัดแย้ง และกระชับสัมพันธไมตรีดีต่อกัน
+
 #### ข้อ 59
-* **Topic**: Benefits of ASEAN Economic Community (AEC)
-* **Learning Objective**: LO-HIS4
+* **Topic**: ความสัมพันธ์ทางประวัติศาสตร์ไทย-เพื่อนบ้าน
+* **Learning Objective**: LO-HIS3
 * **Difficulty**: Medium
-* **Prompt**: How does the ASEAN Economic Community (AEC) benefit member countries?
-* ก. By promoting free flow of goods, services, investment, skilled labor, and regional economic integration
-* ข. By imposing high tariffs on all goods traded between neighboring member states
-* ค. By forcing all citizens to use a single currency printed in Europe
-* ง. By prohibiting regional tourism between member states
+* **Prompt**: ในอดีต อาณาจักรล้านช้าง (ปัจจุบันคือ สปป.ลาว) มีความสัมพันธ์อันแน่นแฟ้นกับไทยทางวัฒนธรรมและศาสนา ดังปรากฏหลักฐานโบราณสถานใดร่วมกัน?
+* ก. พระธาตุศรีสองรัก (อำเภอด่านซ้าย จังหวัดเลย)
+* ข. ปราสาทหินพนมรุ้ง
+* ค. วัดพระแก้ว
+* ง. เจดีย์สามองค์
 * **Correct Answer**: ก
-* **Explanation**: AEC facilitates regional trade, investment flow, reduced tariffs, and economic collaboration across the 10 member states.
+* **Explanation**: พระธาตุศรีสองรักสร้างขึ้นในสมัยอยุธยาและล้านช้าง เป็นอนุสรณ์แห่งสัมพันธไมตรีไม่จองเวรกัน
+
 #### ข้อ 60
-* **Topic**: Thailand's Role in ASEAN
+* **Topic**: อนาคตของอาเซียน
 * **Learning Objective**: LO-HIS4
-* **Difficulty**: Medium
-* **Prompt**: What key historical role did Thailand play in the creation of ASEAN?
-* ก. Thailand hosted the signing of the founding Bangkok Declaration in 1967 and acted as a key regional mediator
-* ข. Thailand opposed the formation of any regional association
-* ค. Thailand joined ASEAN as the 10th member in 1999
-* ง. Thailand demanded to relocate ASEAN headquarters to North America
+* **Difficulty**: Easy
+* **Prompt**: ข้อใดคือแนวทางการพัฒนาภูมิภาคอาเซียนให้เข้มแข็งในอนาคต?
+* ก. ส่งเสริมสันติภาพ นวัตกรรม การศึกษา และความร่วมมือในการรับมือภัยพิบัติและสิ่งแวดล้อม
+* ข. การปิดประเทศไม่ติดต่อค้าขายกับภายนอก
+* ค. การยกเลิกการใช้เทคโนโลยีสารสนเทศ
+* ง. การแข่งขันลดราคาสินค้าเพื่อตัดราคาเพื่อนบ้าน
 * **Correct Answer**: ก
-* **Explanation**: Thailand hosted the 1967 founding meeting in Bangkok, under Foreign Minister Thanat Khoman, establishing ASEAN.
+* **Explanation**: การพัฒนาอย่างยั่งยืน เน้นนวัตกรรม สันติภาพ และแก้ปัญหาร่วมกันในยุคดิจิทัล
 
-# Section B: True / False Questions (ถูก / ผิด 30 ข้อ)
+# Section B: True / False Questions (ถูก / ผิด)
 
-<!--
-RULES Section B:
-- ข้อ 61–90 (30 ข้อ, 1 คะแนน/ข้อ)
-- **Correct Answer**: True | False
--->
 #### ข้อ 61
-* **Topic**: Buddhism & Thai Culture
+* **Topic**: พุทธประวัติ
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Easy
-* **Statement**: Buddhism is recognized as a fundamental pillar of Thai national identity and cultural heritage.
-* **Correct Answer**: True
-* **Explanation**: Buddhism deeply permeates Thai architecture, literature, social etiquette, and national traditions.
+* **Statement**: พระพุทธเจ้าเสด็จดับขันธปรินิพพาน ณ สาลวโนทยาน เมืองกุสินารา
+* **Answer**: True
+* **Explanation**: ทรงปรินิพพานใต้ต้นสาระคู่ เมืองกุสินารา ในวันเพ็ญเดือน 6
+
 #### ข้อ 62
-* **Topic**: Buddha's Life - Relinquishing Life
+* **Topic**: พุทธประวัติ
 * **Learning Objective**: LO-HIS1
-* **Difficulty**: Medium
-* **Statement**: The Buddha announced his intention to attain Parinibbana in three months while staying at Pavala Cetiya in Vesali.
-* **Correct Answer**: True
-* **Explanation**: This event is known as the Relinquishing of Life Duration (ปลงอายุสังขาร) at Pavala Cetiya.
+* **Difficulty**: Easy
+* **Statement**: โทณพราหมณ์ทำหน้าที่ไกล่เกลี่ยและแบ่งพระบรมสารีริกธาตุให้แก่กษัตริย์เมืองต่าง ๆ
+* **Answer**: True
+* **Explanation**: โทณพราหมณ์เตือนสติกษัตริย์และรับหน้าที่แจกพระบรมสารีริกธาตุด้วยความยุติธรรม
+
 #### ข้อ 63
-* **Topic**: Buddha's Life - Last Disciple
+* **Topic**: ชาดก
 * **Learning Objective**: LO-HIS1
-* **Difficulty**: Easy
-* **Statement**: Subhadda was the first monk ordained by the Buddha at Sarnath Deer Park.
-* **Correct Answer**: False
-* **Explanation**: Kondanna was the first monk ordained at Sarnath. Subhadda was the last disciple (ปัจฉิมสาวก) ordained at Kusinara.
+* **Difficulty**: Medium
+* **Statement**: ทีฆีติโกสลชาดก ให้ข้อคิดสอนใจว่า 'เวรย่อมระงับด้วยการจองเวรล้างแค้น'
+* **Answer**: False
+* **Explanation**: ข้อคิดที่ถูกต้องคือ 'เวรย่อมไม่ระงับด้วยการจองเวร แต่ระงับด้วยการไม่จองเวร' (การให้อภัย)
+
 #### ข้อ 64
-* **Topic**: Buddha's Relics
+* **Topic**: ชาดก
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Medium
-* **Statement**: Dona Brahmin divided the Buddha's holy relics into eight equal portions to prevent armed conflict among regional kings.
-* **Correct Answer**: True
-* **Explanation**: Dona Brahmin mediated peacefully and distributed the relics into eight equal shares for stupa construction.
+* **Statement**: สัพพทาฐิชาดก สอนไม่ให้ลุ่มหลงในอำนาจและความโลภ
+* **Answer**: True
+* **Explanation**: สุนัขจิ้งจอกที่หลงอำนาจได้รับภัยพิบัติในที่สุด
+
 #### ข้อ 65
-* **Topic**: Jataka Stories
+* **Topic**: ศาสนิกชนตัวอย่าง
 * **Learning Objective**: LO-HIS1
-* **Difficulty**: Medium
-* **Statement**: The main moral lesson of the Dhiti Kosala Jataka is that vengeance and violence should be pursued until all enemies are destroyed.
-* **Correct Answer**: False
-* **Explanation**: The core lesson of Dhiti Kosala Jataka is that hatred is overcome by non-hatred and forgiveness, not by revenge.
+* **Difficulty**: Easy
+* **Statement**: พระสาสนโสภณ (เอื้อน ชินทัตโต) เป็นแบบอย่างของความใฝ่รู้ อ่อนน้อมถ่อมตน และยึดมั่นในธรรม
+* **Answer**: True
+* **Explanation**: ท่านเป็นพระสงฆ์ปฏิบัติดีปฏิบัติชอบ เป็นที่เคารพศรัทธา
+
 #### ข้อ 66
-* **Topic**: Sabbadathi Jataka
+* **Topic**: วันสำคัญ
 * **Learning Objective**: LO-HIS1
-* **Difficulty**: Medium
-* **Statement**: In the Sabbadathi Jataka, the jackal's downfall was caused by his excessive arrogance and intoxication with magical power.
-* **Correct Answer**: True
-* **Explanation**: The jackal became prideful and drunk with power, causing his own destruction.
+* **Difficulty**: Easy
+* **Statement**: วันมาฆบูชา เป็นวันที่พระพุทธเจ้าทรงแสดงปฐมเทศนาแก่ปัญจวัคคีย์ทั้ง 5
+* **Answer**: False
+* **Explanation**: วันมาฆบูชาคือวันแสดงโอวาทปาติโมกข์ ปฐมเทศนาแสดงในวันอาสาฬหบูชา
+
 #### ข้อ 67
-* **Topic**: Exemplary Buddhists
+* **Topic**: สังเวชนียสถาน
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Easy
-* **Statement**: Phra Sasana Sophon (Euan Chintatto) dedicated his life to promoting Buddhist scripture study and youth moral education.
-* **Correct Answer**: True
-* **Explanation**: He was a distinguished Thai monk who advanced religious education and moral development.
+* **Statement**: พุทธคยา เป็นสังเวชนียสถานสถานที่ประสูติของเจ้าชายสิทธัตถะ
+* **Answer**: False
+* **Explanation**: พุทธคยาเป็นสถานที่ตรัสรู้ สถานที่ประสูติคือ สวนลุมพินีวัน
+
 #### ข้อ 68
-* **Topic**: Holy Pilgrimage Sites
+* **Topic**: การประยุกต์ธรรมะ
 * **Learning Objective**: LO-HIS1
 * **Difficulty**: Easy
-* **Statement**: The place where the Buddha attained Parinibbana is located at Sarnath Deer Park.
-* **Correct Answer**: False
-* **Explanation**: Parinibbana occurred at Kusinara. Sarnath is the site of the First Sermon (ตรัสรู้ at Bodh Gaya, ประสูติ at Lumbini).
+* **Statement**: เบญจศีลข้อ 2 เว้นจากการลักทรัพย์ ช่วยป้องกันปัญหาขโมยในสังคม
+* **Answer**: True
+* **Explanation**: ศีลข้อ 2 เคารพสิทธิในทรัพย์สินของผู้อื่น
+
 #### ข้อ 69
-* **Topic**: Historical Method Steps
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Easy
-* **Statement**: The first step of the 5-step Historical Method is writing the final research report.
-* **Correct Answer**: False
-* **Explanation**: The first step is formulating the research topic (กำหนดหัวข้อ). Writing the final report is step 5.
+* **Topic**: พุทธประวัติ
+* **Learning Objective**: LO-HIS1
+* **Difficulty**: Medium
+* **Statement**: พระอานนท์คือปัจฉิมสาวกองค์สุดท้ายที่ได้รับการบวชก่อนปรินิพพาน
+* **Answer**: False
+* **Explanation**: พระสุภัททปริพาชกต่างหากที่เป็นปัจฉิมสาวกองค์สุดท้าย พระอานนท์เป็นพระอุปัฏฐาก
+
 #### ข้อ 70
-* **Topic**: Historical Method - Evidence Collection
-* **Learning Objective**: LO-HIS2
+* **Topic**: มรดกทางวัฒนธรรม
+* **Learning Objective**: LO-HIS1
 * **Difficulty**: Easy
-* **Statement**: Gathering primary documents, inscriptions, and artifacts takes place in Step 2 of the Historical Method.
-* **Correct Answer**: True
-* **Explanation**: Step 2 is evidence collection (การรวบรวมหลักฐาน).
+* **Statement**: ประเพณีสงกรานต์และลอยกระทงของไทยได้รับอิทธิพลและความเชื่อมโยงกับศาสนาและสายน้ำ
+* **Answer**: True
+* **Explanation**: เป็นประเพณีวัฒนธรรมแสดงความกตัญญูและมรดกไทย
+
 #### ข้อ 71
-* **Topic**: Historical Criticism
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Medium
-* **Statement**: External Criticism evaluates whether a historical document or artifact is physically authentic and genuine.
-* **Correct Answer**: True
-* **Explanation**: External criticism examines physical materials, age, writing style, and physical authenticity.
+* **Topic**: วันสำคัญ
+* **Learning Objective**: LO-HIS1
+* **Difficulty**: Easy
+* **Statement**: วันวิสาขบูชา ได้รับการยกย่องจากองค์การยูเนสโกให้เป็นวันสำคัญสากลของโลก
+* **Answer**: True
+* **Explanation**: วิสาขบูชาเป็นวันสำคัญสากลของโลกเพราะมี 3 เหตุการณ์ประสูติ ตรัสรู้ ปรินิพพาน ตรงกัน
+
 #### ข้อ 72
-* **Topic**: Historical Criticism
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Medium
-* **Statement**: Internal Criticism focuses on checking the physical stone material of an ancient inscription.
-* **Correct Answer**: False
-* **Explanation**: Checking physical stone material is External Criticism. Internal criticism analyzes the author's credibility, content accuracy, and personal bias.
+* **Topic**: การกรวดน้ำ
+* **Learning Objective**: LO-HIS1
+* **Difficulty**: Easy
+* **Statement**: การกรวดน้ำหลังทำบุญเป็นการอุทิศส่วนบุญส่วนกุศลให้แก่บรรพบุรุษและเจ้ากรรมนายเวร
+* **Answer**: True
+* **Explanation**: เป็นการตั้งจิตอธิษฐานแผ่เมตตาและส่วนกุศล
+
 #### ข้อ 73
-* **Topic**: Primary Historical Sources
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Easy
-* **Statement**: A modern school textbook written in 2025 is classified as a Primary Source for ancient Sukhothai history.
-* **Correct Answer**: False
-* **Explanation**: Modern textbooks analyzing past eras are Secondary Sources. Primary sources were created during the historical era itself.
+* **Topic**: โอวาทปาติโมกข์
+* **Learning Objective**: LO-HIS1
+* **Difficulty**: Medium
+* **Statement**: หัวใจของพระพุทธศาสนาตามโอวาทปาติโมกข์ คือ การไม่ทำบาปทั้งปวง ทำกุศลให้ถึงพร้อม และทำจิตใจให้บริสุทธิ์
+* **Answer**: True
+* **Explanation**: เป็นหลักธรรมคำสอนที่เป็นหัวใจหลักของพระพุทธศาสนา
+
 #### ข้อ 74
-* **Topic**: Primary Source Examples
-* **Learning Objective**: LO-HIS2
+* **Topic**: ศาสนิกชนตัวอย่าง
+* **Learning Objective**: LO-HIS1
 * **Difficulty**: Easy
-* **Statement**: King Ramkhamhaeng's Stone Inscription No. 1 is a primary historical source for Sukhothai historical research.
-* **Correct Answer**: True
-* **Explanation**: It is an original contemporary inscription produced during the Sukhothai kingdom.
+* **Statement**: อาจารย์เสถียร พงศทะสิทธิ์ เป็นนักรบผู้กอบกู้เอกราชในสมัยอยุธยา
+* **Answer**: False
+* **Explanation**: อาจารย์เสถียรเป็นนักปราชญ์ผู้อุทิศตนศึกษาและแต่งตำราเผยแผ่พระพุทธศาสนาในยุคปัจจุบัน
+
 #### ข้อ 75
-* **Topic**: Secondary Sources
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Medium
-* **Statement**: Secondary sources are historical accounts compiled and analyzed after the event by researchers who did not witness the event directly.
-* **Correct Answer**: True
-* **Explanation**: Secondary sources interpret and synthesize primary data long after the event occurred.
+* **Topic**: พระรัตนตรัย
+* **Learning Objective**: LO-HIS1
+* **Difficulty**: Easy
+* **Statement**: พระรัตนตรัยประกอบด้วย พระพุทธ พระธรรม และพระสงฆ์
+* **Answer**: True
+* **Explanation**: พระรัตนตรัยคือแก้วอันประเสริฐ 3 ประการที่เป็นที่พึ่งของพุทธศาสนิกชน
+
 #### ข้อ 76
-* **Topic**: Historical Artifacts
+* **Topic**: วิธีการทางประวัติศาสตร์
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Easy
-* **Statement**: Ban Chiang painted pottery and bronze tools excavated from ancient burial mounds are unwritten primary artifacts.
-* **Correct Answer**: True
-* **Explanation**: Prehistoric physical objects made in ancient times are primary non-written archaeological artifacts.
+* **Statement**: หลักฐานชั้นต้นมีความน่าเชื่อถือสูงเพราะสร้างขึ้นในยุคสมัยที่เกิดเหตุการณ์นั้นจริง
+* **Answer**: True
+* **Explanation**: หลักฐานชั้นต้น (ปฐมภูมิ) บันทึกหรือสร้างโดยผู้ร่วมเหตุการณ์
+
 #### ข้อ 77
-* **Topic**: Chronicles (พงศาวดาร)
+* **Topic**: วิธีการทางประวัติศาสตร์
 * **Learning Objective**: LO-HIS2
-* **Difficulty**: Medium
-* **Statement**: Royal Chronicles focus primarily on recording ordinary village recipes and international sports events.
-* **Correct Answer**: False
-* **Explanation**: Royal Chronicles (พงศาวดาร) record royal monarchies, state wars, political decrees, and dynastic affairs.
+* **Difficulty**: Easy
+* **Statement**: ศิลาจารึกสุโขทัยและพงศาวดาร จัดเป็นหลักฐานชั้นรอง
+* **Answer**: False
+* **Explanation**: ศิลาจารึกและพงศาวดารจดบันทึกในยุคอดีต จัดเป็นหลักฐานชั้นต้น
+
 #### ข้อ 78
-* **Topic**: Historical Objectivity
+* **Topic**: วิธีการทางประวัติศาสตร์
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Medium
-* **Statement**: Historians should rely on a single historical document without cross-checking other sources to ensure speed.
-* **Correct Answer**: False
-* **Explanation**: Historians must cross-reference multiple independent sources to detect bias and uncover objective historical truth.
+* **Statement**: การวิพากษ์หลักฐานภายนอก คือการพิสูจน์ว่าหลักฐานชิ้นนั้นเป็นของจริงหรือของปลอม
+* **Answer**: True
+* **Explanation**: เป็นการพิสูจน์วัตถุ อายุกระดาษ หิน รอยหมึก ว่าเป็นของแท้หรือไม่
+
 #### ข้อ 79
-* **Topic**: Thailand's Neighbors - Myanmar Capital
-* **Learning Objective**: LO-HIS3
+* **Topic**: วิธีการทางประวัติศาสตร์
+* **Learning Objective**: LO-HIS2
 * **Difficulty**: Easy
-* **Statement**: Naypyidaw is the current official capital city of Myanmar.
-* **Correct Answer**: True
-* **Explanation**: Naypyidaw became the official administrative capital of Myanmar in 2005.
+* **Statement**: ขั้นตอนสุดท้ายของวิธีการทางประวัติศาสตร์ คือ การรวบรวมหลักฐาน
+* **Answer**: False
+* **Explanation**: ขั้นตอนสุดท้ายคือ การเรียบเรียงและการนำเสนอ การรวบรวมหลักฐานเป็นขั้นตอนที่ 2
+
 #### ข้อ 80
-* **Topic**: Thailand's Neighbors - Laos History
+* **Topic**: ประเทศเพื่อนบ้าน
 * **Learning Objective**: LO-HIS3
 * **Difficulty**: Easy
-* **Statement**: The ancient Lan Xang Kingdom is recognized as the historical predecessor of modern Laos.
-* **Correct Answer**: True
-* **Explanation**: Lan Xang (Kingdom of a Million Elephants) formed the historical foundations of Laos.
+* **Statement**: สปป.ลาว เป็นประเทศเดียวในอาเซียนที่ไม่มีพื้นที่ติดทะเล
+* **Answer**: True
+* **Explanation**: ลาวเป็นประเทศ Landlocked ไม่มีทางออกสู่ทะเล
+
 #### ข้อ 81
-* **Topic**: Thailand's Neighbors - Cambodia
+* **Topic**: ประเทศเพื่อนบ้าน
 * **Learning Objective**: LO-HIS3
 * **Difficulty**: Easy
-* **Statement**: Angkor Wat is a famous ancient stone temple complex located in Myanmar.
-* **Correct Answer**: False
-* **Explanation**: Angkor Wat is located in Siem Reap, Cambodia.
+* **Statement**: ประเทศเวียดนามและลาว ปกครองด้วยระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข
+* **Answer**: False
+* **Explanation**: ลาวและเวียดนามปกครองด้วยระบอบสังคมนิยมคอมมิวนิสต์
+
 #### ข้อ 82
-* **Topic**: Thailand's Neighbors - Malaysia Religion
+* **Topic**: ประเทศเพื่อนบ้าน
 * **Learning Objective**: LO-HIS3
 * **Difficulty**: Easy
-* **Statement**: Islam is the official state religion of Malaysia.
-* **Correct Answer**: True
-* **Explanation**: Islam holds official constitutional status as the state religion of Malaysia.
+* **Statement**: บรูไนดารุสซาลาม เป็นประเทศที่มีความอุดมสมบูรณ์ด้วยทรัพยากรน้ำมันและก๊าซธรรมชาติ
+* **Answer**: True
+* **Explanation**: เศรษฐกิจบรูไนพึ่งพาน้ำมันและก๊าซธรรมชาติเป็นหลัก
+
 #### ข้อ 83
-* **Topic**: Government Systems
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Medium
-* **Statement**: Thailand, Cambodia, and Malaysia all operate under Constitutional Monarchy systems with Kings as Heads of State.
-* **Correct Answer**: True
-* **Explanation**: All three nations have constitutional monarchies, though Malaysia utilizes a rotational monarchy system among royal sultans.
+* **Topic**: อาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Easy
+* **Statement**: สมาคมอาเซียนก่อตั้งขึ้นโดยการลงนามใน 'ปฏิญญากรุงเทพฯ' เมื่อ พ.ศ. 2510
+* **Answer**: True
+* **Explanation**: ลงนาม ณ กรุงเทพมหานคร โดย 5 ประเทศผู้ก่อตั้ง
+
 #### ข้อ 84
-* **Topic**: Government Systems - Republic
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Medium
-* **Statement**: Singapore and the Philippines operate as Constitutional Monarchies with hereditary kings.
-* **Correct Answer**: False
-* **Explanation**: Both Singapore and the Philippines are Republics with elected Presidents as Heads of State.
+* **Topic**: อาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Easy
+* **Statement**: ปัจจุบันสมาคมอาเซียนมีประเทศสมาชิกทั้งหมด 10 ประเทศ
+* **Answer**: True
+* **Explanation**: ประกอบด้วย 10 ประเทศในเอเชียตะวันออกเฉียงใต้
+
 #### ข้อ 85
-* **Topic**: Government Systems - Socialist State
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Medium
-* **Statement**: Laos and Vietnam are single-party Socialist / Communist Republics.
-* **Correct Answer**: True
-* **Explanation**: Both Laos (สปป. ลาว) and Vietnam (สาธารณรัฐสังคมนิยมเวียดนาม) are socialist republics.
+* **Topic**: อาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Easy
+* **Statement**: คำขวัญของอาเซียนคือ 'หนึ่งวิสัยทัศน์ หนึ่งอัตลักษณ์ หนึ่งประชาคม'
+* **Answer**: True
+* **Explanation**: One Vision, One Identity, One Community
+
 #### ข้อ 86
-* **Topic**: Geography of Thailand's Neighbors
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Easy
-* **Statement**: Thailand shares a direct physical land border with Vietnam.
-* **Correct Answer**: False
-* **Explanation**: Thailand does not share a direct land border with Vietnam. Vietnam is separated from Thailand by Laos and Cambodia.
+* **Topic**: อาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Medium
+* **Statement**: ภาษาทางการที่ใช้ในการประชุมและทำงานของอาเซียนคือ ภาษาฝรั่งเศส
+* **Answer**: False
+* **Explanation**: ภาษาทางการของอาเซียนคือ ภาษาอังกฤษ
+
 #### ข้อ 87
-* **Topic**: ASEAN Founding
+* **Topic**: สัญลักษณ์อาเซียน
 * **Learning Objective**: LO-HIS4
 * **Difficulty**: Easy
-* **Statement**: ASEAN was founded in Bangkok, Thailand, in 1967 by the Bangkok Declaration.
-* **Correct Answer**: True
-* **Explanation**: The Bangkok Declaration was signed on August 8, 1967, at Saranrom Palace in Bangkok.
+* **Statement**: รวงข้าวสีเหลือง 10 ต้นมัดรวมกัน หมายถึง มิตรภาพและความสามัคคีของ 10 ประเทศอาเซียน
+* **Answer**: True
+* **Explanation**: เป็นสัญลักษณ์ความร่วมมือเหนียวแน่นของสมาชิก
+
 #### ข้อ 88
-* **Topic**: ASEAN Member Count
+* **Topic**: อาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Medium
+* **Statement**: สำนักงานเลขาธิการอาเซียนตั้งอยู่ที่กรุงสิงคโปร์ ประเทศสิงคโปร์
+* **Answer**: False
+* **Explanation**: สำนักงานเลขาธิการอาเซียนตั้งอยู่ที่กรุงจาการ์ตา ประเทศอินโดนีเซีย
+
+#### ข้อ 89
+* **Topic**: ระบอบการปกครอง
+* **Learning Objective**: LO-HIS3
+* **Difficulty**: Easy
+* **Statement**: ประเทศไทย มาเลเซีย และกัมพูชา ปกครองด้วยระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข
+* **Answer**: True
+* **Explanation**: ทั้ง 3 ประเทศมีพระมหากษัตริย์เป็นประมุขภายใต้รัฐธรรมนูญ
+
+#### ข้อ 90
+* **Topic**: ประโยชน์ของอาเซียน
 * **Learning Objective**: LO-HIS4
 * **Difficulty**: Easy
-* **Statement**: There are currently 10 member countries in ASEAN.
-* **Correct Answer**: True
-* **Explanation**: ASEAN comprises 10 Southeast Asian member states.
-#### ข้อ 89
-* **Topic**: ASEAN Emblem
-* **Learning Objective**: LO-HIS4
-* **Difficulty**: Medium
-* **Statement**: The 10 golden paddy stalks on the ASEAN flag represent the 10 major European trading partners.
-* **Correct Answer**: False
-* **Explanation**: The 10 golden paddy stalks represent the 10 Southeast Asian member countries bound in solidarity.
-#### ข้อ 90
-* **Topic**: ASEAN Community Pillars
-* **Learning Objective**: LO-HIS4
-* **Difficulty**: Medium
-* **Statement**: The ASEAN Economic Community (AEC) aims to create a single market and production base for free flow of goods and services.
-* **Correct Answer**: True
-* **Explanation**: The AEC pillar promotes regional market integration, trade expansion, and free movement of skilled labor.
+* **Statement**: การเป็นสมาชิกอาเซียนช่วยส่งเสริมความมั่นคง การค้าเสรี และการแลกเปลี่ยนทางวัฒนธรรม
+* **Answer**: True
+* **Explanation**: นำประโยชน์ทั้งด้านเศรษฐกิจ สังคม และความสงบเรียบร้อยมาสู่สมาชิก
 
-# Section C: Scenario-Based Questions (สถานการณ์จำลอง 15 ข้อ)
+# Section C: Scenario-Based Questions (สถานการณ์จำลอง)
 
-<!--
-RULES Section C:
-- ข้อ 91–105 (15 ข้อ, 2 คะแนน/ข้อ)
--->
 #### ข้อ 91
-* **Topic**: Applying Historical Method - Step 1 & 2
-* **Learning Objective**: LO-HIS2
+* **Topic**: การประยุกต์ใช้ข้อคิดจากชาดก
+* **Learning Objective**: LO-HIS1
 * **Difficulty**: Hard
-* **Scenario**: Napa wants to study why her local riverside town in Ayutthaya experienced major flooding 200 years ago during the reign of King Rama III. She begins by visiting local old temples to look for palm-leaf manuscripts and interviewing temple abbots.
-* **Question**: Which steps of the 5-step Historical Method is Napa executing, and what should be her next step?
-* **Answer**: Napa has completed Step 1 (Defining the research topic: flooding 200 years ago in Ayutthaya) and is currently executing Step 2 (Gathering primary evidence: searching palm-leaf records and conducting oral history interviews). Her immediate next step must be Step 3: Source Criticism (evaluating the authenticity, physical condition, author credibility, and factual accuracy of the gathered manuscripts and oral statements).
-* **Explanation**: The Historical Method requires systematic progression: Topic Definition -> Evidence Collection -> Source Criticism -> Interpretation -> Synthesis.
+* **Scenario**: เด็กชายบอสโดนเพื่อนในห้องแกล้งล้อเลียนเรื่องรูปร่าง บอสรู้สึกโกรธมากและตั้งใจจะพาเพื่อนกลุ่มใหญ่ไปดักด่านินทาตอบโต้และทำร้ายเพื่อนคนที่ล้อเลียนในวันรุ่งขึ้น
+* **Question**: หากนักเรียนนำคติธรรมจาก 'ทีฆีติโกสลชาดก' มาเตือนสติบอส นักเรียนควรพูดอธิบายอย่างไรให้บอสเปลี่ยนใจ?
+* **Answer**: ควรเตือนบอสว่า 'การจองเวรย่อมไม่ทำให้ความแค้นหมดไป แต่มีแต่จะก่อความรุนแรงเพิ่มขึ้น' ควรให้อภัย พูดคุยปรับความเข้าใจกันด้วยเหตุผล หรือแจ้งครูให้ช่วยไกล่เกลี่ย ซึ่งจะทำให้เกิดความสงบสุขยั่งยืนกว่า
+* **Explanation**: การให้อภัยและการไม่จองเวรเป็นคุณธรรมสูงสุดตามทีฆีติโกสลชาดก ช่วยหยุดยั้งความขัดแย้ง
+
 #### ข้อ 92
-* **Topic**: Source Criticism Application
-* **Learning Objective**: LO-HIS2
+* **Topic**: ข้อคิดเรื่องการไม่หลงอำนาจ
+* **Learning Objective**: LO-HIS1
 * **Difficulty**: Hard
-* **Scenario**: A researcher finds two historical documents describing a 17th-century battle: Document A (written by a court scribe of the winning king claiming 100,000 enemy casualties without friendly losses) and Document B (a merchant's logbook from a neutral foreign ship anchored in the bay reporting modest skirmishes).
-* **Question**: How should the researcher apply Internal Criticism to evaluate these conflicting accounts?
-* **Answer**: The researcher should apply Internal Criticism to identify author bias. Document A contains obvious court propaganda bias (exaggerating enemy deaths and hiding own losses to flatter the king). Document B, written by an independent neutral observer with no political stake, is likely more objective regarding battle scale. The researcher must cross-reference both accounts with physical site evidence rather than taking Document A at face value.
-* **Explanation**: Internal criticism examines author motivation, political bias, and credibility to extract objective historical facts.
+* **Scenario**: เด็กหญิงส้มได้รับเลือกเป็นหัวหน้าห้อง ส้มเริ่มแสดงพฤติกรรมใช้อารมณ์ ออกคำสั่งข่มขู่เพื่อนๆ บังคับให้ทุกคนทำตามใจตนเอง หากใครไม่ทำตามจะตัดชื่อออกจากกลุ่ม ผลปรากฏว่าเพื่อนๆ ต่างตีตัวออกห่างและไม่มีใครอยากทำงานร่วมด้วย
+* **Question**: เปรียบเทียบพฤติกรรมของส้มกับคติธรรมใน 'สัพพทาฐิชาดก' และแนะนำแนวทางแก้ไข?
+* **Answer**: ส้มกำลังหลงในอำนาจเหมือนสุนัขจิ้งจอกในสัพพทาฐิชาดก ซึ่งการใช้อำนาจข่มขู่จะนำความพินาศและโดนทอดทิ้งในที่สุด ส้มควรเปลี่ยนมาใช้พรหมวิหาร 4 มีความเมตตา รับฟังความคิดเห็นเพื่อน เพื่อเป็นผู้นำที่ดี
+* **Explanation**: ผู้นำที่ไม่หลงอำนาจ มีความเมตตากรุณา ย่อมได้รับความร่วมมือและความเคารพรักจากสมาชิก
+
 #### ข้อ 93
-* **Topic**: Primary vs. Secondary Source Evaluation
+* **Topic**: ขั้นตอนวิธีการทางประวัติศาสตร์ในการทำรายงาน
 * **Learning Objective**: LO-HIS2
 * **Difficulty**: Hard
-* **Scenario**: Student Krai is writing a report on King Chulalongkorn's abolition of slavery in Thailand. He uses two sources: Source 1 (The original Royal Gazette decree published in 1905 C.E.) and Source 2 (A history website article published in 2024 by an unverified blogger).
-* **Question**: Categorize these sources into Primary vs Secondary and evaluate which provides greater historical authority.
-* **Answer**: Source 1 (Royal Gazette 1905) is a Primary Source created directly during the historical event by the royal government, carrying authoritative legal and factual evidence. Source 2 (2024 blog article) is a Secondary Source of unverified quality. Krai must rely on Source 1 as his primary authority while double-checking Source 2 against peer-reviewed academic history books.
-* **Explanation**: Primary contemporary legal documents provide direct historical authority, whereas unverified internet blogs require strict verification.
+* **Scenario**: เด็กชายเก่งได้รับมอบหมายให้ทำรายงานเรื่อง 'ประวัติความเป็นมาของค่ายบางระจัน' เก่งเริ่มต้นด้วยการเปิดอินเทอร์เน็ต คัดลอกข้อความจากเว็บไซต์แรกที่พบลงในรายงานทันทีโดยไม่ได้ตรวจสอบปีที่เขียนหรือชื่อผู้แต่ง
+* **Question**: วิเคราะห์ข้อผิดพลาดของเก่งตามหลักวิธีการทางประวัติศาสตร์ 5 ขั้นตอน และแนะนำขั้นตอนที่ถูกต้อง?
+* **Answer**: เก่งข้ามขั้นตอนสำคัญ คือ 1. ไม่ได้ประเมินคุณค่าหลักฐาน (วิพากษ์ภายนอก/ภายใน) ตรวจสอบความน่าเชื่อถือ 2. ไม่ได้เปรียบเทียบข้อมูลจากหลายๆ แหล่ง เก่งควรตั้งหัวข้อ รวบรวมหลักฐานหลายชิ้น ประเมินความน่าเชื่อถือ ตีความอย่างมีเหตุผล แล้วจึงนำมาเขียนเรียบเรียง
+* **Explanation**: วิธีการทางประวัติศาสตร์ต้องผ่านการรวบรวมหลักฐานที่หลากหลาย และประเมินความถูกต้องก่อนนำเสนอ
+
 #### ข้อ 94
-* **Topic**: Jataka Moral Application in Conflict Resolution
-* **Learning Objective**: LO-HIS1
+* **Topic**: การวิเคราะห์และจำแนกหลักฐานทางประวัติศาสตร์
+* **Learning Objective**: LO-HIS2
 * **Difficulty**: Hard
-* **Scenario**: Two students, Anan and Chai, get into a physical fight during football practice. Anan vows to ambush Chai after school with a stick to get revenge. Their teacher tells them the story of Prince Dhighavu from the Dhiti Kosala Jataka.
-* **Question**: How should Anan reflect upon the Dhiti Kosala Jataka to resolve this conflict peacefully?
-* **Answer**: Anan should reflect on King Dhighiti's dying words: 'Hatred ceases not by hatred, but by forgiveness.' In the Jataka, Prince Dhighavu spared his enemy King Brahmadatta, ending generations of blood feuds and bringing peace. Anan should put away his weapon, apologize for his anger, and talk to Chai to resolve their misunderstanding through non-violence.
-* **Explanation**: The Dhiti Kosala Jataka teaches that breaking the cycle of revenge through forgiveness brings lasting peace.
+* **Scenario**: กลุ่มนักเรียนไปศึกษาดูงานที่พิพิธภัณฑสถานแห่งชาติ พบศิลาจารึกโบราณ หม้อดินเผา สมุดข่อย พงศาวดาร และหนังสือชีวประวัติที่เขียนโดยนักวิชาการในปัจจุบัน
+* **Question**: จงจำแนกวัตถุโบราณและเอกสารเหล่านี้ออกเป็น 'หลักฐานชั้นต้น' และ 'หลักฐานชั้นรอง' ให้ถูกต้อง?
+* **Answer**: หลักฐานชั้นต้น: ศิลาจารึกโบราณ, หม้อดินเผา, สมุดข่อย, พงศาวดาร. หลักฐานชั้นรอง: หนังสือชีวประวัติที่เขียนโดยนักวิชาการในปัจจุบัน
+* **Explanation**: หลักฐานชั้นต้นเกิดขึ้นในยุคสมัยนั้น ส่วนหลักฐานชั้นรองเป็นการเรียบเรียงขึ้นมาใหม่ภายหลัง
+
 #### ข้อ 95
-* **Topic**: Buddha's Life - Holy Relics Mediation
-* **Learning Objective**: LO-HIS1
+* **Topic**: การปรับตัวและการเป็นพลเมืองอาเซียน
+* **Learning Objective**: LO-HIS4
 * **Difficulty**: Hard
-* **Scenario**: After the Buddha's Parinibbana in Kusinara, seven powerful neighboring kings marched their armies to Kusinara, threatening full-scale war to claim the Buddha's sacred cremation relics. Dona Brahmin stepped forward with a golden vessel.
-* **Question**: Analyze Dona Brahmin's action and explain how his intervention preserved Buddhist peace.
-* **Answer**: Dona Brahmin delivered a diplomatic sermon reminding the kings that the Buddha taught peace and non-violence, making it disgraceful to wage war over his sacred remains. He proposed dividing the relics into eight equal portions for each kingdom to build stupas. The kings agreed, avoiding a bloody war and spreading the relics across ancient India.
-* **Explanation**: Dona Brahmin's diplomatic intervention prevented military conflict and ensured widespread veneration of sacred relics.
+* **Scenario**: โรงเรียนของจอยมีนักเรียนย้ายมาจากประเทศเมียนมาและลาวเข้ามาเรียนร่วมชั้น เพื่อนบางคนหัวเราะขำการพูดภาษาไทยติดสำเนียงของเพื่อนใหม่ และไม่อยากให้อยู่กลุ่มเดียวกัน
+* **Question**: ในฐานะพลเมืองอาเซียน จอยควรปฏิบัติตนและช่วยปรับความเข้าใจของเพื่อนในห้องอย่างไร?
+* **Answer**: จอยควรอธิบายให้เพื่อนๆ เข้าใจว่า เราทุกคนเป็นสมาชิกประชาคมอาเซียนที่มีความหลากหลายทางภาษาและวัฒนธรรม ต้องเคารพและให้เกียรติกัน ช่วยสอนภาษาไทยและเรียนรู้ภาษาเพื่อนบ้าน เพื่อสร้างมิตรภาพและอยู่อาศัยร่วมกันอย่างสงบสุข
+* **Explanation**: เสาหลักสังคมและวัฒนธรรมอาเซียนส่งเสริมการเคารพความหลากหลาย การยอมรับ และมิตรภาพระหว่างกัน
+
 #### ข้อ 96
-* **Topic**: Buddhism as National Identity & Heritage
-* **Learning Objective**: LO-HIS1
+* **Topic**: การศึกษาพัฒนาการประเทศเพื่อนบ้าน
+* **Learning Objective**: LO-HIS3
 * **Difficulty**: Hard
-* **Scenario**: Foreign tourists visiting Bangkok notice that Thai people greet each other with a gentle 'Wai', show high respect to elders, donate food to morning monks, and build beautiful temple murals depicting historical stories.
-* **Question**: Explain how Buddhism forms the underlying foundation of these Thai cultural characteristics.
-* **Answer**: Buddhism emphasizes moral values such as Metta (loving-kindness), Karuna (compassion), respect for elders, and generosity (Dana). Morning alms-giving reflects Buddhist merit-making, while temple murals and architecture preserve historical artistic craftsmanship. These Buddhist-inspired traits create Thailand's unique cultural identity ('Siam, Land of Smiles').
-* **Explanation**: Thai social etiquette, hospitality, art, and moral traditions are deeply rooted in centuries of Buddhist teachings.
+* **Scenario**: นักเรียนต้องการเปรียบเทียบปัจจัยทางภูมิศาสตร์และระบบการเมืองการปกครองระหว่าง 'ประเทศไทย' กับ 'ประเทศสาธารณรัฐประชาธิปไตยประชาชนลาว'
+* **Question**: จงเปรียบเทียบความเหมือนและความแตกต่างทางภูมิศาสตร์และการปกครองของทั้งสองประเทศ?
+* **Answer**: ภูมิศาสตร์: ไทยมีทางออกสู่ทะเลทั้งอ่าวไทยและอันดามัน ส่วนลาวไม่มีทางออกสู่ทะเล (Landlocked). การปกครอง: ไทยปกครองระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข ส่วนลาวปกครองระบอบสังคมนิยมคอมมิวนิสต์
+* **Explanation**: การเข้าใจความเหมือนและความแตกต่างช่วยให้วิเคราะห์ความสัมพันธ์และร่วมมือกันได้อย่างเหมาะสม
+
 #### ข้อ 97
-* **Topic**: Neighboring Country Analysis - Myanmar Transition
-* **Learning Objective**: LO-HIS3
+* **Topic**: เหตุการณ์สำคัญในพุทธประวัติ
+* **Learning Objective**: LO-HIS1
 * **Difficulty**: Hard
-* **Scenario**: A group of Thai traders wants to expand business into Myanmar. They analyze Myanmar's capital city, government structure, main economic resources, and cultural traditions.
-* **Question**: Summarize the key geographical, political, and economic facts about Myanmar for the traders.
-* **Answer**: 1. Capital: Naypyidaw (administrative capital; Yangon is the main commercial port). 2. Governance: Republic system with a President. 3. Economy & Resources: Rich in natural gas, teak timber, gems, and jade; growing trade with Thailand and China. 4. Culture: Predominantly Theravada Buddhist (e.g. Shwedagon Pagoda) with high respect for religious customs.
-* **Explanation**: Myanmar is a resource-rich neighboring republic with deep Buddhist heritage and strong trade links with Thailand.
+* **Scenario**: ภายหลังการดับขันธปรินิพพานของพระพุทธเจ้า กษัตริย์จาก 8 เมืองยกทัพมาเตรียมทำสงครามแย่งชิงพระบรมสารีริกธาตุ สถานการณ์ตึงเครียดมาก
+* **Question**: โทณพราหมณ์ได้ใช้ปัญญาและความสามารถแก้ปัญหานี้อย่างไร และส่งผลดีต่อพระพุทธศาสนาอย่างไร?
+* **Answer**: โทณพราหมณ์เตือนสติว่าพระพุทธองค์ทรงสอนเรื่องความสงบและการไม่จองเวร จึงไม่ควรทำสงครามแย่งชิง และอาสาเป็นประธานแบ่งพระบรมสารีริกธาตุออกเป็น 8 ส่วนเท่าๆ กันด้วยทะนานทองคำ ทำให้ยุติสงครามและกระจายศาสนาไปทั่วทุกเมือง
+* **Explanation**: การใช้ปัญญาและหลักธรรมไกล่เกลี่ย ช่วยระงับสงครามและกระจายพระบรมสารีริกธาตุไปเป็นศูนย์รวมจิตใจ
+
 #### ข้อ 98
-* **Topic**: Neighboring Country Analysis - Laos Development
-* **Learning Objective**: LO-HIS3
+* **Topic**: การสืบค้นประวัติศาสตร์ท้องถิ่นอย่างเป็นระบบ
+* **Learning Objective**: LO-HIS2
 * **Difficulty**: Hard
-* **Scenario**: Thailand imports substantial hydroelectric electricity from Laos, which is known as the 'Battery of Southeast Asia'.
-* **Question**: Analyze the historical background, geography, government system, and economic development of Laos.
-* **Answer**: 1. History: Formerly the ancient Lan Xang Kingdom (ล้านช้าง). 2. Geography: Landlocked country with Mekong River flowing along Thai-Lao borders. 3. Government: Single-party Socialist / Communist Republic (สปป. ลาว) headed by a President. 4. Economy: Hydropower energy exports, mining, agricultural produce, and eco-tourism.
-* **Explanation**: Laos is a landlocked socialist republic with rich Lan Xang heritage and major hydropower trade with Thailand.
+* **Scenario**: เด็กหญิงฝนต้องการศึกษาประวัติความเป็นมาของ 'ตลาดน้ำโบราณ' ในชุมชนของเธอซึ่งมีอายุมากกว่า 100 ปี
+* **Question**: ฝนควรวางแผนการสืบค้นตามวิธีการทางประวัติศาสตร์ 5 ขั้นตอนอย่างไร?
+* **Answer**: 1. ตั้งหัวข้อ: ประวัติศาสตร์และการเปลี่ยนแปลงของตลาดน้ำ 2. รวบรวมหลักฐาน: สัมภาษณ์พ่อค้าแม่ค้าแก่ๆ รูปถ่ายเก่า โฉนดที่ดิน 3. ประเมินหลักฐาน: ตรวจสอบความจริง 4. ตีความ: วิเคราะห์สาเหตุการเติบโต 5. เรียบเรียง: จัดทำรายงานและบอร์ดนิทรรศการนำเสนอชุมชน
+* **Explanation**: การสืบค้นประวัติศาสตร์ท้องถิ่นอย่างเป็นขั้นตอนทำให้ได้ข้อมูลถูกต้อง มีคุณค่าต่อชุมชน
+
 #### ข้อ 99
-* **Topic**: Neighboring Country Analysis - Malaysia Diversity
-* **Learning Objective**: LO-HIS3
+* **Topic**: ความร่วมมือด้านเศรษฐกิจอาเซียน (AEC)
+* **Learning Objective**: LO-HIS4
 * **Difficulty**: Hard
-* **Scenario**: Malaysia is a multicultural nation bordering southern Thailand. A Thai student notices that Malaysia has Malay, Chinese, and Indian populations living together under a federal constitutional monarchy.
-* **Question**: Describe the political, religious, and economic characteristics of Malaysia.
-* **Answer**: 1. Governance: Federal Constitutional Monarchy with a rotational Head of State (Yang di-Pertuan Agong) elected among hereditary state sultans. 2. Religion & Demographics: Islam is the official state religion; population includes Malays, Chinese, and Indians. 3. Economy: High economic stability, major exporter of palm oil, rubber, petroleum, and electronics.
-* **Explanation**: Malaysia is a stable, multi-ethnic constitutional monarchy with strong industrial, agricultural, and commercial sectors.
+* **Scenario**: คุณพ่อของพลอยเป็นเกษตรกรปลูกมังคุดและทุเรียน ต้องการขยายตลาดส่งออกไปยังประเทศสิงคโปร์และมาเลเซีย
+* **Question**: ข้อตกลงประชาคมเศรษฐกิจอาเซียน (AEC) ช่วยสนับสนุนคุณพ่อของพลอยอย่างไร?
+* **Answer**: AEC ช่วยลดและยกเว้นภาษีศุลกากรระหว่างประเทศสมาชิก มีการอำนวยความสะดวกด้านการขนส่งทางศุลกากร ทำให้ส่งผลไม้สดไปขายในสิงคโปร์และมาเลเซียได้รวดเร็วขึ้นและได้ราคาดีขึ้น
+* **Explanation**: AEC ส่งเสริมการค้าเสรี ขยายตลาดสินค้าเกษตรและบริการของไทยในภูมิภาค
+
 #### ข้อ 100
-* **Topic**: Government System Comparison - Regional ASEAN
-* **Learning Objective**: LO-HIS3
+* **Topic**: การใช้หลักธรรมพัฒนาจิตใจและปัญญา
+* **Learning Objective**: LO-HIS1
 * **Difficulty**: Hard
-* **Scenario**: A political science student compares government systems across three ASEAN countries: Country X (King as Head of State under Constitution), Country Y (Elected President in a Republic), and Country Z (Socialist One-Party State).
-* **Question**: Match Thailand, Myanmar, and Vietnam to Countries X, Y, and Z, and justify your classification.
-* **Answer**: 1. Country X = Thailand: Constitutional Monarchy with King as Head of State under constitution. 2. Country Y = Myanmar: Republic system headed by a President. 3. Country Z = Vietnam: Socialist / Communist Republic governed by a single-party state.
-* **Explanation**: Southeast Asian nations utilize diverse governance models including Constitutional Monarchies, Republics, and Socialist States.
+* **Scenario**: เด็กชายท็อปประสบปัญหาเรียนไม่ทันเพื่อน รู้สึกท้อแท้และคิดว่าตนเองโง่ จึงไม่อยากมาโรงเรียนอีกต่อไป
+* **Question**: นักเรียนจะแนะนำให้ท็อปนำหลักธรรม 'อิทธิบาท 4' มาประยุกต์ใช้แก้ไขปัญหานี้อย่างไร?
+* **Answer**: แนะนำหลัก อิทธิบาท 4: 1. ฉันทะ (รักในเรียน) 2. วิริยะ (ขยันทบทวนบทเรียน) 3. จิตตะ (มีสมาธิตั้งใจฟังครู) 4. วิมังสา (ทบทวนหาสาเหตุที่ไมเข้าใจและถามครู) ซึ่งจะช่วยให้ท็อปเรียนดีขึ้นและมีความมั่นใจ
+* **Explanation**: อิทธิบาท 4 เป็นหลักธรรมแห่งความสำเร็จ เหมาะสำหรับนำมาปรับปรุงการเรียนและการทำงาน
+
 #### ข้อ 101
-* **Topic**: ASEAN Community Pillars Integration
-* **Learning Objective**: LO-HIS4
+* **Topic**: การประเมินความน่าเชื่อถือของข่าวสารในยุคปัจจุบัน
+* **Learning Objective**: LO-HIS2
 * **Difficulty**: Hard
-* **Scenario**: A Thai engineering student plans to work in Singapore after graduation under ASEAN professional mobility agreements, while a Thai fruit farmer exports durian to Malaysia tax-free under regional tariff reductions.
-* **Question**: Identify which ASEAN Community Pillar enables these activities and explain its economic goal.
-* **Answer**: These activities are enabled by the ASEAN Economic Community (AEC) pillar. The AEC aims to establish a single market and production base across the 10 member states, facilitating zero-tariff regional trade in goods, investment flows, and mutual recognition agreements for skilled professionals.
-* **Explanation**: The AEC pillar promotes regional economic integration, market expansion, and mobility of goods, capital, and skilled labor.
+* **Scenario**: มีข่าวลือในโซเชียลมีเดียอ้างว่า 'พบโบราณวัตถุทองคำจมอยู่ในแม่น้ำเจ้าพระยา สามารถไปงมเก็บได้ฟรี' มีคนหลงเชื่อและแห่กันไปงมจนเกิดอันตราย
+* **Question**: การฝึกใช้วิธีการทางประวัติศาสตร์จะช่วยป้องกันไม่ให้เราตกเป็นเหยื่อข่าวลือเช่นนี้ได้อย่างไร?
+* **Answer**: วิธีการทางประวัติศาสตร์สอนให้ตรวจสอบแหล่งที่มา (วิพากษ์ภายนอก) ค้นหาหลักฐานยืนยันจากหน่วยงานราชการ เช่น กรมศิลปากร (วิพากษ์ภายใน) ก่อนจะเชื่อและแชร์ข่าว ทำให้มีสติไม่หลงเชื่อข่าวปลอม
+* **Explanation**: การคิดอย่างมีวิจารณญาณและการตรวจสอบหลักฐานช่วยป้องกันการหลงเชื่อ Fake News
+
 #### ข้อ 102
-* **Topic**: ASEAN Founding & Geopolitical Role
-* **Learning Objective**: LO-HIS4
+* **Topic**: ความสัมพันธ์ทางประวัติศาสตร์และภูมิศาสตร์อาเซียน
+* **Learning Objective**: LO-HIS3
 * **Difficulty**: Hard
-* **Scenario**: In 1967, five Southeast Asian foreign ministers gathered at Saranrom Palace in Bangkok during cold war tensions to sign the Bangkok Declaration.
-* **Question**: Why was ASEAN formed, who were the 5 original founding members, and what is its official motto?
-* **Answer**: 1. Purpose: Formed to promote regional peace, political stability, economic growth, and cultural cooperation. 2. 5 Founding Members: Thailand, Indonesia, Malaysia, Philippines, and Singapore. 3. Official Motto: 'One Vision, One Identity, One Community'.
-* **Explanation**: ASEAN was established in Bangkok in 1967 by 5 founding states to foster regional security, economic development, and unity.
+* **Scenario**: แม่น้ำโขงเป็นแม่น้ำสายสำคัญที่ไหลผ่านหลายประเทศในภูมิภาคเอเชียตะวันออกเฉียงใต้ (จีน เมียนมา ลาว ไทย กัมพูชา เวียดนาม)
+* **Question**: จงวิเคราะห์ความสำคัญของแม่น้ำโขงต่อวิถีชีวิต ความสัมพันธ์ และความร่วมมือระหว่างประเทศเพื่อนบ้าน?
+* **Answer**: แม่น้ำโขงเป็นเส้นทางคมนาคม แหล่งน้ำทำเกษตรกรรม การประมง และเป็นพรมแดนธรรมชาติ ความร่วมมือในการบริหารจัดการน้ำและสิ่งแวดล้อมแม่น้ำโขงจึงมีความสำคัญยิ่งต่อสันติภาพและเศรษฐกิจของทุกประเทศ
+* **Explanation**: ทรัพยากรธรรมชาติติดต่อกันต้องอาศัยความร่วมมือและการบำรุงรักษาอย่างยั่งยืนร่วมกัน
+
 #### ข้อ 103
-* **Topic**: Evaluating Historical Distortion & Myths
-* **Learning Objective**: LO-HIS2
+* **Topic**: การรักษามรดกทางวัฒนธรรมพุทธศาสนา
+* **Learning Objective**: LO-HIS1
 * **Difficulty**: Hard
-* **Scenario**: A social media video claims that ancient Thai soldiers used laser weapons 1,000 years ago, citing a blurry self-made drawing as proof.
-* **Question**: How can a Grade 6 student apply the 5-step Historical Method to debunk this false claim?
-* **Answer**: 1. Topic: Investigate ancient Thai military technology. 2. Evidence: Gather authentic primary artifacts (ancient bronze swords, iron spears, stone inscriptions, contemporary foreign logs). 3. Source Criticism: Apply external/internal criticism to the video drawing—it lacks historical material proof, carbon dating, or primary record validation. 4. Interpretation & Synthesis: Conclude scientifically that laser claims are unhistorical internet hoaxes.
-* **Explanation**: Rigorous source evaluation under the Historical Method protects students against historical disinformation and hoaxes.
+* **Scenario**: โบราณสถานวัดเก่าแก่แห่งหนึ่งในจังหวัดพระนครศรีอยุธยา ถูกนักท่องเที่ยวขีดเขียนข้อความบนกำแพงอิฐโบราณและนำขยะไปทิ้ง
+* **Question**: นักเรียนควรมีส่วนร่วมในการปกป้องและรักษามรดกทางวัฒนธรรมทางประวัติศาสตร์นี้อย่างไร?
+* **Answer**: ต้องไม่ทำลาย ขีดเขียน หรือขโมยโบราณวัตถุ ช่วยกันรักษาความสะอาด และช่วยประชาสัมพันธ์ปลุกจิตสำนึกให้ผู้อื่นร่วมกันอนุรักษ์ เพราะมรดกทางวัฒนธรรมเป็นเอกลักษณ์สำคัญของชาติไทย
+* **Explanation**: การปกป้องโบราณสถานและมรดกทางวัฒนธรรมเป็นหน้าที่ของคนไทยทุกคน
+
 #### ข้อ 104
-* **Topic**: Buddha's Life - 4 Holy Pilgrimage Sites (สังเวชนียสถาน 4)
-* **Learning Objective**: LO-HIS1
+* **Topic**: ระบบการเมืองการปกครองและสิทธิพลเมือง
+* **Learning Objective**: LO-HIS3
 * **Difficulty**: Hard
-* **Scenario**: A Thai Buddhist pilgrim travels to India and Nepal to visit the four major sacred sites commemorating key events in the Buddha's life.
-* **Question**: List the four holy pilgrimage locations (สังเวชนียสถาน 4) and match each to its corresponding life event.
-* **Answer**: 1. Lumbini (Nepal): Site of Prince Siddhattha's Birth (ประสูติ). 2. Bodh Gaya (India): Site of Supreme Enlightenment under the Bodhi tree (ตรัสรู้). 3. Sarnath Deer Park (India): Site of First Sermon / Dhamma Wheel (ปฐมเทศนา). 4. Kusinara (India): Site of Parinibbana under the dual Sala trees (ปรินิพพาน).
-* **Explanation**: The 4 holy pilgrimage sites represent the four principal monumental milestones in the life of the Buddha.
+* **Scenario**: ประเทศไทยปกครองระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข ประชาชนมีสิทธิเสรีภาพและมีหน้าที่ตามรัฐธรรมนูญ
+* **Question**: จงยกตัวอย่างหน้าที่สำคัญของพลเมืองไทยตามระบอบประชาธิปไตยมาอย่างน้อย 2 ประการ?
+* **Answer**: 1. ไปใช้สิทธิเลือกตั้งเพื่อคัดเลือกตัวแทนที่ดีมาปกครองบ้านเมือง 2. เสียภาษีอากรตามกฎหมาย 3. พิทักษ์รักษาชาติ ศาสนา พระมหากษัตริย์ และปฏิบัติตามกฎหมายบ้านเมือง
+* **Explanation**: สิทธิและหน้าที่ต้องควบคู่กันในการปกครองระบอบประชาธิปไตย
+
 #### ข้อ 105
-* **Topic**: Cultural Preservation & Regional Unity
+* **Topic**: การสร้างความร่วมมืออันดีในระดับภูมิภาค
 * **Learning Objective**: LO-HIS4
 * **Difficulty**: Hard
-* **Scenario**: A school organizes an 'ASEAN Cultural Day' where students showcase traditional national costumes, traditional foods (e.g. Nasi Lemak, Amok, Tom Yum), and shared historical ties.
-* **Question**: Why is understanding neighboring ASEAN history and cultural diversity important for Thai youth?
-* **Answer**: Understanding neighboring histories fosters mutual respect, eliminates historic nationalistic prejudices, builds peaceful regional coexistence, and prepares youth to thrive actively within the ASEAN Socio-Cultural Community (ASCC).
-* **Explanation**: Cultural education builds regional harmony, empathy, and constructive cooperation among ASEAN member nations.
+* **Scenario**: ในอดีต บางประเทศในอาเซียนเคยมีความขัดแย้งทำสงครามกัน แต่ปัจจุบันสามารถรวมตัวกันเป็นประชาคมอาเซียนได้อย่างสงบสุข
+* **Question**: ปัจจัยสำคัญใดที่ทำให้ประเทศสมาชิกอาเซียนสามารถก้าวข้ามความขัดแย้งในอดีตมาร่วมมือกันได้?
+* **Answer**: การยึดถือหลักการหลีกเลี่ยงการแทรกแซงกิจการภายใน การตัดสินใจโดยฉันทามติ การเน้นประโยชน์ร่วมกันทางเศรษฐกิจ สังคม สันติภาพ และความเคารพในเอกราชซึ่งกันและกัน
+* **Explanation**: หลักการของอาเซียนเน้นการเสวนา สันติวิธี และมุ่งสร้างอนาคตร่วมกัน
 
-# Section D: Short Answer Questions (อัตนัย / อธิบายความรู้ 10 ข้อ)
+# Section D: Short Answer Questions (อัตนัย / อธิบายความรู้)
 
-<!--
-RULES Section D:
-- ข้อ 106–115 (10 ข้อ, 3 คะแนน/ข้อ)
--->
 #### ข้อ 106
-* **Topic**: Importance of Buddhism in Thai History
+* **Topic**: สังเวชนียสถาน 4 แห่ง
 * **Learning Objective**: LO-HIS1
-* **Difficulty**: Hard
-* **Prompt**: Explain three distinct ways Buddhism has served as a foundational pillar of Thai national identity and culture throughout history.
-* **Expected Answer**: 1. Identity & Ethics: Buddhist moral principles (e.g. Metta, Karuna, Five Precepts) shaped Thai social manners, hospitality ('Land of Smiles'), and ethical standards. 2. Cultural & Artistic Heritage: Faith inspired national architecture (temples, stupas), fine arts (mural paintings, Buddha statues), and classical literature (Traibhumikatha). 3. Social & Educational Center: Historically, Buddhist temples (วัด) served as community education centers, healthcare hubs, and social gathering places.
+* **Difficulty**: Medium
+* **Prompt**: จงระบุสังเวชนียสถานทั้ง 4 แห่ง พร้อมบอกเหตุการณ์สำคัญของพระพุทธเจ้าที่เกิดขึ้น ณ สถานที่นั้นๆ ให้ถูกต้อง
+* **Expected Answer**: 1. สวนลุมพินีวัน (เนปาล): สถานที่ประสูติ 2. พุทธคยา (อินเดีย): สถานที่ตรัสรู้ 3. สารนาถ/ป่าอิสิปตนมฤคทายวัน (อินเดีย): สถานที่แสดงปฐมเทศนา 4. สาลวโนทยาน เมืองกุสินารา (อินเดีย): สถานที่ปรินิพพาน
+
 #### ข้อ 107
-* **Topic**: Buddha's Life - Parinibbana Milestones
+* **Topic**: คติธรรมจากชาดก
 * **Learning Objective**: LO-HIS1
-* **Difficulty**: Hard
-* **Prompt**: Describe the sequence of major events surrounding the Buddha's Parinibbana from Relinquishing Life Duration to Relic Distribution.
-* **Expected Answer**: 1. Relinquishing Life (ปลงอายุสังขาร): At Pavala Cetiya in Vesali, announcing Parinibbana in 3 months. 2. Last Disciple (ปัจฉิมสาวก): Ordaining Subhadda at Kusinara. 3. Parinibbana (ปรินิพพาน): Passing away between dual Sala trees at Kusinara. 4. Royal Cremation (ถวายพระเพลิง): At Makutabandhana Cetiya. 5. Relic Distribution (แจกพระบรมสารีริกธาตุ): Dona Brahmin mediated among eight royal kingdoms to distribute relics into eight stupas peacefully.
+* **Difficulty**: Medium
+* **Prompt**: จงสรุปข้อคิดและคติธรรมที่ได้จากการศึกษา (1) ทีฆีติโกสลชาดก และ (2) สัพพทาฐิชาดก มาโดยสังเขป
+* **Expected Answer**: 1. ทีฆีติโกสลชาดก: สอนเรื่องการให้อภัย 'เวรย่อมไม่ระงับด้วยการจองเวร แต่ระงับด้วยการไม่จองเวร' 2. สัพพทาฐิชาดก: สอนเรื่องการไม่ลุ่มหลงในอำนาจและความโลภ เพราะจะนำมาซึ่งความพินาศ
+
 #### ข้อ 108
-* **Topic**: Moral Lessons of Jataka Stories
-* **Learning Objective**: LO-HIS1
-* **Difficulty**: Hard
-* **Prompt**: Summarize the story and moral lesson of Dhiti Kosala Jataka (ทีฆีติโกสลชาดก) and explain its relevance to modern society.
-* **Expected Answer**: In Dhiti Kosala Jataka, King Dhighiti was executed by King Brahmadatta. Dhighiti's son, Prince Dhighavu, gained an opportunity to kill Brahmadatta in revenge but chose to spare his life, honoring his father's final words: 'Hatred is not ended by hatred, but by forgiveness.' Moved by this mercy, Brahmadatta restored Dhighavu's kingdom. The story teaches modern society that non-violence and forgiveness end destructive cycles of revenge.
+* **Topic**: ขั้นตอนวิธีการทางประวัติศาสตร์ 5 ขั้น
+* **Learning Objective**: LO-HIS2
+* **Difficulty**: Medium
+* **Prompt**: จงเรียงลำดับขั้นตอนของวิธีการทางประวัติศาสตร์ทั้ง 5 ขั้นตอนให้ถูกต้องตามลำดับ
+* **Expected Answer**: 1. การกำหนดหัวข้อที่ต้องการศึกษา (ตั้งคำถาม) 2. การรวบรวมหลักฐาน 3. การประเมินคุณค่าของหลักฐาน (วิพากษ์ภายนอก/ภายใน) 4. การตีความและวิเคราะห์ข้อมูล 5. การเรียบเรียงและการนำเสนอ
+
 #### ข้อ 109
-* **Topic**: Five Steps of the Historical Method
+* **Topic**: หลักฐานชั้นต้น vs หลักฐานชั้นรอง
 * **Learning Objective**: LO-HIS2
-* **Difficulty**: Hard
-* **Prompt**: List the 5 steps of the Historical Method (วิธีการทางประวัติศาสตร์) in correct chronological order and briefly explain the task performed in each step.
-* **Expected Answer**: 1. Formulating the Topic (กำหนดหัวข้อ): Defining the research question or historical boundary. 2. Evidence Gathering (รวบรวมหลักฐาน): Collecting relevant primary and secondary sources. 3. Source Criticism (ประเมินคุณค่าหลักฐาน): Evaluating external authenticity and internal credibility. 4. Data Interpretation (ตีความและวิเคราะห์ข้อมูล): Analyzing verified facts objectively to determine cause-and-effect. 5. Synthesis & Presentation (เรียบเรียงและนำเสนอ): Structuring analyzed findings into a coherent historical report.
+* **Difficulty**: Medium
+* **Prompt**: จงอธิบายความแตกต่างระหว่าง 'หลักฐานชั้นต้น' และ 'หลักฐานชั้นรอง' พร้อมยกตัวอย่างหลักฐานแต่ละประเภทมาอย่างละ 2 ตัวอย่าง
+* **Expected Answer**: หลักฐานชั้นต้น: สร้าง/บันทึกในยุคสมัยนั้นโดยผู้ร่วมเหตุการณ์ เช่น ศิลาจารึก, โครงกระดูกโบราณ, จดหมายเหตุ. หลักฐานชั้นรอง: เรียบเรียงขึ้นมาภายหลังโดยอาศัยหลักฐานชั้นต้น เช่น ตำราเรียนประวัติศาสตร์, สารคดีประวัติศาสตร์
+
 #### ข้อ 110
-* **Topic**: Primary vs. Secondary Historical Evidence
+* **Topic**: วิพากษ์ภายนอก vs วิพากษ์ภายใน
 * **Learning Objective**: LO-HIS2
-* **Difficulty**: Hard
-* **Prompt**: Define Primary Sources and Secondary Sources in historical research, and provide two concrete examples of each type from Thai history.
-* **Expected Answer**: 1. Primary Sources (หลักฐานชั้นต้น): Contemporary evidence created during the actual historical period by eye-witnesses or participants. Examples: King Ramkhamhaeng Stone Inscription No. 1, Ayutthaya Royal Chronicles (ใบลาน/จดหมายเหตุ), Ban Chiang bronze pottery. 2. Secondary Sources (หลักฐานชั้นรอง): Accounts, textbooks, or analyses written after the event by researchers analyzing primary data. Examples: Modern Grade 6 history textbooks, academic research journal articles written by modern historians.
+* **Difficulty**: Medium
+* **Prompt**: จงอธิบายความแตกต่างระหว่างการประเมินหลักฐานทางประวัติศาสตร์แบบ 'วิพากษ์ภายนอก' และ 'วิพากษ์ภายใน'
+* **Expected Answer**: วิพากษ์ภายนอก: ตรวจสอบตัววัตถุหลักฐานว่าเป็นของจริงหรือของปลอม (อายุกระดาษ หมึก หิน วัตถุ). วิพากษ์ภายใน: ตรวจสอบเนื้อหาข้อมูล ความถูกต้อง เที่ยงตรง และอคติของผู้บันทึก
+
 #### ข้อ 111
-* **Topic**: External Criticism vs. Internal Criticism
-* **Learning Objective**: LO-HIS2
-* **Difficulty**: Hard
-* **Prompt**: Explain the key differences between External Criticism and Internal Criticism in Step 3 of the Historical Method.
-* **Expected Answer**: External Criticism (วิพากษ์ภายนอก) evaluates the physical authenticity and material origin of historical evidence (e.g. testing stone age, ink chemistry, manuscript paper, handwriting style, to ensure it is not a modern physical forgery). Internal Criticism (วิพากษ์ภายใน) evaluates the content credibility and truthfulness of the written text itself (e.g. analyzing author motives, personal bias, exaggeration, or political propaganda to determine factual accuracy).
+* **Topic**: ประเทศเพื่อนบ้านและระบอบการปกครอง
+* **Learning Objective**: LO-HIS3
+* **Difficulty**: Medium
+* **Prompt**: จงระบุชื่อประเทศเพื่อนบ้านที่มีพรมแดนติดกับประเทศไทยทั้ง 4 ประเทศ พร้อมระบุระบอบการปกครองของแต่ละประเทศ
+* **Expected Answer**: 1. เมียนมา (พม่า): ระบอบประธานาธิบดี 2. ลาว: ระบอบสังคมนิยมคอมมิวนิสต์ 3. กัมพูชา: ระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข 4. มาเลเซีย: ระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข (สหพันธรัฐ)
+
 #### ข้อ 112
-* **Topic**: Thailand's Neighboring Countries Overview
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Hard
-* **Prompt**: Provide the official capital city, primary religion, and historical background for Thailand's neighboring countries: Myanmar, Laos, and Malaysia.
-* **Expected Answer**: 1. Myanmar: Capital = Naypyidaw; Primary Religion = Theravada Buddhism; History = Rich empire history (Bagan, Konbaung), former British colony, resource-rich republic. 2. Laos: Capital = Vientiane; Primary Religion = Theravada Buddhism; History = Ancient Lan Xang Kingdom (ล้านช้าง), former French colony, landlocked socialist republic. 3. Malaysia: Capital = Kuala Lumpur; Official Religion = Islam; History = Maritime trading crossroads, former British colony, multicultural federal constitutional monarchy.
+* **Topic**: การก่อตั้งอาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Medium
+* **Prompt**: จงระบุ (1) ปี พ.ศ. ที่ก่อตั้งอาเซียน (2) ชื่อเอกสารการลงนามก่อตั้ง และ (3) ชื่อ 5 ประเทศสมาชิกผู้ก่อตั้ง
+* **Expected Answer**: 1. ก่อตั้งปี พ.ศ. 2510 (ค.ศ. 1967) 2. เอกสาร 'ปฏิญญากรุงเทพฯ' (Bangkok Declaration) 3. 5 ประเทศผู้ก่อตั้ง: ไทย, อินโดนีเซีย, มาเลเซีย, ฟิลิปปินส์, สิงคโปร์
+
 #### ข้อ 113
-* **Topic**: Regional Governance Systems Comparison
-* **Learning Objective**: LO-HIS3
-* **Difficulty**: Hard
-* **Prompt**: Compare the three main types of government systems found in Southeast Asian nations, naming at least one country example for each system.
-* **Expected Answer**: 1. Constitutional Monarchy: Head of State is a King operating under constitutional law. Examples: Thailand, Cambodia, Malaysia (rotational monarchy). 2. Republic: Head of State is an elected President. Examples: Myanmar, Singapore, Indonesia, Philippines. 3. Socialist / Communist Republic: Governed under single-party socialist leadership with a President. Examples: Laos (สปป. ลาว), Vietnam.
+* **Topic**: 3 เสาหลักของประชาคมอาเซียน
+* **Learning Objective**: LO-HIS4
+* **Difficulty**: Medium
+* **Prompt**: จงระบุชื่อ 3 เสาหลักของประชาคมอาเซียน (ASEAN Community) ให้ครบถ้วนทั้งภาษาไทยและภาษาอังกฤษ
+* **Expected Answer**: 1. ประชาคมการเมืองและความมั่นคงอาเซียน (ASEAN Political-Security Community - APSC) 2. ประชาคมเศรษฐกิจอาเซียน (ASEAN Economic Community - AEC) 3. ประชาคมสังคมและวัฒนธรรมอาเซียน (ASEAN Socio-Cultural Community - ASCC)
+
 #### ข้อ 114
-* **Topic**: History and Founding of ASEAN
+* **Topic**: สัญลักษณ์และคำขวัญอาเซียน
 * **Learning Objective**: LO-HIS4
-* **Difficulty**: Hard
-* **Prompt**: Explain the founding background of ASEAN, listing its founding date, founding location, 5 original member states, and official motto.
-* **Expected Answer**: 1. Founding Date & Location: August 8, 1967, established by the Bangkok Declaration signed at Saranrom Palace in Bangkok, Thailand. 2. 5 Original Member States: Thailand, Indonesia, Malaysia, Philippines, and Singapore. 3. Official Motto: 'One Vision, One Identity, One Community'. 4. Core Purpose: To promote regional peace, political stability, economic growth, and social-cultural integration.
+* **Difficulty**: Medium
+* **Prompt**: จงอธิบายความหมายของ 'รวงข้าวสีเหลือง 10 ต้นมัดรวมกัน' ในสัญลักษณ์อาเซียน และระบุ 'คำขวัญอาเซียน'
+* **Expected Answer**: รวงข้าว 10 ต้นมัดรวมกัน: หมายถึง ประเทศสมาชิก 10 ประเทศผูกพันกันด้วยมิตรภาพและความเป็นน้ำหนึ่งใจเดียวกัน. คำขวัญอาเซียน: 'One Vision, One Identity, One Community' (หนึ่งวิสัยทัศน์ หนึ่งอัตลักษณ์ หนึ่งประชาคม)
+
 #### ข้อ 115
-* **Topic**: Three Pillars of the ASEAN Community
+* **Topic**: ประโยชน์ของการเป็นสมาชิกอาเซียน
 * **Learning Objective**: LO-HIS4
-* **Difficulty**: Hard
-* **Prompt**: Name and describe the core objectives of the three community pillars comprising the integrated ASEAN Community.
-* **Expected Answer**: 1. ASEAN Political-Security Community (APSC): Ensures regional peace, political stability, conflict resolution, and non-violence among member states. 2. ASEAN Economic Community (AEC): Creates a single market and production base with free flow of goods, services, investment, and skilled labor. 3. ASEAN Socio-Cultural Community (ASCC): Promotes human development, social welfare, environmental protection, and shared cultural identity among ASEAN peoples.
+* **Difficulty**: Medium
+* **Prompt**: จงสรุปประโยชน์สำคัญที่ประเทศไทยและประชาชนไทยได้รับจากการเข้าร่วมเป็นสมาชิกประชาคมอาเซียน มาอย่างน้อย 3 ข้อ
+* **Expected Answer**: 1. ด้านเศรษฐกิจ: ขยายตลาดการค้าและการส่งออก ลดภาษีศุลกากร 2. ด้านสังคมและวัฒนธรรม: เกิดการแลกเปลี่ยนการศึกษา วัฒนธรรม และการแข่งขันกีฬา 3. ด้านความมั่นคง: เกิดสันติภาพ เสถียรภาพ และความร่วมมือต่อสู้กับภัยพิบัติและอาชญากรรมข้ามชาติ

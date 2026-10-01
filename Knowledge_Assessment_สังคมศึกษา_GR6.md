@@ -1,4 +1,4 @@
-# Knowledge Assessment Quiz: Social Studies Grade 6 (สังคมศึกษา ป.6 - MidFinal)
+# Knowledge Assessment Quiz: สังคมศึกษา ศาสนา และวัฒนธรรม ชั้น ป.6 (สังคมศึกษา ป.6 - MidFinal)
 
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  QUIZ DATA — SciMaster Gr.6 Platform (Social Studies / สังคมศึกษา)   ║
@@ -13,24 +13,24 @@
 ### 1. หน่วยการเรียนรู้ที่ 1: การผลิตและการบริโภค (Production and Consumption)
 * **บทบาทของผู้ผลิตที่มีคุณภาพ**: การมีจรรยาบรรณ ความรับผิดชอบต่อสังคมและสิ่งแวดล้อม การบำบัดน้ำเสีย และการวางแผนการผลิต
 * **ปัจจัยการผลิต**: ที่ดิน (Land), แรงงาน (Labor), ทุน (Capital), และผู้ประกอบการ (Entrepreneurship)
-* **ผู้บริโภคที่รู้เท่าทัน**: การพิจารณาความจำเป็น (Need) vs ความต้องการ (Want), ความประหยัด, ความปลอดภัย, และเครื่องหมายมาตรฐานสินค้า
+* **ผู้บริโภคที่รู้เท่าทัน**: การพิจารณาความจำเป็น (Need) vs ความต้องการ (Want), ความประหยัด, ความปลอดภัย, และเครื่องหมายมาตรฐานสินค้า (อย., มอก., ประหยัดไฟเบอร์ 5)
 * **การใช้ทรัพยากรอย่างยั่งยืน**: หลัก 3Rs (Reduce, Reuse, Recycle) และการวางแผนใช้ทรัพยากรที่มีอยู่อย่างจำกัดให้เกิดประโยชน์สูงสุด
 
 ### 2. หน่วยการเรียนรู้ที่ 2: ความสัมพันธ์ทางเศรษฐกิจและสิทธิผู้บริโภค/แรงงาน (Economic Relationships & Rights)
 * **ความสัมพันธ์ระหว่างหน่วยเศรษฐกิจ**: หน่วยครัวเรือน (Household), หน่วยธุรกิจ (Business), ธนาคาร (Bank), และรัฐบาล (Government)
 * **บทบาทของสถาบันการเงิน**: ธนาคารพาณิชย์ (ฝาก-ถอน-ให้กู้) vs ธนาคารแห่งประเทศไทย (ธนาคารกลาง ออกธนบัตร ควบคุมระบบเงินตรา)
 * **บทบาทของรัฐบาลและภาษี**: ภาษีทางตรง (Direct Tax) เช่น ภาษีเงินได้บุคคลธรรมดา และภาษีทางอ้อม (Indirect Tax) เช่น ภาษีมูลค่าเพิ่ม (VAT) เพื่อนำมาจัดสรรบริการสาธารณะ
-* **การรวมกลุ่มทางเศรษฐกิจในท้องถิ่น**: กลุ่มเกษตรกร, สหกรณ์ (Cooperatives - สหกรณ์การเกษตร, สหกรณ์ออมทรัพย์, สหกรณ์ร้านค้า), และ OTOP
+* **การรวมกลุ่มทางเศรษฐกิจในท้องถิ่น**: กลุ่มเกษตรกร, สหกรณ์ (สหกรณ์การเกษตร, สหกรณ์ออมทรัพย์, สหกรณ์ร้านค้า, สหกรณ์บริการ), และ OTOP
 * **สิทธิผู้บริโภคและสิทธิแรงงาน**: สิทธิผู้บริโภค 5 ประการตาม พ.ร.บ. คุ้มครองผู้บริโภค และสิทธิของผู้ใช้แรงงานตาม พ.ร.บ. คุ้มครองแรงงาน (ชั่วโมงทำงาน ค่าจ้าง วันหยุด)
 
 ---
 
 ## Learning Objectives Mapping (แผนผังจุดประสงค์การเรียนรู้)
 
-* **LO-SOC1**: Knowledge & Understanding of basic economic principles, production factors, and consumer behavior.
-* **LO-SOC2**: Application of sustainable resource management, budget planning, and wise decision-making.
-* **LO-SOC3**: Analysis of economic relationships among households, businesses, financial institutions, and government.
-* **LO-SOC4**: Evaluation of consumer rights, labor protection laws, and social responsibility in economics.
+* **LO-SOC1**: ความรู้ความเข้าใจเกี่ยวกับหลักเศรษฐศาสตร์เบื้องต้น ปัจจัยการผลิต และพฤติกรรมผู้บริโภค
+* **LO-SOC2**: การประยุกต์ใช้การบริหารจัดการทรัพยากรอย่างยั่งยืน การวางแผนงบประมาณ และการตัดสินใจเลือกซื้ออย่างฉลาด
+* **LO-SOC3**: การวิเคราะห์ความสัมพันธ์ทางเศรษฐกิจระหว่างหน่วยครัวเรือน หน่วยธุรกิจ สถาบันการเงิน และรัฐบาล
+* **LO-SOC4**: การประเมินสิทธิผู้บริโภค กฎหมายคุ้มครองแรงงาน และความรับผิดชอบต่อสังคมในทางเศรษฐศาสตร์
 
 ---
 
@@ -48,1075 +48,1176 @@
 ---
 
 # Section A: Multiple Choice Questions (ปรนัย 4 ตัวเลือก)
+
+# Section A: Multiple Choice Questions (ปรนัย 4 ตัวเลือก)
+
 #### ข้อ 1
-* **Topic**: Producers and Production
+* **Topic**: ผู้ผลิตและการผลิต
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: What is the primary role of a producer in an economic system?
-* ก. To consume finished goods and services for personal use
-* ข. To combine factors of production to make goods and services
-* ค. To collect taxes on behalf of the central government
-* ง. To issue banknotes and regulate national currency
+* **Prompt**: บทบาทสำคัญที่สุดของผู้ผลิตในระบบเศรษฐกิจคือข้อใด?
+* ก. นำสินค้าและบริการมาใช้จ่ายส่วนตัว
+* ข. รวบรวมปัจจัยการผลิตเพื่อแปรรูปเป็นสินค้าและบริการ
+* ค. จัดเก็บภาษีอากรส่งมอบให้แก่รัฐบาล
+* ง. พิมพ์ธนบัตรและควบคุมปริมาณเงินในประเทศ
 * **Correct Answer**: ข
-* **Explanation**: A producer combines factors of production (land, labor, capital, entrepreneurship) to produce goods and services to satisfy consumer needs.
+* **Explanation**: ผู้ผลิตทำหน้าที่นำปัจจัยการผลิต (ที่ดิน แรงงาน ทุน ผู้ประกอบการ) มาแปรรูปเป็นสินค้าและบริการเพื่อตอบสนองความต้องการของผู้บริโภค
+
 #### ข้อ 2
-* **Topic**: Factors of Production
+* **Topic**: ปัจจัยการผลิต
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: Which factor of production includes natural resources like soil, water, and forests?
-* ก. Labor
-* ข. Capital
-* ค. Land
-* ง. Entrepreneurship
+* **Prompt**: ข้อใดจัดเป็นปัจจัยการผลิตประเภท 'ที่ดิน' ในทางเศรษฐศาสตร์?
+* ก. แรงงานของคนงานในโรงงาน
+* ข. เงินทุนที่กู้ยืมมาจากธนาคาร
+* ค. ทรัพยากรธรรมชาติ เช่น ดิน น้ำ แร่ธาตุ และป่าไม้
+* ง. ทักษะความรู้ในการบริหารงานของผู้จัดการ
 * **Correct Answer**: ค
-* **Explanation**: Land refers to all natural resources used in production, including soil, water, minerals, and forests.
+* **Explanation**: ที่ดินในทางเศรษฐศาสตร์หมายถึงทรัพยากรธรรมชาติต่างๆ ที่มีอยู่ตามธรรมชาติ เช่น ดิน น้ำ แร่ธาตุ แสงแดด และป่าไม้
+
 #### ข้อ 3
-* **Topic**: Factors of Production
+* **Topic**: ปัจจัยการผลิต
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: Machinery, factory buildings, and physical tools belong to which factor of production?
-* ก. Land
-* ข. Capital
-* ค. Labor
-* ง. Entrepreneurship
+* **Prompt**: เครื่องจักร อาคารโรงงาน อุปกรณ์ และเครื่องมือการผลิต จัดเป็นปัจจัยการผลิตประเภทใด?
+* ก. ที่ดิน
+* ข. ทุน
+* ค. แรงงาน
+* ง. ผู้ประกอบการ
 * **Correct Answer**: ข
-* **Explanation**: Capital includes man-made physical tools, machinery, equipment, and buildings used to produce other goods and services.
+* **Explanation**: ทุน (Capital) หมายถึง สิ่งก่อสร้าง เครื่องจักร เครื่องมือ อุปกรณ์ที่มนุษย์สร้างขึ้นเพื่อใช้ในการผลิตสินค้าและบริการ
+
 #### ข้อ 4
-* **Topic**: Factors of Production
+* **Topic**: ปัจจัยการผลิต
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: What human resource provides physical effort, skills, and knowledge to produce goods?
-* ก. Labor
-* ข. Capital
-* ค. Land
-* ง. Government
+* **Prompt**: การใช้กำลังกาย สติปัญญา ทักษะ และความรู้ของมนุษย์ในการผลิตสินค้า จัดเป็นปัจจัยการผลิตประเภทใด?
+* ก. แรงงาน
+* ข. ทุน
+* ค. ที่ดิน
+* ง. รัฐบาล
 * **Correct Answer**: ก
-* **Explanation**: Labor consists of human physical and mental effort used in the production process.
+* **Explanation**: แรงงาน (Labor) คือ การใช้กำลังกายและกำลังความคิด สติปัญญา ทักษะของมนุษย์ในการผลิตสินค้าและบริการ
+
 #### ข้อ 5
-* **Topic**: Factors of Production
+* **Topic**: ปัจจัยการผลิต
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Medium
-* **Prompt**: Which factor of production takes risks and organizes land, labor, and capital to start a business?
-* ก. Laborer
-* ข. Shareholder
-* ค. Entrepreneurship
-* ง. Consumer
+* **Prompt**: ผู้ที่ยอมรับความเสี่ยงทางธุรกิจ และทำการรวบรวมที่ดิน แรงงาน และทุน มาจัดตั้งการผลิตเรียกว่าอะไร?
+* ก. ลูกจ้าง
+* ข. ผู้ถือหุ้น
+* ค. ผู้ประกอบการ
+* ง. ผู้บริโภค
 * **Correct Answer**: ค
-* **Explanation**: Entrepreneurship involves taking financial risks and combining land, labor, and capital to operate a enterprise.
+* **Explanation**: ผู้ประกอบการ (Entrepreneurship) คือ ผู้ที่รวบรวมปัจจัยการผลิตอื่น ๆ มาผลิตสินค้าและบริการ โดยเป็นผู้รับความเสี่ยงในการดำเนินธุรกิจ
+
 #### ข้อ 6
-* **Topic**: Quality Producers
+* **Topic**: ผู้ผลิตที่มีคุณภาพ
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: What is a key characteristic of a quality and responsible producer?
-* ก. Using illegal raw materials to cut costs
-* ข. Considering environmental impact and maintaining honesty
-* ค. Maximizing short-term profit by misleading consumers
-* ง. Discharging untreated toxic waste into public rivers
+* **Prompt**: ข้อใดเป็นลักษณะของผู้ผลิตที่มีคุณภาพและมีความรับผิดชอบต่อสังคม?
+* ก. ใช้วัตถุดิบผิดกฎหมายเพื่อลดต้นทุนการผลิต
+* ข. คำนึงถึงสิ่งแวดล้อมและมีความซื่อสัตย์สุจริตต่อผู้บริโภค
+* ค. มุ่งแสวงหากำไรสูงสุดโดยโฆษณาเกินจริง
+* ง. ปล่อยน้ำเสียที่ยังไม่บำบัดลงสู่แม่น้ำสาธารณะ
 * **Correct Answer**: ข
-* **Explanation**: Quality producers practice ethics, honesty toward customers, social responsibility, and environmental protection.
+* **Explanation**: ผู้ผลิตที่มีคุณภาพต้องมีจรรยาบรรณ มีความซื่อสัตย์ต่อผู้บริโภค และคำนึงถึงผลกระทบต่อสิ่งแวดล้อมและสังคม
+
 #### ข้อ 7
-* **Topic**: Quality Producers
+* **Topic**: ผู้ผลิตที่มีคุณภาพ
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Medium
-* **Prompt**: Why should factory owners treat industrial wastewater before discharging it into public waterways?
-* ก. To increase the market price of their finished products
-* ข. To fulfill corporate social responsibility and prevent water pollution
-* ค. To reduce the number of factory workers needed
-* ง. To avoid paying taxes to the local government
+* **Prompt**: เพราะเหตุใดโรงงานอุตสาหกรรมจึงต้องทำการบำบัดน้ำเสียก่อนปล่อยลงสู่แหล่งน้ำสาธารณะ?
+* ก. เพื่อเพิ่มราคาขายของสินค้าให้สูงขึ้น
+* ข. เพื่อแสดงความรับผิดชอบต่อสังคมและป้องกันมลพิษทางน้ำ
+* ค. เพื่อลดจำนวนคนงานในโรงงานให้น้อยลง
+* ง. เพื่อหลีกเลี่ยงการเสียภาษีเงินได้บุคคลธรรมดา
 * **Correct Answer**: ข
-* **Explanation**: Treating wastewater prevents ecological destruction, protects public health, and shows social and environmental responsibility.
+* **Explanation**: การบำบัดน้ำเสียช่วยป้องกันสิ่งแวดล้อมเสื่อมโทรม รักษาสุขภาพของชุมชน และแสดงถึงความรับผิดชอบต่อสังคมของผู้ผลิต
+
 #### ข้อ 8
-* **Topic**: Production Planning
+* **Topic**: การวางแผนการผลิต
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Medium
-* **Prompt**: Why is thorough planning important for a producer before starting production?
-* ก. It guarantees 100% profit without any market risk
-* ข. It reduces errors, minimizes resource waste, and sets clear goals
-* ค. It removes the need to hire skilled labor
-* ง. It allows producers to avoid obeying consumer protection laws
+* **Prompt**: การวางแผนการผลิตก่อนเริ่มดำเนินธุรกิจมีประโยชน์สำคัญอย่างไร?
+* ก. รับประกันว่าจะได้กำไร 100% โดยไร้ความเสี่ยง
+* ข. ช่วยลดข้อผิดพลาด ลดการสูญเสียทรัพยากร และกำหนดเป้าหมายชัดเจน
+* ค. ทำให้ไม่ต้องจ้างแรงงานที่มีทักษะฝีมือ
+* ง. ช่วยให้ผู้ผลิตยกเว้นปฏิบัติตามกฎหมายคุ้มครองผู้บริโภค
 * **Correct Answer**: ข
-* **Explanation**: Proper planning allows producers to allocate resources efficiently, reduce operational errors, and set clear business targets.
+* **Explanation**: การวางแผนทำให้สามารถจัดสรรทรัพยากรอย่างคุ้มค่า ลดความเสี่ยงในการขาดทุน และดำเนินงานได้อย่างมีทิศทาง
+
 #### ข้อ 9
-* **Topic**: Resource Efficiency
+* **Topic**: การใช้ทรัพยากรอย่างมีประสิทธิภาพ
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Medium
-* **Prompt**: What does 'efficiency' in resource utilization mean?
-* ก. Using as many natural resources as quickly as possible
-* ข. Producing maximum output using minimal resource inputs without waste
-* ค. Stopping all manufacturing activities to preserve resources
-* ง. Importing all raw materials from foreign countries
+* **Prompt**: การใช้ทรัพยากรอย่าง 'มีประสิทธิภาพ' (Efficiency) ในทางเศรษฐศาสตร์หมายถึงข้อใด?
+* ก. การใช้ทรัพยากรธรรมชาติให้หมดไปอย่างรวดเร็วที่สุด
+* ข. การนำทรัพยากรที่มีอยู่อย่างจำกัดมาผลิตให้ได้ประโยชน์สูงสุดโดยเสียหายน้อยที่สุด
+* ค. การหยุดกระบวนการผลิตทั้งหมดเพื่ออนุรักษ์ทรัพยากร
+* ง. การสั่งซื้อวัตถุดิบทั้งหมดมาจากต่างประเทศ
 * **Correct Answer**: ข
-* **Explanation**: Resource efficiency means utilizing limited input resources effectively to produce maximum useful output with minimal waste.
+* **Explanation**: การใช้ทรัพยากรอย่างมีประสิทธิภาพ คือการใช้อย่างคุ้มค่าที่สุด ประหยัดที่สุด และเกิดประโยชน์สูงสุด
+
 #### ข้อ 10
-* **Topic**: Resource Effectiveness
+* **Topic**: ประสิทธิภาพและความคุ้มค่า
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Medium
-* **Prompt**: What is the difference between resource 'efficiency' and 'effectiveness'?
-* ก. Efficiency focuses on doing things right (minimal waste), while effectiveness focuses on achieving goals
-* ข. Efficiency means high cost, while effectiveness means low cost
-* ค. Effectiveness applies only to agriculture, while efficiency applies to technology
-* ง. There is no difference between efficiency and effectiveness
+* **Prompt**: ข้อใดอธิบายความแตกต่างระหว่าง 'ความมีประสิทธิภาพ' กับ 'ความมีประสิทธิผล' ได้ถูกต้อง?
+* ก. ประสิทธิภาพเน้นกระบวนการที่ใช้น้อยที่สุดแต่นำมาซึ่งผลผลิตสูงสุด ส่วนประสิทธิผลเน้นบรรลุเป้าหมายที่ตั้งไว้
+* ข. ประสิทธิภาพใช้กับเกษตรกรรม ส่วนประสิทธิผลใช้กับอุตสาหกรรม
+* ค. ประสิทธิภาพคือต้นทุนสูง ส่วนประสิทธิผลคือต้นทุนต่ำ
+* ง. ทั้งสองคำมีความหมายเหมือนกันทุกประการ
 * **Correct Answer**: ก
-* **Explanation**: Efficiency measures input-to-output optimization (doing things right), whereas effectiveness measures target achievement (doing the right things).
+* **Explanation**: ประสิทธิภาพ (Efficiency) คือการทำอย่างถูกวิธีและประหยัด ส่วนประสิทธิผล (Effectiveness) คือการทำบรรลุเป้าหมายสำเร็จ
+
 #### ข้อ 11
-* **Topic**: Benefits of Quality Production
+* **Topic**: ประโยชน์ของการผลิตสินค้าคุณภาพ
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: How does producing high-quality goods benefit the producer in the long run?
-* ก. It builds consumer trust, enhances brand reputation, and increases sales
-* ข. It increases customer complaints and legal disputes
-* ค. It guarantees government subsidies for life
-* ง. It eliminates competition in the market completely
+* **Prompt**: การที่ผู้ผลิตผลิตสินค้าที่มีคุณภาพดี จะส่งผลดีต่อตัวผู้ผลิตเองอย่างไรในระยะยาว?
+* ก. สร้างความเชื่อมั่นแก่ผู้บริโภค เกิดลูกค้ารักษาแบรนด์ และเพิ่มยอดขายยั่งยืน
+* ข. เพิ่มจำนวนเรื่องร้องเรียนและข้อพิพาททางกฎหมาย
+* ค. ได้รับเงินอุดหนุนจากรัฐบาลโดยไม่ต้องทำงาน
+* ง. ผูกขาดตลาดเพียงผู้เดียวโดยไม่มีคู่แข่งอีกเลย
 * **Correct Answer**: ก
-* **Explanation**: High-quality products earn customer trust, foster brand loyalty, and build a positive long-term reputation that drives sustainable sales.
+* **Explanation**: สินค้าคุณภาพสร้างความไว้วางใจ ความจงรักภักดีในแบรนด์ และส่งผลให้ธุรกิจเติบโตได้อย่างยั่งยืน
+
 #### ข้อ 12
-* **Topic**: Benefits of Quality Production
+* **Topic**: ประโยชน์ของการผลิตสินค้าคุณภาพ
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: How does high product quality benefit consumers?
-* ก. It ensures safety, durability, and value for money spent
-* ข. It forces consumers to buy replacement items frequently
-* ค. It lowers product safety standards across the industry
-* ง. It prevents consumers from making price comparisons
+* **Prompt**: ผู้บริโภคจะได้รับประโยชน์โดยตรงอย่างไรจากการเลือกซื้อสินค้าที่มีคุณภาพมาตรฐาน?
+* ก. ได้รับความปลอดภัยในการใช้งาน ความคุ้มค่าเงิน และความคงทนถาวร
+* ข. ต้องซื้อสินค้าชิ้นใหม่ทดแทนอยู่บ่อยครั้ง
+* ค. ทำให้มาตรฐานความปลอดภัยของสินค้าลดต่ำลง
+* ง. ป้องกันไม่ให้ผู้บริโภคสามารถเปรียบเทียบราคาได้
 * **Correct Answer**: ก
-* **Explanation**: Quality products are safe, long-lasting, and reliable, saving consumers money and protecting their health.
+* **Explanation**: สินค้าคุณภาพช่วยให้ผู้บริโภคปลอดภัย ไม่เสี่ยงต่ออันตราย และได้รับประโยชน์คุ้มค่ากับเงินที่จ่ายไป
+
 #### ข้อ 13
-* **Topic**: Factors of Production
+* **Topic**: ตัวอย่างปัจจัยการผลิต
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Medium
-* **Prompt**: A baker uses flour, sugar, an electric oven, a bakery shop, and hired assistants. What represents 'Capital'?
-* ก. The flour and sugar
-* ข. The electric oven and bakery building
-* ค. The hired assistants
-* ง. The baker's enterprise skill
+* **Prompt**: ร้านทำขนมปังแห่งหนึ่งใช้ แป้งสาลี น้ำตาล เตาอบไฟฟ้า อาคารร้าน และพนักงานทำขนม ข้อใดคือ 'ทุน'?
+* ก. แป้งสาลีและน้ำตาล
+* ข. เตาอบไฟฟ้าและอาคารร้าน
+* ค. พนักงานทำขนม
+* ง. ความเชี่ยวชาญของเจ้าของร้าน
 * **Correct Answer**: ข
-* **Explanation**: The electric oven and bakery building are man-made physical equipment and facilities used in production (Capital).
+* **Explanation**: เตาอบไฟฟ้าและอาคารร้านค้าเป็นเครื่องมือและสิ่งก่อสร้างที่มนุษย์สร้างขึ้นเพื่อใช้ผลิต จึงจัดเป็น 'ทุน'
+
 #### ข้อ 14
-* **Topic**: Environmental Ethics
+* **Topic**: จริยธรรมในการจัดการทรัพยากร
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Medium
-* **Prompt**: Which action by a paper manufacturer demonstrates sustainable environmental stewardship?
-* ก. Cutting down natural forests without planting new trees
-* ข. Using eco-friendly pulp and planting trees to replace harvested ones
-* ค. Dumping chemical bleach directly into local canal water
-* ง. Burning scrap waste in open fields during peak summer
+* **Prompt**: การกระทำใดของผู้ผลิตกระดาษที่แสดงถึงการบริโภคและการผลิตที่ยั่งยืน?
+* ก. ตัดไม้ในป่าธรรมชาติโดยไม่มีการปลูกทดแทน
+* ข. ใช้วัตถุดิบรีไซเคิลและปลูกป่าทดแทนไม้ที่ตัดไป
+* ค. ปล่อยสารเคมีฟอกขาวลงในลำคลองสาธารณะ
+* ง. เผาเศษขยะกระดาษกลางแจ้งในฤดูร้อน
 * **Correct Answer**: ข
-* **Explanation**: Replanting trees and using eco-friendly materials ensures sustainable resource renewal and environmental protection.
+* **Explanation**: การปลูกป่าทดแทนและการใช้วัตถุดิบหมุนเวียนช่วยรักษาความสมดุลของธรรมชาติและอนุรักษ์ทรัพยากรยั่งยืน
+
 #### ข้อ 15
-* **Topic**: Producer Ethics
+* **Topic**: จรรยาบรรณผู้ผลิต
 * **Learning Objective**: LO-SOC4
 * **Difficulty**: Medium
-* **Prompt**: A food producer conceals expiration dates to sell expired canned items. Which producer obligation is violated?
-* ก. Honesty and consumer safety ethics
-* ข. Labor union registration requirements
-* ค. Central bank interest rate compliance
-* ง. Export tariff calculation rules
+* **Prompt**: ผู้ผลิตอาหารที่ลบวันหมดอายุเดิมออก แล้วพิมพ์วันหมดอายุใหม่เพื่อนำสินค้าหมดอายุมาขาย ละเมิดหลักการใด?
+* ก. จรรยาบรรณผู้ผลิตและความซื่อสัตย์ต่อความปลอดภัยของผู้บริโภค
+* ข. ระเบียบการจัดตั้งสหกรณ์ออมทรัพย์
+* ค. อัตราดอกเบี้ยนโยบายของธนาคารแห่งประเทศไทย
+* ง. กฎหมายการจัดเก็บภาษีมูลค่าเพิ่ม
 * **Correct Answer**: ก
-* **Explanation**: Concealing expiration dates violates fundamental producer ethics, honesty, and food safety standards.
+* **Explanation**: การปลอมแปลงวันหมดอายุเป็นการหลอกลวง ละเมิดจรรยาบรรณอย่างร้ายแรง และก่ออันตรายต่อสุขภาพผู้บริโภค
+
 #### ข้อ 16
-* **Topic**: Informed Consumers
+* **Topic**: ผู้บริโภคที่รู้เท่าทัน
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: What is an 'informed consumer'?
-* ก. A person who buys whatever is shown in online advertisements
-* ข. A consumer who carefully evaluates necessity, price, quality, and safety before buying
-* ค. A buyer who always chooses the most expensive branded items
-* ง. A person who shops without looking at product labels
+* **Prompt**: ข้อใดคือความหมายของ 'ผู้บริโภคที่รู้เท่าทัน'?
+* ก. ผู้ที่ซื้อสินค้าตามคำโฆษณาในโซเชียลมีเดียทันที
+* ข. ผู้ที่พิจารณาความจำเป็น ความคุ้มค่า ความปลอดภัย และราคาก่อนตัดสินใจซื้อ
+* ค. ผู้ที่เลือกซื้อเฉพาะสินค้าแบรนด์เนมที่มีราคาแพงที่สุด
+* ง. ผู้ที่ตัดสินใจซื้อสินค้าโดยไม่อ่านฉลากหรือเครื่องหมายเตือน
 * **Correct Answer**: ข
-* **Explanation**: An informed consumer researches products, evaluates actual needs versus wants, compares prices, and verifies safety credentials.
+* **Explanation**: ผู้บริโภคที่รู้เท่าทันจะวางแผนการซื้อ วางงบประมาณ ตรวจสอบข้อมูลสินค้า ความจำเป็น และความปลอดภัยเสมอ
+
 #### ข้อ 17
-* **Topic**: Needs vs. Wants
+* **Topic**: ความจำเป็น vs ความต้องการ
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: Which of the following is classified as a basic human 'Need' (ปัจจัย 4)?
-* ก. Latest smartphone
-* ข. Designer sunglasses
-* ค. Nutritious food
-* ง. Video game console
+* **Prompt**: สิ่งใดต่อไปนี้จัดเป็น 'ความจำเป็น' (Need - ปัจจัย 4) ในการดำรงชีวิตของมนุษย์?
+* ก. สมาร์ตโฟนรุ่นใหม่ล่าสุด
+* ข. แว่นตากันแดดแฟชั่น
+* ค. อาหารที่มีประโยชน์ต่อร่างกาย
+* ง. เครื่องเล่นเกมคอนโซล
 * **Correct Answer**: ค
-* **Explanation**: Nutritious food is one of the 4 basic human needs (Food, Clothing, Shelter, Medicine) required for survival.
+* **Explanation**: อาหาร ที่อยู่อาศัย เครื่องนุ่งห่ม และยารักษาโรค จัดเป็นปัจจัย 4 ซึ่งเป็นความจำเป็นพื้นฐานในการดำรงชีวิต
+
 #### ข้อ 18
-* **Topic**: Needs vs. Wants
+* **Topic**: ความจำเป็น vs ความต้องการ
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: Which item represents a consumer 'Want' rather than a basic need?
-* ก. Clean drinking water
-* ข. Basic prescription medicine
-* ค. Luxury sports shoes
-* ง. Adequate shelter
+* **Prompt**: ข้อใดจัดเป็น 'ความต้องการ' (Want) ที่เกินความจำเป็นพื้นฐานในการดำรงชีวิต?
+* ก. น้ำดื่มที่สะอาด
+* ข. ยารักษาโรคเมื่อเจ็บป่วย
+* ค. รองเท้าสปอร์ตสุดหรูราคาแพง
+* ง. เสื้อผ้าสวมใส่กันหนาว
 * **Correct Answer**: ค
-* **Explanation**: Luxury sports shoes are desirable goods (wants) that enhance lifestyle but are not mandatory for basic survival.
+* **Explanation**: รองเท้าแฟชั่นราคาแพงเป็นสิ่งตอบสนองความต้องการเพื่อความพึงพอใจ แต่ไม่ใช่ปัจจัย 4 ที่ขาดไม่ได้ในการดำรงชีวิต
+
 #### ข้อ 19
-* **Topic**: Wise Buying Principles
+* **Topic**: หลักการเลือกซื้อสินค้า
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Easy
-* **Prompt**: What are the key principles an informed consumer should consider before purchasing a product?
-* ก. Brand name, popularity, luxury status, and flash sale discounts
-* ข. Necessity, usefulness, economy (price-to-quality ratio), and safety
-* ค. Color, packaging design, celebrity endorsement, and speed of delivery
-* ง. Size of advertisement, store location, payment method, and friend's opinion
+* **Prompt**: หลักสำคัญ 4 ประการที่ผู้บริโภคควรยึดถือในการเลือกซื้อสินค้าและบริการคือข้อใด?
+* ก. ยี่ห้อดัง, ลดราคา, สวยงาม, ตามเพื่อน
+* ข. ความจำเป็น, ประโยชน์, ประหยัด, ความปลอดภัย
+* ค. สีสันสดใส, ห่อสวย, มีของแถม, โฆษณาบ่อย
+* ง. หาซื้อง่าย, จ่ายผ่อนได้, นำเข้าจากต่างประเทศ, อินเทรนด์
 * **Correct Answer**: ข
-* **Explanation**: Wise purchasing is based on Necessity (ความจำเป็น), Usefulness (ประโยชน์), Economy (ความประหยัด), and Safety (ความปลอดภัย).
+* **Explanation**: หลักการเลือกซื้อที่ดีต้องพิจารณา ความจำเป็น (Need), ประโยชน์ (Utility), ประหยัด (Economy) และความปลอดภัย (Safety)
+
 #### ข้อ 20
-* **Topic**: Product Labels
+* **Topic**: การอ่านฉลากสินค้า
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: Why should consumers inspect product labels before buying packaged foods?
-* ก. To see if the logo color matches their preferences
-* ข. To check ingredients, manufacturing date, expiration date, and certification marks
-* ค. To count the number of words printed on the package
-* ง. To find out which celebrity endorsed the product
+* **Prompt**: เพราะเหตุใดผู้บริโภคจึงควรอ่านฉลากบนภาชนะบรรจุอาหารก่อนตัดสินใจซื้อ?
+* ก. เพื่อดูว่าสีของโลโก้สวยงามถูกใจหรือไม่
+* ข. เพื่อตรวจสอบส่วนประกอบ วันผลิต วันหมดอายุ และเครื่องหมายรับรองความปลอดภัย
+* ค. เพื่อนับจำนวนตัวอักษรที่พิมพ์อยู่บนบรรจุภัณฑ์
+* ง. เพื่อหาชื่อดารานักแสดงที่เป็นพรีเซนเตอร์
 * **Correct Answer**: ข
-* **Explanation**: Labels provide vital information regarding ingredients, nutritional content, expiration dates, usage instructions, and safety standards.
+* **Explanation**: ฉลากสินค้าให้ข้อมูลสำคัญเกี่ยวกับส่วนประกอบ วันผลิต/หมดอายุ คำเตือน และเครื่องหมายรับรองมาตรฐาน
+
 #### ข้อ 21
-* **Topic**: Consumer Imperfections
+* **Topic**: ข้อผิดพลาดของผู้บริโภค
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Medium
-* **Prompt**: What is a common flaw in consumer purchasing behavior in the digital era?
-* ก. Comparing prices across multiple trusted stores
-* ข. Impulse buying triggered by deceptive social media ads without checking necessity
-* ค. Reading safety certificates and expiration dates carefully
-* ง. Making a shopping list before visiting the market
+* **Prompt**: พฤติกรรมการบริโภคในข้อใดที่อาจก่อให้เกิดปัญหาทางการเงินและความฟุ่มเฟือย?
+* ก. การจดบันทึกรายรับ-รายจ่ายเป็นประจำทุกวัน
+* ข. การซื้อสินค้าตามกระแสโฆษณาชวนเชื่อโดยไม่พิจารณาความจำเป็น
+* ค. การเปรียบเทียบราคาและคุณภาพสินค้าจากหลาย ๆ ร้านก่อนซื้อ
+* ง. การเลือกซื้อสินค้าที่มีเครื่องหมาย มอก. หรือ อย.
 * **Correct Answer**: ข
-* **Explanation**: Impulse buying driven by aggressive online promotions and social media hype without verifying necessity or quality is a common consumer flaw.
+* **Explanation**: การซื้อตามกระแสโฆษณาโดยไม่พิจารณาความจำเป็นทำให้เสียเงินฟุ่มเฟือยและเกิดปัญหาหนี้สินได้
+
 #### ข้อ 22
-* **Topic**: Sustainable Resources - 3Rs
+* **Topic**: การจัดการทรัพยากร - 3Rs
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Easy
-* **Prompt**: What does the 'Reduce' principle in sustainable resource management mean?
-* ก. Using items once and throwing them in public bins
-* ข. Decreasing unnecessary consumption and minimizing waste generation
-* ค. Processing waste materials into totally new items using factory heat
-* ง. Buying duplicate goods during seasonal promotional sales
+* **Prompt**: หลักการ 'Reduce' (ลดการใช้) ในการจัดการทรัพยากรหมายถึงข้อใด?
+* ก. การนำขยะไปเผาในหลุมขยะป่าไม้
+* ข. การลดปริมาณการใช้และการสร้างขยะที่ไม่จำเป็นให้น้อยลง
+* ค. การหลอมเศษแก้วเพื่อแปรรูปเป็นภาชนะใหม่ในโรงงาน
+* ง. การซื้อสินค้าชนิดเดิมซ้ำ ๆ หลายชิ้นในช่วงลดราคา
 * **Correct Answer**: ข
-* **Explanation**: Reduce means decreasing overall resource consumption and avoiding wasteful purchases to generate less garbage.
+* **Explanation**: Reduce คือการลดการบริโภคหรือลดการใช้สิ่งของที่ก่อให้เกิดขยะ เช่น ลดการใช้ถุงพลาสติกครั้งเดียวทิ้ง
+
 #### ข้อ 23
-* **Topic**: Sustainable Resources - 3Rs
+* **Topic**: การจัดการทรัพยากร - 3Rs
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Easy
-* **Prompt**: Using a durable cloth bag instead of single-use plastic bags when grocery shopping is an example of:
-* ก. Recycle
-* ข. Reuse
-* ค. Repair
-* ง. Reject
+* **Prompt**: การนำถุงผ้าไปใส่ของเมื่อไปซื้อสินค้าที่ตลาดแทนการรับถุงพลาสติก จัดเป็นหลัก 3Rs ข้อใด?
+* ก. Recycle (รีไซเคิล)
+* ข. Reuse (ใช้ซ้ำ)
+* ค. Repair (ซ่อมแซม)
+* ง. Reject (ปฏิเสธ)
 * **Correct Answer**: ข
-* **Explanation**: Reusing cloth shopping bags multiple times prevents single-use plastic consumption and cuts down environmental waste.
+* **Explanation**: การนำถุงผ้าที่มีอยู่มาใช้ซ้ำหลาย ๆ ครั้ง เป็นตัวอย่างการใช้ซ้ำ (Reuse) เพื่อลดขยะพลาสติก
+
 #### ข้อ 24
-* **Topic**: Sustainable Resources - 3Rs
+* **Topic**: การจัดการทรัพยากร - 3Rs
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Medium
-* **Prompt**: Converting crushed glass bottles into molten raw material to manufacture new glassware is known as:
-* ก. Reducing
-* ข. Reusing
-* ค. Recycling
-* ง. Refilling
+* **Prompt**: การนำขวดพลาสติกที่ใช้แล้วไปผ่านกระบวนการหลอมเพื่อแปรรูปเป็นเส้นใยสังเคราะห์สำหรับทำเสื้อผ้า เรียกว่าอะไร?
+* ก. Reduce
+* ข. Reuse
+* ค. Recycle
+* ง. Refill
 * **Correct Answer**: ค
-* **Explanation**: Recycling involves processing collected waste materials industrially into raw materials to manufacture new products.
+* **Explanation**: Recycle คือการนำวัสดุที่ผ่านการใช้งานแล้วไปผ่านกระบวนการทางอุตสาหกรรมหรือแปรรูปใหม่เป็นผลิตภัณฑ์ใหม่
+
 #### ข้อ 25
-* **Topic**: Consumer Protection Mark
+* **Topic**: เครื่องหมายรับรองมาตรฐาน
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: Which Thai government agency certifies food and drug safety standards (FDA mark / อย.)?
-* ก. Ministry of Transport
-* ข. Food and Drug Administration (สำนักงานคณะกรรมการอาหารและยา)
-* ค. Bank of Thailand
-* ง. Department of Customs
+* **Prompt**: เครื่องหมาย 'อย.' (สำนักงานคณะกรรมการอาหารและยา) ให้การรับรองความปลอดภัยแก่สินค้าประเภทใด?
+* ก. เครื่องใช้ไฟฟ้าและเครื่องมือช่าง
+* ข. อาหาร ยา เครื่องสำอาง และวัตถุอันตรายในบ้าน
+* ค. วัสดุก่อสร้างและปูนซีเมนต์
+* ง. รถยนต์และจักรยานยนต์
 * **Correct Answer**: ข
-* **Explanation**: The FDA (สำนักงานคณะกรรมการอาหารและยา - อย.) inspects and certifies food, drugs, and cosmetics safety in Thailand.
+* **Explanation**: เครื่องหมาย อย. รับรองความปลอดภัยของผลิตภัณฑ์สุขภาพ เช่น อาหาร ยา เครื่องสำอาง และเวชภัณฑ์
+
 #### ข้อ 26
-* **Topic**: Consumer Protection Mark
+* **Topic**: เครื่องหมายรับรองมาตรฐาน
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Prompt**: What does the TISI mark (มอก.) on electrical appliances signify?
-* ก. Thai Industrial Standards Institute certification for quality and safety
-* ข. Tax Payment Exemption Mark
-* ค. Imported Goods Excise Approval
-* ง. Organic Agricultural Guarantee
+* **Prompt**: เครื่องหมาย 'มอก.' (มาตรฐานผลิตภัณฑ์อุตสาหกรรม) กำกับดูแลโดยหน่วยงานใดและแสดงถึงสิ่งใด?
+* ก. สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม แสดงว่าสินค้ามีคุณภาพและปลอดภัยตามมาตรฐาน
+* ข. กรมการค้าภายใน แสดงว่าสินค้าราคาถูกที่สุดในตลาด
+* ค. ธนาคารแห่งประเทศไทย แสดงว่าสินค้าได้รับการยกเว้นภาษี
+* ง. กระทรวงเกษตรและสหกรณ์ แสดงว่าเป็นพืชผักปลอดสารเคมี
 * **Correct Answer**: ก
-* **Explanation**: The TISI mark (มอก. - Thai Industrial Standards Institute) certifies industrial and electrical product quality and safety.
+* **Explanation**: เครื่องหมาย มอก. ออกโดย สมอ. (สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม) เพื่อรับรองคุณภาพและความปลอดภัยของสินค้าอุตสาหกรรม
+
 #### ข้อ 27
-* **Topic**: Economic Resource Scarcity
+* **Topic**: ทรัพยากรและปัญหาเศรษฐศาสตร์
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Medium
-* **Prompt**: What fundamental economic problem forces individuals and societies to make choices?
-* ก. Unlimited resources and limited human wants
-* ข. Scarcity: Unlimited human wants combined with limited natural resources
-* ค. Excess supply of goods in all global markets
-* ง. Government prohibition of private business operations
+* **Prompt**: ปัญหาพื้นฐานทางเศรษฐศาสตร์เกิดจากสาเหตุสำคัญในข้อใด?
+* ก. ทรัพยากรมีไม่อั้น แต่ความต้องการของมนุษย์มีจำกัด
+* ข. ความขาดแคลน: ทรัพยากรมีจำกัด แต่ความต้องการของมนุษย์มีไม่จำกัด
+* ค. สินค้ามีปริมาณล้นตลาดจนไม่มีผู้ซื้อ
+* ง. รัฐบาลห้ามเอกชนทำธุรกิจค้าขาย
 * **Correct Answer**: ข
-* **Explanation**: The core economic problem is Scarcity (ความขาดแคลน): resources are finite, whereas human needs and wants are virtually unlimited.
+* **Explanation**: ปัญหาเศรษฐศาสตร์เกิดจากความขาดแคลน (Scarcity) คือ ทรัพยากรมีจำกัด แต่มนุษย์มีความต้องการไม่จำกัด จึงต้องเลือกใช้อย่างคุ้มค่า
+
 #### ข้อ 28
-* **Topic**: Value of Informed Consumption
+* **Topic**: ประโยชน์ของการบริโภคอย่างฉลาด
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Medium
-* **Prompt**: How does smart consumer choice help reduce municipal waste issues in cities?
-* ก. By selecting products with minimal, eco-friendly packaging and long lifespan
-* ข. By throwing away household items as soon as new models are released
-* ค. By demanding plastic bags for every single purchased item
-* ง. By shopping exclusively at international luxury stores
+* **Prompt**: การที่ทุกคนในสังคมช่วยกันบริโภคอย่างฉลาดและประหยัด จะส่งผลดีต่อประเทศชาติอย่างไร?
+* ก. ช่วยลดปัญหาขยะ อนุรักษ์ทรัพยากรธรรมชาติ และลดการนำเข้าสินค้าฟุ่มเฟือย
+* ข. ทำให้เกิดปัญหาภาวะเงินเฟ้อรุนแรง
+* ค. ทำให้รัฐบาลไม่สามารถจัดเก็บภาษีได้เลย
+* ง. ส่งผลให้โรงงานอุตสาหกรรมทุกแห่งต้องปิดตัวลง
 * **Correct Answer**: ก
-* **Explanation**: Choosing durable goods with minimal packaging reduces garbage volume and municipal waste processing burdens.
+* **Explanation**: การบริโภคอย่างฉลาดช่วยประหยัดทรัพยากร ลดขยะ ลดมลพิษ และสร้างความมั่นคงทางเศรษฐกิจของประเทศ
+
 #### ข้อ 29
-* **Topic**: Smart Shopping Budget
-* **Learning Objective**: LO-SOC2
-* **Difficulty**: Medium
-* **Prompt**: A Grade 6 student receives 100 Baht allowance per day. What is the smartest budget allocation?
-* ก. Spend 100 Baht immediately on mobile game top-ups
-* ข. Buy essential lunch (40 Baht), save 30 Baht, and spend remaining on snacks
-* ค. Borrow 50 Baht more from friends to buy expensive branded stationery
-* ง. Skip lunch completely to save 100 Baht for toys
+* **Topic**: ฉลากประหยัดไฟเบอร์ 5
+* **Learning Objective**: LO-SOC1
+* **Difficulty**: Easy
+* **Prompt**: เครื่องหมายฉลากประหยัดไฟเบอร์ 5 บนเครื่องใช้ไฟฟ้า แสดงถึงสิ่งใด?
+* ก. เครื่องใช้ไฟฟ้านี้ผลิตจากต่างประเทศเท่านั้น
+* ข. เครื่องใช้ไฟฟ้านี้ผ่านการทดสอบว่าประหยัดพลังงานไฟฟ้าและมีประสิทธิภาพสูง
+* ค. เครื่องใช้ไฟฟ้านี้สามารถใช้งานได้โดยไม่ต้องเสียบปลั๊กไฟ
+* ง. เครื่องใช้ไฟฟ้านี้มีราคาขายแพงที่สุดในร้าน
 * **Correct Answer**: ข
-* **Explanation**: Prioritizing essential food, setting aside systematic savings, and spending modestly on wants is the smartest financial practice.
+* **Explanation**: ฉลากเบอร์ 5 ออกโดย กฟผ. รับรองว่าเครื่องใช้ไฟฟ้านั้นมีประสิทธิภาพในการประหยัดพลังงานไฟฟ้าสูง
+
 #### ข้อ 30
-* **Topic**: Environmental Conservation
-* **Learning Objective**: LO-SOC2
+* **Topic**: สิทธิผู้บริโภคและการร้องเรียน
+* **Learning Objective**: LO-SOC4
 * **Difficulty**: Medium
-* **Prompt**: What is an effective community strategy to promote sustainable energy usage?
-* ก. Leaving air conditioners on 24 hours a day in community halls
-* ข. Switching to energy-efficient LED light bulbs and utilizing solar power
-* ค. Using gasoline generators instead of grid electricity
-* ง. Burning dried leaves to heat water during cold seasons
-* **Correct Answer**: ข
-* **Explanation**: Using energy-saving LED lighting and renewable energy sources like solar panels promotes sustainable energy conservation.
+* **Prompt**: หากนักเรียนซื้อนมกล่องมาดื่มแล้วพบว่านมเน่าเสียทั้งที่ยังไม่หมดอายุ ควรแจ้งหน่วยงานใดเพื่อขอคุ้มครองสิทธิผู้บริโภค?
+* ก. สคบ. (สำนักงานคณะกรรมการคุ้มครองผู้บริโภค) หรือ อย.
+* ข. กรมอุตุและอุทกวิทยา
+* ค. กรมการขนส่งทางบก
+* ง. ธนาคารออมสิน
+* **Correct Answer**: ก
+* **Explanation**: สคบ. (1166) และ อย. (1556) เป็นหน่วยงานหลักในการรับเรื่องร้องเรียนเมื่อผู้บริโภคได้รับความเสียหายจากสินค้าไม่ได้มาตรฐาน
+
 #### ข้อ 31
-* **Topic**: Economic Units
+* **Topic**: หน่วยเศรษฐกิจ
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Easy
-* **Prompt**: What are the three main economic units in a national circular economy?
-* ก. Farmers, Factory workers, and Overseas tourists
-* ข. Households, Business firms, and Government
-* ค. Buyers, Sellers, and Advertisers
-* ง. Commercial banks, Central bank, and Stock exchanges
-* **Correct Answer**: ข
-* **Explanation**: The three basic economic sectors/units are Households (หน่วยครัวเรือน), Business firms (หน่วยธุรกิจ), and Government (หน่วยรัฐบาล).
+* **Prompt**: หน่วยเศรษฐกิจใดทำหน้าที่เป็นทั้งผู้บริโภคสินค้าและเจ้าของปัจจัยการผลิต (ที่ดิน แรงงาน ทุน)?
+* ก. หน่วยครัวเรือน
+* ข. หน่วยธุรกิจ
+* ค. หน่วยรัฐบาล
+* ง. ธนาคารกลาง
+* **Correct Answer**: ก
+* **Explanation**: หน่วยครัวเรือน (Household) เป็นเจ้าของปัจจัยการผลิต (ขายแรงงาน/ให้เช่าที่ดิน) และเป็นผู้บริโภคสินค้าและบริการ
+
 #### ข้อ 32
-* **Topic**: Household Sector Role
+* **Topic**: หน่วยเศรษฐกิจ
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Prompt**: In the economic cycle, what does the Household sector supply to Business firms?
-* ก. Public infrastructure and national defense
-* ข. Factors of production (labor, land, capital) and consumer demand
-* ค. Paper currency banknotes and coin minting
-* ง. Corporate tax collection guidelines
+* **Difficulty**: Easy
+* **Prompt**: หน่วยเศรษฐกิจใดทำหน้าที่รวบรวมปัจจัยการผลิตเพื่อผลิตสินค้าและบริการออกจำหน่าย มุ่งหวังผลกำไร?
+* ก. หน่วยครัวเรือน
+* ข. หน่วยธุรกิจ
+* ค. หน่วยรัฐบาล
+* ง. สหกรณ์ออมทรัพย์
 * **Correct Answer**: ข
-* **Explanation**: Households own factors of production (labor, land, capital) and sell/rent them to firms, while buying goods produced by business firms.
+* **Explanation**: หน่วยธุรกิจ (Business Unit) คือผู้ผลิตสินค้าและบริการเพื่อขายในตลาดโดยมุ่งหวังกำไรเป็นตอบแทน
+
 #### ข้อ 33
-* **Topic**: Business Sector Role
+* **Topic**: หน่วยเศรษฐกิจ
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Prompt**: What returns do Households receive from Business firms for providing their Labor?
-* ก. Rent
-* ข. Wages / Salaries
-* ค. Interest
-* ง. Taxes
+* **Difficulty**: Easy
+* **Prompt**: หน่วยรัฐบาลมีบทบาทหลักทางเศรษฐกิจในเรื่องใดมากที่สุด?
+* ก. มุ่งแสวงหากำไรสูงสุดแข่งกับเอกชน
+* ข. จัดสรรสินค้าบริการสาธารณะ เก็บภาษี และดูแลความสงบเรียบร้อยของระบบเศรษฐกิจ
+* ค. ผลิตสินค้าแฟชั่นออกขายต่างประเทศ
+* ง. ให้ประชาชนกู้ยืมเงินโดยไม่ต้องชำระคืน
 * **Correct Answer**: ข
-* **Explanation**: Households receive Wages or Salaries (ค่าจ้าง/เงินเดือน) in exchange for supplying Labor to Business firms.
+* **Explanation**: หน่วยรัฐบาลทำหน้าที่อำนวยความสะดวก จัดทำสาธารณูปโภค (ถนน ไฟฟ้า โรงเรียน) เก็บภาษี และควบคุมกฎหมาย
+
 #### ข้อ 34
-* **Topic**: Commercial Banks
+* **Topic**: ความสัมพันธ์ทางเศรษฐกิจ
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Easy
-* **Prompt**: What is the primary commercial function of a retail bank (ธนาคารพาณิชย์)?
-* ก. Printing currency notes and managing national gold reserves
-* ข. Accepting money deposits from savers and extending credit loans to borrowers
-* ค. Collecting personal income tax for the Ministry of Finance
-* ง. Passing commercial legislation in Parliament
-* **Correct Answer**: ข
-* **Explanation**: Commercial banks act as financial intermediaries accepting public deposits and offering loans to individuals and businesses.
+* **Difficulty**: Medium
+* **Prompt**: ความสัมพันธ์ระหว่าง 'หน่วยครัวเรือน' กับ 'หน่วยธุรกิจ' เป็นอย่างไร?
+* ก. ครัวเรือนขายปัจจัยการผลิตให้ธุรกิจ และนำรายได้ไปซื้อสินค้าจากธุรกิจ
+* ข. ครัวเรือนพิมพ์ธนบัตรให้ธุรกิจกู้ยืมฟรี
+* ค. ธุรกิจจ่ายภาษีให้ครัวเรือนโดยตรง
+* ง. ทั้งสองหน่วยไม่มีความเกี่ยวข้องกันในระบบเศรษฐกิจ
+* **Correct Answer**: ก
+* **Explanation**: ครัวเรือนเสนอปัจจัยการผลิต (แรงงาน) ได้รับค่าจ้าง/รายได้ แล้วนำเงินนั้นไปซื้อสินค้าและบริการจากหน่วยธุรกิจ
+
 #### ข้อ 35
-* **Topic**: Interest Rates
+* **Topic**: สถาบันการเงิน
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Prompt**: How do commercial banks earn income to maintain their operations?
-* ก. By receiving monthly funding directly from foreign governments
-* ข. By charging higher interest rates on loans than the interest rates paid on deposits
-* ค. By selling consumer goods in department stores
-* ง. By collecting fines from traffic violators
-* **Correct Answer**: ข
-* **Explanation**: The net interest margin—the difference between higher loan interest charged to borrowers and lower deposit interest paid to savers—is bank revenue.
+* **Difficulty**: Easy
+* **Prompt**: ข้อใดคือบทบาทหน้าที่สำคัญหลักของ 'ธนาคารพาณิชย์' (เช่น ธนาคารกรุงเทพ ธนาคารกสิกรไทย)?
+* ก. รับฝากเงิน จ่ายดอกเบี้ย ให้กู้ยืมเงิน และให้บริการโอนเงิน
+* ข. พิมพ์ธนบัตรฉบับใหม่ ออกสู่ระบบเศรษฐกิจ
+* ค. จัดเก็บภาษีมูลค่าเพิ่มจากประชาชน
+* ง. กำหนดอัตราภาษีเงินได้บุคคลธรรมดา
+* **Correct Answer**: ก
+* **Explanation**: ธนาคารพาณิชย์ทำหน้าที่เป็นระดมเงินฝากจากประชาชน ให้สินเชื่อ/กู้ยืมเงินแก่ผู้ต้องการลงทุน และคิดดอกเบี้ย
+
 #### ข้อ 36
-* **Topic**: Central Bank (Bank of Thailand)
+* **Topic**: ธนาคารแห่งประเทศไทย
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Easy
-* **Prompt**: Which financial institution holds the exclusive legal authority to issue banknotes in Thailand?
-* ก. Bangkok Bank
-* ข. Government Savings Bank (GSB)
-* ค. Bank of Thailand (BOT / ธนาคารแห่งประเทศไทย)
-* ง. Krungthai Bank
-* **Correct Answer**: ค
-* **Explanation**: The Bank of Thailand (BOT) is the country's central bank, responsible for issuing currency notes and monetary policy.
+* **Difficulty**: Medium
+* **Prompt**: ธนาคารแห่งประเทศไทย (แบงก์ชาติ) มีหน้าที่สำคัญที่ไม่เหมือนธนาคารพาณิชย์ทั่วไปคือข้อใด?
+* ก. เปิดบัญชีรับฝากเงินออมทรัพย์สำหรับนักเรียนทั่วไป
+* ข. พิมพ์และออกธนบัตร ควบคุมปริมาณเงิน และกำกับดูแลสถาบันการเงิน
+* ค. ปล่อยกู้ซื้อบ้านแก่ประชาชนโดยตรง
+* ง. ขายสินค้าอุปโภคบริโภคราคาถูก
+* **Correct Answer**: ข
+* **Explanation**: ธนาคารแห่งประเทศไทยเป็นธนาคารกลาง มีหน้าที่ออกธนบัตร ควบคุมนโยบายการเงิน และดูแล stability ของระบบสถาบันการเงิน
+
 #### ข้อ 37
-* **Topic**: Central Bank (BOT) Duties
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Prompt**: What is a principal responsibility of the Bank of Thailand (BOT)?
-* ก. Providing personal car loans directly to individual citizens
-* ข. Maintaining national economic stability, monetary policy, and currency reserves
-* ค. Operating retail grocery stores across all provinces
-* ง. Setting retail prices for agricultural crops
-* **Correct Answer**: ข
-* **Explanation**: The central bank regulates commercial banks, controls money supply, maintains foreign reserves, and ensures macro-economic stability.
-#### ข้อ 38
-* **Topic**: Role of Government
+* **Topic**: การฝากเงินและดอกเบี้ย
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Easy
-* **Prompt**: Why does the government collect taxes from citizens and private companies?
-* ก. To distribute equal cash directly to business owners every month
-* ข. To finance public infrastructure, education, healthcare, and public safety
-* ค. To deposit funds into foreign private investment funds for profit
-* ง. To eliminate all private commercial businesses in the country
-* **Correct Answer**: ข
-* **Explanation**: Tax revenue funds essential public infrastructure (roads, bridges, schools, hospitals, security) that benefit the entire society.
-#### ข้อ 39
-* **Topic**: Direct Tax
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Prompt**: Which of the following is classified as a 'Direct Tax' (ภาษีทางตรง)?
-* ก. Value Added Tax (VAT) paid on convenience store snacks
-* ข. Personal Income Tax (ภาษีเงินได้บุคคลธรรมดา) paid on earned salaries
-* ค. Excise tax included in fuel prices at gas stations
-* ง. Customs import duty on foreign electronics
-* **Correct Answer**: ข
-* **Explanation**: Personal income tax and corporate income tax are direct taxes levied directly on the entity earning the income.
-#### ข้อ 40
-* **Topic**: Indirect Tax
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Prompt**: When you buy a pen at a convenience store and pay 7% Value Added Tax (VAT), what type of tax is this?
-* ก. Direct tax
-* ข. Indirect tax (ภาษีทางอ้อม)
-* ค. Property inheritance tax
-* ง. Land value tax
-* **Correct Answer**: ข
-* **Explanation**: VAT is an indirect tax collected from buyers through consumption expenditure and passed to the government via sellers.
-#### ข้อ 41
-* **Topic**: Government Public Services
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Easy
-* **Prompt**: Which service is provided by the government using public tax revenue?
-* ก. Luxury private yacht rentals
-* ข. Public free schooling, highways, and public hospitals
-* ค. Private streaming movie subscriptions
-* ง. Five-star hotel accommodation
-* **Correct Answer**: ข
-* **Explanation**: Public education, road networks, national security, and public health systems are funded through tax revenue.
-#### ข้อ 42
-* **Topic**: Economic Circular Flow
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Hard
-* **Prompt**: What happens in the economy when households increase savings in banks during economic uncertainty?
-* ก. Commercial banks gain funds to lend to businesses for capital investments
-* ข. The government immediately stops collecting all tax revenue
-* ค. All businesses stop paying wages to their workers
-* ง. The Bank of Thailand burns paper currency notes
-* **Correct Answer**: ก
-* **Explanation**: Increased deposits provide liquidity for banks to grant loans for business expansion and capital investment.
-#### ข้อ 43
-* **Topic**: Tax Compliance
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Medium
-* **Prompt**: Why is tax evasion (refusing to pay legal taxes) harmful to a country?
-* ก. It causes commercial banks to close down immediately
-* ข. It deprives the state of revenues needed to build schools, hospitals, and infrastructure
-* ค. It increases total exports to international markets
-* ง. It makes all consumer products cheaper in retail markets
-* **Correct Answer**: ข
-* **Explanation**: Tax evasion deprives the nation of revenue required for essential public services and public welfare improvement.
-#### ข้อ 44
-* **Topic**: Specialized Financial Institutions
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Prompt**: Which state-owned specialized bank in Thailand primarily focuses on supporting farmers and agricultural activities?
-* ก. Bank of Thailand (BOT)
-* ข. Bank for Agriculture and Agricultural Cooperatives (BAAC / ธ.ก.ส.)
-* ค. Government Housing Bank (GHB / ธ.อาคารสงเคราะห์)
-* ง. Export-Import Bank of Thailand
-* **Correct Answer**: ข
-* **Explanation**: BAAC (ธ.ก.ส.) provides credit, financial services, and agricultural development support specifically to Thai farmers.
-#### ข้อ 45
-* **Topic**: Government Housing Bank
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Easy
-* **Prompt**: What is the main specialized role of the Government Housing Bank (ธอส.)?
-* ก. Providing low-interest housing loans to help citizens buy homes
-* ข. Exporting Thai rice to overseas markets
-* ค. Managing national traffic light control systems
-* ง. Printing student textbooks for primary schools
-* **Correct Answer**: ก
-* **Explanation**: The GHB (ธนาคารอาคารสงเคราะห์ - ธอส.) provides housing credit to help citizens own residential property.
-#### ข้อ 46
-* **Topic**: Local Economic Groups
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Easy
-* **Prompt**: What is the main goal of establishing local economic groups like Agricultural Cooperatives (สหกรณ์การเกษตร)?
-* ก. To create a monopoly and drive small farmers out of business
-* ข. To pool resources, gain bargaining power, and help members sell produce fairly
-* ค. To operate private casinos in rural villages
-* ง. To replace official government local administrations
-* **Correct Answer**: ข
-* **Explanation**: Agricultural cooperatives help members pool farm inputs, share machinery, gain price bargaining power, and improve income.
-#### ข้อ 47
-* **Topic**: Cooperative Principles
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Easy
-* **Prompt**: What principle defines the ownership and operation of a Cooperative (สหกรณ์)?
-* ก. Owned by a single wealthy private investor for personal profit
-* ข. Jointly owned and democratically controlled by member-owners for mutual benefit
-* ค. Directly managed by foreign military forces
-* ง. Operated as a non-profit charity with no fee collections
-* **Correct Answer**: ข
-* **Explanation**: Cooperatives are autonomous associations of persons united voluntarily to meet common economic needs through a jointly-owned, democratic enterprise.
-#### ข้อ 48
-* **Topic**: Consumer Cooperatives
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Prompt**: What is the primary function of a Stores Cooperative (สหกรณ์ร้านค้า)?
-* ก. Providing agricultural tractors to members
-* ข. Purchasing household consumer goods in bulk to sell to members at fair prices
-* ค. Collecting local land taxes for the government
-* ง. Issuing international credit cards to rural farmers
-* **Correct Answer**: ข
-* **Explanation**: Store cooperatives buy consumer goods in wholesale bulk and distribute them to member-consumers at fair prices with annual dividend rebates.
-#### ข้อ 49
-* **Topic**: Savings Cooperatives
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Prompt**: How does a Credit / Savings Cooperative (สหกรณ์ออมทรัพย์) assist its members?
-* ก. By promoting systematic savings among members and granting low-interest emergency loans
-* ข. By manufacturing heavy road paving machinery
-* ค. By offering free overseas holiday trips every year
-* ง. By operating public bus lines in provincial capitals
-* **Correct Answer**: ก
-* **Explanation**: Savings cooperatives encourage thrift/savings among member groups (e.g. teachers, factory workers) and offer fair credit loans.
-#### ข้อ 50
-* **Topic**: OTOP Product Development
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Easy
-* **Prompt**: What does the OTOP (One Tambon One Product) project aim to promote in Thailand?
-* ก. Importing luxury cars from European manufacturers
-* ข. Developing local community wisdom and craftsmanship into market-ready products
-* ค. Replacing all traditional local foods with fast food franchises
-* ง. Exporting raw unprocessed timber logs without local processing
-* **Correct Answer**: ข
-* **Explanation**: OTOP promotes local village wisdom, culture, and craftsmanship by upgrading village products for national and export markets.
-#### ข้อ 51
-* **Topic**: Consumer Protection Act
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Easy
-* **Prompt**: Under the Thai Consumer Protection Act, how many fundamental consumer rights are legally guaranteed?
-* ก. 3 rights
-* ข. 5 rights
-* ค. 7 rights
-* ง. 10 rights
-* **Correct Answer**: ข
-* **Explanation**: The Consumer Protection Act explicitly guarantees 5 fundamental rights to consumers.
-#### ข้อ 52
-* **Topic**: Consumer Right to Information
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Easy
-* **Prompt**: The right to receive true, accurate, and sufficient product labels and advertisement descriptions is which consumer right?
-* ก. Right to freedom of choice
-* ข. Right to receive accurate information and description of quality
-* ค. Right to safety
-* ง. Right to fair contract terms
-* **Correct Answer**: ข
-* **Explanation**: Right 1 guarantees consumers truthful, non-deceptive advertising labels and complete product information (สิทธิที่จะได้รับข่าวสารรวมทั้งคำพรรณนาคุณภาพที่ถูกต้อง).
-#### ข้อ 53
-* **Topic**: Consumer Right to Safety
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Medium
-* **Prompt**: If an electric appliance is manufactured with uninsulated wires that cause shocks, which consumer right is violated?
-* ก. Right to free speech
-* ข. Right to safety in using goods and services
-* ค. Right to form political parties
-* ง. Right to international travel
-* **Correct Answer**: ข
-* **Explanation**: The Right to Safety (สิทธิที่จะได้รับความปลอดภัยจากการใช้สินค้าหรือบริการ) mandates that products must meet safe quality standards.
-#### ข้อ 54
-* **Topic**: Consumer Right to Fair Contracts
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Medium
-* **Prompt**: When a credit company inserts hidden unfair penalty fees into fine print contracts, which consumer right protects the buyer?
-* ก. Right to fair contract terms (สิทธิที่จะได้รับความเป็นธรรมในการทำสัญญา)
-* ข. Right to immediate cash refund without proof
-* ค. Right to ownership of factory assets
-* ง. Right to set interest rates independently
-* **Correct Answer**: ก
-* **Explanation**: Right 4 protects consumers from unfair contract terms and oppressive clauses imposed by businesses.
-#### ข้อ 55
-* **Topic**: Consumer Right to Compensation
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Medium
-* **Prompt**: If a consumer suffers food poisoning from contaminated canned food, what right allows them to claim financial damages?
-* ก. Right to consider product packaging designs
-* ข. Right to receive consideration and financial compensation for damages (สิทธิที่จะได้รับการพิจารณาและชดเชยความเสียหาย)
-* ค. Right to open a competing food store
-* ง. Right to vote in local municipal elections
-* **Correct Answer**: ข
-* **Explanation**: Right 5 grants consumers legal protection and financial compensation when harmed by defective or unsafe products.
-#### ข้อ 56
-* **Topic**: Labor Protection Law
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Easy
-* **Prompt**: Under Thai Labor Protection Law, what is the standard maximum normal working hours per day for general labor?
-* ก. Not exceeding 6 hours per day
-* ข. Not exceeding 8 hours per day
-* ค. Not exceeding 12 hours per day
-* ง. Not exceeding 14 hours per day
-* **Correct Answer**: ข
-* **Explanation**: Normal work hours in general industries must not exceed 8 hours per day (or 48 hours per week).
-#### ข้อ 57
-* **Topic**: Labor Rights - Equal Pay
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Medium
-* **Prompt**: According to labor law principles, male and female employees performing identical work of equal value must receive:
-* ก. Higher pay for male employees only
-* ข. Equal wage rates and overtime pay
-* ค. Lower pay for female employees
-* ง. Payment in food coupons instead of money
-* **Correct Answer**: ข
-* **Explanation**: Labor law strictly mandates equal pay for equal work regardless of gender.
-#### ข้อ 58
-* **Topic**: Labor Rights - Rest Periods
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Medium
-* **Prompt**: How much continuous rest time must an employer grant to an employee after working 5 consecutive hours?
-* ก. At least 15 minutes
-* ข. At least 30 minutes
-* ค. At least 1 hour (60 minutes)
-* ง. No rest time is required
+* **Prompt**: ผลตอบแทนที่ประชาชนได้รับจากการนำเงินไปฝากไว้กับธนาคารเรียกว่าอะไร?
+* ก. เงินปันผล
+* ข. กำไรสุทธิ
+* ค. ดอกเบี้ยฝาก
+* ง. ค่าสัมปทาน
 * **Correct Answer**: ค
-* **Explanation**: Workers are legally entitled to a continuous rest period of not less than 1 hour per day after working 5 consecutive hours.
+* **Explanation**: ผู้ฝากเงินได้รับผลตอบแทนในรูป 'ดอกเบี้ยฝาก' (Deposit Interest) จากสถาบันการเงิน
+
+#### ข้อ 38
+* **Topic**: การกู้ยืมเงิน
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Easy
+* **Prompt**: ค่าตอบแทนที่ผู้กู้ยืมเงินต้องจ่ายเพิ่มให้แก่ธนาคารเมื่อถึงกำหนดชำระคืนเรียกว่าอะไร?
+* ก. ดอกเบี้ยเงินกู้
+* ข. เงินภาษี
+* ค. เงินมัดจำ
+* ง. ค่าธรรมเนียมโอนกรรมสิทธิ์
+* **Correct Answer**: ก
+* **Explanation**: ผู้กู้เงินต้องจ่าย 'ดอกเบี้ยเงินกู้' (Lending Interest) ซึ่งมักมีอัตราสูงกว่าดอกเบี้ยเงินฝาก
+
+#### ข้อ 39
+* **Topic**: การออมเงิน
+* **Learning Objective**: LO-SOC2
+* **Difficulty**: Easy
+* **Prompt**: การนำเงินส่วนที่เหลือจากการจับจ่ายใช้สอยมาเก็บสะสมไว้เพื่อใช้ประโยชน์ในอนาคตเรียกว่าอะไร?
+* ก. การลงทุนเสี่ยงโชค
+* ข. การออมเงิน
+* ค. การสร้างหนี้สิน
+* ง. การเก็งกำไร
+* **Correct Answer**: ข
+* **Explanation**: การออมเงิน (Saving) คือการแบ่งรายได้ส่วนหนึ่งเก็บไว้ ไม่นำออกใช้จ่าย เพื่อสำรองไว้ใช้ในยามจำเป็นหรืออนาคต
+
+#### ข้อ 40
+* **Topic**: ประโยชน์ของการออม
+* **Learning Objective**: LO-SOC2
+* **Difficulty**: Easy
+* **Prompt**: ข้อใดคือประโยชน์ที่สำคัญที่สุดของการฝึกออมเงินตั้งแต่ยังเยาว์วัย?
+* ก. ทำให้มีเงินออมไว้ใช้ยามฉุกเฉิน สร้างวินัยทางการเงิน และมีความมั่นคงในชีวิต
+* ข. อวดอ้างความร่ำรวยให้เพื่อนฝูงยอมรับ
+* ค. ไม่ต้องพึ่งพาการทำงานเลยตลอดชีวิต
+* ง. ทำให้ได้รับสิทธิยกเว้นการทำบัตรประชาชน
+* **Correct Answer**: ก
+* **Explanation**: การออมเงินสร้างวินัย ป้องกันความเสี่ยงยามฉุกเฉิน และช่วยวางแผนอนาคตให้มั่นคง
+
+#### ข้อ 41
+* **Topic**: ธนาคารเฉพาะกิจของรัฐ
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Prompt**: ธนาคารใดมีวัตถุประสงค์หลักในการส่งเสริมการออมของเด็กและประชาชนทั่วไป รวมถึงออกสลากออมสิน?
+* ก. ธนาคารออมสิน
+* ข. ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.)
+* ค. ธนาคารอาคารสงเคราะห์ (ธอส.)
+* ง. ธนาคารแห่งประเทศไทย
+* **Correct Answer**: ก
+* **Explanation**: ธนาคารออมสินส่งเสริมการออมเงินของประชาชนและเด็กนักเรียน มีสลากออมสินเป็นเครื่องมือการออม
+
+#### ข้อ 42
+* **Topic**: ธนาคารเฉพาะกิจของรัฐ
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Prompt**: ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.) จัดตั้งขึ้นเพื่อช่วยเหลือกลุ่มบุคคลใดเป็นหลัก?
+* ก. เจ้าของโรงงานอุตสาหกรรมขนาดใหญ่
+* ข. เกษตรกรและกลุ่มชาวนาชาวไร่
+* ค. ข้าราชการครู
+* ง. พ่อค้าผู้ส่งออกสินค้าต่างประเทศ
+* **Correct Answer**: ข
+* **Explanation**: ธ.ก.ส. มีวัตถุประสงค์เพื่อช่วยเหลือเกษตรกรด้านสินเชื่อและการพัฒนาการเกษตร
+
+#### ข้อ 43
+* **Topic**: การลงทุน
+* **Learning Objective**: LO-SOC2
+* **Difficulty**: Medium
+* **Prompt**: การนำเงินออมไปซื้อหุ้น กองทุน หรือต่อยอดทำธุรกิจ เพื่อมุ่งหวังผลตอบแทนที่สูงขึ้นเรียกว่าอะไร?
+* ก. การออมกระปุก
+* ข. การลงทุน
+* ค. การกู้ยืมนอกระบบ
+* ง. การจ่ายภาษี
+* **Correct Answer**: ข
+* **Explanation**: การลงทุน (Investment) คือการนำเงินไปสร้างผลตอบแทนที่สูงขึ้น แต่ต้องยอมรับความเสี่ยงที่อาจเกิดขึ้นได้
+
+#### ข้อ 44
+* **Topic**: หนี้นอกระบบ
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Prompt**: การกู้ยืมเงินจากนายทุนนอกระบบกฎหมาย มักก่อให้เกิดปัญหาตามมาอย่างไร?
+* ก. ดอกเบี้ยต่ำมากและไม่มีสัญญา
+* ข. อัตราดอกเบี้ยสูงเกินกฎหมายกำหนด และอาจโดนทวงถามหนี้ด้วยวิธีรุนแรง
+* ค. ได้รับการยกเว้นหนี้จากรัฐบาลทันที
+* ง. ได้รับเงินปันผลคืนทุกปี
+* **Correct Answer**: ข
+* **Explanation**: การกู้หนี้นอกระบบมักคิดดอกเบี้ยมหาโหดเกินอัตราที่กฎหมายกำหนด และสร้างปัญหาความเดือดร้อนรุนแรง
+
+#### ข้อ 45
+* **Topic**: เครดิตและบัตรเครดิต
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Prompt**: ผู้ใช้บัตรเครดิตควรมีข้อควรระวังสำคัญที่สุดในเรื่องใด?
+* ก. ใช้จ่ายเกินตัวจนไม่สามารถชำระคืนได้เต็มจำนวน ทำให้ต้องเสียดอกเบี้ยสูง
+* ข. พกพาบัตรเครดิตทำให้กระเป๋าเงินหนักเกินไป
+* ค. ไม่สามารถใช้บัตรเครดิตชำระค่าสินค้าในห้างสรรพสินค้าได้
+* ง. การใช้บัตรเครดิตทำให้ถูกยกเลิกบัญชีธนาคาร
+* **Correct Answer**: ก
+* **Explanation**: บัตรเครดิตเป็นการนำเงินอนาคตมาใช้ หากไม่มีวินัย รูดซื้อฟุ่มเฟือย จะกลายเป็นหนี้สินพอกพูนจากดอกเบี้ยแพง
+
+#### ข้อ 46
+* **Topic**: ภาษีอากร
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Easy
+* **Prompt**: ภาษีอากรที่รัฐบาลจัดเก็บจากประชาชนมีความสำคัญอย่างไรต่อการพัฒนาประเทศ?
+* ก. นำไปเป็นเงินรางวัลแก่ผู้ที่สอบได้คะแนนสูงสุด
+* ข. นำไปใช้เป็นงบประมาณแผ่นดินในการสร้างสาธารณูปโภค การศึกษา และการสาธารณสุข
+* ค. นำไปแจกจ่ายให้เจ้าของธุรกิจเอกชนนำไปเที่ยวต่างประเทศ
+* ง. เก็บไว้ในคลังหลวงโดยไม่นำออกมาใช้งานเลย
+* **Correct Answer**: ข
+* **Explanation**: ภาษีเป็นรายได้หลักของรัฐ นำไปสร้างถนน โรงเรียน โรงพยาบาล ปกป้องประเทศ และให้บริการสาธารณะแก่ประชาชน
+
+#### ข้อ 47
+* **Topic**: ประเภทของภาษี
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Prompt**: ภาษีที่จัดเก็บจากรายได้หรือทรัพย์สินของผู้มีหน้าที่เสียภาษีโดยตรง ไม่สามารถผลักภาระให้ผู้อื่นได้ เรียกว่าอะไร?
+* ก. ภาษีทางตรง
+* ข. ภาษีทางอ้อม
+* ค. ภาษีมูลค่าเพิ่ม
+* ง. ภาษีสรรพสามิต
+* **Correct Answer**: ก
+* **Explanation**: ภาษีทางตรง (Direct Tax) คือภาษีที่จัดเก็บจากผู้มีรายได้หรือทรัพย์สินโดยตรง เช่น ภาษีเงินได้บุคคลธรรมดา ภาษีเงินได้นิติบุคคล
+
+#### ข้อ 48
+* **Topic**: ประเภทของภาษี
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Prompt**: ภาษีมูลค่าเพิ่ม (VAT) 7% ที่บวกเพิ่มในราคาสินค้าและบริการเมื่อเราซื้อของ จัดเป็นภาษีประเภทใด?
+* ก. ภาษีทางตรง
+* ข. ภาษีทางอ้อม
+* ค. ภาษีบำรุงท้องที่
+* ง. ภาษีมรดก
+* **Correct Answer**: ข
+* **Explanation**: ภาษีทางอ้อม (Indirect Tax) คือภาษีที่ผู้ขายสามารถผลักภาระภาษีไปให้ผู้บริโภคเป็นผู้จ่ายได้ เช่น ภาษีมูลค่าเพิ่ม (VAT)
+
+#### ข้อ 49
+* **Topic**: ภาษีเงินได้บุคคลธรรมดา
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Easy
+* **Prompt**: ใครคือผู้มีหน้าที่ต้องเสียภาษีเงินได้บุคคลธรรมดาให้แก่รัฐบาล?
+* ก. ผู้ที่มีรายได้ถึงเกณฑ์ที่กฎหมายกำหนดตามรอบปีภาษี
+* ข. เฉพาะเด็กนักเรียนระดับประถมศึกษาเท่านั้น
+* ค. นักท่องเที่ยวชาวต่างชาติที่เดินทางมาเที่ยวเพียง 2 วัน
+* ง. เฉพาะผู้ที่ไม่มีงานทำและไม่มีรายได้
+* **Correct Answer**: ก
+* **Explanation**: ประชาชนทุกคนที่มีรายได้พ้นเกณฑ์ที่กฎหมายกำหนด มีหน้าที่ตามกฎหมายในการยื่นแบบเสียภาษีเงินได้บุคคลธรรมดา
+
+#### ข้อ 50
+* **Topic**: การรวมกลุ่มทางเศรษฐกิจ - สหกรณ์
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Easy
+* **Prompt**: การรวมกลุ่มของบุคคลด้วยความสมัครใจ เพื่อดำเนินธุรกิจช่วยเหลือนักเรียนและสมาชิก โดยไม่มุ่งกำไรสูงสุด เรียกว่าอะไร?
+* ก. บริษัทมหาชนจำกัด
+* ข. สหกรณ์
+* ค. บ่อนการพนัน
+* ง. บรรษัทข้ามชาติ
+* **Correct Answer**: ข
+* **Explanation**: สหกรณ์ (Cooperative) คือการรวมกลุ่มกันตามหลักประชาธิปไตย เพื่อช่วยเหลือสมาชิกด้านเศรษฐกิจและสังคม โดยไม่มุ่งกำไรสูงสุด
+
+#### ข้อ 51
+* **Topic**: ประเภทของสหกรณ์
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Prompt**: สหกรณ์ที่จัดตั้งขึ้นในโรงเรียนเพื่อขายอุปกรณ์การเรียน สมุด ปากกา และขนมในราคายุติธรรมแก่เด็กนักเรียน คือสหกรณ์ประเภทใด?
+* ก. สหกรณ์การเกษตร
+* ข. สหกรณ์ร้านค้า
+* ค. สหกรณ์ประมง
+* ง. สหกรณ์นิคม
+* **Correct Answer**: ข
+* **Explanation**: สหกรณ์ร้านค้าทำหน้าที่จัดหาสินค้า อุปกรณ์การเรียน และของใช้จำเป็นมาจำหน่ายแก่สมาชิกในราคาย่อมเยา
+
+#### ข้อ 52
+* **Topic**: ประเภทของสหกรณ์
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Prompt**: สหกรณ์ที่ทำหน้าที่ส่งเสริมการออมเงิน และให้สมาชิกกู้ยืมเงินไปใช้จ่ายในอัตราดอกเบี้ยที่เป็นธรรม คือสหกรณ์ประเภทใด?
+* ก. สหกรณ์ออมทรัพย์
+* ข. สหกรณ์บริการ
+* ค. สหกรณ์ร้านค้า
+* ง. สหกรณ์ขนส่ง
+* **Correct Answer**: ก
+* **Explanation**: สหกรณ์ออมทรัพย์ทำหน้าที่รับฝากเงินและให้กู้ยืมแก่สมาชิกในหมู่ผู้มีอาชีพเดียวกัน เช่น สหกรณ์ออมทรัพย์ครู
+
+#### ข้อ 53
+* **Topic**: โครงการ OTOP
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Easy
+* **Prompt**: โครงการ OTOP (หนึ่งตำบล หนึ่งผลิตภัณฑ์) มีวัตถุประสงค์หลักในการส่งเสริมเรื่องใด?
+* ก. นำเข้าสินค้าราคาแพงจากต่างประเทศมาขายในหมู่บ้าน
+* ข. ส่งเสริมภูมิปัญญาท้องถิ่น สร้างรายได้ให้ชุมชน และใช้วัตถุดิบในท้องถิ่น
+* ค. บังคับให้ทุกครอบครัวต้องทำเกษตรกรรมเหมือนกันหมด
+* ง. ยกเลิกการใช้เงินบาทในการซื้อขายสินค้า
+* **Correct Answer**: ข
+* **Explanation**: OTOP ส่งเสริมให้แต่ละท้องถิ่นพัฒนาผลิตภัณฑ์จากภูมิปัญญาและวัตถุดิบในชุมชนเพื่อสร้างรายได้ยั่งยืน
+
+#### ข้อ 54
+* **Topic**: สิทธิผู้บริโภค 5 ประการ
+* **Learning Objective**: LO-SOC4
+* **Difficulty**: Medium
+* **Prompt**: ตาม พ.ร.บ. คุ้มครองผู้บริโภค สิทธิที่จะได้รับข้อมูลข่าวสารรวมทั้งคำบรรยายคุณภาพที่ถูกต้องเพียงพอ จัดเป็นสิทธิข้อใด?
+* ก. สิทธิที่จะได้รับข่าวสารรวมทั้งคำบรรยายคุณภาพที่ถูกต้องและเพียงพอเกี่ยวกับสินค้าหรือบริการ
+* ข. สิทธิที่จะได้รับเงินฟรีจากรัฐบาลทุกเดือน
+* ค. สิทธิที่จะขับรถยนต์โดยไม่ต้องมีใบอนุญาตขับขี่
+* ง. สิทธิที่จะนำสินค้าผู้อื่นมาใช้โดยไม่จ่ายเงิน
+* **Correct Answer**: ก
+* **Explanation**: ผู้บริโภคมีสิทธิได้รับข้อมูล ฉลากสินค้า และโฆษณาที่เป็นจริง ไม่หลอกลวงหรือทำให้เข้าใจผิด
+
+#### ข้อ 55
+* **Topic**: สิทธิผู้บริโภค 5 ประการ
+* **Learning Objective**: LO-SOC4
+* **Difficulty**: Medium
+* **Prompt**: หากผู้บริโภคได้รับอันตรายจากสินค้าที่ไร้มาตรฐาน จนต้องเข้าโรงพยาบาล ผู้บริโภคมีสิทธิตามกฎหมายข้อใด?
+* ก. สิทธิที่จะได้รับการพิจารณาและชดเชยความเสียหาย
+* ข. สิทธิที่จะเข้ายึดโรงงานของผู้ผลิตมาเป็นของตนเอง
+* ค. สิทธิที่จะปฏิเสธไม่ยอมรักษาพยาบาล
+* ง. สิทธิที่จะบังคับให้ผู้อื่นซื้อสินค้านั้นแทน
+* **Correct Answer**: ก
+* **Explanation**: ผู้บริโภคมีสิทธิได้รับการชดเชยค่าเสียหาย (ค่ารักษาพยาบาล/ค่าชดเชย) จากผู้ผลิตเมื่อเกิดความเสียหายจากสินค้าอันตราย
+
+#### ข้อ 56
+* **Topic**: กฎหมายคุ้มครองแรงงาน
+* **Learning Objective**: LO-SOC4
+* **Difficulty**: Medium
+* **Prompt**: ตามพระราชบัญญัติคุ้มครองแรงงาน กฎหมายกำหนดชั่วโมงทำงานปกติในงานทั่วไปไม่เกินกี่ชั่วโมงต่อวัน?
+* ก. ไม่เกิน 8 ชั่วโมงต่อวัน
+* ข. ไม่เกิน 15 ชั่วโมงต่อวัน
+* ค. ไม่เกิน 24 ชั่วโมงต่อวัน
+* ง. ไม่เกิน 3 ชั่วโมงต่อวัน
+* **Correct Answer**: ก
+* **Explanation**: กฎหมายแรงงานกำหนดเวลาทำงานปกติไม่เกิน 8 ชั่วโมงต่อวัน หรือไม่เกิน 48 ชั่วโมงต่อสัปดาห์
+
+#### ข้อ 57
+* **Topic**: สิทธิของลูกจ้างแรงงาน
+* **Learning Objective**: LO-SOC4
+* **Difficulty**: Medium
+* **Prompt**: ลูกจ้างที่ทำงานติดต่อกันมาครบ 1 ปี มีสิทธิได้รับวันหยุดพักผ่อนประจำปี (ลาพักร้อน) โดยได้รับค่าจ้าง ไม่น้อยกว่ากี่วันทำงานต่อปี?
+* ก. ไม่น้อยกว่า 6 วันทำงานต่อปี
+* ข. ไม่น้อยกว่า 30 วันทำงานต่อปี
+* ค. ไม่น้อยกว่า 90 วันทำงานต่อปี
+* ง. ไม่มีสิทธิหยุดเลย
+* **Correct Answer**: ก
+* **Explanation**: ลูกจ้างที่ทำงานครบ 1 ปี มีสิทธิหยุดพักผ่อนประจำปีไม่น้อยกว่า 6 วันทำงานต่อปีโดยได้รับค่าจ้าง
+
+#### ข้อ 58
+* **Topic**: ค่าจ้างขั้นต่ำ
+* **Learning Objective**: LO-SOC4
+* **Difficulty**: Easy
+* **Prompt**: วัตถุประสงค์สำคัญที่สุดของการกำหนด 'อัตราค่าจ้างขั้นต่ำ' โดยคณะกรรมการคุ้มครองแรงงานคือข้อใด?
+* ก. คุ้มครองลูกจ้างแรงงานให้ได้รับค่าจ้างที่เพียงพอต่อการครองชีพขั้นพื้นฐาน
+* ข. เพื่อลดกำไรของนายจ้างให้เหลือศูนย์
+* ค. เพื่อให้นายจ้างไม่ต้องจ่ายเงินค่าล่วงเวลา (OT)
+* ง. เพื่อสนับสนุนให้คนไทยย้ายไปทำงานต่างประเทศ
+* **Correct Answer**: ก
+* **Explanation**: ค่าจ้างขั้นต่ำกำหนดขึ้นเพื่อประกันรายได้ขั้นต่ำ ให้ลูกจ้างสามารถดำรงชีวิตอยู่ได้อย่างมีศักดิ์ศรี
+
 #### ข้อ 59
-* **Topic**: Labor Welfare & Safety
+* **Topic**: แรงงานเด็ก
 * **Learning Objective**: LO-SOC4
 * **Difficulty**: Medium
-* **Prompt**: What mandatory obligation does a factory owner have regarding employee workplace safety?
-* ก. Providing protective gear (helmets, gloves, safety boots) and a safe working environment
-* ข. Charging workers a monthly fee for drinking water in the factory
-* ค. Requiring workers to buy their own emergency first-aid supplies
-* ง. Locking emergency fire exit doors during night shifts
+* **Prompt**: ตามกฎหมายคุ้มครองแรงงานของไทย นายจ้างห้ามจ้างเด็กอายุต่ำกว่ากี่ปีเข้าทำงานเป็นลูกจ้าง?
+* ก. ต่ำกว่า 15 ปี
+* ข. ต่ำกว่า 18 ปี
+* ค. ต่ำกว่า 20 ปี
+* ง. ต่ำกว่า 10 ปี
 * **Correct Answer**: ก
-* **Explanation**: Employers must provide safe working conditions, clean environment, and appropriate safety equipment to protect workers.
+* **Explanation**: กฎหมายคุ้มครองแรงงานห้ามมิให้นายจ้างจ้างเด็กอายุต่ำกว่า 15 ปีเป็นลูกจ้าง เพื่อป้องกันการใช้แรงงานเด็ก
+
 #### ข้อ 60
-* **Topic**: Consumer Protection Agency (OCPB)
-* **Learning Objective**: LO-SOC4
+* **Topic**: เศรษฐกิจพอเพียงกับการบริโภค
+* **Learning Objective**: LO-SOC2
 * **Difficulty**: Easy
-* **Prompt**: Which Thai government agency directly receives public complaints regarding unfair consumer treatment and false ads?
-* ก. Office of the Consumer Protection Board (OCPB / สคบ.)
-* ข. Department of Highway Maintenance
-* ค. Meteorological Department
-* ง. Royal Thai Mint
+* **Prompt**: การนำหลัก 'ปรัชญาเศรษฐกิจพอเพียง' มาประยุกต์ใช้ในการบริโภคประจำวัน ควรยึดหลักการใด?
+* ก. ความพอประมาณ มีเหตุผล และมีภูมิคุ้มกันในตัวที่ดี
+* ข. การกู้ยืมเงินมาซื้อสินค้าแบรนด์เนมแข่งกับเพื่อน
+* ค. การงดเว้นทานอาหารเพื่อประหยัดเงินให้ได้มากที่สุด
+* ง. การซื้อเฉพาะสินค้าราคาแพงที่สุดเพื่อให้แน่ใจว่าคุณภาพดี
 * **Correct Answer**: ก
-* **Explanation**: The Office of the Consumer Protection Board (OCPB - สคบ.) handles consumer complaints and enforces consumer rights.
+* **Explanation**: เศรษฐกิจพอเพียงเน้น 3 ห่วง (พอประมาณ มีเหตุผล มีภูมิคุ้มกัน) บนเงื่อนไขความรู้และคุณธรรม
 
-# Section B: True / False Questions (ถูก / ผิด 30 ข้อ)
+# Section B: True / False Questions (ถูก / ผิด)
 
-<!--
-RULES Section B:
-- ข้อ 61–90 (30 ข้อ, 1 คะแนน/ข้อ)
-- **Correct Answer**: True | False
--->
 #### ข้อ 61
-* **Topic**: Factors of Production
+* **Topic**: ปัจจัยการผลิต
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Statement**: Money used to purchase shares on the stock market is classified directly as physical 'Capital' in economics.
-* **Correct Answer**: False
-* **Explanation**: In economics, financial money is financial capital, whereas physical Capital specifically refers to man-made tools, machinery, and buildings used in production.
+* **Statement**: ดอกเบี้ย คือผลตอบแทนที่เจ้าของปัจจัยการผลิตประเภท 'ที่ดิน'ได้รับ
+* **Answer**: False
+* **Explanation**: ผลตอบแทนของเจ้าของที่ดินคือ 'ค่าเช่า' ส่วนดอกเบี้ยเป็นผลตอบแทนของ 'ทุน'
+
 #### ข้อ 62
-* **Topic**: Quality Producers
+* **Topic**: ปัจจัยการผลิต
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Statement**: A quality producer prioritizes long-term social responsibility and environmental safety over short-term illegal profit.
-* **Correct Answer**: True
-* **Explanation**: Responsible producers integrate ethical conduct, environmental care, and customer satisfaction into their business operations.
+* **Statement**: เงินสดที่ใช้ซื้อสินค้า ไม่จัดเป็นปัจจัยการผลิตประเภท 'ทุน' ในทางเศรษฐศาสตร์
+* **Answer**: True
+* **Explanation**: ในทางเศรษฐศาสตร์ เงินสดไม่ใช่ทุน แต่เป็นสื่อกลางในการแลกเปลี่ยน ทุนคือสิ่งก่อสร้างเครื่องจักร
+
 #### ข้อ 63
-* **Topic**: Factors of Production
+* **Topic**: ผู้ผลิตที่มีคุณภาพ
 * **Learning Objective**: LO-SOC1
-* **Difficulty**: Medium
-* **Statement**: The profit earned by an entrepreneur is the reward for taking financial risks and organizing land, labor, and capital.
-* **Correct Answer**: True
-* **Explanation**: Profit is the economic return earned by entrepreneurship for managing risk and production factors.
+* **Difficulty**: Easy
+* **Statement**: ผู้ผลิตที่มีความรับผิดชอบต่อสิ่งแวดล้อมจะบำบัดสารเคมีก่อนปล่อยลงแหล่งน้ำ
+* **Answer**: True
+* **Explanation**: การบำบัดสารเคมีและน้ำเสียเป็นจรรยาบรรณสำคัญของผู้ผลิตที่มีคุณภาพ
+
 #### ข้อ 64
-* **Topic**: Producer Responsibilities
+* **Topic**: ผู้บริโภคที่รู้เท่าทัน
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Statement**: Discharging raw toxic chemicals into canals at night is acceptable if it helps lower production costs for export items.
-* **Correct Answer**: False
-* **Explanation**: Illegal dumping of toxic waste violates producer ethics, environmental law, and social responsibility.
+* **Statement**: ผู้บริโภคที่ฉลาดควรซื้อสินค้าเฉพาะช่วงที่มีการแจกของแถมโดยไม่อ่านฉลาก
+* **Answer**: False
+* **Explanation**: ผู้บริโภคที่ฉลาดต้องตรวจสอบความจำเป็น คุณภาพ วันหมดอายุ และมาตรฐาน safety ก่อนซื้อเสมอ
+
 #### ข้อ 65
-* **Topic**: Informed Consumers
+* **Topic**: ปัจจัย 4
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Statement**: An informed consumer evaluates whether a product is a true necessity before deciding to make a purchase.
-* **Correct Answer**: True
-* **Explanation**: Distinguishing between needs and wants is a core step in rational, informed consumer behavior.
+* **Statement**: ยารักษาโรคและอาหารจัดเป็นปัจจัย 4 ที่จำเป็นต่อการดำรงชีวิตของมนุษย์
+* **Answer**: True
+* **Explanation**: อาหาร เครื่องนุ่งห่ม ที่อยู่อาศัย และยารักษาโรค คือปัจจัย 4 ขั้นพื้นฐาน
+
 #### ข้อ 66
-* **Topic**: Needs vs. Wants
+* **Topic**: เครื่องหมายมาตรฐาน
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Statement**: A luxury smartwatch is considered one of the 4 basic human survival needs (ปัจจัย 4).
-* **Correct Answer**: False
-* **Explanation**: The 4 basic survival needs are Food, Clothing, Shelter, and Medicine. A smartwatch is a luxury want.
+* **Statement**: เครื่องหมาย อย. บนซองขนมแสดงว่าขนมนั้นผ่านการรับรองความปลอดภัยจากกระทรวงพาณิชย์
+* **Answer**: False
+* **Explanation**: อย. กำกับดูแลโดยสำนักงานคณะกรรมการอาหารและยา กระทรวงสาธารณสุข ไม่ใช่กระทรวงพาณิชย์
+
 #### ข้อ 67
-* **Topic**: Consumer Rights
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Medium
-* **Statement**: Consumers have the legal right to receive accurate information regarding ingredients and expiration dates on product labels.
-* **Correct Answer**: True
-* **Explanation**: The Consumer Protection Act explicitly guarantees the right to truthful and adequate product information.
+* **Topic**: เครื่องหมาย มอก.
+* **Learning Objective**: LO-SOC1
+* **Difficulty**: Easy
+* **Statement**: พัดลมไฟฟ้าและปลั๊กไฟควรมีเครื่องหมาย มอก. เพื่อความปลอดภัยจากไฟรั่ว
+* **Answer**: True
+* **Explanation**: มอก. บังคับใช้กับเครื่องใช้ไฟฟ้าเพื่อป้องกันอันตรายแก่ผู้บริโภค
+
 #### ข้อ 68
-* **Topic**: Sustainable Resource Management
+* **Topic**: หลัก 3Rs
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Easy
-* **Statement**: The 'Reuse' principle involves processing waste plastic in a high-temperature factory furnace to remake plastic resin.
-* **Correct Answer**: False
-* **Explanation**: Melting waste in a factory to make new resin is 'Recycling'. 'Reuse' means using an item again in its existing form (e.g. glass jar for storage).
+* **Statement**: การนำขวดแก้วน้ำซอสที่หมดแล้วมารบล้างให้สะอาดแล้วใส่คราบน้ำตาลแทน เรียกว่า Recycle
+* **Answer**: False
+* **Explanation**: การนำภาชนะเดิมมาใส่ของใหม่โดยไม่หลอมแปรรูป เรียกว่า Reuse (ใช้ซ้ำ) ไม่ใช่ Recycle
+
 #### ข้อ 69
-* **Topic**: Sustainable Resource Management
+* **Topic**: หลัก 3Rs
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Medium
-* **Statement**: Turning off water taps while brushing teeth is an practical application of the 'Reduce' resource conservation principle.
-* **Correct Answer**: True
-* **Explanation**: Reducing unnecessary water usage decreases overall resource waste.
+* **Statement**: การเปิดไฟทิ้งไว้ในห้องที่ไม่มีคนอยู่ จัดเป็นการปฏิบัติตามหลัก Reduce
+* **Answer**: False
+* **Explanation**: การเปิดไฟทิ้งไว้เป็นการสิ้นเปลืองพลังงาน ละเมิดหลัก Reduce
+
 #### ข้อ 70
-* **Topic**: Certification Marks
+* **Topic**: ฉลากประหยัดไฟ
 * **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Statement**: The อย. (FDA) symbol on food containers certifies that the product has passed national food safety standards.
-* **Correct Answer**: True
-* **Explanation**: The Food and Drug Administration (อย.) mark guarantees safety compliance for food, drugs, and cosmetics.
+* **Statement**: ฉลากประหยัดไฟเบอร์ 5 ช่วยให้ผู้ซื้อทราบว่าเครื่องใช้ไฟฟ้านั้นประหยัดพลังงาน
+* **Answer**: True
+* **Explanation**: ฉลากเบอร์ 5 เป็นเครื่องหมายรับรองการประหยัดพลังงานไฟฟ้า
+
 #### ข้อ 71
-* **Topic**: Certification Marks
-* **Learning Objective**: LO-SOC1
+* **Topic**: สิทธิผู้บริโภค
+* **Learning Objective**: LO-SOC4
 * **Difficulty**: Medium
-* **Statement**: The TISI mark (มอก.) is issued by the Ministry of Tourism to guarantee hotel room cleanliness.
-* **Correct Answer**: False
-* **Explanation**: The TISI mark (มอก.) is issued by the Thai Industrial Standards Institute (Ministry of Industry) for industrial product safety.
+* **Statement**: ผู้บริโภคมีสิทธิที่จะได้รับการชดเชยค่าเสียหายหากสินค้าที่ซื้อไปเกิด explosion ทำอันตราย
+* **Answer**: True
+* **Explanation**: การได้รับการพิจารณาและชดเชยความเสียหายเป็น 1 ในสิทธิผู้บริโภค 5 ประการ
+
 #### ข้อ 72
-* **Topic**: Economic Circular Flow
-* **Learning Objective**: LO-SOC3
+* **Topic**: สายด่วน สคบ.
+* **Learning Objective**: LO-SOC4
 * **Difficulty**: Easy
-* **Statement**: In a national economy, households supply labor to business firms and receive wages in return.
-* **Correct Answer**: True
-* **Explanation**: Households sell labor services to business firms in exchange for wage/salary payments.
+* **Statement**: หากโดนหลอกลวงขายสินค้าปลอม สามารถโทรแจ้งร้องเรียนได้ที่สายด่วน 1166 (สคบ.)
+* **Answer**: True
+* **Explanation**: 1166 คือสายด่วนของสำนักงานคณะกรรมการคุ้มครองผู้บริโภค (สคบ.)
+
 #### ข้อ 73
-* **Topic**: Role of Commercial Banks
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Easy
-* **Statement**: Commercial banks earn operational profits primarily by charging higher interest rates on loans than they pay on savings deposits.
-* **Correct Answer**: True
-* **Explanation**: The positive spread between loan interest income and deposit interest expense provides bank revenue.
+* **Topic**: เศรษฐศาสตร์เบื้องต้น
+* **Learning Objective**: LO-SOC1
+* **Difficulty**: Medium
+* **Statement**: ความขาดแคลนเกิดขึ้นเฉพาะในประเทศที่ยากจนเท่านั้น ประเทศร่ำรวยไม่มีปัญหาความขาดแคลน
+* **Answer**: False
+* **Explanation**: ความขาดแคลนเกิดขึ้นกับทุกประเทศเพราะความต้องการของมนุษย์มีไม่จำกัด แต่ทรัพยากรมีจำกัด
+
 #### ข้อ 74
-* **Topic**: Central Bank (Bank of Thailand)
-* **Learning Objective**: LO-SOC3
+* **Topic**: จรรยาบรรณผู้ผลิต
+* **Learning Objective**: LO-SOC1
 * **Difficulty**: Easy
-* **Statement**: Any commercial retail bank in Thailand is legally allowed to print its own paper banknotes.
-* **Correct Answer**: False
-* **Explanation**: Only the central bank (Bank of Thailand / ธนาคารแห่งประเทศไทย) has the sole legal authority to issue paper banknotes.
+* **Statement**: การโฆษณาเกินจริงว่าครีมทาผิวทำให้ขาวได้ภายใน 1 วินาที เป็นสิ่งที่ทำได้ถูกต้องตามกฎหมาย
+* **Answer**: False
+* **Explanation**: การโฆษณาเท็จหรือเกินจริงเป็นการละเมิดกฎหมายคุ้มครองผู้บริโภค
+
 #### ข้อ 75
-* **Topic**: Central Bank Functions
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Statement**: The Bank of Thailand acts as the banker to commercial banks and manages national foreign exchange reserves.
-* **Correct Answer**: True
-* **Explanation**: The central bank oversees commercial banks, manages foreign currency reserves, and maintains national monetary stability.
+* **Topic**: การวางแผนการบริโภค
+* **Learning Objective**: LO-SOC2
+* **Difficulty**: Easy
+* **Statement**: การทำบัญชีรายรับ-รายจ่าย ช่วยให้เราทราบพฤติกรรมการใช้จ่ายและควบคุมเงินออมได้ดีขึ้น
+* **Answer**: True
+* **Explanation**: การทำบัญชีรายรับ-รายจ่ายเป็นเครื่องมือวางแผนการเงินที่มีประสิทธิภาพ
+
 #### ข้อ 76
-* **Topic**: Taxation Role
+* **Topic**: หน่วยเศรษฐกิจ
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Easy
-* **Statement**: Governments collect taxes solely to pay monthly cash bonuses to government officials.
-* **Correct Answer**: False
-* **Explanation**: Taxes fund public goods and infrastructure such as highways, schools, hospitals, police, and national defense.
+* **Statement**: หน่วยครัวเรือนเป็นผู้จ่ายค่าจ้างและเงินเดือนให้แก่หน่วยธุรกิจ
+* **Answer**: False
+* **Explanation**: หน่วยธุรกิจต่างหากที่เป็นผู้จ่ายค่าจ้างและเงินเดือนให้แก่หน่วยครัวเรือนที่มาทำงานให้
+
 #### ข้อ 77
-* **Topic**: Direct vs Indirect Taxes
+* **Topic**: ธนาคารกลาง
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Medium
-* **Statement**: Personal Income Tax paid annually by working employees based on their earnings is an example of an Indirect Tax.
-* **Correct Answer**: False
-* **Explanation**: Personal Income Tax is a Direct Tax because it is levied directly on the person who earns the income.
+* **Statement**: นักเรียนสามารถเดินเข้าไปเปิดบัญชีออมทรัพย์ประจำวันได้ที่ธนาคารแห่งประเทศไทย
+* **Answer**: False
+* **Explanation**: ธนาคารแห่งประเทศไทยเป็นธนาคารกลาง ไม่รับฝากเงินจากประชาชนทั่วไป ทำหน้าที่กำกับดูแลระบบเงิน
+
 #### ข้อ 78
-* **Topic**: Indirect Tax (VAT)
+* **Topic**: ธนาคารพาณิชย์
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Easy
-* **Statement**: Value Added Tax (VAT) is an indirect tax added to the retail price of consumer goods and paid by the final buyer.
-* **Correct Answer**: True
-* **Explanation**: VAT is an indirect tax collected from end consumers at the point of sale.
+* **Statement**: ธนาคารพาณิชย์ได้กำไรหลักมาจากส่วนต่างระหว่างดอกเบี้ยเงินกู้และดอกเบี้ยเงินฝาก
+* **Answer**: True
+* **Explanation**: ดอกเบี้ยเงินกู้สูงกว่าดอกเบี้ยเงินฝาก ส่วนต่างนี้คือรายได้หลักของธนาคารพาณิชย์
+
 #### ข้อ 79
-* **Topic**: Local Cooperatives
+* **Topic**: ภาษีทางตรง
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Easy
-* **Statement**: An Agricultural Cooperative is created to help farmers pool produce, buy fertilizer at lower bulk prices, and gain market bargaining power.
-* **Correct Answer**: True
-* **Explanation**: Cooperatives empower individual small farmers through collective purchasing and marketing strength.
+* **Difficulty**: Medium
+* **Statement**: ภาษีเงินได้บุคคลธรรมดาจัดเป็นภาษีทางตรงเพราะผู้มีรายได้ต้องชำระเองตามกฎหมาย
+* **Answer**: True
+* **Explanation**: ภาษีทางตรงไม่สามารถผลักภาระภาษีไปให้ผู้อื่นจ่ายแทนได้
+
 #### ข้อ 80
-* **Topic**: Cooperative Structure
+* **Topic**: ภาษีทางอ้อม
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Medium
-* **Statement**: In a cooperative enterprise, each member usually gets voting rights proportional to their personal wealth.
-* **Correct Answer**: False
-* **Explanation**: Cooperatives follow democratic principles: 'One member, one vote', regardless of the number of shares held.
+* **Statement**: ภาษีมูลค่าเพิ่ม (VAT) จัดเป็นภาษีทางตรงที่เก็บเฉพาะมหาเศรษฐีเท่านั้น
+* **Answer**: False
+* **Explanation**: VAT เป็นภาษีทางอ้อมที่จัดเก็บจากทุกคนที่ซื้อสินค้าและบริการ
+
 #### ข้อ 81
-* **Topic**: Savings Cooperatives
+* **Topic**: ประโยชน์ของภาษี
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Statement**: Savings Cooperatives promote financial discipline by enabling member groups to save regularly and borrow money at fair interest rates.
-* **Correct Answer**: True
-* **Explanation**: Savings cooperatives foster financial self-reliance and protect members from high-interest illegal loan sharks.
+* **Difficulty**: Easy
+* **Statement**: เงินภาษีที่รัฐจัดเก็บได้ ถูกนำไปใช้สร้างสะพาน โรงพยาบาล และพัฒนาโรงเรียน กิจการสาธารณะ
+* **Answer**: True
+* **Explanation**: ภาษีถูกนำไปพัฒนาประเทศและบริการสาธารณะแก่ประชาชน
+
 #### ข้อ 82
-* **Topic**: OTOP Local Products
+* **Topic**: สหกรณ์
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Easy
-* **Statement**: OTOP projects encourage rural communities to utilize local raw materials and cultural wisdom to create marketable products.
-* **Correct Answer**: True
-* **Explanation**: OTOP focuses on local community empowerment, native craftsmanship, and income generation.
+* **Statement**: สหกรณ์มุ่งเน้นการแสวงหากำไรสูงสุดเพื่อแจกจ่ายแก่ผู้ถือหุ้นภายนอกเท่านั้น
+* **Answer**: False
+* **Explanation**: สหกรณ์เป็นองค์การที่มุ่งช่วยเหลือสมาชิกและชุมชน ไม่ใช่แสวงหากำไรสูงสุด
+
 #### ข้อ 83
-* **Topic**: Consumer Rights
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Easy
-* **Statement**: Consumers have no legal right to seek compensation if a defective electronic product causes a fire in their home.
-* **Correct Answer**: False
-* **Explanation**: Under Right 5 of the Consumer Protection Act, consumers have the legal right to financial compensation for damages caused by defective goods.
+* **Topic**: หลักการสหกรณ์
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Statement**: สมาชิกสหกรณ์ทุกคนมีสิทธิออกเสียงได้คนละ 1 เสียงในการประชุม โดยไม่ขึ้นกับจำนวนหุ้นที่มี
+* **Answer**: True
+* **Explanation**: หลักประชาธิปไตยของสหกรณ์คือ 1 คน 1 เสียง (One member, one vote)
+
 #### ข้อ 84
-* **Topic**: Labor Protection Laws
-* **Learning Objective**: LO-SOC4
+* **Topic**: ประเภทสหกรณ์
+* **Learning Objective**: LO-SOC3
 * **Difficulty**: Easy
-* **Statement**: Under Thai law, the normal working time for general office labor must not exceed 8 hours per day.
-* **Correct Answer**: True
-* **Explanation**: Labor protection law caps standard work hours at 8 hours per day (48 hours per week).
+* **Statement**: สหกรณ์ออมทรัพย์จัดตั้งขึ้นเพื่อช่วยเหลือเกษตรกรด้านการจัดหาปุ๋ยและพันธุ์พืชเป็นหลัก
+* **Answer**: False
+* **Explanation**: สหกรณ์ออมทรัพย์มุ่งเน้นการรับฝากและให้กู้ยืมเงิน สหกรณ์การเกษตรต่างหากที่จัดหาปุ๋ยและพันธุ์พืช
+
 #### ข้อ 85
-* **Topic**: Labor Rights - Equal Opportunity
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Medium
-* **Statement**: Employers are legally allowed to pay female employees less than male employees for performing identical work with identical qualifications.
-* **Correct Answer**: False
-* **Explanation**: Thai labor law mandates equal pay for equal work regardless of employee gender.
+* **Topic**: โครงการ OTOP
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Easy
+* **Statement**: สินค้า OTOP ผลิตจากวัตถุดิบและภูมิปัญญาท้องถิ่นเพื่อส่งเสริมเศรษฐกิจชุมชน
+* **Answer**: True
+* **Explanation**: OTOP ส่งเสริมภูมิปัญญาและกระจายรายได้สู่ท้องถิ่น
+
 #### ข้อ 86
-* **Topic**: Labor Welfare
+* **Topic**: กฎหมายแรงงาน
 * **Learning Objective**: LO-SOC4
 * **Difficulty**: Medium
-* **Statement**: Factory owners are required by law to provide basic medical first-aid facilities and safety gear for their workforce.
-* **Correct Answer**: True
-* **Explanation**: Workplace safety equipment and basic medical first-aid provisions are mandatory legal requirements for employers.
+* **Statement**: นายจ้างสามารถบังคับให้ลูกจ้างทำงานวันละ 18 ชั่วโมงโดยไม่จ่ายค่าล่วงเวลา (OT) ได้
+* **Answer**: False
+* **Explanation**: กฎหมายกำหนดเวลาทำงานปกติไม่เกิน 8 ชม./วัน การทำงานเกินเวลาต้องได้รับค่า OT ตามกฎหมาย
+
 #### ข้อ 87
-* **Topic**: Consumer Protection Agency
+* **Topic**: แรงงานเด็ก
 * **Learning Objective**: LO-SOC4
-* **Difficulty**: Easy
-* **Statement**: The Office of the Consumer Protection Board (OCPB / สคบ.) assists consumers who have been cheated by false advertisements.
-* **Correct Answer**: True
-* **Explanation**: OCPB handles public complaints regarding deceptive advertising and unfair business terms.
+* **Difficulty**: Medium
+* **Statement**: เด็กอายุ 12 ปี สามารถรับจ้างทำงานในโรงงานอุตสาหกรรมหนักได้อย่างถูกต้องตามกฎหมาย
+* **Answer**: False
+* **Explanation**: กฎหมายห้ามจ้างเด็กอายุต่ำกว่า 15 ปีทำงาน
+
 #### ข้อ 88
-* **Topic**: Economic Scarcity
-* **Learning Objective**: LO-SOC1
+* **Topic**: สิทธิลาป่วย
+* **Learning Objective**: LO-SOC4
 * **Difficulty**: Medium
-* **Statement**: Because natural resources are infinite, human society does not need to conserve energy or plan resource usage.
-* **Correct Answer**: False
-* **Explanation**: Natural resources are finite and limited, making planning and conservation essential.
+* **Statement**: ลูกจ้างมีสิทธิลาป่วยได้เท่าที่ป่วยจริง โดยได้รับค่าจ้างในวันลาป่วยไม่เกิน 30 วันทำงานต่อปี
+* **Answer**: True
+* **Explanation**: เป็นสิทธิตามพระราชบัญญัติคุ้มครองแรงงาน
+
 #### ข้อ 89
-* **Topic**: Specialized State Banks
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Medium
-* **Statement**: The Government Savings Bank (GSB / ธนาคารออมสิน) actively promotes youth savings and financial literacy in Thailand.
-* **Correct Answer**: True
-* **Explanation**: GSB plays a major historical role in promoting public thrift, youth savings programs, and community banking.
-#### ข้อ 90
-* **Topic**: Wise Budgeting
+* **Topic**: การออมเงิน
 * **Learning Objective**: LO-SOC2
 * **Difficulty**: Easy
-* **Statement**: Creating a daily income and expense log helps individuals track spending and increase personal savings.
-* **Correct Answer**: True
-* **Explanation**: Keeping income-expense records provides visual awareness of spending habits, helping identify unnecessary expenses.
+* **Statement**: การนำเงินไปหยอดกระปุกออมสินทุกวันช่วยฝึกนิสัยความประหยัดอดออม
+* **Answer**: True
+* **Explanation**: เป็นการเริ่มต้นสร้างวินัยทางการเงินที่ดีตั้งแต่เด็ก
 
-# Section C: Scenario-Based Questions (สถานการณ์จำลอง 15 ข้อ)
+#### ข้อ 90
+* **Topic**: การลงทุน
+* **Learning Objective**: LO-SOC2
+* **Difficulty**: Medium
+* **Statement**: การลงทุนมีความเสี่ยง ผู้ลงทุนจึงควรศึกษาข้อมูลและประเมินความเสี่ยงก่อนตัดสินใจลงทุน
+* **Answer**: True
+* **Explanation**: ทุกการลงทุนมีความเสี่ยง ต้องศึกษาข้อมูลอย่างรอบคอบ
 
-<!--
-RULES Section C:
-- ข้อ 91–105 (15 ข้อ, 2 คะแนน/ข้อ)
--->
+# Section C: Scenario-Based Questions (สถานการณ์จำลอง)
+
 #### ข้อ 91
-* **Topic**: Wise Consumer Budgeting
-* **Learning Objective**: LO-SOC2
+* **Topic**: สิทธิผู้บริโภคและการร้องเรียน
+* **Learning Objective**: LO-SOC4
 * **Difficulty**: Hard
-* **Scenario**: Somsak has a daily budget of 120 Baht for school. He needs to pay 40 Baht for a healthy lunch and 20 Baht for round-trip bus fare. In the canteen, he sees a trendy imported toy costing 80 Baht and a fresh fruit cup costing 15 Baht.
-* **Question**: How should Somsak allocate his budget according to wise consumer principles?
-* **Answer**: Somsak must first cover his fixed necessities: lunch (40 Baht) + bus fare (20 Baht) = 60 Baht. Remaining money = 60 Baht. He should buy the healthy fruit cup (15 Baht) or save the remaining 60 Baht. He must decline buying the toy (80 Baht) because it exceeds his remaining budget (60 Baht) and is a non-essential want.
-* **Explanation**: Wise consumers prioritize essential living expenses (Needs) first, allocate systematic savings second, and avoid overspending on non-essential items (Wants).
+* **Scenario**: เด็กชายก้องซื้อนมกล่องมารับประทานจากร้านค้าแห่งหนึ่ง เมื่อเจาะหลอดดื่มพบว่านมมีรสเปรี้ยวและมีกลิ่นบูด ทั้งที่ระบุวันหมดอายุอีก 3 เดือนข้างหน้า ก้องเกิดอาการท้องเสียจนต้องไปพบแพทย์ ร้านค้าปฏิเสธความรับผิดชอบโดยอ้างว่าตนไม่ใช่โรงงานผู้ผลิต
+* **Question**: จากสถานการณ์นี้ เด็กชายก้องและผู้ปกครองควรดำเนินการตามขั้นตอนทางกฎหมายและสิทธิผู้บริโภคอย่างไรให้ถูกต้อง?
+* **Answer**: ก้องและผู้ปกครองควรรวบรวมหลักฐาน ได้แก่ นมกล่องที่เหลือ ใบเสร็จรับเงิน และใบรับรองแพทย์/ใบเสร็จค่ารักษา แล้วไปร้องเรียนต่อสำนักงานคณะกรรมการคุ้มครองผู้บริโภค (สคบ. สายด่วน 1166) หรือ อย. เพื่อขอรับการชดเชยค่ารักษาพยาบาลและตรวจสอบโรงงานผู้ผลิต
+* **Explanation**: ผู้บริโภคมีสิทธิได้รับการชดเชยความเสียหาย และสิทธิได้รับความปลอดภัย สินค้าที่หมดอายุก่อนกำหนดถือเป็นสินค้าไม่ได้มาตรฐาน ผู้ผลิตและผู้ขายต้องร่วมรับผิดชอบ
+
 #### ข้อ 92
-* **Topic**: Producer Social Responsibility
-* **Learning Objective**: LO-SOC4
+* **Topic**: ผู้ผลิตที่มีคุณภาพและสิ่งแวดล้อม
+* **Learning Objective**: LO-SOC1
 * **Difficulty**: Hard
-* **Scenario**: A seafood processing factory in Samut Sakhon generates 5,000 liters of organic waste liquid daily. The factory manager considers two options: Option A (Dump waste into the nearby canal at night to save 50,000 Baht/month), or Option B (Install a 200,000 Baht bio-filtration system to turn waste into agricultural fertilizer).
-* **Question**: Which option should the factory choose to demonstrate quality producer leadership, and why?
-* **Answer**: The factory should choose Option B. Installing a bio-filtration system prevents canal pollution, protects public marine health, and creates usable organic fertilizer. Option A is illegal, damages community water, and violates producer ethics.
-* **Explanation**: Quality producers uphold social responsibility, respect environmental laws, and invest in sustainable waste treatment despite upfront costs.
+* **Scenario**: โรงงานปลากระป๋องของนายสมศักดิ์ตั้งอยู่ติดกับชุมชนชายฝั่ง นายสมศักดิ์ต้องการลดต้นทุนการผลิต จึงแอบปล่อยน้ำทิ้งจากการล้างปลาและสารเคมีลงสู่ทะเลโดยไม่ผ่านการบำบัด ทำให้ปลาในธรรมชาติ die และชาวบ้านส่งกลิ่นเหม็นรุนแรง
+* **Question**: หากนายสมศักดิ์ต้องการปรับปรุงตนเองให้เป็น 'ผู้ผลิตที่มีคุณภาพและมีความรับผิดชอบต่อสังคม' ควรดำเนินการอย่างไร?
+* **Answer**: นายสมศักดิ์ต้องติดตั้งระบบบำบัดน้ำเสียและบำบัดกลิ่นให้ได้มาตรฐานก่อนปล่อยออกสู่ภายนอก มีจรรยาบรรณ ไม่เห็นแก่ตัว และร่วมรับผิดชอบฟื้นฟูสิ่งแวดล้อมและช่วยเหลือชาวบ้านที่ได้รับผลกระทบ
+* **Explanation**: ผู้ผลิตที่ดีต้องไม่มุ่งหวังแต่กำไร ต้องปฏิบัติตามกฎหมายสิ่งแวดล้อม มีจรรยาบรรณ และคำนึงถึงชุมชน
+
 #### ข้อ 93
-* **Topic**: Factors of Production Allocation
-* **Learning Objective**: LO-SOC1
+* **Topic**: การบริหารจัดการเงินและ 3Rs
+* **Learning Objective**: LO-SOC2
 * **Difficulty**: Hard
-* **Scenario**: Kanya inherits a 5-rai vacant land plot near a university. She has 500,000 Baht in savings. She decides to hire two construction workers to build a student study cafe and buy coffee machines and tables.
-* **Question**: Identify the four factors of production present in Kanya's new business venture.
-* **Answer**: 1. Land: The inherited 5-rai plot near the university. 2. Labor: The two hired construction workers and cafe staff. 3. Capital: The 500,000 Baht savings, coffee machines, tables, and cafe building. 4. Entrepreneurship: Kanya, who combines these resources and takes business risks.
-* **Explanation**: A complete business startup integrates all four production factors: Land (natural site), Labor (human effort), Capital (equipment/funds), and Entrepreneurship (risk-taker/manager).
+* **Scenario**: เด็กหญิงเมย์ได้รับเงินค่าขนมมาโรงเรียนวันละ 100 บาท เมย์ชอบซื้อขนมกรุบกรอบที่มีของแถม เสื้อผ้าแฟชั่นตามเน็ตไอดอล และใช้ถุงพลาสติกจำนวนมาก เมื่อสิ้นเดือนเมย์พบว่าไม่มีเงินออมเลย แถมมีขยะพลาสติกเต็มห้อง
+* **Question**: เมย์ควรปรับเปลี่ยนพฤติกรรมการบริโภคและการใช้ทรัพยากรตามหลัก 3Rs และการบริโภคที่รู้เท่าทันอย่างไร?
+* **Answer**: เมย์ควรทำบัญชีรายรับ-รายจ่าย แบ่งเงินออมก่อนใช้ ซื้อเฉพาะของที่จำเป็น (Need) ลดการซื้อของตามกระแส (Reduce) นำถุงผ้ามาใช้ซ้ำ (Reuse) และแยกขวดพลาสติกไปขายรีไซเคิล (Recycle)
+* **Explanation**: การวางแผนการเงินช่วยให้มีเงินออม และหลัก 3Rs ช่วยลดขยะและรักษาสิ่งแวดล้อม
+
 #### ข้อ 94
-* **Topic**: Consumer Rights Violation
-* **Learning Objective**: LO-SOC4
+* **Topic**: หน่วยเศรษฐกิจและการเสียภาษี
+* **Learning Objective**: LO-SOC3
 * **Difficulty**: Hard
-* **Scenario**: Vichai bought an electric rice cooker from a department store. The box had no user manual, no manufacturer address, and no TISI (มอก.) safety mark. On the first day of use, the cooker short-circuited and burned his kitchen countertop.
-* **Question**: Which consumer rights were violated, and what legal steps can Vichai take under Thai consumer law?
-* **Answer**: Violated Rights: 1. Right to receive accurate information/labeling (missing manual, manufacturer details, and safety mark). 2. Right to safety in using goods. Action: Vichai can file a complaint with the Office of the Consumer Protection Board (OCPB / สคบ.) and demand full financial compensation from the store/manufacturer under Right 5 (Right to compensation for damages).
-* **Explanation**: Consumer rights protect buyers against unsafe, uncertified products and provide legal channels for damage recovery through OCPB.
+* **Scenario**: นายวิชัยเปิดบริษัทขายเครื่องใช้ไฟฟ้า มีรายได้ต่อปีหลายล้านบาท แต่นายวิชัยพยายามปกปิดยอดขาย ตกแต่งบัญชีเพื่อหลีกเลี่ยงการเสียภาษีเงินได้นิติบุคคลและภาษีมูลค่าเพิ่มให้แก่รัฐบาล
+* **Question**: การกระทำของนายวิชัยส่งผลกระทบต่อระบบเศรษฐกิจของประเทศชาติอย่างไร และมีความผิดอย่างไร?
+* **Answer**: ส่งผลให้รัฐบาลขาดรายได้นำไปพัฒนาประเทศ เช่น สร้างถนน โรงพยาบาล โรงเรียน การเลี่ยงภาษีเป็นการทำลายระบบเศรษฐกิจ และมีความผิดทางอาญา มีโทษปรับและจำคุกตามประมวลรัษฎากร
+* **Explanation**: ภาษีเป็นรายได้หลักของรัฐบาลในการจัดสรรบริการสาธารณะ ประชาชนและธุรกิจมีหน้าที่เสียภาษีตามกฎหมาย
+
 #### ข้อ 95
-* **Topic**: Agricultural Cooperative Benefit
+* **Topic**: การรวมกลุ่มเศรษฐกิจ - สหกรณ์โรงเรียน
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Hard
-* **Scenario**: In a rural subdistrict, 30 cassava farmers individually sell cassava roots to middleman traders for 1.8 Baht/kg, while buying fertilizer at high retail prices (1,200 Baht/bag). A local leader proposes forming an Agricultural Cooperative.
-* **Question**: How will forming an Agricultural Cooperative solve the farmers' economic problems?
-* **Answer**: By forming a cooperative, farmers can bulk-purchase fertilizer directly from manufacturers at wholesale prices (e.g. 900 Baht/bag), reducing costs. Additionally, by pooling their total cassava yield, they gain price bargaining power to sell directly to starch factories at higher rates (e.g. 2.5 Baht/kg).
-* **Explanation**: Agricultural cooperatives eliminate unfair middleman exploitation through collective purchasing power and consolidated market selling.
+* **Scenario**: โรงเรียนแห่งหนึ่งประสบปัญหาร้านค้าภายนอกนำขนมไม่มีประโยชน์และอุปกรณ์การเรียนคุณภาพต่ำมาขายแพง คณะครูและนักเรียนจึงร่วมกันจัดตั้ง 'สหกรณ์ร้านค้าในโรงเรียน' ขึ้น
+* **Question**: การจัดตั้งสหกรณ์ร้านค้าในโรงเรียนจะช่วยแก้ปัญหานี้ได้อย่างไร และนักเรียนจะได้รับประโยชน์อะไรบ้าง?
+* **Answer**: สหกรณ์ร้านค้าจะคัดเลือกอุปกรณ์และขนมที่มีประโยชน์ ปลอดภัย มาจำหน่ายในราคายุติธรรม และเมื่อสิ้นปีสมาชิกสหกรณ์จะได้รับ 'เงินเฉลี่ยคืน' ตามยอดซื้อ ทำให้นักเรียนได้ใช้ของดีและเรียนรู้ระบบประชาธิปไตย
+* **Explanation**: สหกรณ์ช่วยเหลือสมาชิกโดยไม่มุ่งกำไรสูงสุด ให้บริการสินค้าคุณภาพราคาย่อยและมีเงินปันผลตอบแทนสมาชิก
+
 #### ข้อ 96
-* **Topic**: Role of Financial Institutions
+* **Topic**: บทบาทของสถาบันการเงิน
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Hard
-* **Scenario**: A local software startup needs 2 million Baht to purchase high-performance servers, while a retired teacher wants to earn interest on her 500,000 Baht savings safely. Neither knows the other personally.
-* **Question**: Explain how the Commercial Banking system bridges the economic gap between the teacher and the software startup.
-* **Answer**: The teacher deposits her 500,000 Baht into a commercial bank account, earning deposit interest. The commercial bank pools her deposit with other savings to grant a 2 million Baht business loan to the startup. The startup pays loan interest to the bank. The bank uses this interest spread to operate and pay deposit interest back to the teacher.
-* **Explanation**: Commercial banks act as financial intermediaries, transferring idle funds from savers to productive investors in the economy.
+* **Scenario**: นางนภาต้องการเงินทุน 500,000 บาท ไปขยายร้านขายของชำ มีเพื่อนแนะนำให้ไปกู้เงินหนี้นอกระบบที่คิดดอกเบี้ยร้อยละ 10 ต่อเดือน แต่นภาตัดสินใจไปติดต่อกู้เงินกับธนาคารพาณิชย์แทน
+* **Question**: การตัดสินใจของนางนภาไปกู้เงินกับธนาคารพาณิชย์เหมาะสมหรือไม่ เพราะเหตุใด?
+* **Answer**: เหมาะสมอย่างยิ่ง เพราะธนาคารพาณิชย์คิดอัตราดอกเบี้ยตามที่กฎหมายกำหนด (ประมาณร้อยละ 6-15 ต่อปี) ซึ่งถูกกว่าหนี้นอกระบบมาก มีสัญญาชัดเจน ปลอดภัยจากการทวงหนี้โหด
+* **Explanation**: สถาบันการเงินในระบบให้ความปลอดภัย อัตราดอกเบี้ยเป็นไปตามกฎหมาย ไม่สร้างภาระหนี้ทับซ้อน
+
 #### ข้อ 97
-* **Topic**: Central Bank Intervention
-* **Learning Objective**: LO-SOC3
+* **Topic**: ปัจจัยการผลิตและการวางแผน
+* **Learning Objective**: LO-SOC1
 * **Difficulty**: Hard
-* **Scenario**: During an economic crisis, several commercial banks face rumor-driven mass customer deposit withdrawals (bank run), threatening national financial collapse. At the same time, counterfeit banknotes appear in night markets.
-* **Question**: What actions should the Bank of Thailand (BOT) execute to handle these issues?
-* **Answer**: 1. Financial Stability: BOT acts as the 'Lender of Last Resort' to supply emergency liquidity loans to commercial banks, restoring depositor confidence. 2. Currency Integrity: BOT issues warning advisories on security features of genuine banknotes and coordinates note replacements to eliminate counterfeits.
-* **Explanation**: The Bank of Thailand maintains national financial stability as lender of last resort and manages paper currency integrity.
+* **Scenario**: ชาวสวนส้มคนหนึ่งต้องการเพิ่มผลผลิตและรายได้ จึงใช้สารเคมีฆ่าแมลงปริมาณมากเกินกำหนดเพื่อไม่ให้ส้มมีรอยตำหนิ ผลปรากฏว่าส้มขายได้ราคาดี แต่ดินในสวนเสื่อมโทรมและคนงานปวดหัวบ่อยครั้ง
+* **Question**: วิเคราะห์การใช้ปัจจัยการผลิตของชาวสวนคนนี้ว่าขัดต่อหลักการผลิตที่ดีอย่างไร และควรแก้ไขอย่างไร?
+* **Answer**: ชาวสวนใช้ปัจจัยที่ดินและแรงงานอย่างไม่ยั่งยืน ทำลายคุณภาพดินและสุขภาพแรงงาน ควรเปลี่ยนมาใช้เกษตรอินทรีย์ ปุ๋ยหมักชีวภาพ และป้องก้นอันตรายให้แรงงาน เพื่อความยั่งยืน
+* **Explanation**: การผลิตที่ดีต้องไม่ทำลายปัจจัยการผลิตในระยะยาว และต้องดูแลความปลอดภัยของแรงงาน
+
 #### ข้อ 98
-* **Topic**: Government Tax Revenue Allocation
-* **Learning Objective**: LO-SOC3
+* **Topic**: กฎหมายคุ้มครองแรงงาน
+* **Learning Objective**: LO-SOC4
 * **Difficulty**: Hard
-* **Scenario**: A provincial government collects 50 million Baht in local land and tax revenue. The town council debates whether to spend the money on building a public library and fixing broken bridges, or holding a luxury festival for council members.
-* **Question**: Evaluate these spending proposals based on government economic duty.
-* **Answer**: The government must spend tax revenue on public goods: building the public library and repairing bridges. This directly enhances education, transport safety, and public welfare for all citizens. Spending public funds on luxury festivals for officials is misuse of tax revenue.
-* **Explanation**: Tax revenue must be spent on public services, infrastructure, and social welfare that benefit the community equitably.
+* **Scenario**: นายจ้างโรงงานเย็บผ้าแห่งหนึ่งบังคับให้คนงานทำงานวันละ 14 ชั่วโมงทุกวันโดยไม่ให้วันหยุดประจำสัปดาห์ และจ่ายค่าจ้างต่ำกว่าอัตราค่าจ้างขั้นต่ำ เมื่อคนงานป่วยก็ห้ามลาหยุด
+* **Question**: การกระทำของนายจ้างรายนี้ละเมิดกฎหมายคุ้มครองแรงงานเรื่องใดบ้าง และคนงานควรทำอย่างไร?
+* **Answer**: ละเมิดเรื่องชั่วโมงทำงานเกิน 8 ชม., ละเมิดสิทธิวันหยุดประจำสัปดาห์, จ่ายค่าจ้างต่ำกว่าขั้นต่ำ และละเมิดสิทธิการลาป่วย คนงานควรรวมตัวแจ้งกรมสวัสดิการและคุ้มครองแรงงานเพื่อดำเนินคดี
+* **Explanation**: กฎหมายคุ้มครองแรงงานกำหนดสิทธิพื้นฐานเรื่อง เวลาทำงาน ค่าจ้างขั้นต่ำ วันหยุด และวันลา เพื่อความเป็นธรรม
+
 #### ข้อ 99
-* **Topic**: Sustainable Resource Strategy (3Rs)
-* **Learning Objective**: LO-SOC2
+* **Topic**: เครื่องหมายรับรองมาตรฐานสินค้า
+* **Learning Objective**: LO-SOC1
 * **Difficulty**: Hard
-* **Scenario**: A primary school generates 100 kg of plastic water bottles, leftover lunch food waste, and single-sided paper scraps every day.
-* **Question**: Design a 3Rs sustainability plan for the school to manage these waste streams effectively.
-* **Answer**: 1. Single-sided paper: 'Reuse' blank back sides for draft worksheets, then 'Recycle' shredded paper. 2. Plastic bottles: 'Reduce' by encouraging refillable water flasks; collect remaining bottles for 'Recycle' sales to fund school projects. 3. Food waste: Convert into organic compost fertilizer for school gardens.
-* **Explanation**: Applying 3Rs principles systematically reduces waste volume, lowers disposal costs, and generates eco-friendly value.
+* **Scenario**: คุณแม่ของปลาน้อยไปซื้อเตาแก๊สและหม้อหุงข้าวไฟฟ้าในตลาดสด พบว่าไม่มีเครื่องหมาย มอก. ติดอยู่ แต่ผู้ขายลดราคาให้พิเศษ 50% คุณแม่ลังเลว่าจะซื้อดีหรือไม่
+* **Question**: ปลาน้อยควรแนะนำคุณแม่อย่างไรตามหลักการเป็นผู้บริโภคที่รู้เท่าทัน?
+* **Answer**: ควรแนะนำไม่ให้ซื้อ เพราะเครื่องใช้ไฟฟ้าที่ไม่มีเครื่องหมาย มอก. อาจไม่ได้มาตรฐานความปลอดภัย เสี่ยงต่อไฟรั่วหรือระเบิด เกิดอันตรายต่อชีวิตและทรัพย์สิน ไม่คุ้มกับส่วนลดราคา
+* **Explanation**: ความปลอดภัยเป็นหลักสำคัญที่สุดในการเลือกซื้อสินค้า โดยเฉพาะเครื่องใช้ไฟฟ้าต้องมี มอก.
+
 #### ข้อ 100
-* **Topic**: Labor Law Rights Case
-* **Learning Objective**: LO-SOC4
+* **Topic**: การปฏิบัติตามหลักปรัชญาเศรษฐกิจพอเพียง
+* **Learning Objective**: LO-SOC2
 * **Difficulty**: Hard
-* **Scenario**: An garment factory supervisor forces female workers to work 12 hours a day without overtime pay, grants only 15 minutes of lunch break, and pays them 20% less than male workers doing the same sewing tasks.
-* **Question**: Identify three labor protection violations in this scenario under Thai labor law.
-* **Answer**: 1. Work Hours & OT: Exceeding 8 hours/day and refusing legal overtime pay violates work hour laws. 2. Rest Period: Granting only 15 minutes rest violates the legal requirement of at least 1 hour rest after 5 work hours. 3. Gender Wage Gap: Paying female workers 20% less for identical work violates equal pay laws.
-* **Explanation**: Labor protection laws guarantee maximum 8-hour workdays, mandatory 1-hour rest periods, overtime compensation, and gender pay equality.
+* **Scenario**: ในหมู่บ้านแห่งหนึ่ง ชาวบ้านส่วนใหญ่ทำนาได้ข้าวมาก แต่ประสบปัญหาโรงสีข้าวกดราคาซื้อ ทำให้ชาวบ้านขาดทุนและมีหนี้สิน
+* **Question**: ชาวบ้านควรประยุกต์ใช้หลักการรวมกลุ่มทางเศรษฐกิจและเศรษฐกิจพอเพียงแก้ปัญหานี้อย่างไร?
+* **Answer**: ชาวบ้านควรรวมกลุ่มกันจัดตั้ง 'สหกรณ์การเกษตร' และร่วมมือกันสร้างโรงสีข้าวของชุมชน (OTOP) เพื่อแปรรูปข้าวขายเอง โดยไม่ต้องผ่านนายทุนกลาง ทำให้ขายได้ราคาดีขึ้นและพึ่งพาตนเองได้
+* **Explanation**: การรวมกลุ่มสหกรณ์สร้างพลังต่อรองและภูมิคุ้มกันทางเศรษฐกิจ ตามหลักเศรษฐกิจพอเพียง
+
 #### ข้อ 101
-* **Topic**: OTOP Product Elevation
+* **Topic**: การใช้บริการสถาบันการเงิน
 * **Learning Objective**: LO-SOC3
 * **Difficulty**: Hard
-* **Scenario**: A rural village produces delicious homemade dried mangoes, but sells them in plain unsealed plastic bags at local roadside stalls with short shelf life and low income.
-* **Question**: How can the village apply the OTOP strategy to elevate their product quality and market value?
-* **Answer**: The village can: 1. Packaging & Safety: Upgrade to vacuum-sealed foil packaging with อย. FDA certification and clear nutritional labeling. 2. Branding: Create a unique OTOP community brand telling the local orchard story. 3. Distribution: Expand sales to online e-commerce platforms and provincial souvenir shops.
-* **Explanation**: OTOP enhances local village products by improving hygienic packaging, obtaining safety standards, creating strong branding, and expanding retail markets.
+* **Scenario**: เด็กชายบอยต้องการออมเงินที่ได้จากค่าขนมและรางวัลเรียนดี บอยลังเลระหว่างการฝากเงินไว้ในกระปุกออมสินที่บ้าน กับการนำไปเปิดบัญชีฝากประจำที่ธนาคาร
+* **Question**: จงเปรียบเทียบข้อดี-ข้อเสียของการฝากเงินทั้งสองรูปแบบเพื่อให้บอยตัดสินใจได้เหมาะสม?
+* **Answer**: ฝากกระปุก: สะดวก แต่อาจสูญหายหรือเผลอหยิบมาใช้ได้ง่าย และไม่ได้ดอกเบี้ย. ฝากธนาคาร: ปลอดภัย สร้างวินัย ได้รับดอกเบี้ยเงินฝากเป็นผลตอบแทน แต่ต้องเดินทางไปธนาคาร
+* **Explanation**: การฝากเงินกับธนาคารให้ความปลอดภัยและผลตอบแทนดอกเบี้ย เหมาะสำหรับการออมระยะยาว
+
 #### ข้อ 102
-* **Topic**: Direct vs. Indirect Tax Impact
-* **Learning Objective**: LO-SOC3
+* **Topic**: สิทธิผู้บริโภคและการเลือกซื้อ
+* **Learning Objective**: LO-SOC4
 * **Difficulty**: Hard
-* **Scenario**: Pranee earns a monthly salary of 40,000 Baht and pays personal income tax at the end of the year. Every time she buys groceries, she pays 7% Value Added Tax (VAT) on her bill.
-* **Question**: Compare Pranee's tax burdens: Which is direct and which is indirect, and how do their collection mechanisms differ?
-* **Answer**: Personal income tax is a Direct Tax paid directly by Pranee to the Revenue Department based on her personal earnings. VAT is an Indirect Tax included in grocery prices; the grocery store collects VAT from Pranee at purchase and remits it to the government.
-* **Explanation**: Direct taxes are levied directly on income/wealth, whereas indirect taxes are collected via consumption transactions.
+* **Scenario**: ยายทาเห็นโฆษณาทางทีวีขายยาหม้อสมุนไพร อ้างว่ารักษาโรคอัมพฤกษ์และมะเร็งได้หายขาดภายใน 3 วัน ยายทาจึงสนใจอยากสั่งซื้อมารับประทาน
+* **Question**: ในฐานะหลาน นักเรียนจะอธิบายและเตือนยายทาอย่างไรตามหลักคุ้มครองผู้บริโภค?
+* **Answer**: ต้องเตือนยายทาว่ายาอวดอ้างสรรพคุณเกินจริง ละเมิดกฎหมาย และอาจผสมสารสเตียรอยด์อันตราย ต้องตรวจสอบว่ามีเลข อย. หรือไม่ และแนะนำให้ไปพบแพทย์แผนปัจจุบันที่โรงพยาบาล
+* **Explanation**: สิทธิที่จะได้รับการคุ้มครองจากโฆษณาหลอกลวง ผู้บริโภคต้องไม่หลงเชื่อคำอ้างโอ้อวดเกินจริง
+
 #### ข้อ 103
-* **Topic**: Savings Cooperative vs. Illegal Loan Sharks
-* **Learning Objective**: LO-SOC3
+* **Topic**: ความคุ้มค่าและการอนุรักษ์ธรรมชาติ
+* **Learning Objective**: LO-SOC2
 * **Difficulty**: Hard
-* **Scenario**: A factory worker needs 20,000 Baht for his child's school tuition. An informal loan shark offers instant cash but charges 20% interest per month (240% per year) with violent enforcement. The factory Savings Cooperative offers loans at 6% annual interest.
-* **Question**: Why should the worker choose the Savings Cooperative over the loan shark?
-* **Answer**: The worker should choose the Savings Cooperative. The cooperative charges a legal, low annual interest rate (6% per year = 1,200 Baht total interest), protecting him from financial ruin. The loan shark's 20% monthly rate (48,000 Baht annual interest) causes escalating debt spirals and illegal harassment.
-* **Explanation**: Savings cooperatives protect working members from exploitative informal debt by offering fair credit rates and legal financial safety.
+* **Scenario**: ร้านกาแฟแห่งหนึ่งจัดโปรโมชัน 'นำแก้วน้ำส่วนตัวมาเอง ลดทันที 5 บาท' และเปลี่ยนมาใช้หลอดกระดาษรักษ์โลกแทนหลอดพลาสติก
+* **Question**: วิเคราะห์ผลดีของนโยบายนี้ทั้งต่อผู้บริโภค ผู้ผลิต และสิ่งแวดล้อม?
+* **Answer**: ผู้บริโภค: ประหยัดเงิน 5 บาท. ผู้ผลิต: ดึงดูดลูกค้าสร้างภาพลักษณ์ดี. สิ่งแวดล้อม: ลดปริมาณขยะพลาสติกและลดภาวะโลกร้อน (Reduce/Reuse)
+* **Explanation**: นโยบายนี้เป็นตัวอย่างของการผลิตและการบริโภคที่ยั่งยืน ได้ประโยชน์ร่วมกันทุกฝ่าย
+
 #### ข้อ 104
-* **Topic**: Consumer Product Label Inspection
-* **Learning Objective**: LO-SOC1
+* **Topic**: ภาษีทางตรงและทางอ้อม
+* **Learning Objective**: LO-SOC3
 * **Difficulty**: Hard
-* **Scenario**: Sunee is buying canned tuna at a supermarket. She finds two brands: Brand A (100 Baht, shiny box, no expiration date, no อย. number), and Brand B (85 Baht, clear อย. number, manufacturing date: 01/2026, expiry date: 01/2028, full nutrition label).
-* **Question**: Which brand should Sunee buy, and why?
-* **Answer**: Sunee should buy Brand B. Brand B is certified safe with an อย. number, provides explicit manufacturing/expiry dates, includes nutrition information, and is more economical (85 Baht). Brand A is uncertified, lacks mandatory expiration details, presents food safety risks, and is overpriced.
-* **Explanation**: Smart purchasing requires verifying food safety marks (อย.), expiration dates, ingredient labels, and price value.
+* **Scenario**: พี่สาวของวินทำงานเป็นโปรแกรมเมอร์ มีเงินเดือน 40,000 บาท ต้องจ่ายภาษีเงินได้บุคคลธรรมดา ขณะเดียวกันเมื่อพี่สาวไปซื้อสินค้าในห้าง ก็ต้องจ่ายภาษีมูลค่าเพิ่ม 7%
+* **Question**: จงจำแนกภาษีทั้งสองประเภทนี้ และอธิบายว่าเหตุใดพี่สาวจึงไม่สามารถปฏิเสธการจ่ายภาษีมูลค่าเพิ่มได้?
+* **Answer**: ภาษีเงินได้บุคคลธรรมดาคือ 'ภาษีทางตรง' เก็บจากรายได้ตนเอง. ภาษีมูลค่าเพิ่มคือ 'ภาษีทางอ้อม' ที่ผู้ขายรวมในราคาสินค้า ปฏิเสธไม่ได้เพราะเป็นกฎหมายที่จัดเก็บจากผู้บริโภคทุกคน
+* **Explanation**: ภาษีทางอ้อมแฝงอยู่ในราคาสินค้า ผู้บริโภคทุกคนถือเป็นผู้รับภาระภาษีเมื่อซื้อสินค้า
+
 #### ข้อ 105
-* **Topic**: Sustainable Community Resource Management
-* **Learning Objective**: LO-SOC2
+* **Topic**: สิทธิแรงงานและการพัฒนาฝีมือ
+* **Learning Objective**: LO-SOC4
 * **Difficulty**: Hard
-* **Scenario**: A lakeside village suffers from declining fish populations because residents dump household garbage into the lake and use fine-mesh nets that catch juvenile fish.
-* **Question**: Propose a comprehensive community action plan to restore the lake ecosystem.
-* **Answer**: 1. Waste Management: Establish village waste collection points and ban dumping garbage into the lake. 2. Fishing Regulation: Enforce seasonal fishing bans during spawning season and ban fine-mesh juvenile fish nets. 3. Rehabilitation: Organise community tree planting along lake banks and release young native fish fry into the water.
-* **Explanation**: Sustainable community management requires waste disposal rules, fish conservation laws, and active habitat restoration.
+* **Scenario**: โรงงานแห่งหนึ่งนำระบบหุ่นยนต์มาใช้ ทำให้ต้องลดพนักงานลง พนักงานที่เหลืออยู่อยากรู้ว่าตนเองควรรักษาสิทธิและปรับตัวอย่างไรให้ไม่ถูกเลิกจ้าง
+* **Question**: พนักงานควรปรับตัวและได้รับการคุ้มครองตามกฎหมายอย่างไร?
+* **Answer**: พนักงานต้องพัฒนาทักษะฝีมือแรงงาน (Re-skill/Up-skill) ให้ทันเทคโนโลยี ส่วนกฎหมายคุ้มครองแรงงานระบุว่าหากถูกเลิกจ้าง นายจ้างต้องจ่ายค่าชดเชยตามอายุการทำงาน
+* **Explanation**: การพัฒนาตนเองช่วยเพิ่มคุณค่าแรงงาน และกฎหมายมีมาตรการจ่ายค่าชดเชยคุ้มครองแรงงานกรณีถูกเลิกจ้าง
 
-# Section D: Short Answer Questions (อัตนัย / อธิบายความรู้ 10 ข้อ)
+# Section D: Short Answer Questions (อัตนัย / อธิบายความรู้)
 
-<!--
-RULES Section D:
-- ข้อ 106–115 (10 ข้อ, 3 คะแนน/ข้อ)
--->
 #### ข้อ 106
-* **Topic**: Factors of Production
+* **Topic**: ปัจจัยการผลิต
 * **Learning Objective**: LO-SOC1
-* **Difficulty**: Hard
-* **Prompt**: Define the four factors of production in economics and give one concrete example for each factor in a bakery business.
-* **Expected Answer**: 1. Land: Natural resources used (e.g. wheat plot site, water, natural gas). 2. Labor: Human physical/mental effort (e.g. bakers, pastry chefs, counter clerks). 3. Capital: Man-made physical tools and facilities (e.g. baking ovens, mixers, bakery building). 4. Entrepreneurship: Business management and risk-taking (e.g. the bakery owner who organizes ingredients, staff, and marketing).
+* **Difficulty**: Medium
+* **Prompt**: จงระบุปัจจัยการผลิตทั้ง 4 ประเภท พร้อมยกตัวอย่างประกอบให้ครบถ้วน
+* **Expected Answer**: 1. ที่ดิน (Land): ทรัพยากรธรรมชาติ เช่น ดิน น้ำ ป่าไม้ 2. แรงงาน (Labor): กำลังกายและสติปัญญา เช่น คนงาน พนักงาน 3. ทุน (Capital): สิ่งก่อสร้าง เครื่องจักร อุปกรณ์ 4. ผู้ประกอบการ (Entrepreneurship): ผู้รวบรวมปัจจัยการผลิตและรับความเสี่ยง
+
 #### ข้อ 107
-* **Topic**: Quality Producer Characteristics
+* **Topic**: สิทธิผู้บริโภค 5 ประการ
 * **Learning Objective**: LO-SOC4
-* **Difficulty**: Hard
-* **Prompt**: Detail three key obligations that a manufacturer must maintain to be recognized as a responsible and high-quality producer.
-* **Expected Answer**: 1. Ethics & Honesty: Using safe, standardized raw materials without deceiving consumers about quality or quantity. 2. Environmental Responsibility: Treating factory waste/wastewater before release and reducing pollution. 3. Social & Labor Welfare: Complying with safety regulations, paying fair wages, and supporting community development.
+* **Difficulty**: Medium
+* **Prompt**: จงระบุสิทธิผู้บริโภคตามพระราชบัญญัติคุ้มครองผู้บริโภค มาอย่างน้อย 3 ประการ
+* **Expected Answer**: 1. สิทธิที่จะได้รับข่าวสารรวมทั้งคำบรรยายคุณภาพที่ถูกต้องเพียงพอ 2. สิทธิที่จะมีอิสระในการเลือกหาสินค้าหรือบริการ 3. สิทธิที่จะได้รับความปลอดภัยจากการใช้สินค้าหรือบริการ 4. สิทธิที่จะได้รับความเป็นธรรมในการทำสัญญา 5. สิทธิที่จะได้รับการพิจารณาและชดเชยความเสียหาย
+
 #### ข้อ 108
-* **Topic**: Wise Consumer Decision Principles
+* **Topic**: หลัก 3Rs
 * **Learning Objective**: LO-SOC2
-* **Difficulty**: Hard
-* **Prompt**: Explain the four core principles of wise consumer purchasing (Necessity, Usefulness, Economy, and Safety) with a practical example.
-* **Expected Answer**: 1. Necessity (ความจำเป็น): Choosing items required for living (e.g. school uniform) over luxury wants. 2. Usefulness (ประโยชน์): Selecting products that provide real function and health benefits (e.g. fresh milk vs soft drinks). 3. Economy (ความประหยัด): Comparing prices, quality, and quantities to get the best value for money. 4. Safety (ความปลอดภัย): Inspecting safety marks (อย., มอก.) and expiration dates before buying.
+* **Difficulty**: Medium
+* **Prompt**: จงอธิบายความหมายของหลัก 3Rs (Reduce, Reuse, Recycle) พร้อมยกตัวอย่างการปฏิบัติในชีวิตประจำวันมา 1 ตัวอย่างต่อ 1 R
+* **Expected Answer**: 1. Reduce (ลดการใช้): ลดการใช้ถุงพลาสติกครั้งเดียวทิ้ง 2. Reuse (ใช้ซ้ำ): นำขวดน้ำพลาสติกมารดน้ำต้นไม้ หรือใช้ถุงผ้า 3. Recycle (รีไซเคิล): รวบรวมกระป๋องน้ำอัดลมส่งโรงงานหลอมทำใหม่
+
 #### ข้อ 109
-* **Topic**: Sustainable Resource Management (3Rs)
-* **Learning Objective**: LO-SOC2
-* **Difficulty**: Hard
-* **Prompt**: Explain the 3Rs principles (Reduce, Reuse, Recycle) in sustainable resource conservation and provide one clear household example for each.
-* **Expected Answer**: 1. Reduce: Decreasing consumption and waste generation (e.g. turning off lights when leaving a room, avoiding over-packaged items). 2. Reuse: Using items multiple times in their current form (e.g. using a glass jam jar as a pen holder, carrying cloth shopping bags). 3. Recycle: Processing collected waste materials industrially into raw materials to make new items (e.g. sending crushed aluminum cans to a factory to manufacture new metal cans).
+* **Topic**: เครื่องหมายรับรองมาตรฐาน
+* **Learning Objective**: LO-SOC1
+* **Difficulty**: Medium
+* **Prompt**: จงเปรียบเทียบความแตกต่างระหว่างเครื่องหมาย 'อย.' กับเครื่องหมาย 'มอก.' ในประเด็น ประเภทสินค้าและหน่วยงานที่ออก
+* **Expected Answer**: เครื่องหมาย อย. ออกโดยสำนักงานคณะกรรมการอาหารและยา กระทรวงสาธารณสุข รับรอง อาหาร ยา เครื่องสำอาง. ส่วน เครื่องหมาย มอก. ออกโดยสำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม (สมอ.) กระทรวงอุตสาหกรรม รับรอง สินค้าอุตสาหกรรม เครื่องใช้ไฟฟ้า
+
 #### ข้อ 110
-* **Topic**: Economic Circular Flow
+* **Topic**: ธนาคารพาณิชย์ vs ธนาคารแห่งประเทศไทย
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Hard
-* **Prompt**: Describe the economic interdependence among Households, Business Firms, and the Government in a national economy.
-* **Expected Answer**: Households supply labor and factors of production to Business Firms, receiving wages and income. Business Firms produce goods and services for Households to buy. Both Households and Business Firms pay taxes to the Government. The Government uses tax revenue to provide public infrastructure, public security, free education, and healthcare services to both households and businesses.
+* **Difficulty**: Medium
+* **Prompt**: จงอธิบายความแตกต่างของบทบาทหน้าที่ระหว่าง 'ธนาคารพาณิชย์' และ 'ธนาคารแห่งประเทศไทย' (ธนาคารกลาง)
+* **Expected Answer**: ธนาคารพาณิชย์: ทำหน้าที่รับฝากเงิน ให้กู้ยืมเงินแก่ประชาชนและธุรกิจ มุ่งหวังผลกำไร. ธนาคารแห่งประเทศไทย: ทำหน้าที่ออกธนบัตร ควบคุม ปริมาณเงิน กำหนดอัตราดอกเบี้ยนโยบาย และกำกับดูแลธนาคารพาณิชย์ ไม่รับฝากเงินจากประชาชน
+
 #### ข้อ 111
-* **Topic**: Role of Commercial Banks vs Central Bank
+* **Topic**: ภาษีทางตรง vs ภาษีทางอ้อม
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Hard
-* **Prompt**: Compare the key differences in primary functions between Commercial Banks (ธนาคารพาณิชย์) and the Central Bank (Bank of Thailand / ธนาคารแห่งประเทศไทย).
-* **Expected Answer**: Commercial Banks deal directly with the public by accepting money deposits, granting personal/business loans, and offering payment transfer services for profit. In contrast, the Central Bank (Bank of Thailand) does not serve the general public directly; it acts as the government's bank, issues paper banknotes, sets monetary policy, regulates commercial banks, and maintains national monetary and financial stability.
+* **Difficulty**: Medium
+* **Prompt**: จงอธิบายความแตกต่างระหว่าง 'ภาษีทางตรง' และ 'ภาษีทางอ้อม' พร้อมยกตัวอย่างภาษีแต่ละประเภทมาอย่างละ 1 ชนิด
+* **Expected Answer**: ภาษีทางตรง: ภาษีที่ภาระตกอยู่กับผู้มีหน้าที่ชำระโดยตรง ผลักภาระให้ผู้อื่นไม่ได้ เช่น ภาษีเงินได้บุคคลธรรมดา/นิติบุคคล. ภาษีทางอ้อม: ภาษีที่ผู้ขายสามารถผลักภาระไปให้ผู้บริโภคเป็นผู้จ่ายได้ เช่น ภาษีมูลค่าเพิ่ม (VAT) 7%
+
 #### ข้อ 112
-* **Topic**: Tax Structure & Public Benefits
+* **Topic**: บทบาทของสหกรณ์
 * **Learning Objective**: LO-SOC3
-* **Difficulty**: Hard
-* **Prompt**: Differentiate between Direct Taxes and Indirect Taxes, and explain how tax collection benefits society as a whole.
-* **Expected Answer**: Direct Taxes (e.g. personal income tax, corporate profit tax) are charged directly on the income or wealth of individuals/companies. Indirect Taxes (e.g. Value Added Tax - VAT, excise tax) are included in the price of goods/services and paid by consumers upon purchase. Tax revenues fund essential public goods—such as national defense, public highways, state hospitals, public schools, and disaster relief—that benefit society equitably.
+* **Difficulty**: Medium
+* **Prompt**: จงสรุปความหมายและประโยชน์ของการจัดตั้ง 'สหกรณ์' ในชุมชนมาอย่างน้อย 3 ข้อ
+* **Expected Answer**: 1. ช่วยเหลือสมาชิกระหว่างกันโดยไม่มุ่งหวังกำไรสูงสุด 2. เพิ่มอำนาจการต่อรองในการซื้อขายสินค้าและปัจจัยการผลิต 3. ส่งเสริมการออมเงินและให้บริการสินเชื่อดอกเบี้ยต่ำแก่สมาชิก 4. สร้างความสามัคคีและประชาธิปไตยในชุมชน
+
 #### ข้อ 113
-* **Topic**: Cooperative Principles & Types
-* **Learning Objective**: LO-SOC3
-* **Difficulty**: Hard
-* **Prompt**: Explain the core purpose of a Cooperative (สหกรณ์) and describe the main functions of Agricultural Cooperatives and Savings Cooperatives.
-* **Expected Answer**: A Cooperative is a member-owned, democratically-run organization aimed at helping members solve shared economic challenges. Agricultural Cooperatives help farmers bulk-purchase agricultural supplies at lower prices and gain price bargaining power for selling crops. Savings Cooperatives encourage systematic savings among member groups and provide fair, low-interest credit loans to protect members from exploitative loan sharks.
+* **Topic**: สิทธิและกฎหมายคุ้มครองแรงงาน
+* **Learning Objective**: LO-SOC4
+* **Difficulty**: Medium
+* **Prompt**: จงระบูกฎหมายคุ้มครองแรงงานขั้นพื้นฐาน เกี่ยวกับ (1) ชั่วโมงทำงานปกติ (2) วันหยุดประจำสัปดาห์ และ (3) อายุขั้นต่ำของแรงงานเด็ก
+* **Expected Answer**: 1. ชั่วโมงทำงานปกติ: ไม่เกิน 8 ชั่วโมงต่อวัน (หรือ 48 ชั่วโมงต่อสัปดาห์) 2. วันหยุดประจำสัปดาห์: ไม่น้อยกว่า 1 วันต่อสัปดาห์ 3. อายุขั้นต่ำของแรงงานเด็ก: ห้ามจ้างเด็กอายุต่ำกว่า 15 ปี
+
 #### ข้อ 114
-* **Topic**: Consumer Rights Protection
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Hard
-* **Prompt**: Outline three legal rights guaranteed under the Thai Consumer Protection Act and describe how the Office of the Consumer Protection Board (OCPB / สคบ.) protects citizens.
-* **Expected Answer**: Guaranteed Rights include: 1. Right to receive true and adequate product information. 2. Right to safety in using products/services. 3. Right to receive consideration and financial compensation for damages. The OCPB (สคบ.) enforces these rights by investigating misleading advertising, inspecting unsafe goods, mediating disputes between consumers and sellers, and litigating on behalf of cheated consumers.
+* **Topic**: หลักปรัชญาเศรษฐกิจพอเพียง
+* **Learning Objective**: LO-SOC2
+* **Difficulty**: Medium
+* **Prompt**: จงอธิบายหลัก 3 ห่วง (พอประมาณ มีเหตุผล มีภูมิคุ้มกัน) ในการประยุกต์ใช้กับการซื้อสินค้าของนักเรียน
+* **Expected Answer**: 1. ความพอประมาณ: ซื้อตามกำลังเงินที่มี ไม่กู้หนี้ยืมสิน 2. ความมีเหตุผล: ซื้อเฉพาะของที่จำเป็นและมีประโยชน์ ไม่ซื้อตามกระแส 3. การมีภูมิคุ้มกัน: วางแผนการเงิน มีเงินออมไว้ใช้ยามฉุกเฉิน
+
 #### ข้อ 115
-* **Topic**: Labor Rights & Welfare Regulations
-* **Learning Objective**: LO-SOC4
-* **Difficulty**: Hard
-* **Prompt**: Summarize three key protections guaranteed to workers under Thai Labor Protection Law regarding work hours, rest periods, and overtime compensation.
-* **Expected Answer**: 1. Normal Work Hours: Limited to a maximum of 8 hours per day (or 48 hours per week) for general work. 2. Rest Periods: Mandatory minimum continuous rest of 1 hour per day after 5 hours of work. 3. Overtime (OT) Compensation: Employers must obtain worker consent and pay higher OT wage rates (e.g. 1.5x to 3x normal hourly rate) for work performed beyond normal hours or on rest days.
+* **Topic**: ความสัมพันธ์ของหน่วยเศรษฐกิจ
+* **Learning Objective**: LO-SOC3
+* **Difficulty**: Medium
+* **Prompt**: จงอธิบายความสัมพันธ์และกระแสเงินหมุนเวียนระหว่าง 'หน่วยครัวเรือน' 'หน่วยธุรกิจ' และ 'รัฐบาล'
+* **Expected Answer**: หน่วยครัวเรือนเสนอปัจจัยการผลิตแก่หน่วยธุรกิจ ได้รับค่าจ้าง แล้วนำเงินไปซื้อสินค้าจากหน่วยธุรกิจ. หน่วยธุรกิจผลิตสินค้าขาย ได้กำไร. ทั้งครัวเรือนและธุรกิจจ่ายภาษีให้รัฐบาล ส่วนรัฐบาลนำเงินภาษีไปจัดทำสาธารณูปโภคและบริการให้แก่ทั้งสองหน่วย

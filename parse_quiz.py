@@ -190,13 +190,13 @@ if __name__ == '__main__':
     elif os.path.exists('Knowledge_Assessment_Reading_with_Writing_GR6.md'):
         parse_quiz_file('Knowledge_Assessment_Reading_with_Writing_GR6.md', 'quiz_reading_writing_data.json', 'Reading & Writing Assessment Grade 6 (Reading with Writing Gr.6 - MidFinal)')
     if os.path.exists('Knowledge_Assessment_สังคมศึกษา_GR6.md'):
-        parse_quiz_file('Knowledge_Assessment_สังคมศึกษา_GR6.md', 'quiz_social_data.json', 'Social Studies Assessment Grade 6 (สังคมศึกษา Gr.6 - MidFinal)')
+        parse_quiz_file('Knowledge_Assessment_สังคมศึกษา_GR6.md', 'quiz_social_data.json', 'แบบทดสอบประเมินผลความรู้สังคมศึกษา ชั้น ป.6 (สังคมศึกษา Gr6 - MidFinal)')
     elif os.path.exists('Knowledge_Assessment_Social_Gr6.md'):
-        parse_quiz_file('Knowledge_Assessment_Social_Gr6.md', 'quiz_social_data.json', 'Social Studies Assessment Grade 6 (สังคมศึกษา Gr.6 - MidFinal)')
+        parse_quiz_file('Knowledge_Assessment_Social_Gr6.md', 'quiz_social_data.json', 'แบบทดสอบประเมินผลความรู้สังคมศึกษา ชั้น ป.6 (สังคมศึกษา Gr6 - MidFinal)')
     if os.path.exists('Knowledge_Assessment_ประวัติศาสตร์_GR6.md'):
-        parse_quiz_file('Knowledge_Assessment_ประวัติศาสตร์_GR6.md', 'quiz_history_data.json', 'History Assessment Grade 6 (ประวัติศาสตร์ Gr.6 - MidFinal)')
+        parse_quiz_file('Knowledge_Assessment_ประวัติศาสตร์_GR6.md', 'quiz_history_data.json', 'แบบทดสอบประเมินผลความรู้ประวัติศาสตร์ ชั้น ป.6 (ประวัติศาสตร์ Gr6 - MidFinal)')
     elif os.path.exists('Knowledge_Assessment_History_Gr6.md'):
-        parse_quiz_file('Knowledge_Assessment_History_Gr6.md', 'quiz_history_data.json', 'History Assessment Grade 6 (ประวัติศาสตร์ Gr.6 - MidFinal)')
+        parse_quiz_file('Knowledge_Assessment_History_Gr6.md', 'quiz_history_data.json', 'แบบทดสอบประเมินผลความรู้ประวัติศาสตร์ ชั้น ป.6 (ประวัติศาสตร์ Gr6 - MidFinal)')
 
 
 
