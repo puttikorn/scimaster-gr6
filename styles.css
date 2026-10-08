@@ -319,6 +319,12 @@ body {
   box-shadow: 0 0 12px rgba(225, 29, 72, 0.4);
 }
 
+.subject-pill.arduino-theme.active {
+  background: linear-gradient(135deg, rgba(0, 151, 157, 0.3), rgba(0, 129, 138, 0.3));
+  border-color: #00979d;
+  box-shadow: 0 0 12px rgba(0, 151, 157, 0.45);
+}
+
 
 .header-center {
   display: flex;
