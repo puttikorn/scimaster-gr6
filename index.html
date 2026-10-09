@@ -195,11 +195,17 @@
               <i class="fa-solid fa-arrow-left"></i> ข้อก่อนหน้า
             </button>
             <div class="mode-toggle-group">
-              <label class="switch-toggle" title="เปิดโหมดฝึกฝนเพื่อดูเฉลยทันที">
+              <label class="switch-toggle" id="practiceModeToggleWrapper" title="เปิดโหมดฝึกฝนเพื่อดูเฉลยทันที (เฉพาะครูผู้สอน / Admin)">
                 <input type="checkbox" id="practiceModeToggle">
                 <span class="slider round"></span>
               </label>
-              <span class="mode-label">โหมดฝึกฝน (เฉลยทันที)</span>
+              <span class="mode-label" id="practiceModeLabel">
+                <i class="fa-solid fa-lock" id="adminLockIcon" style="font-size: 0.8rem; margin-right: 3px; color: var(--accent-amber);" title="ต้องยืนยันสิทธิ์ Admin ก่อนเปิดใช้งาน"></i>
+                โหมดฝึกฝน (เฉลยทันที)
+              </span>
+              <span class="admin-badge-pill" id="adminStatusBadge" style="display: none;" title="เข้าสู่ระบบในฐานะ Admin แล้ว">
+                <i class="fa-solid fa-shield-halved"></i> Admin
+              </span>
             </div>
             <button id="nextBtn" class="btn-primary">
               ข้อถัดไป <i class="fa-solid fa-arrow-right"></i>
@@ -408,6 +414,39 @@
               </div>
             </div>
           </div>
+        </div>
+    <!-- Modal: Admin Authentication for Practice Mode -->
+    <div class="modal-backdrop" id="adminAuthModal" style="display: none;">
+      <div class="modal-card modal-sm modal-admin-card">
+        <div class="modal-header">
+          <h2><i class="fa-solid fa-shield-halved" style="color: var(--accent-amber);"></i> ยืนยันสิทธิ์ผู้ดูแลระบบ (Admin)</h2>
+          <button class="close-modal-btn" id="closeAdminAuthModal">&times;</button>
+        </div>
+        <div class="modal-body admin-auth-body">
+          <div class="admin-auth-icon-badge">
+            <i class="fa-solid fa-user-shield"></i>
+          </div>
+          <p class="admin-auth-description">
+            ฟีเจอร์ <strong>"โหมดฝึกฝน (เฉลยทันที)"</strong> สงวนสิทธิ์สำหรับ <strong>ครูผู้สอน / ผู้ดูแลระบบ (Admin)</strong> เท่านั้น เพื่อป้องกันการเปิดดูเฉลยระหว่างการสอบวัดผล
+          </p>
+          <div class="admin-form-group">
+            <label for="adminPinInput"><i class="fa-solid fa-key"></i> รหัสผ่าน / PIN ผู้ดูแลระบบ:</label>
+            <div class="admin-pin-wrapper">
+              <input type="password" id="adminPinInput" class="admin-pin-input" placeholder="กรอกรหัสผ่าน Admin..." maxlength="30" autocomplete="off">
+              <button type="button" id="toggleAdminPinBtn" class="btn-icon-subtle" title="แสดง/ซ่อนรหัสผ่าน">
+                <i class="fa-regular fa-eye"></i>
+              </button>
+            </div>
+            <div class="admin-auth-error" id="adminAuthError" style="display: none;">
+              <i class="fa-solid fa-triangle-exclamation"></i> รหัสผ่านไม่ถูกต้อง กรุณาลองใหม่อีกครั้ง
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button class="btn-secondary" id="cancelAdminAuthBtn">ยกเลิก</button>
+          <button class="btn-primary" id="submitAdminAuthBtn">
+            <i class="fa-solid fa-unlock"></i> ยืนยันสิทธิ์ &amp; เปิดโหมดฝึกฝน
+          </button>
         </div>
       </div>
     </div>

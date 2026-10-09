@@ -14,6 +14,7 @@ const state = {
   activeSectionFilter: 'ALL',
   paletteFilter: 'all', // 'all', 'unanswered', 'bookmarked'
   practiceMode: false,
+  isAdmin: sessionStorage.getItem('scimaster_admin_authenticated') === 'true',
   timerSeconds: 3600,  // 60 minutes
   timerInterval: null,
   timerPaused: false,
@@ -81,6 +82,18 @@ const expText = document.getElementById('expText');
 const prevBtn = document.getElementById('prevBtn');
 const nextBtn = document.getElementById('nextBtn');
 const practiceModeToggle = document.getElementById('practiceModeToggle');
+const practiceModeToggleWrapper = document.getElementById('practiceModeToggleWrapper');
+const adminLockIcon = document.getElementById('adminLockIcon');
+const adminStatusBadge = document.getElementById('adminStatusBadge');
+
+// Admin Auth Modal Elements
+const adminAuthModal = document.getElementById('adminAuthModal');
+const closeAdminAuthModal = document.getElementById('closeAdminAuthModal');
+const cancelAdminAuthBtn = document.getElementById('cancelAdminAuthBtn');
+const submitAdminAuthBtn = document.getElementById('submitAdminAuthBtn');
+const adminPinInput = document.getElementById('adminPinInput');
+const adminAuthError = document.getElementById('adminAuthError');
+const toggleAdminPinBtn = document.getElementById('toggleAdminPinBtn');
 
 const questionGrid = document.getElementById('questionGrid');
 
@@ -100,9 +113,77 @@ const resetSessionBtn = document.getElementById('resetSessionBtn');
 const reviewAllAnswersBtn = document.getElementById('reviewAllAnswersBtn');
 const retryExamBtn = document.getElementById('retryExamBtn');
 
+// Update Admin UI indicators
+function updateAdminUI() {
+  if (state.isAdmin) {
+    if (adminStatusBadge) adminStatusBadge.style.display = 'inline-flex';
+    if (adminLockIcon) {
+      adminLockIcon.className = 'fa-solid fa-lock-open';
+      adminLockIcon.style.color = 'var(--accent-emerald)';
+      adminLockIcon.title = 'ผู้ดูแลระบบ (Admin): ปลดล็อกสิทธิ์โหมดฝึกฝนแล้ว';
+    }
+  } else {
+    if (adminStatusBadge) adminStatusBadge.style.display = 'none';
+    if (adminLockIcon) {
+      adminLockIcon.className = 'fa-solid fa-lock';
+      adminLockIcon.style.color = 'var(--accent-amber)';
+      adminLockIcon.title = 'ต้องยืนยันสิทธิ์ Admin ก่อนเปิดใช้งานโหมดฝึกฝน';
+    }
+    state.practiceMode = false;
+    if (practiceModeToggle) practiceModeToggle.checked = false;
+  }
+}
+
+function showAdminAuthModal() {
+  if (adminPinInput) adminPinInput.value = '';
+  if (adminAuthError) adminAuthError.style.display = 'none';
+  if (adminAuthModal) {
+    adminAuthModal.style.display = 'flex';
+    setTimeout(() => {
+      if (adminPinInput) adminPinInput.focus();
+    }, 100);
+  }
+}
+
+function hideAdminAuthModal() {
+  if (adminAuthModal) adminAuthModal.style.display = 'none';
+  if (!state.isAdmin) {
+    if (practiceModeToggle) practiceModeToggle.checked = false;
+    state.practiceMode = false;
+  }
+}
+
+function verifyAdminPIN() {
+  const pin = (adminPinInput ? adminPinInput.value : '').trim().toLowerCase();
+  const validPins = ['admin', 'admin1234', 'admin2026', 'scimaster', 'scimaster2026', '1234', 'teacher'];
+
+  if (validPins.includes(pin)) {
+    state.isAdmin = true;
+    sessionStorage.setItem('scimaster_admin_authenticated', 'true');
+    state.practiceMode = true;
+    if (practiceModeToggle) practiceModeToggle.checked = true;
+    updateAdminUI();
+    saveState();
+    renderCurrentQuestion();
+    hideAdminAuthModal();
+  } else {
+    if (adminAuthError) {
+      adminAuthError.style.display = 'flex';
+      adminAuthError.classList.remove('shake-error');
+      void adminAuthError.offsetWidth; // Trigger reflow for animation restart
+      adminAuthError.classList.add('shake-error');
+    }
+    if (adminPinInput) {
+      adminPinInput.focus();
+      adminPinInput.select();
+    }
+  }
+}
+
 // Initialize Application
 async function init() {
   updateSubjectThemeUI();
+  updateAdminUI();
 
   const dataFile = state.currentSubject === 'math' ? 'quiz_math_data.json'
     : state.currentSubject === 'thai' ? 'quiz_thai_data.json'
@@ -345,7 +426,8 @@ function loadSavedState() {
     state.userAnswers = parsed.userAnswers || {};
     state.bookmarks = new Set(parsed.bookmarks || []);
     state.currentIndex = parsed.currentIndex || 0;
-    state.practiceMode = parsed.practiceMode || false;
+    // Practice mode can only be enabled if user is authenticated as admin
+    state.practiceMode = state.isAdmin ? (parsed.practiceMode || false) : false;
     state.timeSpentSeconds = parsed.timeSpentSeconds || 0;
     state.isSubmitted = parsed.isSubmitted || false;
 
@@ -358,7 +440,6 @@ function loadSavedState() {
     } else {
       state.timerSeconds = savedTimer;
     }
-
 
     if (practiceModeToggle) practiceModeToggle.checked = state.practiceMode;
   } catch (e) {
@@ -752,12 +833,54 @@ function setupEventListeners() {
     toggleTimerBtn.title = state.timerPaused ? 'เริ่มจับเวลาต่อ' : 'หยุดจับเวลาชั่วคราว';
   });
 
-  // Practice Mode Toggle
+  // Practice Mode Toggle (Restricted to Admin)
   if (practiceModeToggle) {
+    practiceModeToggle.addEventListener('click', (e) => {
+      if (!state.isAdmin) {
+        e.preventDefault();
+        practiceModeToggle.checked = false;
+        showAdminAuthModal();
+      }
+    });
+
     practiceModeToggle.addEventListener('change', (e) => {
+      if (!state.isAdmin) {
+        practiceModeToggle.checked = false;
+        state.practiceMode = false;
+        showAdminAuthModal();
+        return;
+      }
       state.practiceMode = e.target.checked;
       saveState();
       renderCurrentQuestion();
+    });
+  }
+
+  // Admin Auth Modal Events
+  if (closeAdminAuthModal) {
+    closeAdminAuthModal.addEventListener('click', hideAdminAuthModal);
+  }
+  if (cancelAdminAuthBtn) {
+    cancelAdminAuthBtn.addEventListener('click', hideAdminAuthModal);
+  }
+  if (submitAdminAuthBtn) {
+    submitAdminAuthBtn.addEventListener('click', verifyAdminPIN);
+  }
+  if (adminPinInput) {
+    adminPinInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        verifyAdminPIN();
+      }
+    });
+  }
+  if (toggleAdminPinBtn && adminPinInput) {
+    toggleAdminPinBtn.addEventListener('click', () => {
+      const isPassword = adminPinInput.type === 'password';
+      adminPinInput.type = isPassword ? 'text' : 'password';
+      toggleAdminPinBtn.innerHTML = isPassword
+        ? '<i class="fa-regular fa-eye-slash"></i>'
+        : '<i class="fa-regular fa-eye"></i>';
     });
   }
 
