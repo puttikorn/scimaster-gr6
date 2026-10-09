@@ -835,14 +835,6 @@ function setupEventListeners() {
 
   // Practice Mode Toggle (Restricted to Admin)
   if (practiceModeToggle) {
-    practiceModeToggle.addEventListener('click', (e) => {
-      if (!state.isAdmin) {
-        e.preventDefault();
-        practiceModeToggle.checked = false;
-        showAdminAuthModal();
-      }
-    });
-
     practiceModeToggle.addEventListener('change', (e) => {
       if (!state.isAdmin) {
         practiceModeToggle.checked = false;
@@ -856,6 +848,23 @@ function setupEventListeners() {
     });
   }
 
+  const practiceModeLabel = document.getElementById('practiceModeLabel');
+  if (practiceModeLabel) {
+    practiceModeLabel.style.cursor = 'pointer';
+    practiceModeLabel.addEventListener('click', () => {
+      if (!state.isAdmin) {
+        showAdminAuthModal();
+      } else {
+        if (practiceModeToggle) {
+          practiceModeToggle.checked = !practiceModeToggle.checked;
+          state.practiceMode = practiceModeToggle.checked;
+          saveState();
+          renderCurrentQuestion();
+        }
+      }
+    });
+  }
+
   // Admin Auth Modal Events
   if (closeAdminAuthModal) {
     closeAdminAuthModal.addEventListener('click', hideAdminAuthModal);
@@ -865,6 +874,13 @@ function setupEventListeners() {
   }
   if (submitAdminAuthBtn) {
     submitAdminAuthBtn.addEventListener('click', verifyAdminPIN);
+  }
+  if (adminAuthModal) {
+    adminAuthModal.addEventListener('click', (e) => {
+      if (e.target === adminAuthModal) {
+        hideAdminAuthModal();
+      }
+    });
   }
   if (adminPinInput) {
     adminPinInput.addEventListener('keydown', (e) => {
