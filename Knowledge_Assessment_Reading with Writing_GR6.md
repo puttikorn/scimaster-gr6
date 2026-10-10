@@ -60,11 +60,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Easy
 * **Prompt**: What is the definition of the 'setting' of a story?
-* ก. The main message or moral of the story
-* ข. Where and when a story takes place
-* ค. The conflict between the main characters
-* ง. The list of vocabulary words in a book
-* **Correct Answer**: ข
+* A. The main message or moral of the story
+* B. Where and when a story takes place
+* C. The conflict between the main characters
+* D. The list of vocabulary words in a book
+* **Correct Answer**: B
 * **Explanation**: Setting refers to the location (where) and time period/environment (when) in which a story occurs.
 
 #### ข้อ 2
@@ -72,11 +72,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Easy
 * **Prompt**: How can the setting affect a story?
-* ก. It only changes the title of the book.
-* ข. It influences the characters' actions, mood, and plot events.
-* ค. It has no impact on what characters do.
-* ง. It replaces the need for any dialogue.
-* **Correct Answer**: ข
+* A. It only changes the title of the book.
+* B. It influences the characters' actions, mood, and plot events.
+* C. It has no impact on what characters do.
+* D. It replaces the need for any dialogue.
+* **Correct Answer**: B
 * **Explanation**: Setting sets the atmosphere and directly shapes character decisions and plot events.
 
 #### ข้อ 3
@@ -84,11 +84,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Easy
 * **Prompt**: In the story 'Lost and Found', what were Jaya and her family doing?
-* ก. Riding bicycles in the city
-* ข. Hiking in their favorite park on a foggy morning
-* ค. Sailing a boat near a lighthouse
-* ง. Visiting a museum on a sunny afternoon
-* **Correct Answer**: ข
+* A. Riding bicycles in the city
+* B. Hiking in their favorite park on a foggy morning
+* C. Sailing a boat near a lighthouse
+* D. Visiting a museum on a sunny afternoon
+* **Correct Answer**: B
 * **Explanation**: Jaya, Manoj, and their Mom went hiking on a foggy morning to reach a hill with a crooked tree.
 
 #### ข้อ 4
@@ -96,11 +96,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Medium
 * **Prompt**: What was the family's destination for their picnic in 'Lost and Found'?
-* ก. A lighthouse near town
-* ข. A hill with a tall, crooked tree on top
-* ค. An old wooden bench on the left side of the main trail
-* ง. A crowded restaurant in the city center
-* **Correct Answer**: ข
+* A. A lighthouse near town
+* B. A hill with a tall, crooked tree on top
+* C. An old wooden bench on the left side of the main trail
+* D. A crowded restaurant in the city center
+* **Correct Answer**: B
 * **Explanation**: Their goal was a hill topped with a distinctive tall, crooked tree where they liked to picnic.
 
 #### ข้อ 5
@@ -108,11 +108,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Medium
 * **Prompt**: How did Jaya and her family realize they were on the wrong trail?
-* ก. They saw a giant lighthouse right in front of them.
-* ข. They noticed a long bench on the left side of the trail and checked the time.
-* ค. A park ranger stopped them and gave them new directions.
-* ง. They reached the ocean and could not walk any further.
-* **Correct Answer**: ข
+* A. They saw a giant lighthouse right in front of them.
+* B. They noticed a long bench on the left side of the trail and checked the time.
+* C. A park ranger stopped them and gave them new directions.
+* D. They reached the ocean and could not walk any further.
+* **Correct Answer**: B
 * **Explanation**: Seeing the bench and noting it was almost noon made them realize they should have already reached their destination.
 
 #### ข้อ 6
@@ -120,11 +120,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Medium
 * **Prompt**: What weather condition created difficulty during the family's hike?
-* ก. Heavy snowfall and icy wind
-* ข. Thick fog that blocked their view of landmarks
-* ค. A sudden thunderous rainstorm
-* ง. Extreme desert heat and lack of water
-* **Correct Answer**: ข
+* A. Heavy snowfall and icy wind
+* B. Thick fog that blocked their view of landmarks
+* C. A sudden thunderous rainstorm
+* D. Extreme desert heat and lack of water
+* **Correct Answer**: B
 * **Explanation**: The foggy morning obscured landmarks until they climbed high enough above the fog.
 
 #### ข้อ 7
@@ -132,11 +132,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Medium
 * **Prompt**: What landmark did Mom use to orient their position relative to south?
-* ก. The crooked tree
-* ข. The lighthouse near town
-* ค. The wooden bench
-* ง. A giant waterfall
-* **Correct Answer**: ข
+* A. The crooked tree
+* B. The lighthouse near town
+* C. The wooden bench
+* D. A giant waterfall
+* **Correct Answer**: B
 * **Explanation**: Mom identified the lighthouse near town to know which direction was south.
 
 #### ข้อ 8
@@ -144,11 +144,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Hard
 * **Prompt**: Why did Jaya describe the destination hill as looking like 'an island in a sea of clouds'?
-* ก. The hill was completely surrounded by real ocean water.
-* ข. The top of the hill stood above the thick fog layer surrounding it.
-* ค. They were looking at a painting inside a museum.
-* ง. The hill had a large lake floating on top of it.
-* **Correct Answer**: ข
+* A. The hill was completely surrounded by real ocean water.
+* B. The top of the hill stood above the thick fog layer surrounding it.
+* C. They were looking at a painting inside a museum.
+* D. The hill had a large lake floating on top of it.
+* **Correct Answer**: B
 * **Explanation**: Standing above the fog line made the hilltop look like an island rising out of white clouds.
 
 #### ข้อ 9
@@ -156,11 +156,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Medium
 * **Prompt**: Which question best helps a reader analyze the setting of a story?
-* ก. How many pages long is this chapter?
-* ข. How does the environment shape the choices characters make?
-* ค. What is the author's middle name?
-* ง. Which font size is used for the text?
-* **Correct Answer**: ข
+* A. How many pages long is this chapter?
+* B. How does the environment shape the choices characters make?
+* C. What is the author's middle name?
+* D. Which font size is used for the text?
+* **Correct Answer**: B
 * **Explanation**: Asking how the setting influences character choices helps readers understand its literary significance.
 
 #### ข้อ 10
@@ -168,11 +168,11 @@
 * **Learning Objective**: LO-RW1
 * **Difficulty**: Easy
 * **Prompt**: If a story takes place during a dark, stormy night in a dense forest, what mood is created?
-* ก. Cheerful and relaxing
-* ข. Mysterious and tense
-* ค. Boring and silly
-* ง. Bright and celebratory
-* **Correct Answer**: ข
+* A. Cheerful and relaxing
+* B. Mysterious and tense
+* C. Boring and silly
+* D. Bright and celebratory
+* **Correct Answer**: B
 * **Explanation**: Darkness, storms, and dense forests naturally evoke tension and mystery.
 
 #### ข้อ 11
@@ -180,11 +180,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Easy
 * **Prompt**: What are 'visuals' in a reading text?
-* ก. Pictures, diagrams, maps, and charts that provide extra information
-* ข. The hard cover and binding of a physical book
-* ค. The printed letters and font colors of the text
-* ง. Audio recordings attached to a digital textbook
-* **Correct Answer**: ก
+* A. Pictures, diagrams, maps, and charts that provide extra information
+* B. The hard cover and binding of a physical book
+* C. The printed letters and font colors of the text
+* D. Audio recordings attached to a digital textbook
+* **Correct Answer**: A
 * **Explanation**: Visuals include photos, diagrams, maps, and graphs that visually support and extend reading content.
 
 #### ข้อ 12
@@ -192,11 +192,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Easy
 * **Prompt**: Why do authors include visuals alongside text?
-* ก. To make the pages heavier
-* ข. To provide information and context not fully described in text alone
-* ค. To confuse readers who don't like pictures
-* ง. To replace all written words in a book
-* **Correct Answer**: ข
+* A. To make the pages heavier
+* B. To provide information and context not fully described in text alone
+* C. To confuse readers who don't like pictures
+* D. To replace all written words in a book
+* **Correct Answer**: B
 * **Explanation**: Visuals enhance comprehension by adding visual context and details not stated in text.
 
 #### ข้อ 13
@@ -204,11 +204,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Medium
 * **Prompt**: What is 'orienteering' as described in Unit 5?
-* ก. A indoor board game played with dice
-* ข. An outdoor sport where racers use a map and compass to find controls
-* ค. A swimming race held in an Olympic pool
-* ง. A cooking contest using natural outdoor herbs
-* **Correct Answer**: ข
+* A. A indoor board game played with dice
+* B. An outdoor sport where racers use a map and compass to find controls
+* C. A swimming race held in an Olympic pool
+* D. A cooking contest using natural outdoor herbs
+* **Correct Answer**: B
 * **Explanation**: Orienteering is a outdoor navigation race requiring map reading and compass skills.
 
 #### ข้อ 14
@@ -216,11 +216,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Medium
 * **Prompt**: In orienteering, what are 'controls'?
-* ก. Buttons on a stopwatch used to record lap times
-* ข. Checkpoints marked on maps and marked in nature with special flags
-* ค. Rules enforced by race judges along the trail
-* ง. Obstacles like mud and fallen trees placed by organizers
-* **Correct Answer**: ข
+* A. Buttons on a stopwatch used to record lap times
+* B. Checkpoints marked on maps and marked in nature with special flags
+* C. Rules enforced by race judges along the trail
+* D. Obstacles like mud and fallen trees placed by organizers
+* **Correct Answer**: B
 * **Explanation**: Controls are target checkpoints that competitors must locate using map coordinates.
 
 #### ข้อ 15
@@ -228,11 +228,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Easy
 * **Prompt**: What two essential tools must racers carry during an orienteering event?
-* ก. A camera and a smartphone
-* ข. A map and a compass
-* ค. A flashlight and a shovel
-* ง. A tent and a sleeping bag
-* **Correct Answer**: ข
+* A. A camera and a smartphone
+* B. A map and a compass
+* C. A flashlight and a shovel
+* D. A tent and a sleeping bag
+* **Correct Answer**: B
 * **Explanation**: Orienteers rely strictly on a detailed map and a magnetic compass to navigate.
 
 #### ข้อ 16
@@ -240,11 +240,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Medium
 * **Prompt**: What color scheme is typically used for control flags in orienteering?
-* ก. Black and white
-* ข. Orange and white
-* ค. Green and blue
-* ง. Yellow and purple
-* **Correct Answer**: ข
+* A. Black and white
+* B. Orange and white
+* C. Green and blue
+* D. Yellow and purple
+* **Correct Answer**: B
 * **Explanation**: Orienteering control flags feature a distinctive square divided diagonally into orange and white.
 
 #### ข้อ 17
@@ -252,11 +252,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Medium
 * **Prompt**: According to the text on Lighthouses, where are lighthouses built?
-* ก. In the middle of dense mountain forests
-* ข. On coastal shores and rocky cliffs near water
-* ค. In urban town squares far from the ocean
-* ง. On top of tall city skyscrapers
-* **Correct Answer**: ข
+* A. In the middle of dense mountain forests
+* B. On coastal shores and rocky cliffs near water
+* C. In urban town squares far from the ocean
+* D. On top of tall city skyscrapers
+* **Correct Answer**: B
 * **Explanation**: Lighthouses are positioned along sea coasts and dangerous shorelines to warn vessels.
 
 #### ข้อ 18
@@ -264,11 +264,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Medium
 * **Prompt**: What key equipment does a lighthouse have to guide ships during heavy fog?
-* ก. A giant searchlight and a loud fog horn
-* ข. A radar tower and radio speakers
-* ค. A fireworks launcher and smoke signals
-* ง. A flashing mirror and tolling church bells
-* **Correct Answer**: ก
+* A. A giant searchlight and a loud fog horn
+* B. A radar tower and radio speakers
+* C. A fireworks launcher and smoke signals
+* D. A flashing mirror and tolling church bells
+* **Correct Answer**: A
 * **Explanation**: Lighthouses feature powerful lamps (lights) and acoustic fog horns to warn nearby ships.
 
 #### ข้อ 19
@@ -276,11 +276,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Easy
 * **Prompt**: What primary warning signal does a lighthouse give to ships?
-* ก. It invites ships to dock at the rocky shore.
-* ข. It warns ships where land is so they avoid crashing into rocks.
-* ค. It tells ships that bad weather is ending soon.
-* ง. It signals that fresh drinking water is available.
-* **Correct Answer**: ข
+* A. It invites ships to dock at the rocky shore.
+* B. It warns ships where land is so they avoid crashing into rocks.
+* C. It tells ships that bad weather is ending soon.
+* D. It signals that fresh drinking water is available.
+* **Correct Answer**: B
 * **Explanation**: The light and horn warn sailors of dangerous coastline obstacles and shallow waters.
 
 #### ข้อ 20
@@ -288,11 +288,11 @@
 * **Learning Objective**: LO-RW2
 * **Difficulty**: Hard
 * **Prompt**: How does combining text with a map diagram help an orienteering racer?
-* ก. It lets them calculate exact walking elevation and terrain features visually.
-* ข. It replaces the need to practice running.
-* ค. It translates English directions into other languages automatically.
-* ง. It provides exact weather forecasts for the entire week.
-* **Correct Answer**: ก
+* A. It lets them calculate exact walking elevation and terrain features visually.
+* B. It replaces the need to practice running.
+* C. It translates English directions into other languages automatically.
+* D. It provides exact weather forecasts for the entire week.
+* **Correct Answer**: A
 * **Explanation**: Visual map diagrams reveal spatial relationships, contours, and landmarks instantly.
 
 #### ข้อ 21
@@ -300,11 +300,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Easy
 * **Prompt**: What is a 'bar graph' used for in reading informational texts?
-* ก. To display a timeline of historic fictional events
-* ข. To compare quantities or numbers across categories using rectangular bars
-* ค. To show photographs of famous authors
-* ง. To list definitions of vocabulary words in alphabetical order
-* **Correct Answer**: ข
+* A. To display a timeline of historic fictional events
+* B. To compare quantities or numbers across categories using rectangular bars
+* C. To show photographs of famous authors
+* D. To list definitions of vocabulary words in alphabetical order
+* **Correct Answer**: B
 * **Explanation**: Bar graphs visually compare data across discrete categories using bar lengths.
 
 #### ข้อ 22
@@ -312,11 +312,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Medium
 * **Prompt**: According to Unit 5, how many countries in the world were surveyed regarding official languages?
-* ก. 50 countries
-* ข. 196 countries
-* ค. 500 countries
-* ง. 1,000 countries
-* **Correct Answer**: ข
+* A. 50 countries
+* B. 196 countries
+* C. 500 countries
+* D. 1,000 countries
+* **Correct Answer**: B
 * **Explanation**: The bar graph study evaluated official language policies across 196 countries.
 
 #### ข้อ 23
@@ -324,11 +324,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Medium
 * **Prompt**: Which language is used as an official language in the highest number of countries?
-* ก. Spanish
-* ข. English
-* ค. French
-* ง. Mandarin
-* **Correct Answer**: ข
+* A. Spanish
+* B. English
+* C. French
+* D. Mandarin
+* **Correct Answer**: B
 * **Explanation**: English holds official status in more countries globally than any other single language.
 
 #### ข้อ 24
@@ -336,11 +336,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Medium
 * **Prompt**: What is an 'official language' of a country?
-* ก. A secret language known only by government officials
-* ข. A language legally recognized and used for law, government, and education
-* ค. Any slang words spoken by teenagers in a nation
-* ง. A language that has no written alphabet
-* **Correct Answer**: ข
+* A. A secret language known only by government officials
+* B. A language legally recognized and used for law, government, and education
+* C. Any slang words spoken by teenagers in a nation
+* D. A language that has no written alphabet
+* **Correct Answer**: B
 * **Explanation**: An official language is designated by law for government, legislation, and public education.
 
 #### ข้อ 25
@@ -348,11 +348,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Easy
 * **Prompt**: What special form of communication is used by people who are deaf or hard of hearing?
-* ก. Whistle signals
-* ข. Sign languages
-* ค. Morse code
-* ง. Braille printing
-* **Correct Answer**: ข
+* A. Whistle signals
+* B. Sign languages
+* C. Morse code
+* D. Braille printing
+* **Correct Answer**: B
 * **Explanation**: Sign languages are visual-gestural languages used by deaf and hard-of-hearing communities.
 
 #### ข้อ 26
@@ -360,11 +360,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Medium
 * **Prompt**: Are sign languages identical across all countries worldwide?
-* ก. Yes, there is only one universal sign language everywhere.
-* ข. No, different countries have distinct sign languages (e.g., ASL, BSL).
-* ค. Yes, all sign languages use English spelling rules.
-* ง. No, sign languages are only used in hospitals.
-* **Correct Answer**: ข
+* A. Yes, there is only one universal sign language everywhere.
+* B. No, different countries have distinct sign languages (e.g., ASL, BSL).
+* C. Yes, all sign languages use English spelling rules.
+* D. No, sign languages are only used in hospitals.
+* **Correct Answer**: B
 * **Explanation**: Sign languages vary by country and region, such as American Sign Language (ASL) and British Sign Language (BSL).
 
 #### ข้อ 27
@@ -372,11 +372,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Hard
 * **Prompt**: If a country has 'no official language', what does this mean?
-* ก. Nobody in that country is allowed to speak.
-* ข. The government has not legally designated one single language above all others.
-* ค. The country has banned foreign books.
-* ง. Only sign language is spoken there.
-* **Correct Answer**: ข
+* A. Nobody in that country is allowed to speak.
+* B. The government has not legally designated one single language above all others.
+* C. The country has banned foreign books.
+* D. Only sign language is spoken there.
+* **Correct Answer**: B
 * **Explanation**: It means no single language is legally codified as the sole official national language.
 
 #### ข้อ 28
@@ -384,11 +384,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Medium
 * **Prompt**: How does a bar graph help a reader understand statistical data faster than paragraph text?
-* ก. It presents numerical comparisons in a clear visual format.
-* ข. It replaces all facts with imaginary stories.
-* ค. It uses smaller font sizes to save paper.
-* ง. It translates all numbers into roman numerals.
-* **Correct Answer**: ก
+* A. It presents numerical comparisons in a clear visual format.
+* B. It replaces all facts with imaginary stories.
+* C. It uses smaller font sizes to save paper.
+* D. It translates all numbers into roman numerals.
+* **Correct Answer**: A
 * **Explanation**: Visual comparison of bar lengths allows readers to digest relative values immediately.
 
 #### ข้อ 29
@@ -396,11 +396,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Easy
 * **Prompt**: Which country brought the Spanish language to Mexico centuries ago?
-* ก. England
-* ข. Spain
-* ค. France
-* ง. Italy
-* **Correct Answer**: ข
+* A. England
+* B. Spain
+* C. France
+* D. Italy
+* **Correct Answer**: B
 * **Explanation**: Colonizers and settlers from Spain introduced Spanish to Mexico.
 
 #### ข้อ 30
@@ -408,11 +408,11 @@
 * **Learning Objective**: LO-RW3
 * **Difficulty**: Medium
 * **Prompt**: Why do many people in the United States speak English?
-* ก. English originated natively in North America.
-* ข. Settlers from England brought the English language to North America.
-* ค. The United States passed a law banning all other languages.
-* ง. English was created by American scientists in 1900.
-* **Correct Answer**: ข
+* A. English originated natively in North America.
+* B. Settlers from England brought the English language to North America.
+* C. The United States passed a law banning all other languages.
+* D. English was created by American scientists in 1900.
+* **Correct Answer**: B
 * **Explanation**: English was brought to North America by English settlers and historical migration.
 
 #### ข้อ 31
@@ -420,11 +420,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Easy
 * **Prompt**: What is a 'prediction' in reading comprehension?
-* ก. A exact summary of what happened in chapter one
-* ข. A sensible guess about what will happen next based on clues and knowledge
-* ค. A list of grammatical errors found in a passage
-* ง. The author's biography on the back cover
-* **Correct Answer**: ข
+* A. A exact summary of what happened in chapter one
+* B. A sensible guess about what will happen next based on clues and knowledge
+* C. A list of grammatical errors found in a passage
+* D. The author's biography on the back cover
+* **Correct Answer**: B
 * **Explanation**: A prediction is an educated anticipation of future plot events using textual clues.
 
 #### ข้อ 32
@@ -432,11 +432,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Medium
 * **Prompt**: What clues should a reader use to make accurate predictions?
-* ก. Only the total page count of the book
-* ข. Story clues, character actions/dialogue, and personal background knowledge
-* ค. Random guesses without looking at the text
-* ง. The color of the book cover illustration
-* **Correct Answer**: ข
+* A. Only the total page count of the book
+* B. Story clues, character actions/dialogue, and personal background knowledge
+* C. Random guesses without looking at the text
+* D. The color of the book cover illustration
+* **Correct Answer**: B
 * **Explanation**: Good predictions blend textual evidence (clues, behavior) with real-world knowledge.
 
 #### ข้อ 33
@@ -444,11 +444,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Medium
 * **Prompt**: In 'The Mystery Pencil', why did Rosa ask Erico so many rapid questions?
-* ก. She was angry at him for breaking her desk.
-* ข. She was curious and excited to learn about her new classmate.
-* ค. She was testing him for a school examination.
-* ง. She didn't know how to speak English properly.
-* **Correct Answer**: ข
+* A. She was angry at him for breaking her desk.
+* B. She was curious and excited to learn about her new classmate.
+* C. She was testing him for a school examination.
+* D. She didn't know how to speak English properly.
+* **Correct Answer**: B
 * **Explanation**: Rosa was enthusiastic, curious, and talkative upon meeting Erico.
 
 #### ข้อ 34
@@ -456,11 +456,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Medium
 * **Prompt**: What does the term 'bilingual' mean?
-* ก. Speaking only one language fluently
-* ข. Able to speak two languages fluently
-* ค. Able to write without making spelling mistakes
-* ง. Learning a language using computer software
-* **Correct Answer**: ข
+* A. Speaking only one language fluently
+* B. Able to speak two languages fluently
+* C. Able to write without making spelling mistakes
+* D. Learning a language using computer software
+* **Correct Answer**: B
 * **Explanation**: Bilingual refers to fluency in two distinct languages.
 
 #### ข้อ 35
@@ -468,11 +468,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Easy
 * **Prompt**: What is a 'living language'?
-* ก. A language that is used by people in daily life and continues to evolve
-* ข. A language that can speak by itself on television
-* ค. A language that was invented last year by children
-* ง. A language that has no written dictionary
-* **Correct Answer**: ก
+* A. A language that is used by people in daily life and continues to evolve
+* B. A language that can speak by itself on television
+* C. A language that was invented last year by children
+* D. A language that has no written dictionary
+* **Correct Answer**: A
 * **Explanation**: A living language has active native speakers and evolves through daily usage.
 
 #### ข้อ 36
@@ -480,11 +480,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Easy
 * **Prompt**: What is a 'dead language'?
-* ก. A language spoken only during nighttime
-* ข. A language no longer spoken in daily life by any native community
-* ค. A language that uses numbers instead of letters
-* ง. A language that exists only in songs
-* **Correct Answer**: ข
+* A. A language spoken only during nighttime
+* B. A language no longer spoken in daily life by any native community
+* C. A language that uses numbers instead of letters
+* D. A language that exists only in songs
+* **Correct Answer**: B
 * **Explanation**: A dead language (such as Latin) is no longer spoken as a primary native tongue in daily communication.
 
 #### ข้อ 37
@@ -492,11 +492,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Medium
 * **Prompt**: Which language has the largest number of native speakers in the world?
-* ก. English
-* ข. Mandarin Chinese
-* ค. Spanish
-* ง. Hindi
-* **Correct Answer**: ข
+* A. English
+* B. Mandarin Chinese
+* C. Spanish
+* D. Hindi
+* **Correct Answer**: B
 * **Explanation**: Mandarin Chinese has the highest total number of native speakers globally (~995M).
 
 #### ข้อ 38
@@ -504,11 +504,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Medium
 * **Prompt**: Latin is considered an example of a:
-* ก. Living language spoken in modern supermarkets
-* ข. Dead language still studied in literature and science but not spoken natively
-* ค. Newly created digital programming language
-* ง. Sign language used in South America
-* **Correct Answer**: ข
+* A. Living language spoken in modern supermarkets
+* B. Dead language still studied in literature and science but not spoken natively
+* C. Newly created digital programming language
+* D. Sign language used in South America
+* **Correct Answer**: B
 * **Explanation**: Latin is a classical dead language studied in academic contexts but lacking native speakers.
 
 #### ข้อ 39
@@ -516,11 +516,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Hard
 * **Prompt**: If only 50 elderly people speak a rare regional language today, what can you predict about its future?
-* ก. It will become the official language of the United Nations.
-* ข. It is at high risk of disappearing and becoming a dead language.
-* ค. Millions of students will start speaking it next year.
-* ง. It will replace English on the internet.
-* **Correct Answer**: ข
+* A. It will become the official language of the United Nations.
+* B. It is at high risk of disappearing and becoming a dead language.
+* C. Millions of students will start speaking it next year.
+* D. It will replace English on the internet.
+* **Correct Answer**: B
 * **Explanation**: With very few elderly speakers remaining, a language faces imminent endangerment and extinction.
 
 #### ข้อ 40
@@ -528,11 +528,11 @@
 * **Learning Objective**: LO-RW4
 * **Difficulty**: Medium
 * **Prompt**: What does 'accent' mean when discussing language?
-* ก. The volume at which someone shouts
-* ข. A distinctive way of pronouncing words associated with a region or nation
-* ค. The length of sentences in a written story
-* ง. The speed at which a person reads out loud
-* **Correct Answer**: ข
+* A. The volume at which someone shouts
+* B. A distinctive way of pronouncing words associated with a region or nation
+* C. The length of sentences in a written story
+* D. The speed at which a person reads out loud
+* **Correct Answer**: B
 * **Explanation**: An accent is a regional or cultural pattern of pronunciation.
 
 #### ข้อ 41
@@ -540,11 +540,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Easy
 * **Prompt**: What is the main goal of a 'process essay'?
-* ก. To convince readers to buy a specific product
-* ข. To explain step-by-step how to do or make something in chronological order
-* ค. To write a fictional fairy tale about dragons
-* ง. To describe a personal vacation with emotional poems
-* **Correct Answer**: ข
+* A. To convince readers to buy a specific product
+* B. To explain step-by-step how to do or make something in chronological order
+* C. To write a fictional fairy tale about dragons
+* D. To describe a personal vacation with emotional poems
+* **Correct Answer**: B
 * **Explanation**: A process essay provides sequential instructions explaining how a task or operation is completed.
 
 #### ข้อ 42
@@ -552,11 +552,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Easy
 * **Prompt**: Which set of transition words is essential for organizing a process essay?
-* ก. Because, Since, Although, However
-* ข. First, Next, Then, After that, Finally
-* ค. Beautiful, Quickly, Red, Heavy
-* ง. Yesterday, Someday, Never, Always
-* **Correct Answer**: ข
+* A. Because, Since, Although, However
+* B. First, Next, Then, After that, Finally
+* C. Beautiful, Quickly, Red, Heavy
+* D. Yesterday, Someday, Never, Always
+* **Correct Answer**: B
 * **Explanation**: Chronological sequence markers (First, Next, Then, Finally) guide step-by-step process writing.
 
 #### ข้อ 43
@@ -564,11 +564,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Medium
 * **Prompt**: Which transition word is most appropriate for starting the very first step of a process?
-* ก. Finally
-* ข. First
-* ค. Meanwhile
-* ง. In conclusion
-* **Correct Answer**: ข
+* A. Finally
+* B. First
+* C. Meanwhile
+* D. In conclusion
+* **Correct Answer**: B
 * **Explanation**: 'First' or 'To begin with' introduces the initial step of a procedure.
 
 #### ข้อ 44
@@ -576,11 +576,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Medium
 * **Prompt**: Which transition word signals the final step in a process essay?
-* ก. First
-* ข. Secondly
-* ค. Finally
-* ง. For example
-* **Correct Answer**: ค
+* A. First
+* B. Secondly
+* C. Finally
+* D. For example
+* **Correct Answer**: C
 * **Explanation**: 'Finally' or 'Lastly' designates the ultimate concluding step of a process.
 
 #### ข้อ 45
@@ -588,11 +588,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Medium
 * **Prompt**: Why are imperative action verbs (e.g., 'Fold', 'Cut', 'Mix') useful in process essays?
-* ก. They make sentences longer and harder to read.
-* ข. They give clear, direct instructions to the reader.
-* ค. They describe feelings and emotions.
-* ง. They introduce past history facts.
-* **Correct Answer**: ข
+* A. They make sentences longer and harder to read.
+* B. They give clear, direct instructions to the reader.
+* C. They describe feelings and emotions.
+* D. They introduce past history facts.
+* **Correct Answer**: B
 * **Explanation**: Action verbs direct the reader precisely on what action to perform at each step.
 
 #### ข้อ 46
@@ -600,11 +600,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Hard
 * **Prompt**: If a process essay skips a step or presents steps out of order, what happens?
-* ก. The essay becomes more poetic and interesting.
-* ข. The reader will get confused and fail to achieve the correct result.
-* ค. The essay automatically wins a writing prize.
-* ง. The topic changes to a book review.
-* **Correct Answer**: ข
+* A. The essay becomes more poetic and interesting.
+* B. The reader will get confused and fail to achieve the correct result.
+* C. The essay automatically wins a writing prize.
+* D. The topic changes to a book review.
+* **Correct Answer**: B
 * **Explanation**: Strict chronological sequence is crucial for instructional clarity in process writing.
 
 #### ข้อ 47
@@ -612,11 +612,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Medium
 * **Prompt**: In a process essay explaining 'How to Read a Map', what should be explained first?
-* ก. How to store the map in your backpack after hiking
-* ข. How to orient the map with a compass and locate your starting point
-* ค. What snack to eat when you finish hiking
-* ง. How to draw a map from memory
-* **Correct Answer**: ข
+* A. How to store the map in your backpack after hiking
+* B. How to orient the map with a compass and locate your starting point
+* C. What snack to eat when you finish hiking
+* D. How to draw a map from memory
+* **Correct Answer**: B
 * **Explanation**: Orienting the map and identifying your starting location is the essential initial step.
 
 #### ข้อ 48
@@ -624,11 +624,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Easy
 * **Prompt**: What type of organizational structure does a process essay follow?
-* ก. Spatial order
-* ข. Chronological (time) order
-* ค. Compare and contrast order
-* ง. Random order
-* **Correct Answer**: ข
+* A. Spatial order
+* B. Chronological (time) order
+* C. Compare and contrast order
+* D. Random order
+* **Correct Answer**: B
 * **Explanation**: Process writing adheres strictly to chronological time sequence.
 
 #### ข้อ 49
@@ -636,11 +636,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Medium
 * **Prompt**: Which sentence uses a sequence transition correctly?
-* ก. First, stir the soup, and finally wash the vegetables before chopping.
-* ข. First, wash the vegetables. Next, chop them into small pieces. Finally, add them to the pot.
-* ค. Finally, turn on the stove. First, serve the hot soup to guests.
-* ง. Then, wash the pot before you buy vegetables at the market first.
-* **Correct Answer**: ข
+* A. First, stir the soup, and finally wash the vegetables before chopping.
+* B. First, wash the vegetables. Next, chop them into small pieces. Finally, add them to the pot.
+* C. Finally, turn on the stove. First, serve the hot soup to guests.
+* D. Then, wash the pot before you buy vegetables at the market first.
+* **Correct Answer**: B
 * **Explanation**: The steps follow logical sequence: First (wash) -> Next (chop) -> Finally (cook/add).
 
 #### ข้อ 50
@@ -648,11 +648,11 @@
 * **Learning Objective**: LO-RW6
 * **Difficulty**: Medium
 * **Prompt**: What should the introduction of a process essay include?
-* ก. A detailed list of all mistakes you made last year
-* ข. The purpose of the process and what the reader will accomplish
-* ค. A secret code that readers must solve
-* ง. A review of a movie you watched recently
-* **Correct Answer**: ข
+* A. A detailed list of all mistakes you made last year
+* B. The purpose of the process and what the reader will accomplish
+* C. A secret code that readers must solve
+* D. A review of a movie you watched recently
+* **Correct Answer**: B
 * **Explanation**: The intro states the objective of the process and why it is useful or important.
 
 #### ข้อ 51
@@ -660,11 +660,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Easy
 * **Prompt**: What is a 'book review'?
-* ก. A exact copy of all chapters in a book
-* ข. A written evaluation expressing an opinion, summary, and recommendation about a book
-* ค. A list of grammatical spelling rules for authors
-* ง. A legal contract between a printer and a publisher
-* **Correct Answer**: ข
+* A. A exact copy of all chapters in a book
+* B. A written evaluation expressing an opinion, summary, and recommendation about a book
+* C. A list of grammatical spelling rules for authors
+* D. A legal contract between a printer and a publisher
+* **Correct Answer**: B
 * **Explanation**: A review analyzes, summarizes, evaluates, and recommends a literary work.
 
 #### ข้อ 52
@@ -672,11 +672,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Easy
 * **Prompt**: What are the main structural parts of a standard book review?
-* ก. Headline, Advertisements, Coupon
-* ข. Introduction (Summary), Body (Likes/Dislikes), Conclusion (Recommendation)
-* ค. Chapter 1, Chapter 2, Index
-* ง. Vocabulary list, Grammar notes, Quiz
-* **Correct Answer**: ข
+* A. Headline, Advertisements, Coupon
+* B. Introduction (Summary), Body (Likes/Dislikes), Conclusion (Recommendation)
+* C. Chapter 1, Chapter 2, Index
+* D. Vocabulary list, Grammar notes, Quiz
+* **Correct Answer**: B
 * **Explanation**: Reviews follow Intro/Summary -> Body evaluation -> Conclusion recommendation format.
 
 #### ข้อ 53
@@ -684,11 +684,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Medium
 * **Prompt**: Which phrases are commonly used in a review body paragraph to introduce supporting examples?
-* ก. First of all, Secondly
-* ข. For example, For instance
-* ค. In spite of, Nevertheless
-* ง. Once upon a time, Long ago
-* **Correct Answer**: ข
+* A. First of all, Secondly
+* B. For example, For instance
+* C. In spite of, Nevertheless
+* D. Once upon a time, Long ago
+* **Correct Answer**: B
 * **Explanation**: 'For example' and 'For instance' introduce specific text evidence supporting opinions.
 
 #### ข้อ 54
@@ -696,11 +696,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Medium
 * **Prompt**: What belongs in the summary section of a book review?
-* ก. A complete spoiler of the ending twist
-* ข. A brief overview of the main plot, characters, and setting without spoiling the ending
-* ค. A detailed list of the author's family background
-* ง. The price of the book at different bookstores
-* **Correct Answer**: ข
+* A. A complete spoiler of the ending twist
+* B. A brief overview of the main plot, characters, and setting without spoiling the ending
+* C. A detailed list of the author's family background
+* D. The price of the book at different bookstores
+* **Correct Answer**: B
 * **Explanation**: Summaries provide basic plot/character context while preserving resolution surprises.
 
 #### ข้อ 55
@@ -708,11 +708,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Medium
 * **Prompt**: Where in a review should the writer state their final recommendation and rating?
-* ก. In the very first sentence of the title
-* ข. In the body paragraph describing character names
-* ค. In the conclusion paragraph
-* ง. In a footnote at the bottom of page 10
-* **Correct Answer**: ค
+* A. In the very first sentence of the title
+* B. In the body paragraph describing character names
+* C. In the conclusion paragraph
+* D. In a footnote at the bottom of page 10
+* **Correct Answer**: C
 * **Explanation**: The conclusion summarizes final thoughts and delivers the final recommendation.
 
 #### ข้อ 56
@@ -720,11 +720,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Medium
 * **Prompt**: Which statement expresses an opinion suitable for a book review?
-* ก. The book has 124 pages and 8 chapters.
-* ข. The author's description of the foggy setting makes the story incredibly exciting.
-* ค. The book was published in London in 2020.
-* ง. The main character is named Jaya.
-* **Correct Answer**: ข
+* A. The book has 124 pages and 8 chapters.
+* B. The author's description of the foggy setting makes the story incredibly exciting.
+* C. The book was published in London in 2020.
+* D. The main character is named Jaya.
+* **Correct Answer**: B
 * **Explanation**: Evaluative opinions highlight strengths like vivid setting descriptions.
 
 #### ข้อ 57
@@ -732,11 +732,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Hard
 * **Prompt**: Why should a reviewer include both likes and dislikes in a balanced review?
-* ก. To make the review look twice as long
-* ข. To give a fair, honest, and objective evaluation of the work
-* ค. Because the publisher requires equal word counts
-* ง. To confuse readers so they buy two books
-* **Correct Answer**: ข
+* A. To make the review look twice as long
+* B. To give a fair, honest, and objective evaluation of the work
+* C. Because the publisher requires equal word counts
+* D. To confuse readers so they buy two books
+* **Correct Answer**: B
 * **Explanation**: Addressing both strengths and minor drawbacks establishes credibility and fairness.
 
 #### ข้อ 58
@@ -744,11 +744,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Medium
 * **Prompt**: Which phrase is used to introduce a recommendation in a review?
-* ก. I strongly recommend this book to readers who enjoy outdoor mysteries.
-* ข. First, open the front cover of the book.
-* ค. In line 4, the word bench is a noun.
-* ง. The bar graph shows 196 countries.
-* **Correct Answer**: ก
+* A. I strongly recommend this book to readers who enjoy outdoor mysteries.
+* B. First, open the front cover of the book.
+* C. In line 4, the word bench is a noun.
+* D. The bar graph shows 196 countries.
+* **Correct Answer**: A
 * **Explanation**: Recommending target audiences is a key function of review conclusions.
 
 #### ข้อ 59
@@ -756,11 +756,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Easy
 * **Prompt**: What should a reviewer avoid doing in a book review summary?
-* ก. Mentioning the main characters' names
-* ข. Giving away the entire secret ending (spoilers)
-* ค. Describing the main setting
-* ง. Mentioning the main genre of the book
-* **Correct Answer**: ข
+* A. Mentioning the main characters' names
+* B. Giving away the entire secret ending (spoilers)
+* C. Describing the main setting
+* D. Mentioning the main genre of the book
+* **Correct Answer**: B
 * **Explanation**: Revealing major plot climaxes or endings ruins the reading experience for potential readers.
 
 #### ข้อ 60
@@ -768,11 +768,11 @@
 * **Learning Objective**: LO-RW7
 * **Difficulty**: Medium
 * **Prompt**: Which sentence demonstrates proper use of 'for instance' in a review?
-* ก. The plot is fast-paced. For instance, in chapter two the characters get trapped in a foggy cave.
-* ข. For instance, I read the book yesterday at school.
-* ค. I didn't like the book for instance it was too expensive.
-* ง. For instance, the author wrote a process essay.
-* **Correct Answer**: ก
+* A. The plot is fast-paced. For instance, in chapter two the characters get trapped in a foggy cave.
+* B. For instance, I read the book yesterday at school.
+* C. I didn't like the book for instance it was too expensive.
+* D. For instance, the author wrote a process essay.
+* **Correct Answer**: A
 * **Explanation**: 'For instance' correctly introduces a specific plot event demonstrating fast pacing.
 
 ---

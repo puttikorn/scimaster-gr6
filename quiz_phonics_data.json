@@ -46,12 +46,12 @@
       "difficulty": "Easy",
       "question": "Which part of the word 'uncomfortable' is the ROOT?",
       "options": {
-        "ก": "un-",
-        "ข": "comfort",
-        "ค": "-able",
-        "ง": "-fort"
+        "A": "un-",
+        "B": "comfort",
+        "C": "-able",
+        "D": "-fort"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "In 'uncomfortable', 'comfort' is the base root word, 'un-' is the prefix, and '-able' is the suffix.",
       "points": 1
     },
@@ -64,12 +64,12 @@
       "difficulty": "Easy",
       "question": "What is the meaning of the prefix 're-' in words like 'renew' and 'restart'?",
       "options": {
-        "ก": "Before",
-        "ข": "Again or back",
-        "ค": "Not",
-        "ง": "Under"
+        "A": "Before",
+        "B": "Again or back",
+        "C": "Not",
+        "D": "Under"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The prefix 're-' means 'again' or 'back' (e.g., renew = make new again).",
       "points": 1
     },
@@ -82,12 +82,12 @@
       "difficulty": "Easy",
       "question": "What does the prefix 'pre-' mean in words such as 'preview' and 'predict'?",
       "options": {
-        "ก": "Before",
-        "ข": "After",
-        "ค": "Against",
-        "ง": "Many"
+        "A": "Before",
+        "B": "After",
+        "C": "Against",
+        "D": "Many"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The prefix 'pre-' means 'before' (e.g., preview = view before publication).",
       "points": 1
     },
@@ -100,12 +100,12 @@
       "difficulty": "Medium",
       "question": "What does the prefix 'mis-' signify in 'misbehave' or 'misunderstand'?",
       "options": {
-        "ก": "Under or low",
-        "ข": "Wrongly or badly",
-        "ค": "Half",
-        "ง": "Across"
+        "A": "Under or low",
+        "B": "Wrongly or badly",
+        "C": "Half",
+        "D": "Across"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The prefix 'mis-' means 'wrong' or 'badly' (e.g., misbehave = behave badly).",
       "points": 1
     },
@@ -118,12 +118,12 @@
       "difficulty": "Medium",
       "question": "In the word 'deforestation', what does the prefix 'de-' mean?",
       "options": {
-        "ก": "Remove or reduce",
-        "ข": "Twice",
-        "ค": "Against",
-        "ง": "One"
+        "A": "Remove or reduce",
+        "B": "Twice",
+        "C": "Against",
+        "D": "One"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The prefix 'de-' means 'remove' or 'reduce' (e.g., deforestation = removal of forests).",
       "points": 1
     },
@@ -136,12 +136,12 @@
       "difficulty": "Easy",
       "question": "What does the prefix 'tele-' mean in 'television' and 'telephone'?",
       "options": {
-        "ก": "Far or distant",
-        "ข": "Eight",
-        "ค": "Before",
-        "ง": "Not"
+        "A": "Far or distant",
+        "B": "Eight",
+        "C": "Before",
+        "D": "Not"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The prefix 'tele-' comes from Greek meaning 'far' or 'distant'.",
       "points": 1
     },
@@ -154,12 +154,12 @@
       "difficulty": "Easy",
       "question": "What is the meaning of the prefix 'bi-' in 'biweekly' or 'bimonthly'?",
       "options": {
-        "ก": "Three times",
-        "ข": "Twice (two times)",
-        "ค": "Every month",
-        "ง": "Under"
+        "A": "Three times",
+        "B": "Twice (two times)",
+        "C": "Every month",
+        "D": "Under"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The prefix 'bi-' means 'two' or 'twice' (e.g., biweekly = published twice a week).",
       "points": 1
     },
@@ -172,12 +172,12 @@
       "difficulty": "Easy",
       "question": "What does the prefix 'uni-' mean in 'uniform' and 'universe'?",
       "options": {
-        "ก": "One or same",
-        "ข": "Against",
-        "ค": "Middle",
-        "ง": "Half"
+        "A": "One or same",
+        "B": "Against",
+        "C": "Middle",
+        "D": "Half"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The prefix 'uni-' means 'one' or 'same' (e.g., uniform = one form/same appearance).",
       "points": 1
     },
@@ -190,12 +190,12 @@
       "difficulty": "Easy",
       "question": "What number does the prefix 'oct-' represent in words like 'octopus' and 'October'?",
       "options": {
-        "ก": "6",
-        "ข": "8",
-        "ค": "10",
-        "ง": "12"
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The prefix 'oct-' means 'eight' (e.g., octopus has 8 arms; October was the 8th month in Roman calendar).",
       "points": 1
     },
@@ -208,12 +208,12 @@
       "difficulty": "Medium",
       "question": "What is the meaning of the prefix 'sub-' in 'subway' and 'submarine'?",
       "options": {
-        "ก": "Above or over",
-        "ข": "Under or low",
-        "ค": "Between",
-        "ง": "Across"
+        "A": "Above or over",
+        "B": "Under or low",
+        "C": "Between",
+        "D": "Across"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The prefix 'sub-' means 'under' or 'low' (e.g., subway = underground train pathway).",
       "points": 1
     },
@@ -226,12 +226,12 @@
       "difficulty": "Medium",
       "question": "Which prefix should be added to the word 'happy' to form its opposite?",
       "options": {
-        "ก": "dis-",
-        "ข": "un-",
-        "ค": "mis-",
-        "ง": "in-"
+        "A": "dis-",
+        "B": "un-",
+        "C": "mis-",
+        "D": "in-"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The prefix 'un-' forms the opposite of 'happy' -> 'unhappy'.",
       "points": 1
     },
@@ -244,12 +244,12 @@
       "difficulty": "Hard",
       "question": "Which prefix is correctly paired with 'regular' to mean 'not regular'?",
       "options": {
-        "ก": "un-",
-        "ข": "dis-",
-        "ค": "ir-",
-        "ง": "im-"
+        "A": "un-",
+        "B": "dis-",
+        "C": "ir-",
+        "D": "im-"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "C",
       "explanation": "Words starting with 'r' take the assimilated prefix 'ir-' to form opposites (regular -> irregular).",
       "points": 1
     },
@@ -262,12 +262,12 @@
       "difficulty": "Hard",
       "question": "Which prefix attaches to 'legal' to mean 'against the law / not legal'?",
       "options": {
-        "ก": "il-",
-        "ข": "im-",
-        "ค": "un-",
-        "ง": "dis-"
+        "A": "il-",
+        "B": "im-",
+        "C": "un-",
+        "D": "dis-"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Words starting with 'l' take the assimilated prefix 'il-' to form opposites (legal -> illegal).",
       "points": 1
     },
@@ -280,12 +280,12 @@
       "difficulty": "Hard",
       "question": "Which prefix is added to 'possible' to mean 'not possible'?",
       "options": {
-        "ก": "in-",
-        "ข": "im-",
-        "ค": "il-",
-        "ง": "un-"
+        "A": "in-",
+        "B": "im-",
+        "C": "il-",
+        "D": "un-"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Words starting with 'p' or 'm' take the assimilated prefix 'im-' (possible -> impossible).",
       "points": 1
     },
@@ -298,12 +298,12 @@
       "difficulty": "Medium",
       "question": "What does the prefix 'multi-' mean in 'multicolored' and 'multilingual'?",
       "options": {
-        "ก": "Single",
-        "ข": "Many (usually more than two)",
-        "ค": "Half",
-        "ง": "Under"
+        "A": "Single",
+        "B": "Many (usually more than two)",
+        "C": "Half",
+        "D": "Under"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The prefix 'multi-' means 'many' (e.g., multilingual = speaking many languages).",
       "points": 1
     },
@@ -316,12 +316,12 @@
       "difficulty": "Medium",
       "question": "What does the prefix 'fore-' mean in 'forearm' and 'foreshadow'?",
       "options": {
-        "ก": "Before or front",
-        "ข": "Against",
-        "ค": "After",
-        "ง": "Far"
+        "A": "Before or front",
+        "B": "Against",
+        "C": "After",
+        "D": "Far"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The prefix 'fore-' means 'front' or 'before' (e.g., forearm = front part of the arm).",
       "points": 1
     },
@@ -334,12 +334,12 @@
       "difficulty": "Medium",
       "question": "What does the prefix 'semi-' mean in 'semifinal' and 'semiweekly'?",
       "options": {
-        "ก": "Full",
-        "ข": "Half or partly",
-        "ค": "Double",
-        "ง": "Zero"
+        "A": "Full",
+        "B": "Half or partly",
+        "C": "Double",
+        "D": "Zero"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The prefix 'semi-' means 'half' or 'partly' (e.g., semifinal = half-final round).",
       "points": 1
     },
@@ -352,12 +352,12 @@
       "difficulty": "Medium",
       "question": "What does the prefix 'anti-' mean in 'anti-bacterial' and 'anti-gravity'?",
       "options": {
-        "ก": "Against or opposing",
-        "ข": "Together",
-        "ค": "Under",
-        "ง": "Middle"
+        "A": "Against or opposing",
+        "B": "Together",
+        "C": "Under",
+        "D": "Middle"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The prefix 'anti-' means 'against' or 'opposing' (e.g., antibacterial = acting against bacteria).",
       "points": 1
     },
@@ -370,12 +370,12 @@
       "difficulty": "Medium",
       "question": "What does the prefix 'inter-' mean in 'interact' and 'interstate'?",
       "options": {
-        "ก": "Between or among",
-        "ข": "Inside",
-        "ค": "Outside",
-        "ง": "Without"
+        "A": "Between or among",
+        "B": "Inside",
+        "C": "Outside",
+        "D": "Without"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The prefix 'inter-' means 'between' or 'among' (e.g., interstate = between states).",
       "points": 1
     },
@@ -388,12 +388,12 @@
       "difficulty": "Medium",
       "question": "In the story 'Al and the party', Marie received gifts. Which word describes what Marie did to her gifts?",
       "options": {
-        "ก": "unchained",
-        "ข": "unloaded",
-        "ค": "unwrapped",
-        "ง": "unpaid"
+        "A": "unchained",
+        "B": "unloaded",
+        "C": "unwrapped",
+        "D": "unpaid"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "C",
       "explanation": "Marie 'unwrapped' her gifts at the party (removed the wrapping paper).",
       "points": 1
     },
@@ -406,12 +406,12 @@
       "difficulty": "Medium",
       "question": "If a newspaper is described as a 'biweekly', how often is it published?",
       "options": {
-        "ก": "Once a week",
-        "ข": "Twice a week",
-        "ค": "Three times a week",
-        "ง": "Once a month"
+        "A": "Once a week",
+        "B": "Twice a week",
+        "C": "Three times a week",
+        "D": "Once a month"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "A biweekly newspaper is published twice a week.",
       "points": 1
     },
@@ -424,12 +424,12 @@
       "difficulty": "Medium",
       "question": "What is the function of a 'nasal decongestant' medicine?",
       "options": {
-        "ก": "It causes nasal congestion",
-        "ข": "It helps reduce nasal congestion",
-        "ค": "It makes your nose bigger",
-        "ง": "It stops your heart"
+        "A": "It causes nasal congestion",
+        "B": "It helps reduce nasal congestion",
+        "C": "It makes your nose bigger",
+        "D": "It stops your heart"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The prefix 'de-' means reduce/remove, so a nasal decongestant reduces nasal congestion.",
       "points": 1
     },
@@ -442,12 +442,12 @@
       "difficulty": "Easy",
       "question": "If a shopping bag is 'reusable', what should you do with it?",
       "options": {
-        "ก": "Throw it away immediately",
-        "ข": "Keep it because it can be used again",
-        "ค": "Recycle it into paper",
-        "ง": "Burn it"
+        "A": "Throw it away immediately",
+        "B": "Keep it because it can be used again",
+        "C": "Recycle it into paper",
+        "D": "Burn it"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Reusable means it can be used again ('re-' = again).",
       "points": 1
     },
@@ -460,12 +460,12 @@
       "difficulty": "Medium",
       "question": "If someone 'misread' a notice and 'misunderstood' a message, what happened?",
       "options": {
-        "ก": "They read and understood it correctly",
-        "ข": "They did not read it correctly and misunderstood it",
-        "ค": "They did not read it at all",
-        "ง": "They wrote the notice"
+        "A": "They read and understood it correctly",
+        "B": "They did not read it correctly and misunderstood it",
+        "C": "They did not read it at all",
+        "D": "They wrote the notice"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "'mis-' means wrongly, so misread = read wrongly, misunderstood = understood wrongly.",
       "points": 1
     },
@@ -478,12 +478,12 @@
       "difficulty": "Medium",
       "question": "What does it mean when a publisher 'previews' an article before publishing?",
       "options": {
-        "ก": "They read the article after publication",
-        "ข": "They read the article before publication",
-        "ค": "They never read the article",
-        "ง": "They delete the article"
+        "A": "They read the article after publication",
+        "B": "They read the article before publication",
+        "C": "They never read the article",
+        "D": "They delete the article"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "'pre-' means before, so preview means to view or read before publication.",
       "points": 1
     },
@@ -496,12 +496,12 @@
       "difficulty": "Hard",
       "question": "What is the key environmental difference between 'reforestation' and 'deforestation'?",
       "options": {
-        "ก": "Reforestation plants trees again; deforestation cuts down trees",
-        "ข": "Both mean cutting down trees",
-        "ค": "Both mean planting trees",
-        "ง": "Reforestation reduces water"
+        "A": "Reforestation plants trees again; deforestation cuts down trees",
+        "B": "Both mean cutting down trees",
+        "C": "Both mean planting trees",
+        "D": "Reforestation reduces water"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'reforestation' ('re-' = again) means planting trees again; 'deforestation' ('de-' = remove) means cutting down forests.",
       "points": 1
     },
@@ -514,12 +514,12 @@
       "difficulty": "Hard",
       "question": "Why is 'October' named with the prefix 'oct-' (meaning 8) when it is the 10th month of our modern calendar?",
       "options": {
-        "ก": "Because oct- means ten in Latin",
-        "ข": "Because October used to be the eighth month in the ancient Roman calendar",
-        "ค": "It is a spelling error",
-        "ง": "Because octopus has 10 legs"
+        "A": "Because oct- means ten in Latin",
+        "B": "Because October used to be the eighth month in the ancient Roman calendar",
+        "C": "It is a spelling error",
+        "D": "Because octopus has 10 legs"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "October was the 8th month in the original ancient Roman calendar before July and August were added.",
       "points": 1
     },
@@ -532,12 +532,12 @@
       "difficulty": "Medium",
       "question": "Where is the primary syllable division in the word 'prehistoric'?",
       "options": {
-        "ก": "pre-his-tor-ic",
-        "ข": "preh-is-tor-ic",
-        "ค": "prehi-stor-ic",
-        "ง": "p-rehistoric"
+        "A": "pre-his-tor-ic",
+        "B": "preh-is-tor-ic",
+        "C": "prehi-stor-ic",
+        "D": "p-rehistoric"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The prefix 'pre-' separates cleanly from the root, yielding pre-his-tor-ic (4 syllables).",
       "points": 1
     },
@@ -550,12 +550,12 @@
       "difficulty": "Hard",
       "question": "In words like 're-PLY', 're-PEAT', and 're-START', where is the primary stress located?",
       "options": {
-        "ก": "On the prefix 're-'",
-        "ข": "On the root syllable following the prefix",
-        "ค": "On the last letter",
-        "ง": "Equally on both syllables"
+        "A": "On the prefix 're-'",
+        "B": "On the root syllable following the prefix",
+        "C": "On the last letter",
+        "D": "Equally on both syllables"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "In root-focused prefixed verbs, primary stress falls on the ROOT syllable (re-PLY, re-PEAT, re-START), while the prefix is unstressed.",
       "points": 1
     },
@@ -568,12 +568,12 @@
       "difficulty": "Medium",
       "question": "How many syllables are in the word 'uncomfortable'?",
       "options": {
-        "ก": "3",
-        "ข": "4",
-        "ค": "5",
-        "ง": "6"
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "C",
       "explanation": "'un-com-fort-a-ble' consists of 5 syllables.",
       "points": 1
     },
@@ -586,12 +586,12 @@
       "difficulty": "Easy",
       "question": "What is a suffix?",
       "options": {
-        "ก": "A sound added to the beginning of a root word",
-        "ข": "A sound added to the end of a root word",
-        "ค": "The main part of a word",
-        "ง": "A silent letter"
+        "A": "A sound added to the beginning of a root word",
+        "B": "A sound added to the end of a root word",
+        "C": "The main part of a word",
+        "D": "A silent letter"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "A suffix is an ending element attached to the end of a root word to modify its meaning or grammatical class.",
       "points": 1
     },
@@ -604,12 +604,12 @@
       "difficulty": "Easy",
       "question": "According to phonics rules, which three are the most common suffixes in the English language?",
       "options": {
-        "ก": "-es, -ed, and -ing",
-        "ข": "-tion, -sion, and -ness",
-        "ค": "-able, -ful, and -less",
-        "ง": "-anti, -pre, and -sub"
+        "A": "-es, -ed, and -ing",
+        "B": "-tion, -sion, and -ness",
+        "C": "-able, -ful, and -less",
+        "D": "-anti, -pre, and -sub"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The three most frequent suffixes in English are '-es', '-ed', and '-ing'.",
       "points": 1
     },
@@ -622,12 +622,12 @@
       "difficulty": "Easy",
       "question": "What does the suffix '-less' mean in words like 'lifeless', 'careless', and 'homeless'?",
       "options": {
-        "ก": "Full of",
-        "ข": "Without or lacking",
-        "ค": "Able to be",
-        "ง": "State of being"
+        "A": "Full of",
+        "B": "Without or lacking",
+        "C": "Able to be",
+        "D": "State of being"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The suffix '-less' means 'without' (e.g., homeless = without a home).",
       "points": 1
     },
@@ -640,12 +640,12 @@
       "difficulty": "Easy",
       "question": "What does the suffix '-ful' mean in 'successful', 'wonderful', and 'thoughtful'?",
       "options": {
-        "ก": "Without",
-        "ข": "Full of or characterized by",
-        "ค": "Capable of",
-        "ง": "Small"
+        "A": "Without",
+        "B": "Full of or characterized by",
+        "C": "Capable of",
+        "D": "Small"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The suffix '-ful' means 'full of' (e.g., thoughtful = full of thought).",
       "points": 1
     },
@@ -658,12 +658,12 @@
       "difficulty": "Medium",
       "question": "What does the suffix '-able' mean in 'washable', 'payable', and 'acceptable'?",
       "options": {
-        "ก": "Capable of being or fit for",
-        "ข": "Without",
-        "ค": "Past time",
-        "ง": "One who does"
+        "A": "Capable of being or fit for",
+        "B": "Without",
+        "C": "Past time",
+        "D": "One who does"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The suffix '-able' means 'capable of being' (e.g., washable = able to be washed).",
       "points": 1
     },
@@ -676,12 +676,12 @@
       "difficulty": "Medium",
       "question": "What grammatical change occurs when '-ness' is added to 'happy' (happiness)?",
       "options": {
-        "ก": "It changes an adjective into an abstract noun",
-        "ข": "It turns a noun into a verb",
-        "ค": "It makes the word past tense",
-        "ง": "It creates an opposite"
+        "A": "It changes an adjective into an abstract noun",
+        "B": "It turns a noun into a verb",
+        "C": "It makes the word past tense",
+        "D": "It creates an opposite"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Adding '-ness' converts adjectives into abstract nouns describing a state of being (happy -> happiness).",
       "points": 1
     },
@@ -694,12 +694,12 @@
       "difficulty": "Medium",
       "question": "What function does '-ment' serve in words like 'amazement', 'development', and 'excitement'?",
       "options": {
-        "ก": "Forms nouns denoting an action, state, or result",
-        "ข": "Forms past tense verbs",
-        "ค": "Forms opposite adjectives",
-        "ง": "Forms plural nouns"
+        "A": "Forms nouns denoting an action, state, or result",
+        "B": "Forms past tense verbs",
+        "C": "Forms opposite adjectives",
+        "D": "Forms plural nouns"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The suffix '-ment' creates nouns expressing the result or state of an action.",
       "points": 1
     },
@@ -712,12 +712,12 @@
       "difficulty": "Medium",
       "question": "What does the suffix '-en' do in 'darken', 'deepen', 'quicken', and 'straighten'?",
       "options": {
-        "ก": "Turns words into verbs meaning 'to make or become'",
-        "ข": "Makes words plural",
-        "ค": "Turns words into negative nouns",
-        "ง": "Makes vowels long"
+        "A": "Turns words into verbs meaning 'to make or become'",
+        "B": "Makes words plural",
+        "C": "Turns words into negative nouns",
+        "D": "Makes vowels long"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The suffix '-en' forms verbs meaning to cause to be or become (e.g., deepen = to make deep).",
       "points": 1
     },
@@ -730,12 +730,12 @@
       "difficulty": "Hard",
       "question": "What does the suffix '-ity' signify in 'purity', 'ability', and 'majority'?",
       "options": {
-        "ก": "State, quality, or condition of being",
-        "ข": "Action happening now",
-        "ค": "Without quality",
-        "ง": "Before time"
+        "A": "State, quality, or condition of being",
+        "B": "Action happening now",
+        "C": "Without quality",
+        "D": "Before time"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The suffix '-ity' forms nouns expressing a state, quality, or degree.",
       "points": 1
     },
@@ -748,12 +748,12 @@
       "difficulty": "Medium",
       "question": "How is the suffix '-tion' pronounced in 'nation', 'tradition', and 'lotion'?",
       "options": {
-        "ก": "/tiːɒn/",
-        "ข": "/ʃən/",
-        "ค": "/ʒən/",
-        "ง": "/tʃən/"
+        "A": "/tiːɒn/",
+        "B": "/ʃən/",
+        "C": "/ʒən/",
+        "D": "/tʃən/"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The suffix '-tion' is pronounced as /ʃən/ (or /ʃn̩/).",
       "points": 1
     },
@@ -766,12 +766,12 @@
       "difficulty": "Medium",
       "question": "When adding '-ness' to 'happy', what spelling change occurs?",
       "options": {
-        "ก": "The 'y' changes to 'i' -> happiness",
-        "ข": "The 'y' is dropped -> happness",
-        "ค": "No change -> happyness",
-        "ง": "An 'e' is added -> happyeness"
+        "A": "The 'y' changes to 'i' -> happiness",
+        "B": "The 'y' is dropped -> happness",
+        "C": "No change -> happyness",
+        "D": "An 'e' is added -> happyeness"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Rule: When a root ends in a consonant + 'y', change 'y' to 'i' before adding a suffix (happy -> happiness).",
       "points": 1
     },
@@ -784,12 +784,12 @@
       "difficulty": "Medium",
       "question": "What happens to the silent 'e' in 'imagine' when adding the suffix '-ary' (imaginary)?",
       "options": {
-        "ก": "The silent 'e' is kept",
-        "ข": "The silent 'e' is dropped",
-        "ค": "The 'e' turns into 'i'",
-        "ง": "The consonant 'n' is doubled"
+        "A": "The silent 'e' is kept",
+        "B": "The silent 'e' is dropped",
+        "C": "The 'e' turns into 'i'",
+        "D": "The consonant 'n' is doubled"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Rule: Drop silent 'e' at the end of a root word before adding a suffix starting with a vowel (-ary -> imaginary).",
       "points": 1
     },
@@ -802,12 +802,12 @@
       "difficulty": "Easy",
       "question": "When adding '-ed' to the verb 'like', how is it correctly spelled?",
       "options": {
-        "ก": "likeed",
-        "ข": "liked",
-        "ค": "likded",
-        "ง": "likid"
+        "A": "likeed",
+        "B": "liked",
+        "C": "likded",
+        "D": "likid"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "When root ends in silent 'e', simply add 'd' (like + ed = liked).",
       "points": 1
     },
@@ -820,12 +820,12 @@
       "difficulty": "Medium",
       "question": "How is the word 'easily' formed from 'easy' and '-ly'?",
       "options": {
-        "ก": "easy + ly = easyly",
-        "ข": "easy + ly = easily (y changes to i)",
-        "ค": "easy + ly = easly",
-        "ง": "easy + ly = ease-ly"
+        "A": "easy + ly = easyly",
+        "B": "easy + ly = easily (y changes to i)",
+        "C": "easy + ly = easly",
+        "D": "easy + ly = ease-ly"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Root 'easy' ends in consonant + 'y'; change 'y' to 'i' before adding '-ly' -> easily.",
       "points": 1
     },
@@ -838,12 +838,12 @@
       "difficulty": "Hard",
       "question": "Why is the consonant 'm' doubled when adding '-ing' to 'swim' (swimming)?",
       "options": {
-        "ก": "Because swim has a short vowel in a 1-syllable word ending in 1 consonant",
-        "ข": "Because swim ends in a vowel",
-        "ค": "Because ing requires two m's",
-        "ง": "To make it a noun"
+        "A": "Because swim has a short vowel in a 1-syllable word ending in 1 consonant",
+        "B": "Because swim ends in a vowel",
+        "C": "Because ing requires two m's",
+        "D": "To make it a noun"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "1-1-1 Rule: 1-syllable word, 1 short vowel, 1 final consonant -> double consonant before vowel suffix (-ing).",
       "points": 1
     },
@@ -856,12 +856,12 @@
       "difficulty": "Medium",
       "question": "How is the adjective 'muddy' formed from the noun 'mud'?",
       "options": {
-        "ก": "mud + y = mudy",
-        "ข": "mud + y = muddy (double 'd')",
-        "ค": "mud + y = mudyed",
-        "ง": "mud + y = mudey"
+        "A": "mud + y = mudy",
+        "B": "mud + y = muddy (double 'd')",
+        "C": "mud + y = mudyed",
+        "D": "mud + y = mudey"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "1-1-1 Rule: 'mud' doubles final 'd' before vowel suffix '-y' -> muddy.",
       "points": 1
     },
@@ -874,12 +874,12 @@
       "difficulty": "Hard",
       "question": "In British/International English, how is 'travel' + '-ing' spelled?",
       "options": {
-        "ก": "traveled",
-        "ข": "travelling (doubled 'l')",
-        "ค": "traveling",
-        "ง": "travelingness"
+        "A": "traveled",
+        "B": "travelling (doubled 'l')",
+        "C": "traveling",
+        "D": "travelingness"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "In standard international English phonics curriculum, 'travel' doubles the final 'l' -> travelling.",
       "points": 1
     },
@@ -892,12 +892,12 @@
       "difficulty": "Easy",
       "question": "What word is formed by combining 'care' + '-less'?",
       "options": {
-        "ก": "careful",
-        "ข": "careless",
-        "ค": "caring",
-        "ง": "carely"
+        "A": "careful",
+        "B": "careless",
+        "C": "caring",
+        "D": "carely"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "care + '-less' = careless (without care).",
       "points": 1
     },
@@ -910,12 +910,12 @@
       "difficulty": "Easy",
       "question": "What word is formed by combining 'amaze' + '-ment'?",
       "options": {
-        "ก": "amazeful",
-        "ข": "amazement",
-        "ค": "amazing",
-        "ง": "amazely"
+        "A": "amazeful",
+        "B": "amazement",
+        "C": "amazing",
+        "D": "amazely"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "amaze + '-ment' = amazement (dropping silent 'e' or combining directly).",
       "points": 1
     },
@@ -928,12 +928,12 @@
       "difficulty": "Easy",
       "question": "What word is formed by combining 'pay' + '-able'?",
       "options": {
-        "ก": "payable",
-        "ข": "payless",
-        "ค": "payful",
-        "ง": "payed"
+        "A": "payable",
+        "B": "payless",
+        "C": "payful",
+        "D": "payed"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "pay + '-able' = payable (able to be paid).",
       "points": 1
     },
@@ -946,12 +946,12 @@
       "difficulty": "Hard",
       "question": "Where is the PRIMARY stress placed in words ending with '-tion' like 'tradition' and 'education'?",
       "options": {
-        "ก": "On the suffix '-tion'",
-        "ข": "On the syllable immediately BEFORE '-tion'",
-        "ค": "On the very first syllable",
-        "ง": "On the last letter"
+        "A": "On the suffix '-tion'",
+        "B": "On the syllable immediately BEFORE '-tion'",
+        "C": "On the very first syllable",
+        "D": "On the last letter"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Stress Rule: Words ending in '-tion' or '-sion' always place primary stress on the syllable immediately preceding the suffix (tra-DI-tion, ed-u-CA-tion).",
       "points": 1
     },
@@ -964,12 +964,12 @@
       "difficulty": "Hard",
       "question": "Where is primary stress located in words ending with '-ity' such as 'majority' and 'ability'?",
       "options": {
-        "ก": "On the suffix '-ity'",
-        "ข": "On the syllable directly before '-ity'",
-        "ค": "On the first syllable",
-        "ง": "No stress"
+        "A": "On the suffix '-ity'",
+        "B": "On the syllable directly before '-ity'",
+        "C": "On the first syllable",
+        "D": "No stress"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Stress Rule: Words ending in '-ity' have primary stress on the syllable right before '-ity' (ma-JOR-i-ty, a-BIL-i-ty).",
       "points": 1
     },
@@ -982,12 +982,12 @@
       "difficulty": "Hard",
       "question": "Suffixes like '-less', '-ful', '-ness', and '-ly' are called 'neutral suffixes'. What does this mean?",
       "options": {
-        "ก": "They change the primary stress of the root word",
-        "ข": "They DO NOT change the primary stress of the root word",
-        "ค": "They make all vowels short",
-        "ง": "They remove all accents"
+        "A": "They change the primary stress of the root word",
+        "B": "They DO NOT change the primary stress of the root word",
+        "C": "They make all vowels short",
+        "D": "They remove all accents"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Neutral suffixes (like '-ful' or '-ness') do not shift the primary stress of the base root word (CARE-less, HAP-pi-ness).",
       "points": 1
     },
@@ -1000,12 +1000,12 @@
       "difficulty": "Hard",
       "question": "Where is the primary stress in the word 'uncomfortable'?",
       "options": {
-        "ก": "UN-com-fort-a-ble",
-        "ข": "un-COM-fort-a-ble",
-        "ค": "un-com-FORT-a-ble",
-        "ง": "un-com-fort-A-ble"
+        "A": "UN-com-fort-a-ble",
+        "B": "un-COM-fort-a-ble",
+        "C": "un-com-FORT-a-ble",
+        "D": "un-com-fort-A-ble"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "In 'uncomfortable', primary stress stays on the root syllable 'COM' (un-COM-fort-a-ble).",
       "points": 1
     },
@@ -1018,12 +1018,12 @@
       "difficulty": "Hard",
       "question": "Which syllable receives primary stress in the word 'irregular'?",
       "options": {
-        "ก": "IR-reg-u-lar",
-        "ข": "ir-REG-u-lar",
-        "ค": "ir-reg-U-lar",
-        "ง": "ir-reg-u-LAR"
+        "A": "IR-reg-u-lar",
+        "B": "ir-REG-u-lar",
+        "C": "ir-reg-U-lar",
+        "D": "ir-reg-u-LAR"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Primary stress falls on the second syllable: ir-REG-u-lar.",
       "points": 1
     },
@@ -1036,12 +1036,12 @@
       "difficulty": "Hard",
       "question": "Which syllable is stressed in 'impossible'?",
       "options": {
-        "ก": "IM-pos-si-ble",
-        "ข": "im-POS-si-ble",
-        "ค": "im-pos-SI-ble",
-        "ง": "im-pos-si-BLE"
+        "A": "IM-pos-si-ble",
+        "B": "im-POS-si-ble",
+        "C": "im-pos-SI-ble",
+        "D": "im-pos-si-BLE"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Primary stress falls on 'POS': im-POS-si-ble.",
       "points": 1
     },
@@ -1054,12 +1054,12 @@
       "difficulty": "Hard",
       "question": "Where is primary stress located in 'decongestant'?",
       "options": {
-        "ก": "DE-con-ges-tant",
-        "ข": "de-con-GES-tant",
-        "ค": "de-CON-ges-tant",
-        "ง": "de-con-ges-TANT"
+        "A": "DE-con-ges-tant",
+        "B": "de-con-GES-tant",
+        "C": "de-CON-ges-tant",
+        "D": "de-con-ges-TANT"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Primary stress falls on 'GES': de-con-GES-tant.",
       "points": 1
     },
@@ -1072,12 +1072,12 @@
       "difficulty": "Hard",
       "question": "Which syllable receives the main primary stress in 'reforestation'?",
       "options": {
-        "ก": "re-for-es-TA-tion",
-        "ข": "RE-for-es-ta-tion",
-        "ค": "re-FOR-es-ta-tion",
-        "ง": "re-for-es-ta-TION"
+        "A": "re-for-es-TA-tion",
+        "B": "RE-for-es-ta-tion",
+        "C": "re-FOR-es-ta-tion",
+        "D": "re-for-es-ta-TION"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Before '-tion', stress falls on 'TA': re-for-es-TA-tion.",
       "points": 1
     },
@@ -1090,12 +1090,12 @@
       "difficulty": "Hard",
       "question": "In prefixed words like 'remember' and 'repeat', how is the vowel in the prefix 're-' pronounced?",
       "options": {
-        "ก": "As a long stressed /iː/",
-        "ข": "As an unstressed short /rɪ/ or schwa /rə/",
-        "ค": "As a silent letter",
-        "ง": "As /rɛ/"
+        "A": "As a long stressed /iː/",
+        "B": "As an unstressed short /rɪ/ or schwa /rə/",
+        "C": "As a silent letter",
+        "D": "As /rɛ/"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "When the prefix is unstressed, the vowel reduces to short /rɪ/ or schwa /rə/ (re-MEMBER, re-PEAT).",
       "points": 1
     },
@@ -1108,12 +1108,12 @@
       "difficulty": "Medium",
       "question": "According to the Grade 6 Phonics curriculum, why is learning syllable division and stress in affixes important?",
       "options": {
-        "ก": "To spell words backwards",
-        "ข": "To make long, complex words easier and more correct to pronounce",
-        "ค": "To eliminate suffixes",
-        "ง": "To count letters"
+        "A": "To spell words backwards",
+        "B": "To make long, complex words easier and more correct to pronounce",
+        "C": "To eliminate suffixes",
+        "D": "To count letters"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Understanding syllable division and stress patterns makes multi-syllable prefixed/suffixed words easier and correct to pronounce.",
       "points": 1
     },

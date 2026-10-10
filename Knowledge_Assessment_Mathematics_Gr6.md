@@ -23,11 +23,11 @@ RULES Section A:
 * **Learning Objective**: Understand the definition and mathematical origin of the Golden Ratio.
 * **Difficulty**: Easy
 * **Prompt**: What is the mathematical symbol and approximate decimal value of the Golden Ratio?
-* ก. $\Pi pprox 3.141$
-* ข. $\Phi pprox 1.618$
-* ค. $\Delta pprox 2.718$
-* ง. $\Theta pprox 1.414$
-* **Correct Answer**: ข
+* A. $\Pi pprox 3.141$
+* B. $\Phi pprox 1.618$
+* C. $\Delta pprox 2.718$
+* D. $\Theta pprox 1.414$
+* **Correct Answer**: B
 * **Explanation**: The Golden Ratio is represented by the Greek letter Phi ($\Phi$) and is approximately equal to 1.618.
 
 #### ข้อ 2
@@ -35,11 +35,11 @@ RULES Section A:
 * **Learning Objective**: Identify line segment ratio properties forming the Golden Ratio.
 * **Difficulty**: Medium
 * **Prompt**: If a line segment of length $L$ is divided into a long part $a$ and a short part $b$, which equation defines the Golden Ratio $\Phi$?
-* ก. $\frac{a+b}{a} = \frac{a}{b} = \Phi$
-* ข. $\frac{a}{b} = \frac{b}{a+b} = \Phi$
-* ค. $\frac{a-b}{a} = \frac{a}{b} = \Phi$
-* ง. $\frac{a+b}{b} = \frac{b}{a} = \Phi$
-* **Correct Answer**: ก
+* A. $\frac{a+b}{a} = \frac{a}{b} = \Phi$
+* B. $\frac{a}{b} = \frac{b}{a+b} = \Phi$
+* C. $\frac{a-b}{a} = \frac{a}{b} = \Phi$
+* D. $\frac{a+b}{b} = \frac{b}{a} = \Phi$
+* **Correct Answer**: A
 * **Explanation**: By definition, the Golden Ratio occurs when the ratio of the whole length ($a+b$) to the long part ($a$) equals the ratio of the long part ($a$) to the short part ($b$).
 
 #### ข้อ 3
@@ -47,11 +47,11 @@ RULES Section A:
 * **Learning Objective**: Recognize real-world occurrences of the Golden Ratio.
 * **Difficulty**: Easy
 * **Prompt**: In which of the following fields is the Golden Ratio widely applied for visual harmony and proportion?
-* ก. Architecture and Fine Art
-* ข. Subatomic Particle Physics
-* ค. Computer Operating Systems
-* ง. Chemical Element Periodicity
-* **Correct Answer**: ก
+* A. Architecture and Fine Art
+* B. Subatomic Particle Physics
+* C. Computer Operating Systems
+* D. Chemical Element Periodicity
+* **Correct Answer**: A
 * **Explanation**: Centuries of artists, architects, and designers have used the Golden Ratio ($\Phi pprox 1.618$) to create aesthetic balance.
 
 #### ข้อ 4
@@ -59,11 +59,11 @@ RULES Section A:
 * **Learning Objective**: Convert fractions with denominator 100 to decimals.
 * **Difficulty**: Easy
 * **Prompt**: What is the decimal equivalent of the fraction $\frac{65}{100}$?
-* ก. 0.065
-* ข. 0.65
-* ค. 6.5
-* ง. 65.0
-* **Correct Answer**: ข
+* A. 0.065
+* B. 0.65
+* C. 6.5
+* D. 65.0
+* **Correct Answer**: B
 * **Explanation**: Dividing 65 by 100 shifts the decimal point two places to the left, yielding 0.65.
 
 #### ข้อ 5
@@ -71,11 +71,11 @@ RULES Section A:
 * **Learning Objective**: Convert decimal numbers to percentages.
 * **Difficulty**: Easy
 * **Prompt**: Convert $0.08$ into a percentage.
-* ก. 0.8%
-* ข. 8%
-* ค. 80%
-* ง. 800%
-* **Correct Answer**: ข
+* A. 0.8%
+* B. 8%
+* C. 80%
+* D. 800%
+* **Correct Answer**: B
 * **Explanation**: To express a decimal as a percentage, multiply by 100: $0.08 \times 100\% = 8\%$.
 
 #### ข้อ 6
@@ -83,11 +83,11 @@ RULES Section A:
 * **Learning Objective**: Convert percentages into simplified fractions.
 * **Difficulty**: Medium
 * **Prompt**: Express $75\%$ as a fraction in its simplest form.
-* ก. $\frac{3}{4}$
-* ข. $\frac{7}{5}$
-* ค. $\frac{75}{10}$
-* ง. $\frac{15}{20}$
-* **Correct Answer**: ก
+* A. $\frac{3}{4}$
+* B. $\frac{7}{5}$
+* C. $\frac{75}{10}$
+* D. $\frac{15}{20}$
+* **Correct Answer**: A
 * **Explanation**: $75\% = \frac{75}{100}$. Dividing both numerator and denominator by 25 yields $\frac{3}{4}$.
 
 #### ข้อ 7
@@ -95,11 +95,11 @@ RULES Section A:
 * **Learning Objective**: Interpret visual grid models for percentages.
 * **Difficulty**: Easy
 * **Prompt**: If a grid contains 100 equal squares and 42 of them are shaded blue, what percentage of the grid is shaded?
-* ก. 4.2%
-* ข. 24%
-* ค. 42%
-* ง. 58%
-* **Correct Answer**: ค
+* A. 4.2%
+* B. 24%
+* C. 42%
+* D. 58%
+* **Correct Answer**: C
 * **Explanation**: The shaded fraction is $\frac{42}{100}$, which equals $42\%$.
 
 #### ข้อ 8
@@ -107,11 +107,11 @@ RULES Section A:
 * **Learning Objective**: Calculate the unshaded complement percentage.
 * **Difficulty**: Easy
 * **Prompt**: If $35\%$ of a square model is shaded green, what percentage remains unshaded?
-* ก. 35%
-* ข. 55%
-* ค. 65%
-* ง. 75%
-* **Correct Answer**: ค
+* A. 35%
+* B. 55%
+* C. 65%
+* D. 75%
+* **Correct Answer**: C
 * **Explanation**: The total area is $100\%$. Unshaded percentage $= 100\% - 35\% = 65\%$.
 
 #### ข้อ 9
@@ -119,11 +119,11 @@ RULES Section A:
 * **Learning Objective**: Understand basic ratio terminology and notation.
 * **Difficulty**: Easy
 * **Prompt**: How is the ratio of quantity $A$ to quantity $B$ expressed using standard ratio notation?
-* ก. $A + B$
-* ข. $A : B$
-* ค. $A \times B$
-* ง. $A - B$
-* **Correct Answer**: ข
+* A. $A + B$
+* B. $A : B$
+* C. $A \times B$
+* D. $A - B$
+* **Correct Answer**: B
 * **Explanation**: A ratio comparing quantity $A$ to quantity $B$ is written as $A : B$ or $\frac{A}{B}$.
 
 #### ข้อ 10
@@ -131,11 +131,11 @@ RULES Section A:
 * **Learning Objective**: Determine equivalent ratios by multiplication or division.
 * **Difficulty**: Medium
 * **Prompt**: Which ratio is equivalent to $4 : 7$?
-* ก. $8 : 14$
-* ข. $12 : 18$
-* ค. $16 : 21$
-* ง. $4 : 14$
-* **Correct Answer**: ก
+* A. $8 : 14$
+* B. $12 : 18$
+* C. $16 : 21$
+* D. $4 : 14$
+* **Correct Answer**: A
 * **Explanation**: Multiplying both terms of $4 : 7$ by 2 gives $(4 \times 2) : (7 \times 2) = 8 : 14$.
 
 #### ข้อ 11
@@ -143,11 +143,11 @@ RULES Section A:
 * **Learning Objective**: Simplify ratios by dividing terms by their greatest common factor.
 * **Difficulty**: Medium
 * **Prompt**: What is the simplest form of the ratio $24 : 36$?
-* ก. $12 : 18$
-* ข. $6 : 9$
-* ค. $2 : 3$
-* ง. $4 : 6$
-* **Correct Answer**: ค
+* A. $12 : 18$
+* B. $6 : 9$
+* C. $2 : 3$
+* D. $4 : 6$
+* **Correct Answer**: C
 * **Explanation**: The greatest common factor (GCF) of 24 and 36 is 12. Dividing both terms by 12 gives $2 : 3$.
 
 #### ข้อ 12
@@ -155,11 +155,11 @@ RULES Section A:
 * **Learning Objective**: Write ratios comparing quantities measured in identical units.
 * **Difficulty**: Easy
 * **Prompt**: Express the ratio of 15 kg of apples to 25 kg of oranges in simplest form.
-* ก. $3 \text{ kg} : 5 \text{ kg}$
-* ข. $3 : 5$
-* ค. $5 : 3$
-* ง. $15 : 25$
-* **Correct Answer**: ข
+* A. $3 \text{ kg} : 5 \text{ kg}$
+* B. $3 : 5$
+* C. $5 : 3$
+* D. $15 : 25$
+* **Correct Answer**: B
 * **Explanation**: When quantities share the exact same unit (kg), units are omitted in the final ratio notation. $15 : 25 = 3 : 5$.
 
 #### ข้อ 13
@@ -167,11 +167,11 @@ RULES Section A:
 * **Learning Objective**: Write ratios comparing quantities measured in different units.
 * **Difficulty**: Medium
 * **Prompt**: How should the ratio of 6 books to 12 students be properly written?
-* ก. $1 : 2$
-* ข. $1 \text{ book} : 2 \text{ students}$
-* ค. $6 : 12 \text{ students}$
-* ง. $2 \text{ students} : 1 \text{ book}$
-* **Correct Answer**: ข
+* A. $1 : 2$
+* B. $1 \text{ book} : 2 \text{ students}$
+* C. $6 : 12 \text{ students}$
+* D. $2 \text{ students} : 1 \text{ book}$
+* **Correct Answer**: B
 * **Explanation**: When quantities have different units, the unit names must be explicitly specified alongside the simplified numbers: $1 \text{ book} : 2 \text{ students}$.
 
 #### ข้อ 14
@@ -179,11 +179,11 @@ RULES Section A:
 * **Learning Objective**: Identify ratios that are NOT equivalent.
 * **Difficulty**: Medium
 * **Prompt**: Which of the following pair of ratios is NON-EQUIVALENT?
-* ก. $3 : 5$ and $9 : 15$
-* ข. $2 : 9$ and $6 : 27$
-* ค. $5 : 8$ and $15 : 20$
-* ง. $7 : 10$ and $21 : 30$
-* **Correct Answer**: ค
+* A. $3 : 5$ and $9 : 15$
+* B. $2 : 9$ and $6 : 27$
+* C. $5 : 8$ and $15 : 20$
+* D. $7 : 10$ and $21 : 30$
+* **Correct Answer**: C
 * **Explanation**: $5 : 8 = \frac{5}{8} = 0.625$, while $15 : 20 = \frac{3}{4} = 0.75$. They are non-equivalent.
 
 #### ข้อ 15
@@ -191,11 +191,11 @@ RULES Section A:
 * **Learning Objective**: Scale up ratios to solve proportional problems.
 * **Difficulty**: Medium
 * **Prompt**: If the ratio of sugar to flour in a recipe is $2 : 5$, how many cups of flour are needed for 6 cups of sugar?
-* ก. 10 cups
-* ข. 12 cups
-* ค. 15 cups
-* ง. 20 cups
-* **Correct Answer**: ค
+* A. 10 cups
+* B. 12 cups
+* C. 15 cups
+* D. 20 cups
+* **Correct Answer**: C
 * **Explanation**: Scale factor $= 6 \div 2 = 3$. Flour needed $= 5 \times 3 = 15$ cups.
 
 #### ข้อ 16
@@ -203,11 +203,11 @@ RULES Section A:
 * **Learning Objective**: Scale down ratios to find unit amounts.
 * **Difficulty**: Medium
 * **Prompt**: A map scale is $1 \text{ cm} : 50 \text{ km}$. If two cities are 300 km apart in reality, how far apart are they on the map?
-* ก. 5 cm
-* ข. 6 cm
-* ค. 10 cm
-* ง. 12 cm
-* **Correct Answer**: ข
+* A. 5 cm
+* B. 6 cm
+* C. 10 cm
+* D. 12 cm
+* **Correct Answer**: B
 * **Explanation**: Map distance $= 300 \div 50 = 6$ cm.
 
 #### ข้อ 17
@@ -215,11 +215,11 @@ RULES Section A:
 * **Learning Objective**: Express and simplify three-part ratios.
 * **Difficulty**: Medium
 * **Prompt**: Simplify the three-part ratio $10 : 15 : 25$.
-* ก. $2 : 3 : 5$
-* ข. $1 : 2 : 3$
-* ค. $5 : 10 : 15$
-* ง. $4 : 6 : 10$
-* **Correct Answer**: ก
+* A. $2 : 3 : 5$
+* B. $1 : 2 : 3$
+* C. $5 : 10 : 15$
+* D. $4 : 6 : 10$
+* **Correct Answer**: A
 * **Explanation**: Dividing all three terms by 5 gives $(10/5) : (15/5) : (25/5) = 2 : 3 : 5$.
 
 #### ข้อ 18
@@ -227,11 +227,11 @@ RULES Section A:
 * **Learning Objective**: Calculate total parts to divide a whole quantity.
 * **Difficulty**: Easy
 * **Prompt**: A ribbon of length 80 cm is cut into two pieces in the ratio $3 : 5$. What is the total number of ratio parts?
-* ก. 3 parts
-* ข. 5 parts
-* ค. 8 parts
-* ง. 15 parts
-* **Correct Answer**: ค
+* A. 3 parts
+* B. 5 parts
+* C. 8 parts
+* D. 15 parts
+* **Correct Answer**: C
 * **Explanation**: Total ratio parts $= 3 + 5 = 8$ parts.
 
 #### ข้อ 19
@@ -239,11 +239,11 @@ RULES Section A:
 * **Learning Objective**: Calculate the size of one portion given a ratio.
 * **Difficulty**: Medium
 * **Prompt**: Divide 120 THB between Mark and Anna in the ratio $1 : 3$. How much money does Anna receive?
-* ก. 30 THB
-* ข. 60 THB
-* ค. 90 THB
-* ง. 100 THB
-* **Correct Answer**: ค
+* A. 30 THB
+* B. 60 THB
+* C. 90 THB
+* D. 100 THB
+* **Correct Answer**: C
 * **Explanation**: Total parts $= 1 + 3 = 4$. Each part $= 120 / 4 = 30$ THB. Anna gets 3 parts $= 3 \times 30 = 90$ THB.
 
 #### ข้อ 20
@@ -251,11 +251,11 @@ RULES Section A:
 * **Learning Objective**: Calculate the difference between shares in a ratio.
 * **Difficulty**: Hard
 * **Prompt**: The ratio of male to female employees in an office is $4 : 7$. If there are 35 female employees, how many more female employees are there than male employees?
-* ก. 15
-* ข. 20
-* ค. 25
-* ง. 30
-* **Correct Answer**: ก
+* A. 15
+* B. 20
+* C. 25
+* D. 30
+* **Correct Answer**: A
 * **Explanation**: Female parts $= 7 = 35 \rightarrow 1 \text{ part} = 5$. Male employees $= 4 \times 5 = 20$. Difference $= 35 - 20 = 15$.
 
 #### ข้อ 21
@@ -263,11 +263,11 @@ RULES Section A:
 * **Learning Objective**: Calculate a basic percentage of a given number.
 * **Difficulty**: Easy
 * **Prompt**: What is $20\%$ of 250 THB?
-* ก. 25 THB
-* ข. 50 THB
-* ค. 75 THB
-* ง. 100 THB
-* **Correct Answer**: ข
+* A. 25 THB
+* B. 50 THB
+* C. 75 THB
+* D. 100 THB
+* **Correct Answer**: B
 * **Explanation**: $20\% \times 250 = 0.20 \times 250 = 50$ THB.
 
 #### ข้อ 22
@@ -275,11 +275,11 @@ RULES Section A:
 * **Learning Objective**: Calculate fractional percentages of large amounts.
 * **Difficulty**: Medium
 * **Prompt**: Find $45\%$ of 800 meters.
-* ก. 320 m
-* ข. 360 m
-* ค. 400 m
-* ง. 440 m
-* **Correct Answer**: ข
+* A. 320 m
+* B. 360 m
+* C. 400 m
+* D. 440 m
+* **Correct Answer**: B
 * **Explanation**: $45\% \times 800 = \frac{45}{100} \times 800 = 45 \times 8 = 360$ meters.
 
 #### ข้อ 23
@@ -287,11 +287,11 @@ RULES Section A:
 * **Learning Objective**: Express a subset as a percentage of the whole group.
 * **Difficulty**: Medium
 * **Prompt**: Out of 50 students in a class, 12 students wear glasses. What percentage of the class wears glasses?
-* ก. 12%
-* ข. 24%
-* ค. 36%
-* ง. 48%
-* **Correct Answer**: ข
+* A. 12%
+* B. 24%
+* C. 36%
+* D. 48%
+* **Correct Answer**: B
 * **Explanation**: Percentage $= \frac{12}{50} \times 100\% = 24\%$.
 
 #### ข้อ 24
@@ -299,11 +299,11 @@ RULES Section A:
 * **Learning Objective**: Determine remaining percentage in real-world contexts.
 * **Difficulty**: Medium
 * **Prompt**: A fruit basket has 40 fruits. If 30% are apples and 20% are oranges, what percentage are bananas?
-* ก. 30%
-* ข. 40%
-* ค. 50%
-* ง. 60%
-* **Correct Answer**: ค
+* A. 30%
+* B. 40%
+* C. 50%
+* D. 60%
+* **Correct Answer**: C
 * **Explanation**: Bananas percentage $= 100\% - (30\% + 20\%) = 50\%$.
 
 #### ข้อ 25
@@ -311,11 +311,11 @@ RULES Section A:
 * **Learning Objective**: Identify the formula for percentage increase.
 * **Difficulty**: Medium
 * **Prompt**: Which formula correctly calculates percentage increase?
-* ก. $\frac{\text{Original Amount}}{\text{New Amount}} \times 100\%$
-* ข. $\frac{\text{Amount of Increase}}{\text{Original Amount}} \times 100\%$
-* ค. $\frac{\text{Amount of Increase}}{\text{New Amount}} \times 100\%$
-* ง. $\frac{\text{New Amount - Original Amount}}{\text{New Amount}} \times 100\%$
-* **Correct Answer**: ข
+* A. $\frac{\text{Original Amount}}{\text{New Amount}} \times 100\%$
+* B. $\frac{\text{Amount of Increase}}{\text{Original Amount}} \times 100\%$
+* C. $\frac{\text{Amount of Increase}}{\text{New Amount}} \times 100\%$
+* D. $\frac{\text{New Amount - Original Amount}}{\text{New Amount}} \times 100\%$
+* **Correct Answer**: B
 * **Explanation**: Percentage increase $= \frac{\text{Amount of Increase}}{\text{Original Amount}} \times 100\%$.
 
 #### ข้อ 26
@@ -323,11 +323,11 @@ RULES Section A:
 * **Learning Objective**: Define basic commercial terms.
 * **Difficulty**: Easy
 * **Prompt**: If a shopkeeper buys a shirt for 200 THB and sells it for 260 THB, what is the Cost Price (CP)?
-* ก. 60 THB
-* ข. 200 THB
-* ค. 260 THB
-* ง. 460 THB
-* **Correct Answer**: ข
+* A. 60 THB
+* B. 200 THB
+* C. 260 THB
+* D. 460 THB
+* **Correct Answer**: B
 * **Explanation**: Cost Price (CP) is the original price paid to acquire the item, which is 200 THB.
 
 #### ข้อ 27
@@ -335,11 +335,11 @@ RULES Section A:
 * **Learning Objective**: Determine total profit in monetary terms.
 * **Difficulty**: Easy
 * **Prompt**: A vendor buys a bag for 500 THB and sells it for 650 THB. What is the vendor's profit?
-* ก. 100 THB
-* ข. 150 THB
-* ค. 200 THB
-* ง. 250 THB
-* **Correct Answer**: ข
+* A. 100 THB
+* B. 150 THB
+* C. 200 THB
+* D. 250 THB
+* **Correct Answer**: B
 * **Explanation**: Profit $= \text{Selling Price} - \text{Cost Price} = 650 - 500 = 150$ THB.
 
 #### ข้อ 28
@@ -347,11 +347,11 @@ RULES Section A:
 * **Learning Objective**: Determine total monetary loss.
 * **Difficulty**: Easy
 * **Prompt**: A bicycle bought for 3,000 THB is resold for 2,400 THB. What is the loss amount?
-* ก. 400 THB
-* ข. 500 THB
-* ค. 600 THB
-* ง. 700 THB
-* **Correct Answer**: ค
+* A. 400 THB
+* B. 500 THB
+* C. 600 THB
+* D. 700 THB
+* **Correct Answer**: C
 * **Explanation**: Loss $= \text{Cost Price} - \text{Selling Price} = 3000 - 2400 = 600$ THB.
 
 #### ข้อ 29
@@ -359,11 +359,11 @@ RULES Section A:
 * **Learning Objective**: Calculate profit percentage relative to cost price.
 * **Difficulty**: Medium
 * **Prompt**: What is the profit percentage if an item costing 400 THB is sold for 500 THB?
-* ก. 20%
-* ข. 25%
-* ค. 30%
-* ง. 33.3%
-* **Correct Answer**: ข
+* A. 20%
+* B. 25%
+* C. 30%
+* D. 33.3%
+* **Correct Answer**: B
 * **Explanation**: Profit $= 100$ THB. Profit $\% = \frac{100}{400} \times 100\% = 25\%$.
 
 #### ข้อ 30
@@ -371,11 +371,11 @@ RULES Section A:
 * **Learning Objective**: Calculate loss percentage relative to cost price.
 * **Difficulty**: Medium
 * **Prompt**: An electronic gadget costing 1,000 THB is sold for 800 THB. What is the loss percentage?
-* ก. 15%
-* ข. 18%
-* ค. 20%
-* ง. 25%
-* **Correct Answer**: ค
+* A. 15%
+* B. 18%
+* C. 20%
+* D. 25%
+* **Correct Answer**: C
 * **Explanation**: Loss $= 200$ THB. Loss $\% = \frac{200}{1000} \times 100\% = 20\%$.
 
 #### ข้อ 31
@@ -383,11 +383,11 @@ RULES Section A:
 * **Learning Objective**: Find selling price given profit percentage.
 * **Difficulty**: Medium
 * **Prompt**: A book costs 150 THB to produce. If the publisher sells it at a $20\%$ profit, what is the selling price?
-* ก. 170 THB
-* ข. 180 THB
-* ค. 190 THB
-* ง. 200 THB
-* **Correct Answer**: ข
+* A. 170 THB
+* B. 180 THB
+* C. 190 THB
+* D. 200 THB
+* **Correct Answer**: B
 * **Explanation**: Selling Price $= 150 \times (1 + 0.20) = 150 \times 1.20 = 180$ THB.
 
 #### ข้อ 32
@@ -395,11 +395,11 @@ RULES Section A:
 * **Learning Objective**: Find selling price given loss percentage.
 * **Difficulty**: Medium
 * **Prompt**: A merchant sells shoes that cost 800 THB at a loss of $15\%$. What is the selling price?
-* ก. 640 THB
-* ข. 680 THB
-* ค. 700 THB
-* ง. 720 THB
-* **Correct Answer**: ข
+* A. 640 THB
+* B. 680 THB
+* C. 700 THB
+* D. 720 THB
+* **Correct Answer**: B
 * **Explanation**: Selling Price $= 800 \times (1 - 0.15) = 800 \times 0.85 = 680$ THB.
 
 #### ข้อ 33
@@ -407,11 +407,11 @@ RULES Section A:
 * **Learning Objective**: Understand marked price (list price) concept.
 * **Difficulty**: Easy
 * **Prompt**: The price printed on a product tag before any price reduction is called the:
-* ก. Cost Price
-* ข. Selling Price
-* ค. Marked Price
-* ง. Discount Price
-* **Correct Answer**: ค
+* A. Cost Price
+* B. Selling Price
+* C. Marked Price
+* D. Discount Price
+* **Correct Answer**: C
 * **Explanation**: The Marked Price (or List Price) is the advertised tag price before applying discounts.
 
 #### ข้อ 34
@@ -419,11 +419,11 @@ RULES Section A:
 * **Learning Objective**: Calculate discount amount from marked price.
 * **Difficulty**: Easy
 * **Prompt**: A coat has a marked price of 1,200 THB. If the store gives a $25\%$ discount, what is the discount amount?
-* ก. 250 THB
-* ข. 300 THB
-* ค. 350 THB
-* ง. 400 THB
-* **Correct Answer**: ข
+* A. 250 THB
+* B. 300 THB
+* C. 350 THB
+* D. 400 THB
+* **Correct Answer**: B
 * **Explanation**: Discount Amount $= 1200 \times 0.25 = 300$ THB.
 
 #### ข้อ 35
@@ -431,11 +431,11 @@ RULES Section A:
 * **Learning Objective**: Calculate final price paid after discount.
 * **Difficulty**: Medium
 * **Prompt**: What is the final selling price of a watch marked at 2,000 THB with a $30\%$ discount?
-* ก. 1,400 THB
-* ข. 1,500 THB
-* ค. 1,600 THB
-* ง. 1,700 THB
-* **Correct Answer**: ก
+* A. 1,400 THB
+* B. 1,500 THB
+* C. 1,600 THB
+* D. 1,700 THB
+* **Correct Answer**: A
 * **Explanation**: Selling Price $= 2000 \times (1 - 0.30) = 2000 \times 0.70 = 1400$ THB.
 
 #### ข้อ 36
@@ -443,11 +443,11 @@ RULES Section A:
 * **Learning Objective**: Calculate discount percentage from MP and SP.
 * **Difficulty**: Medium
 * **Prompt**: A toy with a marked price of 500 THB is sold for 400 THB. What is the discount percentage?
-* ก. 10%
-* ข. 15%
-* ค. 20%
-* ง. 25%
-* **Correct Answer**: ค
+* A. 10%
+* B. 15%
+* C. 20%
+* D. 25%
+* **Correct Answer**: C
 * **Explanation**: Discount $= 500 - 400 = 100$ THB. Discount $\% = \frac{100}{500} \times 100\% = 20\%$.
 
 #### ข้อ 37
@@ -455,11 +455,11 @@ RULES Section A:
 * **Learning Objective**: Work backwards to find cost price from selling price.
 * **Difficulty**: Hard
 * **Prompt**: A laptop is sold for 18,000 THB, yielding a $20\%$ profit for the store. What was the cost price of the laptop?
-* ก. 14,400 THB
-* ข. 15,000 THB
-* ค. 16,000 THB
-* ง. 16,500 THB
-* **Correct Answer**: ข
+* A. 14,400 THB
+* B. 15,000 THB
+* C. 16,000 THB
+* D. 16,500 THB
+* **Correct Answer**: B
 * **Explanation**: Cost Price $= \frac{\text{Selling Price}}{1 + \text{Profit}\%} = \frac{18000}{1.20} = 15,000$ THB.
 
 #### ข้อ 38
@@ -467,11 +467,11 @@ RULES Section A:
 * **Learning Objective**: Calculate original marked price given discount price.
 * **Difficulty**: Hard
 * **Prompt**: After receiving a $10\%$ discount, Sarah paid 900 THB for a jacket. What was the original marked price?
-* ก. 990 THB
-* ข. 1,000 THB
-* ค. 1,050 THB
-* ง. 1,100 THB
-* **Correct Answer**: ข
+* A. 990 THB
+* B. 1,000 THB
+* C. 1,050 THB
+* D. 1,100 THB
+* **Correct Answer**: B
 * **Explanation**: Marked Price $= \frac{\text{Selling Price}}{1 - \text{Discount}\%} = \frac{900}{0.90} = 1,000$ THB.
 
 #### ข้อ 39
@@ -479,11 +479,11 @@ RULES Section A:
 * **Learning Objective**: Understand how two consecutive percentage discounts work.
 * **Difficulty**: Hard
 * **Prompt**: A item marked at 1,000 THB gets a $10\%$ discount, followed by another $10\%$ discount on the reduced price. What is the final price?
-* ก. 800 THB
-* ข. 810 THB
-* ค. 820 THB
-* ง. 850 THB
-* **Correct Answer**: ข
+* A. 800 THB
+* B. 810 THB
+* C. 820 THB
+* D. 850 THB
+* **Correct Answer**: B
 * **Explanation**: First reduction $= 1000 \times 0.90 = 900$ THB. Second reduction $= 900 \times 0.90 = 810$ THB.
 
 #### ข้อ 40
@@ -491,11 +491,11 @@ RULES Section A:
 * **Learning Objective**: Compute total price including 7% VAT.
 * **Difficulty**: Medium
 * **Prompt**: A dinner bill at a restaurant costs 1,000 THB before tax. If a $7\%$ VAT is added, what is the total bill?
-* ก. 1,050 THB
-* ข. 1,070 THB
-* ค. 1,100 THB
-* ง. 1,700 THB
-* **Correct Answer**: ข
+* A. 1,050 THB
+* B. 1,070 THB
+* C. 1,100 THB
+* D. 1,700 THB
+* **Correct Answer**: B
 * **Explanation**: Total Bill $= 1000 \times 1.07 = 1,070$ THB.
 
 #### ข้อ 41
@@ -503,11 +503,11 @@ RULES Section A:
 * **Learning Objective**: Identify principal, rate, and time in simple interest formula.
 * **Difficulty**: Easy
 * **Prompt**: In the simple interest formula $I = P \times R \times T$, what does the letter $P$ stand for?
-* ก. Percentage
-* ข. Profit
-* ค. Principal
-* ง. Payment
-* **Correct Answer**: ค
+* A. Percentage
+* B. Profit
+* C. Principal
+* D. Payment
+* **Correct Answer**: C
 * **Explanation**: $P$ stands for Principal, which is the initial sum of money invested or borrowed.
 
 #### ข้อ 42
@@ -515,11 +515,11 @@ RULES Section A:
 * **Learning Objective**: Recall the standard simple interest formula.
 * **Difficulty**: Easy
 * **Prompt**: Which formula correctly calculates Simple Interest ($I$)?
-* ก. $I = P + R + T$
-* ข. $I = P \times R \times T$
-* ค. $I = \frac{P \times T}{R}$
-* ง. $I = P \times (1 + R)^T$
-* **Correct Answer**: ข
+* A. $I = P + R + T$
+* B. $I = P \times R \times T$
+* C. $I = \frac{P \times T}{R}$
+* D. $I = P \times (1 + R)^T$
+* **Correct Answer**: B
 * **Explanation**: Simple Interest is calculated using $I = P \times R \times T$.
 
 #### ข้อ 43
@@ -527,11 +527,11 @@ RULES Section A:
 * **Learning Objective**: Compute interest earned for 1 year.
 * **Difficulty**: Easy
 * **Prompt**: Calculate the simple interest on a principal of 10,000 THB at an annual interest rate of $5\%$ for 1 year.
-* ก. 50 THB
-* ข. 500 THB
-* ค. 1,000 THB
-* ง. 5,000 THB
-* **Correct Answer**: ข
+* A. 50 THB
+* B. 500 THB
+* C. 1,000 THB
+* D. 5,000 THB
+* **Correct Answer**: B
 * **Explanation**: $I = 10000 \times 0.05 \times 1 = 500$ THB.
 
 #### ข้อ 44
@@ -539,11 +539,11 @@ RULES Section A:
 * **Learning Objective**: Compute interest earned over several years.
 * **Difficulty**: Medium
 * **Prompt**: How much simple interest accumulates on 20,000 THB invested at $4\%$ per annum for 3 years?
-* ก. 800 THB
-* ข. 1,600 THB
-* ค. 2,400 THB
-* ง. 3,200 THB
-* **Correct Answer**: ค
+* A. 800 THB
+* B. 1,600 THB
+* C. 2,400 THB
+* D. 3,200 THB
+* **Correct Answer**: C
 * **Explanation**: $I = 20000 \times 0.04 \times 3 = 2,400$ THB.
 
 #### ข้อ 45
@@ -551,11 +551,11 @@ RULES Section A:
 * **Learning Objective**: Compute total accumulated balance.
 * **Difficulty**: Easy
 * **Prompt**: What is the total amount ($A$) accumulated when Principal ($P$) and Simple Interest ($I$) are combined?
-* ก. $A = P \times I$
-* ข. $A = P - I$
-* ค. $A = P + I$
-* ง. $A = \frac{P}{I}$
-* **Correct Answer**: ค
+* A. $A = P \times I$
+* B. $A = P - I$
+* C. $A = P + I$
+* D. $A = \frac{P}{I}$
+* **Correct Answer**: C
 * **Explanation**: The total accumulated balance is the sum of the principal and interest: $A = P + I$.
 
 #### ข้อ 46
@@ -563,11 +563,11 @@ RULES Section A:
 * **Learning Objective**: Find total balance after interest.
 * **Difficulty**: Medium
 * **Prompt**: If 50,000 THB is deposited into a bank account paying $2\%$ annual simple interest, what is the total balance after 2 years?
-* ก. 51,000 THB
-* ข. 52,000 THB
-* ค. 53,000 THB
-* ง. 54,000 THB
-* **Correct Answer**: ข
+* A. 51,000 THB
+* B. 52,000 THB
+* C. 53,000 THB
+* D. 54,000 THB
+* **Correct Answer**: B
 * **Explanation**: Interest $= 50000 \times 0.02 \times 2 = 2,000$ THB. Total Balance $= 50000 + 2000 = 52,000$ THB.
 
 #### ข้อ 47
@@ -575,11 +575,11 @@ RULES Section A:
 * **Learning Objective**: Convert percentage interest rate to decimal for calculation.
 * **Difficulty**: Easy
 * **Prompt**: When substituting an annual interest rate of $3.5\%$ into $I = P \times R \times T$, what value of $R$ should be used?
-* ก. 3.5
-* ข. 0.35
-* ค. 0.035
-* ง. 0.0035
-* **Correct Answer**: ค
+* A. 3.5
+* B. 0.35
+* C. 0.035
+* D. 0.0035
+* **Correct Answer**: C
 * **Explanation**: $R = 3.5\% = \frac{3.5}{100} = 0.035$.
 
 #### ข้อ 48
@@ -587,11 +587,11 @@ RULES Section A:
 * **Learning Objective**: Convert months into years for simple interest formula.
 * **Difficulty**: Medium
 * **Prompt**: If money is borrowed for 6 months, what fractional value of $T$ (years) must be substituted into $I = P \times R \times T$?
-* ก. 0.2 years
-* ข. 0.5 years
-* ค. 0.6 years
-* ง. 6 years
-* **Correct Answer**: ข
+* A. 0.2 years
+* B. 0.5 years
+* C. 0.6 years
+* D. 6 years
+* **Correct Answer**: B
 * **Explanation**: $T = \frac{6 \text{ months}}{12 \text{ months}} = 0.5$ years.
 
 #### ข้อ 49
@@ -599,11 +599,11 @@ RULES Section A:
 * **Learning Objective**: Compute interest for a fraction of a year.
 * **Difficulty**: Hard
 * **Prompt**: Calculate the interest on 40,000 THB at $6\%$ per annum for 6 months.
-* ก. 1,200 THB
-* ข. 1,800 THB
-* ค. 2,400 THB
-* ง. 4,800 THB
-* **Correct Answer**: ก
+* A. 1,200 THB
+* B. 1,800 THB
+* C. 2,400 THB
+* D. 4,800 THB
+* **Correct Answer**: A
 * **Explanation**: $I = 40000 \times 0.06 \times 0.5 = 1,200$ THB.
 
 #### ข้อ 50
@@ -611,11 +611,11 @@ RULES Section A:
 * **Learning Objective**: Calculate total amount repaid on a bank loan.
 * **Difficulty**: Medium
 * **Prompt**: A farmer borrows 100,000 THB from a bank at $5\%$ annual simple interest. If he repays the entire loan in 2 years, how much does he pay back in total?
-* ก. 105,000 THB
-* ข. 110,000 THB
-* ค. 115,000 THB
-* ง. 120,000 THB
-* **Correct Answer**: ข
+* A. 105,000 THB
+* B. 110,000 THB
+* C. 115,000 THB
+* D. 120,000 THB
+* **Correct Answer**: B
 * **Explanation**: Interest $= 100000 \times 0.05 \times 2 = 10,000$ THB. Total Repayment $= 100000 + 10000 = 110,000$ THB.
 
 #### ข้อ 51
@@ -623,11 +623,11 @@ RULES Section A:
 * **Learning Objective**: Solve for principal given interest, rate, and time.
 * **Difficulty**: Hard
 * **Prompt**: What principal amount will earn 600 THB in simple interest at $3\%$ per annum over 2 years?
-* ก. 8,000 THB
-* ข. 10,000 THB
-* ค. 12,000 THB
-* ง. 15,000 THB
-* **Correct Answer**: ข
+* A. 8,000 THB
+* B. 10,000 THB
+* C. 12,000 THB
+* D. 15,000 THB
+* **Correct Answer**: B
 * **Explanation**: $P = \frac{I}{R \times T} = \frac{600}{0.03 \times 2} = \frac{600}{0.06} = 10,000$ THB.
 
 #### ข้อ 52
@@ -635,11 +635,11 @@ RULES Section A:
 * **Learning Objective**: Determine annual interest rate given $I$, $P$, and $T$.
 * **Difficulty**: Hard
 * **Prompt**: An investment of 15,000 THB generates 1,800 THB of interest over 2 years. What is the annual simple interest rate?
-* ก. 4%
-* ข. 5%
-* ค. 6%
-* ง. 8%
-* **Correct Answer**: ค
+* A. 4%
+* B. 5%
+* C. 6%
+* D. 8%
+* **Correct Answer**: C
 * **Explanation**: $R = \frac{I}{P \times T} = \frac{1800}{15000 \times 2} = \frac{1800}{30000} = 0.06 = 6\%$.
 
 #### ข้อ 53
@@ -647,11 +647,11 @@ RULES Section A:
 * **Learning Objective**: Compare two savings options based on simple interest.
 * **Difficulty**: Hard
 * **Prompt**: Bank A offers $4\%$ interest for 2 years on 10,000 THB. Bank B offers $3\%$ interest for 3 years on 10,000 THB. Which bank yields more total interest?
-* ก. Bank A yields 100 THB more interest than Bank B.
-* ข. Bank B yields 100 THB more interest than Bank A.
-* ค. Both banks yield equal interest.
-* ง. Bank A yields 200 THB more interest than Bank B.
-* **Correct Answer**: ข
+* A. Bank A yields 100 THB more interest than Bank B.
+* B. Bank B yields 100 THB more interest than Bank A.
+* C. Both banks yield equal interest.
+* D. Bank A yields 200 THB more interest than Bank B.
+* **Correct Answer**: B
 * **Explanation**: Bank A Interest $= 10000 \times 0.04 \times 2 = 800$ THB. Bank B Interest $= 10000 \times 0.03 \times 3 = 900$ THB. Bank B yields $900 - 800 = 100$ THB more.
 
 #### ข้อ 54
@@ -659,11 +659,11 @@ RULES Section A:
 * **Learning Objective**: Combine commercial discount and interest.
 * **Difficulty**: Hard
 * **Prompt**: A seller buys a TV for 10,000 THB, marks it up by $30\%$, and then offers a $10\%$ discount. What is the seller's final profit?
-* ก. 1,700 THB
-* ข. 1,800 THB
-* ค. 2,000 THB
-* ง. 2,700 THB
-* **Correct Answer**: ก
+* A. 1,700 THB
+* B. 1,800 THB
+* C. 2,000 THB
+* D. 2,700 THB
+* **Correct Answer**: A
 * **Explanation**: Marked Price $= 10000 \times 1.30 = 13,000$ THB. Selling Price $= 13000 \times 0.90 = 11,700$ THB. Profit $= 11,700 - 10,000 = 1,700$ THB.
 
 #### ข้อ 55
@@ -671,11 +671,11 @@ RULES Section A:
 * **Learning Objective**: Solve multi-step ratio and percentage distribution.
 * **Difficulty**: Hard
 * **Prompt**: In a school of 600 students, the ratio of boys to girls is $2 : 3$. If $20\%$ of the boys join the math club, how many boys are in the math club?
-* ก. 48 boys
-* ข. 54 boys
-* ค. 60 boys
-* ง. 72 boys
-* **Correct Answer**: ก
+* A. 48 boys
+* B. 54 boys
+* C. 60 boys
+* D. 72 boys
+* **Correct Answer**: A
 * **Explanation**: Total parts $= 2 + 3 = 5$. Boys $= \frac{2}{5} \times 600 = 240$. Boys in math club $= 240 \times 0.20 = 48$ boys.
 
 #### ข้อ 56
@@ -683,11 +683,11 @@ RULES Section A:
 * **Learning Objective**: Compute price after consecutive discount and tax.
 * **Difficulty**: Hard
 * **Prompt**: An item marked at 5,000 THB is given a $20\%$ discount. A $7\%$ VAT is then added to the discounted price. What is the final price paid?
-* ก. 4,000 THB
-* ข. 4,280 THB
-* ค. 4,350 THB
-* ง. 5,000 THB
-* **Correct Answer**: ข
+* A. 4,000 THB
+* B. 4,280 THB
+* C. 4,350 THB
+* D. 5,000 THB
+* **Correct Answer**: B
 * **Explanation**: Discounted price $= 5000 \times 0.80 = 4,000$ THB. With $7\%$ VAT $= 4000 \times 1.07 = 4,280$ THB.
 
 #### ข้อ 57
@@ -695,11 +695,11 @@ RULES Section A:
 * **Learning Objective**: Calculate interest for a fraction of a year given in days.
 * **Difficulty**: Hard
 * **Prompt**: If 73,000 THB is deposited at $5\%$ annual simple interest for 73 days (using a 365-day year), how much interest is earned?
-* ก. 365 THB
-* ข. 730 THB
-* ค. 1,460 THB
-* ง. 3,650 THB
-* **Correct Answer**: ข
+* A. 365 THB
+* B. 730 THB
+* C. 1,460 THB
+* D. 3,650 THB
+* **Correct Answer**: B
 * **Explanation**: Time $T = \frac{73}{365} = 0.2$ years. Interest $= 73000 \times 0.05 \times 0.2 = 730$ THB.
 
 #### ข้อ 58
@@ -707,11 +707,11 @@ RULES Section A:
 * **Learning Objective**: Divide a total amount into a three-part ratio.
 * **Difficulty**: Medium
 * **Prompt**: A sum of 900 THB is split among A, B, and C in the ratio $2 : 3 : 4$. How much does B receive?
-* ก. 200 THB
-* ข. 300 THB
-* ค. 400 THB
-* ง. 450 THB
-* **Correct Answer**: ข
+* A. 200 THB
+* B. 300 THB
+* C. 400 THB
+* D. 450 THB
+* **Correct Answer**: B
 * **Explanation**: Total parts $= 2 + 3 + 4 = 9$. One part $= 900 / 9 = 100$ THB. B gets 3 parts $= 3 \times 100 = 300$ THB.
 
 #### ข้อ 59
@@ -719,11 +719,11 @@ RULES Section A:
 * **Learning Objective**: Determine initial value given percentage increase.
 * **Difficulty**: Hard
 * **Prompt**: A salary increased by $10\%$ to become 22,000 THB. What was the original salary?
-* ก. 19,800 THB
-* ข. 20,000 THB
-* ค. 20,500 THB
-* ง. 21,000 THB
-* **Correct Answer**: ข
+* A. 19,800 THB
+* B. 20,000 THB
+* C. 20,500 THB
+* D. 21,000 THB
+* **Correct Answer**: B
 * **Explanation**: Original salary $= 22000 / 1.10 = 20,000$ THB.
 
 #### ข้อ 60
@@ -731,11 +731,11 @@ RULES Section A:
 * **Learning Objective**: Calculate actual linear distance from map scale.
 * **Difficulty**: Medium
 * **Prompt**: On a map with a scale of $1 : 100,000$, two towns are 4.5 cm apart. What is the actual distance between the two towns in kilometers?
-* ก. 4.5 km
-* ข. 45 km
-* ค. 450 km
-* ง. 0.45 km
-* **Correct Answer**: ก
+* A. 4.5 km
+* B. 45 km
+* C. 450 km
+* D. 0.45 km
+* **Correct Answer**: A
 * **Explanation**: Actual distance $= 4.5 \text{ cm} \times 100,000 = 450,000 \text{ cm} = 4,500 \text{ m} = 4.5$ km.
 
 ---

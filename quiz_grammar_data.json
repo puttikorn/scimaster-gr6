@@ -46,12 +46,12 @@
       "difficulty": "Easy",
       "question": "Which sentence correctly uses the past continuous tense?",
       "options": {
-        "ก": "She reading a newspaper yesterday.",
-        "ข": "She was reading a newspaper yesterday at 3 PM.",
-        "ค": "She readed a newspaper yesterday.",
-        "ง": "She is reading a newspaper yesterday."
+        "A": "She reading a newspaper yesterday.",
+        "B": "She was reading a newspaper yesterday at 3 PM.",
+        "C": "She readed a newspaper yesterday.",
+        "D": "She is reading a newspaper yesterday."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The past continuous structure is subject + was/were + verb-ing (e.g., 'She was reading...').",
       "points": 1
     },
@@ -64,12 +64,12 @@
       "difficulty": "Easy",
       "question": "What is the correct past continuous question form for 'you / study / in the library'?",
       "options": {
-        "ก": "Did you study in the library?",
-        "ข": "Were you studying in the library?",
-        "ค": "Was you studying in the library?",
-        "ง": "Are you studying in the library yesterday?"
+        "A": "Did you study in the library?",
+        "B": "Were you studying in the library?",
+        "C": "Was you studying in the library?",
+        "D": "Are you studying in the library yesterday?"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Yes/No questions in past continuous start with Was/Were + Subject + Verb-ing ('Were you studying...?').",
       "points": 1
     },
@@ -82,12 +82,12 @@
       "difficulty": "Easy",
       "question": "Choose the correct negative past continuous sentence for 'They / practice / the piano'.",
       "options": {
-        "ก": "They didn't practice the piano.",
-        "ข": "They wasn't practicing the piano.",
-        "ค": "They weren't practicing the piano.",
-        "ง": "They not practicing the piano."
+        "A": "They didn't practice the piano.",
+        "B": "They wasn't practicing the piano.",
+        "C": "They weren't practicing the piano.",
+        "D": "They not practicing the piano."
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "C",
       "explanation": "Plural subject 'They' uses 'weren't' (were not) + verb-ing.",
       "points": 1
     },
@@ -100,12 +100,12 @@
       "difficulty": "Medium",
       "question": "Complete the sentence: 'Sam watched a movie yesterday afternoon, but at 2:30 yesterday afternoon, he ________ a movie.'",
       "options": {
-        "ก": "watched",
-        "ข": "was watching",
-        "ค": "is watching",
-        "ง": "will watch"
+        "A": "watched",
+        "B": "was watching",
+        "C": "is watching",
+        "D": "will watch"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The past continuous ('was watching') describes an action in progress at a specific time in the past (2:30 PM).",
       "points": 1
     },
@@ -118,12 +118,12 @@
       "difficulty": "Medium",
       "question": "Choose the correct verb form: 'I was taking a nap when the doorbell ________.'",
       "options": {
-        "ก": "rang",
-        "ข": "was ringing",
-        "ค": "rings",
-        "ง": "is ringing"
+        "A": "rang",
+        "B": "was ringing",
+        "C": "rings",
+        "D": "is ringing"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "A clause introduced by 'when' usually takes the past simple tense ('rang') to show an interrupting action.",
       "points": 1
     },
@@ -136,12 +136,12 @@
       "difficulty": "Medium",
       "question": "Complete the sentence: 'It started to rain while we ________ our bikes.'",
       "options": {
-        "ก": "rode",
-        "ข": "were riding",
-        "ค": "are riding",
-        "ง": "ride"
+        "A": "rode",
+        "B": "were riding",
+        "C": "are riding",
+        "D": "ride"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "A clause introduced by 'while' takes the past continuous tense ('were riding') to show an ongoing background action.",
       "points": 1
     },
@@ -154,12 +154,12 @@
       "difficulty": "Medium",
       "question": "Choose the correct conjunction: 'The teacher came in ________ the students were singing.'",
       "options": {
-        "ก": "while",
-        "ข": "when",
-        "ค": "until",
-        "ง": "before"
+        "A": "while",
+        "B": "when",
+        "C": "until",
+        "D": "before"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'While' introduces the ongoing action clause in the past continuous ('the students were singing').",
       "points": 1
     },
@@ -172,12 +172,12 @@
       "difficulty": "Medium",
       "question": "Complete the sentence: 'Amy ________ a picture when the teacher came in.'",
       "options": {
-        "ก": "drew",
-        "ข": "was drawing",
-        "ค": "is drawing",
-        "ง": "draws"
+        "A": "drew",
+        "B": "was drawing",
+        "C": "is drawing",
+        "D": "draws"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The ongoing activity ('was drawing') was interrupted by the teacher's entry ('came in').",
       "points": 1
     },
@@ -190,12 +190,12 @@
       "difficulty": "Medium",
       "question": "In the story: 'While Mom and Dad were building a tent, a park ranger ________ on horseback.'",
       "options": {
-        "ก": "was coming",
-        "ข": "came",
-        "ค": "comes",
-        "ง": "is coming"
+        "A": "was coming",
+        "B": "came",
+        "C": "comes",
+        "D": "is coming"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The background action is past continuous ('were building'), and the completed interruption uses past simple ('came').",
       "points": 1
     },
@@ -208,12 +208,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'While we ________ in the tent at night, the ranger came back to check on us.'",
       "options": {
-        "ก": "slept",
-        "ข": "were sleeping",
-        "ค": "are sleeping",
-        "ง": "sleep"
+        "A": "slept",
+        "B": "were sleeping",
+        "C": "are sleeping",
+        "D": "sleep"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "'While' requires the past continuous tense ('were sleeping') for the background activity.",
       "points": 1
     },
@@ -226,12 +226,12 @@
       "difficulty": "Hard",
       "question": "Which sentence correctly combines past simple and past continuous?",
       "options": {
-        "ก": "Sam was breaking a plate while he did the dishes.",
-        "ข": "Sam broke a plate while he was doing the dishes.",
-        "ค": "Sam broke a plate while he is doing dishes.",
-        "ง": "Sam breaks a plate when he was doing dishes."
+        "A": "Sam was breaking a plate while he did the dishes.",
+        "B": "Sam broke a plate while he was doing the dishes.",
+        "C": "Sam broke a plate while he is doing dishes.",
+        "D": "Sam breaks a plate when he was doing dishes."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "'Broke' (past simple interrupting event) occurs during 'was doing' (past continuous ongoing process).",
       "points": 1
     },
@@ -244,12 +244,12 @@
       "difficulty": "Easy",
       "question": "Complete: 'Ken and Sally ________ talking to each other when the teacher came in.'",
       "options": {
-        "ก": "was",
-        "ข": "were",
-        "ค": "are",
-        "ง": "have"
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Compound subject 'Ken and Sally' requires plural auxiliary 'were'.",
       "points": 1
     },
@@ -262,12 +262,12 @@
       "difficulty": "Easy",
       "question": "Which sentence correctly uses 'will' for a future event?",
       "options": {
-        "ก": "My dad will buy a new car soon.",
-        "ข": "My dad will buying a new car soon.",
-        "ค": "My dad will bought a new car soon.",
-        "ง": "My dad is will buy a new car soon."
+        "A": "My dad will buy a new car soon.",
+        "B": "My dad will buying a new car soon.",
+        "C": "My dad will bought a new car soon.",
+        "D": "My dad is will buy a new car soon."
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Future with 'will' uses will + base verb ('will buy').",
       "points": 1
     },
@@ -280,12 +280,12 @@
       "difficulty": "Easy",
       "question": "Choose the correct negative future form: 'Jenny ________ watch a movie tonight.'",
       "options": {
-        "ก": "won't",
-        "ข": "don't",
-        "ค": "isn't",
-        "ง": "wasn't"
+        "A": "won't",
+        "B": "don't",
+        "C": "isn't",
+        "D": "wasn't"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The negative of 'will' is 'won't' (will not) + base verb.",
       "points": 1
     },
@@ -298,12 +298,12 @@
       "difficulty": "Easy",
       "question": "Choose the correct question: '________ travel to Europe next summer?'",
       "options": {
-        "ก": "Will you",
-        "ข": "Do you",
-        "ค": "Are you",
-        "ง": "Were you"
+        "A": "Will you",
+        "B": "Do you",
+        "C": "Are you",
+        "D": "Were you"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Future questions with 'will' invert subject and modal: Will + Subject + Base Verb.",
       "points": 1
     },
@@ -316,12 +316,12 @@
       "difficulty": "Easy",
       "question": "Complete the sentence: 'I ________ open the window.'",
       "options": {
-        "ก": "am going to",
-        "ข": "is going to",
-        "ค": "are going to",
-        "ง": "going to"
+        "A": "am going to",
+        "B": "is going to",
+        "C": "are going to",
+        "D": "going to"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "First-person singular 'I' pairs with 'am going to' + base verb.",
       "points": 1
     },
@@ -334,12 +334,12 @@
       "difficulty": "Medium",
       "question": "Choose the correct negative sentence: 'I ________ home this weekend.'",
       "options": {
-        "ก": "am not going to be",
-        "ข": "am going to not be",
-        "ค": "not am going to be",
-        "ง": "don't going to be"
+        "A": "am not going to be",
+        "B": "am going to not be",
+        "C": "not am going to be",
+        "D": "don't going to be"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Negative form: Subject + am/is/are + not + going to + base verb.",
       "points": 1
     },
@@ -352,12 +352,12 @@
       "difficulty": "Medium",
       "question": "Complete the question: '________ John going to help us with this project?'",
       "options": {
-        "ก": "Is",
-        "ข": "Are",
-        "ค": "Will",
-        "ง": "Does"
+        "A": "Is",
+        "B": "Are",
+        "C": "Will",
+        "D": "Does"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Third-person singular 'John' takes 'Is' at the start of 'be going to' questions.",
       "points": 1
     },
@@ -370,12 +370,12 @@
       "difficulty": "Medium",
       "question": "In the sentence 'Mark is running in a race tomorrow', what does the present continuous tense express?",
       "options": {
-        "ก": "An action happening right now",
-        "ข": "A definite plan or arrangement for the future",
-        "ค": "A past habit",
-        "ง": "A general truth"
+        "A": "An action happening right now",
+        "B": "A definite plan or arrangement for the future",
+        "C": "A past habit",
+        "D": "A general truth"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The present continuous + future time word ('tomorrow') expresses a definite planned future arrangement.",
       "points": 1
     },
@@ -388,12 +388,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'They ________ a birthday party this afternoon.'",
       "options": {
-        "ก": "are having",
-        "ข": "were having",
-        "ค": "had",
-        "ง": "have had"
+        "A": "are having",
+        "B": "were having",
+        "C": "had",
+        "D": "have had"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'are having' (present continuous) is used with 'this afternoon' for a planned future event.",
       "points": 1
     },
@@ -406,12 +406,12 @@
       "difficulty": "Hard",
       "question": "Sam and I can't ski. We ________ to ski this winter.",
       "options": {
-        "ก": "will learn",
-        "ข": "learned",
-        "ค": "were learning",
-        "ง": "are learned"
+        "A": "will learn",
+        "B": "learned",
+        "C": "were learning",
+        "D": "are learned"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'will learn' expresses a decision/intention regarding future learning.",
       "points": 1
     },
@@ -424,12 +424,12 @@
       "difficulty": "Medium",
       "question": "In Ben's dialogue: 'My uncle ________ to visit us this weekend. He ________ me how to water-ski.'",
       "options": {
-        "ก": "is coming / will teach",
-        "ข": "came / taught",
-        "ค": "was coming / teaches",
-        "ง": "comes / was teaching"
+        "A": "is coming / will teach",
+        "B": "came / taught",
+        "C": "was coming / teaches",
+        "D": "comes / was teaching"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'is coming' (planned arrival) and 'will teach' (future action/promise).",
       "points": 1
     },
@@ -442,12 +442,12 @@
       "difficulty": "Medium",
       "question": "Choose the correct question: '________ you come to my house next weekend?'",
       "options": {
-        "ก": "Will",
-        "ข": "Are",
-        "ค": "Did",
-        "ง": "Were"
+        "A": "Will",
+        "B": "Are",
+        "C": "Did",
+        "D": "Were"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'Will you come...?' invites someone to a future event.",
       "points": 1
     },
@@ -460,12 +460,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'I'm not hungry now. I ________ eat lunch later.'",
       "options": {
-        "ก": "will",
-        "ข": "was",
-        "ค": "did",
-        "ง": "have"
+        "A": "will",
+        "B": "was",
+        "C": "did",
+        "D": "have"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'will' expresses a future decision.",
       "points": 1
     },
@@ -478,12 +478,12 @@
       "difficulty": "Easy",
       "question": "Which sentence is correctly written in the present perfect tense?",
       "options": {
-        "ก": "She has waited for you since three o'clock.",
-        "ข": "She is waiting for you since three o'clock.",
-        "ค": "She waited for you since three o'clock.",
-        "ง": "She has wait for you since three o'clock."
+        "A": "She has waited for you since three o'clock.",
+        "B": "She is waiting for you since three o'clock.",
+        "C": "She waited for you since three o'clock.",
+        "D": "She has wait for you since three o'clock."
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Present perfect form: has/have + past participle (V3) + since/for.",
       "points": 1
     },
@@ -496,12 +496,12 @@
       "difficulty": "Easy",
       "question": "Complete: 'He ________ me this week.'",
       "options": {
-        "ก": "hasn't called",
-        "ข": "haven't called",
-        "ค": "didn't called",
-        "ง": "doesn't call"
+        "A": "hasn't called",
+        "B": "haven't called",
+        "C": "didn't called",
+        "D": "doesn't call"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Third-person singular 'He' uses 'hasn't' (has not) + V3 ('called').",
       "points": 1
     },
@@ -514,12 +514,12 @@
       "difficulty": "Medium",
       "question": "Choose the correct preposition: 'They have studied math ________ two hours.'",
       "options": {
-        "ก": "for",
-        "ข": "since",
-        "ค": "during",
-        "ง": "ago"
+        "A": "for",
+        "B": "since",
+        "C": "during",
+        "D": "ago"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'for' is used with a period of time/duration ('two hours'); 'since' is used with a specific starting point.",
       "points": 1
     },
@@ -532,12 +532,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'She has watched TV ________ dinner.'",
       "options": {
-        "ก": "since",
-        "ข": "for",
-        "ค": "in",
-        "ง": "by"
+        "A": "since",
+        "B": "for",
+        "C": "in",
+        "D": "by"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'since' indicates the starting point of an action continuing to the present.",
       "points": 1
     },
@@ -550,12 +550,12 @@
       "difficulty": "Easy",
       "question": "What is the correct present perfect question form for 'They have saved a lot of money'?",
       "options": {
-        "ก": "Have they saved a lot of money?",
-        "ข": "Did they save a lot of money?",
-        "ค": "Are they saving a lot of money?",
-        "ง": "Do they save a lot of money?"
+        "A": "Have they saved a lot of money?",
+        "B": "Did they save a lot of money?",
+        "C": "Are they saving a lot of money?",
+        "D": "Do they save a lot of money?"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Yes/No questions invert auxiliary and subject: Have/Has + Subject + V3...?",
       "points": 1
     },
@@ -568,12 +568,12 @@
       "difficulty": "Easy",
       "question": "What is the past participle (V3) form of the verb 'do'?",
       "options": {
-        "ก": "done",
-        "ข": "did",
-        "ค": "doing",
-        "ง": "does"
+        "A": "done",
+        "B": "did",
+        "C": "doing",
+        "D": "does"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The verb 'do' has principal parts: do - did - done (V3 = done).",
       "points": 1
     },
@@ -586,12 +586,12 @@
       "difficulty": "Easy",
       "question": "Complete: 'We have ________ Thai food before.'",
       "options": {
-        "ก": "eaten",
-        "ข": "ate",
-        "ค": "eating",
-        "ง": "eats"
+        "A": "eaten",
+        "B": "ate",
+        "C": "eating",
+        "D": "eats"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The past participle of 'eat' is 'eaten'.",
       "points": 1
     },
@@ -604,12 +604,12 @@
       "difficulty": "Medium",
       "question": "Choose the correct sentence expressing experience:",
       "options": {
-        "ก": "Have you ever caught a fish?",
-        "ข": "Did you ever caught a fish?",
-        "ค": "Were you ever catch a fish?",
-        "ง": "Have you ever catch a fish?"
+        "A": "Have you ever caught a fish?",
+        "B": "Did you ever caught a fish?",
+        "C": "Were you ever catch a fish?",
+        "D": "Have you ever catch a fish?"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Present perfect question for life experience: Have/Has + subject + ever + V3...?",
       "points": 1
     },
@@ -622,12 +622,12 @@
       "difficulty": "Medium",
       "question": "In 'Tom is my friend. I have known him for three years', what does the present perfect show?",
       "options": {
-        "ก": "An action that started in the past and continues into the present",
-        "ข": "An action that ended yesterday",
-        "ค": "A future prediction",
-        "ง": "A past habit"
+        "A": "An action that started in the past and continues into the present",
+        "B": "An action that ended yesterday",
+        "C": "A future prediction",
+        "D": "A past habit"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Present perfect with 'for/since' describes a state that started in the past and continues into the present.",
       "points": 1
     },
@@ -640,12 +640,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'This winter has been cold. The old tree has ________ here for 100 years.'",
       "options": {
-        "ก": "been",
-        "ข": "was",
-        "ค": "were",
-        "ง": "being"
+        "A": "been",
+        "B": "was",
+        "C": "were",
+        "D": "being"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The past participle of 'be' is 'been'.",
       "points": 1
     },
@@ -658,12 +658,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'Mike hasn't read the book ________.'",
       "options": {
-        "ก": "yet",
-        "ข": "already",
-        "ค": "since",
-        "ง": "ever"
+        "A": "yet",
+        "B": "already",
+        "C": "since",
+        "D": "ever"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'yet' is used in present perfect negative sentences and questions, usually placed at the end.",
       "points": 1
     },
@@ -676,12 +676,12 @@
       "difficulty": "Hard",
       "question": "In the Drop Tower dialogue: 'Have you ________ on the Drop Tower before?' - 'No, I haven't. Have you ________ your safety belt yet?'",
       "options": {
-        "ก": "ridden / put on",
-        "ข": "rode / putted on",
-        "ค": "ride / put on",
-        "ง": "riding / putting on"
+        "A": "ridden / put on",
+        "B": "rode / putted on",
+        "C": "ride / put on",
+        "D": "riding / putting on"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "V3 of 'ride' is 'ridden'; V3 of 'put' is 'put'. Both use present perfect in context.",
       "points": 1
     },
@@ -694,12 +694,12 @@
       "difficulty": "Easy",
       "question": "Complete: 'Amy is not in the classroom. She ________ be in the library.'",
       "options": {
-        "ก": "may",
-        "ข": "mustn't",
-        "ค": "shall",
-        "ง": "wouldn't"
+        "A": "may",
+        "B": "mustn't",
+        "C": "shall",
+        "D": "wouldn't"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'may' expresses possibility (something that is likely to happen).",
       "points": 1
     },
@@ -712,12 +712,12 @@
       "difficulty": "Easy",
       "question": "Complete: 'Take an umbrella with you. It ________ rain this afternoon.'",
       "options": {
-        "ก": "might",
-        "ข": "must",
-        "ค": "shall",
-        "ง": "would"
+        "A": "might",
+        "B": "must",
+        "C": "shall",
+        "D": "would"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'might' expresses future possibility.",
       "points": 1
     },
@@ -730,12 +730,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'John has a bad cold. He ________ go to school tomorrow.'",
       "options": {
-        "ก": "may not",
-        "ข": "must",
-        "ค": "should",
-        "ง": "will"
+        "A": "may not",
+        "B": "must",
+        "C": "should",
+        "D": "will"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'may not' indicates negative possibility (likely won't happen).",
       "points": 1
     },
@@ -748,12 +748,12 @@
       "difficulty": "Easy",
       "question": "Which question politely asks for permission to use a phone?",
       "options": {
-        "ก": "May I use your phone?",
-        "ข": "Will I use your phone?",
-        "ค": "Must I use your phone?",
-        "ง": "Should I use your phone?"
+        "A": "May I use your phone?",
+        "B": "Will I use your phone?",
+        "C": "Must I use your phone?",
+        "D": "Should I use your phone?"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'May I...?' is used to ask for permission politely.",
       "points": 1
     },
@@ -766,12 +766,12 @@
       "difficulty": "Easy",
       "question": "Choose the polite request for water:",
       "options": {
-        "ก": "Could I have some water?",
-        "ข": "Must I have some water?",
-        "ค": "Shall I have some water?",
-        "ง": "Will I have some water?"
+        "A": "Could I have some water?",
+        "B": "Must I have some water?",
+        "C": "Shall I have some water?",
+        "D": "Will I have some water?"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'Could I...?' asks for permission or requests something politely.",
       "points": 1
     },
@@ -784,12 +784,12 @@
       "difficulty": "Medium",
       "question": "Which question politely asks someone to close the door?",
       "options": {
-        "ก": "Would you close the door, please?",
-        "ข": "May you close the door, please?",
-        "ค": "Must you close the door, please?",
-        "ง": "Shall you close the door, please?"
+        "A": "Would you close the door, please?",
+        "B": "May you close the door, please?",
+        "C": "Must you close the door, please?",
+        "D": "Shall you close the door, please?"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'Would you...?' or 'Could you...?' asks someone else to perform an action politely.",
       "points": 1
     },
@@ -802,12 +802,12 @@
       "difficulty": "Medium",
       "question": "What is a polite positive response to 'Could I borrow your pen, please?'",
       "options": {
-        "ก": "Of course. / Certainly.",
-        "ข": "No, you don't.",
-        "ค": "Yes, I will.",
-        "ง": "I am not."
+        "A": "Of course. / Certainly.",
+        "B": "No, you don't.",
+        "C": "Yes, I will.",
+        "D": "I am not."
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Polite responses to 'May I / Could I' include 'Of course', 'Certainly', or 'Sure'.",
       "points": 1
     },
@@ -820,12 +820,12 @@
       "difficulty": "Medium",
       "question": "In context: 'Your room is a mess. ________ clean your room?'",
       "options": {
-        "ก": "Could you",
-        "ข": "May I",
-        "ค": "Might you",
-        "ง": "Shall I"
+        "A": "Could you",
+        "B": "May I",
+        "C": "Might you",
+        "D": "Shall I"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'Could you...?' is used to ask someone to clean their room.",
       "points": 1
     },
@@ -838,12 +838,12 @@
       "difficulty": "Medium",
       "question": "To ask your teacher for permission to go out, you should say: '________ go to the restroom, please?'",
       "options": {
-        "ก": "May I",
-        "ข": "Would you",
-        "ค": "Must you",
-        "ง": "Shall you"
+        "A": "May I",
+        "B": "Would you",
+        "C": "Must you",
+        "D": "Shall you"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'May I...?' is the formal, polite way to ask a teacher for permission.",
       "points": 1
     },
@@ -856,12 +856,12 @@
       "difficulty": "Medium",
       "question": "Unscramble: 'please / phone / Would / the / you / answer / ?'",
       "options": {
-        "ก": "Would you answer the phone, please?",
-        "ข": "Would please you answer the phone?",
-        "ค": "Answer you would the phone, please?",
-        "ง": "You would answer the phone, please?"
+        "A": "Would you answer the phone, please?",
+        "B": "Would please you answer the phone?",
+        "C": "Answer you would the phone, please?",
+        "D": "You would answer the phone, please?"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Correct order: Modal (Would) + Subject (you) + Verb (answer) + Object (the phone) + please?",
       "points": 1
     },
@@ -874,12 +874,12 @@
       "difficulty": "Hard",
       "question": "What is the functional difference between 'May I open the window?' and 'Would you open the window?'",
       "options": {
-        "ก": "'May I' asks permission for speaker; 'Would you' asks listener to act",
-        "ข": "'May I' asks listener to act; 'Would you' asks speaker permission",
-        "ค": "Both ask for speaker permission",
-        "ง": "Both ask listener to act"
+        "A": "'May I' asks permission for speaker; 'Would you' asks listener to act",
+        "B": "'May I' asks listener to act; 'Would you' asks speaker permission",
+        "C": "Both ask for speaker permission",
+        "D": "Both ask listener to act"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'May I' = permission for speaker; 'Would you' = request for listener to act.",
       "points": 1
     },
@@ -892,12 +892,12 @@
       "difficulty": "Medium",
       "question": "Dialogue: 'It's dark in here. ________ turn on the lights?' - 'Certainly.'",
       "options": {
-        "ก": "Could you",
-        "ข": "May I",
-        "ค": "Might you",
-        "ง": "Shall I"
+        "A": "Could you",
+        "B": "May I",
+        "C": "Might you",
+        "D": "Shall I"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'Could you...?' asks another person to turn on the lights.",
       "points": 1
     },
@@ -910,12 +910,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'I ________ inline skate last year, but I CAN now.'",
       "options": {
-        "ก": "couldn't",
-        "ข": "can't",
-        "ค": "mustn't",
-        "ง": "shouldn't"
+        "A": "couldn't",
+        "B": "can't",
+        "C": "mustn't",
+        "D": "shouldn't"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'couldn't' expresses past inability ('last year'), contrasted with present ability ('can now').",
       "points": 1
     },
@@ -928,12 +928,12 @@
       "difficulty": "Easy",
       "question": "Complete: 'All passengers ________ wear seat belts.'",
       "options": {
-        "ก": "must",
-        "ข": "may",
-        "ค": "might",
-        "ง": "could"
+        "A": "must",
+        "B": "may",
+        "C": "might",
+        "D": "could"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'must' expresses strong rule or mandatory obligation.",
       "points": 1
     },
@@ -946,12 +946,12 @@
       "difficulty": "Easy",
       "question": "Complete: 'You ________ cross the street at a red crossing light.'",
       "options": {
-        "ก": "mustn't",
-        "ข": "don't have to",
-        "ค": "might not",
-        "ง": "shall not"
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "might not",
+        "D": "shall not"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'mustn't' expresses strict prohibition (forbidden action).",
       "points": 1
     },
@@ -964,12 +964,12 @@
       "difficulty": "Easy",
       "question": "Complete: 'Tom has a fever. He ________ see a doctor and rest.'",
       "options": {
-        "ก": "should",
-        "ข": "mustn't",
-        "ค": "shall",
-        "ง": "would"
+        "A": "should",
+        "B": "mustn't",
+        "C": "shall",
+        "D": "would"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'should' is used to give advice or recommendations.",
       "points": 1
     },
@@ -982,12 +982,12 @@
       "difficulty": "Hard",
       "question": "Complete: 'Tomorrow is a holiday. I ________ get up early!'",
       "options": {
-        "ก": "don't have to",
-        "ข": "mustn't",
-        "ค": "shouldn't",
-        "ง": "can't"
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "can't"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'don't have to' means lack of necessity/obligation (you can sleep in if you want), unlike 'mustn't' which means forbidden.",
       "points": 1
     },
@@ -1000,12 +1000,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'It was raining hard yesterday. They ________ stop the baseball game.'",
       "options": {
-        "ก": "had to",
-        "ข": "must",
-        "ค": "have to",
-        "ง": "shall"
+        "A": "had to",
+        "B": "must",
+        "C": "have to",
+        "D": "shall"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The past tense of obligation ('must' / 'have to') is 'had to'.",
       "points": 1
     },
@@ -1018,12 +1018,12 @@
       "difficulty": "Medium",
       "question": "Which modal is used to make a polite suggestion to a group: '________ we go to the park this afternoon?'",
       "options": {
-        "ก": "Shall",
-        "ข": "Must",
-        "ค": "Will",
-        "ง": "Would"
+        "A": "Shall",
+        "B": "Must",
+        "C": "Will",
+        "D": "Would"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'Shall we...?' is used to make suggestions to a group.",
       "points": 1
     },
@@ -1036,12 +1036,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'Tom ________ feed his dog after breakfast. It's his responsibility.'",
       "options": {
-        "ก": "has to",
-        "ข": "mustn't",
-        "ค": "shall",
-        "ง": "would"
+        "A": "has to",
+        "B": "mustn't",
+        "C": "shall",
+        "D": "would"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'has to' expresses external responsibility or duty.",
       "points": 1
     },
@@ -1054,12 +1054,12 @@
       "difficulty": "Hard",
       "question": "What is the difference between 'You MUSTN'T talk to strangers' and 'You DON'T HAVE TO go shopping today'?",
       "options": {
-        "ก": "'Mustn't' means forbidden; 'Don't have to' means optional",
-        "ข": "'Mustn't' means optional; 'Don't have to' means forbidden",
-        "ค": "Both mean forbidden",
-        "ง": "Both mean optional"
+        "A": "'Mustn't' means forbidden; 'Don't have to' means optional",
+        "B": "'Mustn't' means optional; 'Don't have to' means forbidden",
+        "C": "Both mean forbidden",
+        "D": "Both mean optional"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'Mustn't' = prohibition/forbidden; 'Don't have to' = optional/not necessary.",
       "points": 1
     },
@@ -1072,12 +1072,12 @@
       "difficulty": "Hard",
       "question": "Dialogue: 'We have a test next week. I ________ study. - Come on, you SHOULD have some fun. ________ we go to the park?'",
       "options": {
-        "ก": "have to / Shall",
-        "ข": "mustn't / Would",
-        "ค": "don't have to / Will",
-        "ง": "could / May"
+        "A": "have to / Shall",
+        "B": "mustn't / Would",
+        "C": "don't have to / Will",
+        "D": "could / May"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'have to study' (obligation) and 'Shall we go...?' (suggestion).",
       "points": 1
     },
@@ -1090,12 +1090,12 @@
       "difficulty": "Medium",
       "question": "Complete: 'Mr. Lewis is leaving our school. He ________ teach us next year.'",
       "options": {
-        "ก": "won't",
-        "ข": "can",
-        "ค": "must",
-        "ง": "shall"
+        "A": "won't",
+        "B": "can",
+        "C": "must",
+        "D": "shall"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'won't' expresses future negative fact/refusal.",
       "points": 1
     },
@@ -1108,12 +1108,12 @@
       "difficulty": "Medium",
       "question": "Which set of topics represents the core Grade 6 Grammar curriculum in the textbook?",
       "options": {
-        "ก": "Past Continuous, Future (Will/Going to), Present Perfect, and Modals",
-        "ข": "Past Simple only",
-        "ค": "Alphabet spelling only",
-        "ง": "Passive Voice only"
+        "A": "Past Continuous, Future (Will/Going to), Present Perfect, and Modals",
+        "B": "Past Simple only",
+        "C": "Alphabet spelling only",
+        "D": "Passive Voice only"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "The textbook units cover Past Continuous, Future Tenses, Present Perfect, and Modal Verbs 1 & 2.",
       "points": 1
     },

@@ -516,8 +516,10 @@ function renderCurrentQuestion() {
   const currentAnswer = state.userAnswers[q.id];
 
   if (q.section === 'MCQ') {
-    // 4 Options (ก, ข, ค, ง)
-    const letters = ['ก', 'ข', 'ค', 'ง'];
+    // Determine choice style: A, B, C, D for English subjects, ก, ข, ค, ง for Thai subjects
+    const isEng = ('A' in q.options) || ('B' in q.options);
+    const letters = isEng ? ['A', 'B', 'C', 'D'] : ['ก', 'ข', 'ค', 'ง'];
+
     letters.forEach(letter => {
       const optText = q.options[letter] || '';
       const card = document.createElement('div');
@@ -528,9 +530,9 @@ function renderCurrentQuestion() {
 
       // In practice mode or after submission, show correct/wrong highlight
       if ((state.practiceMode || state.isSubmitted) && currentAnswer) {
-        if (letter === q.correctAnswer) {
+        if (letter.toUpperCase() === (q.correctAnswer || '').toUpperCase()) {
           card.classList.add('correct-highlight');
-        } else if (currentAnswer === letter && letter !== q.correctAnswer) {
+        } else if (currentAnswer === letter && letter.toUpperCase() !== (q.correctAnswer || '').toUpperCase()) {
           card.classList.add('wrong-highlight');
         }
       }

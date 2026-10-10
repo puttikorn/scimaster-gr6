@@ -11,11 +11,11 @@
 * **Learning Objective**: Identify the three structural parts of a word.
 * **Difficulty**: Easy
 * **Question**: Which part of the word 'uncomfortable' is the ROOT?
-* ก. un-
-* ข. comfort
-* ค. -able
-* ง. -fort
-* **Correct Answer**: ข
+* A. un-
+* B. comfort
+* C. -able
+* D. -fort
+* **Correct Answer**: B
 * **Explanation**: In 'uncomfortable', 'comfort' is the base root word, 'un-' is the prefix, and '-able' is the suffix.
 
 #### ข้อ 2
@@ -23,11 +23,11 @@
 * **Learning Objective**: Determine the meaning of the prefix 're-'.
 * **Difficulty**: Easy
 * **Question**: What is the meaning of the prefix 're-' in words like 'renew' and 'restart'?
-* ก. Before
-* ข. Again or back
-* ค. Not
-* ง. Under
-* **Correct Answer**: ข
+* A. Before
+* B. Again or back
+* C. Not
+* D. Under
+* **Correct Answer**: B
 * **Explanation**: The prefix 're-' means 'again' or 'back' (e.g., renew = make new again).
 
 #### ข้อ 3
@@ -35,11 +35,11 @@
 * **Learning Objective**: Determine the meaning of the prefix 'pre-'.
 * **Difficulty**: Easy
 * **Question**: What does the prefix 'pre-' mean in words such as 'preview' and 'predict'?
-* ก. Before
-* ข. After
-* ค. Against
-* ง. Many
-* **Correct Answer**: ก
+* A. Before
+* B. After
+* C. Against
+* D. Many
+* **Correct Answer**: A
 * **Explanation**: The prefix 'pre-' means 'before' (e.g., preview = view before publication).
 
 #### ข้อ 4
@@ -47,11 +47,11 @@
 * **Learning Objective**: Identify the prefix meaning for 'mis-'.
 * **Difficulty**: Medium
 * **Question**: What does the prefix 'mis-' signify in 'misbehave' or 'misunderstand'?
-* ก. Under or low
-* ข. Wrongly or badly
-* ค. Half
-* ง. Across
-* **Correct Answer**: ข
+* A. Under or low
+* B. Wrongly or badly
+* C. Half
+* D. Across
+* **Correct Answer**: B
 * **Explanation**: The prefix 'mis-' means 'wrong' or 'badly' (e.g., misbehave = behave badly).
 
 #### ข้อ 5
@@ -59,11 +59,11 @@
 * **Learning Objective**: Identify the prefix meaning for 'de-'.
 * **Difficulty**: Medium
 * **Question**: In the word 'deforestation', what does the prefix 'de-' mean?
-* ก. Remove or reduce
-* ข. Twice
-* ค. Against
-* ง. One
-* **Correct Answer**: ก
+* A. Remove or reduce
+* B. Twice
+* C. Against
+* D. One
+* **Correct Answer**: A
 * **Explanation**: The prefix 'de-' means 'remove' or 'reduce' (e.g., deforestation = removal of forests).
 
 #### ข้อ 6
@@ -71,11 +71,11 @@
 * **Learning Objective**: Identify the prefix meaning for 'tele-'.
 * **Difficulty**: Easy
 * **Question**: What does the prefix 'tele-' mean in 'television' and 'telephone'?
-* ก. Far or distant
-* ข. Eight
-* ค. Before
-* ง. Not
-* **Correct Answer**: ก
+* A. Far or distant
+* B. Eight
+* C. Before
+* D. Not
+* **Correct Answer**: A
 * **Explanation**: The prefix 'tele-' comes from Greek meaning 'far' or 'distant'.
 
 #### ข้อ 7
@@ -83,11 +83,11 @@
 * **Learning Objective**: Identify the prefix meaning for 'bi-'.
 * **Difficulty**: Easy
 * **Question**: What is the meaning of the prefix 'bi-' in 'biweekly' or 'bimonthly'?
-* ก. Three times
-* ข. Twice (two times)
-* ค. Every month
-* ง. Under
-* **Correct Answer**: ข
+* A. Three times
+* B. Twice (two times)
+* C. Every month
+* D. Under
+* **Correct Answer**: B
 * **Explanation**: The prefix 'bi-' means 'two' or 'twice' (e.g., biweekly = published twice a week).
 
 #### ข้อ 8
@@ -95,11 +95,11 @@
 * **Learning Objective**: Identify the prefix meaning for 'uni-'.
 * **Difficulty**: Easy
 * **Question**: What does the prefix 'uni-' mean in 'uniform' and 'universe'?
-* ก. One or same
-* ข. Against
-* ค. Middle
-* ง. Half
-* **Correct Answer**: ก
+* A. One or same
+* B. Against
+* C. Middle
+* D. Half
+* **Correct Answer**: A
 * **Explanation**: The prefix 'uni-' means 'one' or 'same' (e.g., uniform = one form/same appearance).
 
 #### ข้อ 9
@@ -107,11 +107,11 @@
 * **Learning Objective**: Identify the prefix meaning for 'oct-'.
 * **Difficulty**: Easy
 * **Question**: What number does the prefix 'oct-' represent in words like 'octopus' and 'October'?
-* ก. 6
-* ข. 8
-* ค. 10
-* ง. 12
-* **Correct Answer**: ข
+* A. 6
+* B. 8
+* C. 10
+* D. 12
+* **Correct Answer**: B
 * **Explanation**: The prefix 'oct-' means 'eight' (e.g., octopus has 8 arms; October was the 8th month in Roman calendar).
 
 #### ข้อ 10
@@ -119,11 +119,11 @@
 * **Learning Objective**: Identify the prefix meaning for 'sub-'.
 * **Difficulty**: Medium
 * **Question**: What is the meaning of the prefix 'sub-' in 'subway' and 'submarine'?
-* ก. Above or over
-* ข. Under or low
-* ค. Between
-* ง. Across
-* **Correct Answer**: ข
+* A. Above or over
+* B. Under or low
+* C. Between
+* D. Across
+* **Correct Answer**: B
 * **Explanation**: The prefix 'sub-' means 'under' or 'low' (e.g., subway = underground train pathway).
 
 #### ข้อ 11
@@ -131,11 +131,11 @@
 * **Learning Objective**: Identify prefixes that create opposite meanings.
 * **Difficulty**: Medium
 * **Question**: Which prefix should be added to the word 'happy' to form its opposite?
-* ก. dis-
-* ข. un-
-* ค. mis-
-* ง. in-
-* **Correct Answer**: ข
+* A. dis-
+* B. un-
+* C. mis-
+* D. in-
+* **Correct Answer**: B
 * **Explanation**: The prefix 'un-' forms the opposite of 'happy' -> 'unhappy'.
 
 #### ข้อ 12
@@ -143,11 +143,11 @@
 * **Learning Objective**: Identify the correct prefix for words starting with 'r'.
 * **Difficulty**: Hard
 * **Question**: Which prefix is correctly paired with 'regular' to mean 'not regular'?
-* ก. un-
-* ข. dis-
-* ค. ir-
-* ง. im-
-* **Correct Answer**: ค
+* A. un-
+* B. dis-
+* C. ir-
+* D. im-
+* **Correct Answer**: C
 * **Explanation**: Words starting with 'r' take the assimilated prefix 'ir-' to form opposites (regular -> irregular).
 
 #### ข้อ 13
@@ -155,11 +155,11 @@
 * **Learning Objective**: Identify the correct prefix for words starting with 'l'.
 * **Difficulty**: Hard
 * **Question**: Which prefix attaches to 'legal' to mean 'against the law / not legal'?
-* ก. il-
-* ข. im-
-* ค. un-
-* ง. dis-
-* **Correct Answer**: ก
+* A. il-
+* B. im-
+* C. un-
+* D. dis-
+* **Correct Answer**: A
 * **Explanation**: Words starting with 'l' take the assimilated prefix 'il-' to form opposites (legal -> illegal).
 
 #### ข้อ 14
@@ -167,11 +167,11 @@
 * **Learning Objective**: Identify the correct prefix for words starting with 'p' or 'm'.
 * **Difficulty**: Hard
 * **Question**: Which prefix is added to 'possible' to mean 'not possible'?
-* ก. in-
-* ข. im-
-* ค. il-
-* ง. un-
-* **Correct Answer**: ข
+* A. in-
+* B. im-
+* C. il-
+* D. un-
+* **Correct Answer**: B
 * **Explanation**: Words starting with 'p' or 'm' take the assimilated prefix 'im-' (possible -> impossible).
 
 #### ข้อ 15
@@ -179,11 +179,11 @@
 * **Learning Objective**: Identify the meaning of 'multi-'.
 * **Difficulty**: Medium
 * **Question**: What does the prefix 'multi-' mean in 'multicolored' and 'multilingual'?
-* ก. Single
-* ข. Many (usually more than two)
-* ค. Half
-* ง. Under
-* **Correct Answer**: ข
+* A. Single
+* B. Many (usually more than two)
+* C. Half
+* D. Under
+* **Correct Answer**: B
 * **Explanation**: The prefix 'multi-' means 'many' (e.g., multilingual = speaking many languages).
 
 #### ข้อ 16
@@ -191,11 +191,11 @@
 * **Learning Objective**: Identify the meaning of 'fore-'.
 * **Difficulty**: Medium
 * **Question**: What does the prefix 'fore-' mean in 'forearm' and 'foreshadow'?
-* ก. Before or front
-* ข. Against
-* ค. After
-* ง. Far
-* **Correct Answer**: ก
+* A. Before or front
+* B. Against
+* C. After
+* D. Far
+* **Correct Answer**: A
 * **Explanation**: The prefix 'fore-' means 'front' or 'before' (e.g., forearm = front part of the arm).
 
 #### ข้อ 17
@@ -203,11 +203,11 @@
 * **Learning Objective**: Identify the meaning of 'semi-'.
 * **Difficulty**: Medium
 * **Question**: What does the prefix 'semi-' mean in 'semifinal' and 'semiweekly'?
-* ก. Full
-* ข. Half or partly
-* ค. Double
-* ง. Zero
-* **Correct Answer**: ข
+* A. Full
+* B. Half or partly
+* C. Double
+* D. Zero
+* **Correct Answer**: B
 * **Explanation**: The prefix 'semi-' means 'half' or 'partly' (e.g., semifinal = half-final round).
 
 #### ข้อ 18
@@ -215,11 +215,11 @@
 * **Learning Objective**: Identify the meaning of 'anti-'.
 * **Difficulty**: Medium
 * **Question**: What does the prefix 'anti-' mean in 'anti-bacterial' and 'anti-gravity'?
-* ก. Against or opposing
-* ข. Together
-* ค. Under
-* ง. Middle
-* **Correct Answer**: ก
+* A. Against or opposing
+* B. Together
+* C. Under
+* D. Middle
+* **Correct Answer**: A
 * **Explanation**: The prefix 'anti-' means 'against' or 'opposing' (e.g., antibacterial = acting against bacteria).
 
 #### ข้อ 19
@@ -227,11 +227,11 @@
 * **Learning Objective**: Identify the meaning of 'inter-'.
 * **Difficulty**: Medium
 * **Question**: What does the prefix 'inter-' mean in 'interact' and 'interstate'?
-* ก. Between or among
-* ข. Inside
-* ค. Outside
-* ง. Without
-* **Correct Answer**: ก
+* A. Between or among
+* B. Inside
+* C. Outside
+* D. Without
+* **Correct Answer**: A
 * **Explanation**: The prefix 'inter-' means 'between' or 'among' (e.g., interstate = between states).
 
 #### ข้อ 20
@@ -239,11 +239,11 @@
 * **Learning Objective**: Select the correct prefixed word for a story context.
 * **Difficulty**: Medium
 * **Question**: In the story 'Al and the party', Marie received gifts. Which word describes what Marie did to her gifts?
-* ก. unchained
-* ข. unloaded
-* ค. unwrapped
-* ง. unpaid
-* **Correct Answer**: ค
+* A. unchained
+* B. unloaded
+* C. unwrapped
+* D. unpaid
+* **Correct Answer**: C
 * **Explanation**: Marie 'unwrapped' her gifts at the party (removed the wrapping paper).
 
 #### ข้อ 21
@@ -251,11 +251,11 @@
 * **Learning Objective**: Interpret 'biweekly' in news publishing.
 * **Difficulty**: Medium
 * **Question**: If a newspaper is described as a 'biweekly', how often is it published?
-* ก. Once a week
-* ข. Twice a week
-* ค. Three times a week
-* ง. Once a month
-* **Correct Answer**: ข
+* A. Once a week
+* B. Twice a week
+* C. Three times a week
+* D. Once a month
+* **Correct Answer**: B
 * **Explanation**: A biweekly newspaper is published twice a week.
 
 #### ข้อ 22
@@ -263,11 +263,11 @@
 * **Learning Objective**: Analyze the term 'nasal decongestant'.
 * **Difficulty**: Medium
 * **Question**: What is the function of a 'nasal decongestant' medicine?
-* ก. It causes nasal congestion
-* ข. It helps reduce nasal congestion
-* ค. It makes your nose bigger
-* ง. It stops your heart
-* **Correct Answer**: ข
+* A. It causes nasal congestion
+* B. It helps reduce nasal congestion
+* C. It makes your nose bigger
+* D. It stops your heart
+* **Correct Answer**: B
 * **Explanation**: The prefix 'de-' means reduce/remove, so a nasal decongestant reduces nasal congestion.
 
 #### ข้อ 23
@@ -275,11 +275,11 @@
 * **Learning Objective**: Interpret the word 'reusable'.
 * **Difficulty**: Easy
 * **Question**: If a shopping bag is 'reusable', what should you do with it?
-* ก. Throw it away immediately
-* ข. Keep it because it can be used again
-* ค. Recycle it into paper
-* ง. Burn it
-* **Correct Answer**: ข
+* A. Throw it away immediately
+* B. Keep it because it can be used again
+* C. Recycle it into paper
+* D. Burn it
+* **Correct Answer**: B
 * **Explanation**: Reusable means it can be used again ('re-' = again).
 
 #### ข้อ 24
@@ -287,11 +287,11 @@
 * **Learning Objective**: Interpret 'misread' and 'misunderstood'.
 * **Difficulty**: Medium
 * **Question**: If someone 'misread' a notice and 'misunderstood' a message, what happened?
-* ก. They read and understood it correctly
-* ข. They did not read it correctly and misunderstood it
-* ค. They did not read it at all
-* ง. They wrote the notice
-* **Correct Answer**: ข
+* A. They read and understood it correctly
+* B. They did not read it correctly and misunderstood it
+* C. They did not read it at all
+* D. They wrote the notice
+* **Correct Answer**: B
 * **Explanation**: 'mis-' means wrongly, so misread = read wrongly, misunderstood = understood wrongly.
 
 #### ข้อ 25
@@ -299,11 +299,11 @@
 * **Learning Objective**: Interpret the term 'preview'.
 * **Difficulty**: Medium
 * **Question**: What does it mean when a publisher 'previews' an article before publishing?
-* ก. They read the article after publication
-* ข. They read the article before publication
-* ค. They never read the article
-* ง. They delete the article
-* **Correct Answer**: ข
+* A. They read the article after publication
+* B. They read the article before publication
+* C. They never read the article
+* D. They delete the article
+* **Correct Answer**: B
 * **Explanation**: 'pre-' means before, so preview means to view or read before publication.
 
 #### ข้อ 26
@@ -311,11 +311,11 @@
 * **Learning Objective**: Contrast 'reforestation' vs 'deforestation'.
 * **Difficulty**: Hard
 * **Question**: What is the key environmental difference between 'reforestation' and 'deforestation'?
-* ก. Reforestation plants trees again; deforestation cuts down trees
-* ข. Both mean cutting down trees
-* ค. Both mean planting trees
-* ง. Reforestation reduces water
-* **Correct Answer**: ก
+* A. Reforestation plants trees again; deforestation cuts down trees
+* B. Both mean cutting down trees
+* C. Both mean planting trees
+* D. Reforestation reduces water
+* **Correct Answer**: A
 * **Explanation**: 'reforestation' ('re-' = again) means planting trees again; 'deforestation' ('de-' = remove) means cutting down forests.
 
 #### ข้อ 27
@@ -323,11 +323,11 @@
 * **Learning Objective**: Analyze October prefix historical anomaly.
 * **Difficulty**: Hard
 * **Question**: Why is 'October' named with the prefix 'oct-' (meaning 8) when it is the 10th month of our modern calendar?
-* ก. Because oct- means ten in Latin
-* ข. Because October used to be the eighth month in the ancient Roman calendar
-* ค. It is a spelling error
-* ง. Because octopus has 10 legs
-* **Correct Answer**: ข
+* A. Because oct- means ten in Latin
+* B. Because October used to be the eighth month in the ancient Roman calendar
+* C. It is a spelling error
+* D. Because octopus has 10 legs
+* **Correct Answer**: B
 * **Explanation**: October was the 8th month in the original ancient Roman calendar before July and August were added.
 
 #### ข้อ 28
@@ -335,11 +335,11 @@
 * **Learning Objective**: Identify syllable boundary after prefixes.
 * **Difficulty**: Medium
 * **Question**: Where is the primary syllable division in the word 'prehistoric'?
-* ก. pre-his-tor-ic
-* ข. preh-is-tor-ic
-* ค. prehi-stor-ic
-* ง. p-rehistoric
-* **Correct Answer**: ก
+* A. pre-his-tor-ic
+* B. preh-is-tor-ic
+* C. prehi-stor-ic
+* D. p-rehistoric
+* **Correct Answer**: A
 * **Explanation**: The prefix 'pre-' separates cleanly from the root, yielding pre-his-tor-ic (4 syllables).
 
 #### ข้อ 29
@@ -347,11 +347,11 @@
 * **Learning Objective**: Identify primary stress in prefixed verbs.
 * **Difficulty**: Hard
 * **Question**: In words like 're-PLY', 're-PEAT', and 're-START', where is the primary stress located?
-* ก. On the prefix 're-'
-* ข. On the root syllable following the prefix
-* ค. On the last letter
-* ง. Equally on both syllables
-* **Correct Answer**: ข
+* A. On the prefix 're-'
+* B. On the root syllable following the prefix
+* C. On the last letter
+* D. Equally on both syllables
+* **Correct Answer**: B
 * **Explanation**: In root-focused prefixed verbs, primary stress falls on the ROOT syllable (re-PLY, re-PEAT, re-START), while the prefix is unstressed.
 
 #### ข้อ 30
@@ -359,11 +359,11 @@
 * **Learning Objective**: Count syllables in multi-prefix words.
 * **Difficulty**: Medium
 * **Question**: How many syllables are in the word 'uncomfortable'?
-* ก. 3
-* ข. 4
-* ค. 5
-* ง. 6
-* **Correct Answer**: ค
+* A. 3
+* B. 4
+* C. 5
+* D. 6
+* **Correct Answer**: C
 * **Explanation**: 'un-com-fort-a-ble' consists of 5 syllables.
 
 #### ข้อ 31
@@ -371,11 +371,11 @@
 * **Learning Objective**: Define what a suffix is and its location.
 * **Difficulty**: Easy
 * **Question**: What is a suffix?
-* ก. A sound added to the beginning of a root word
-* ข. A sound added to the end of a root word
-* ค. The main part of a word
-* ง. A silent letter
-* **Correct Answer**: ข
+* A. A sound added to the beginning of a root word
+* B. A sound added to the end of a root word
+* C. The main part of a word
+* D. A silent letter
+* **Correct Answer**: B
 * **Explanation**: A suffix is an ending element attached to the end of a root word to modify its meaning or grammatical class.
 
 #### ข้อ 32
@@ -383,11 +383,11 @@
 * **Learning Objective**: Identify the most common English suffixes.
 * **Difficulty**: Easy
 * **Question**: According to phonics rules, which three are the most common suffixes in the English language?
-* ก. -es, -ed, and -ing
-* ข. -tion, -sion, and -ness
-* ค. -able, -ful, and -less
-* ง. -anti, -pre, and -sub
-* **Correct Answer**: ก
+* A. -es, -ed, and -ing
+* B. -tion, -sion, and -ness
+* C. -able, -ful, and -less
+* D. -anti, -pre, and -sub
+* **Correct Answer**: A
 * **Explanation**: The three most frequent suffixes in English are '-es', '-ed', and '-ing'.
 
 #### ข้อ 33
@@ -395,11 +395,11 @@
 * **Learning Objective**: Identify the meaning of the suffix '-less'.
 * **Difficulty**: Easy
 * **Question**: What does the suffix '-less' mean in words like 'lifeless', 'careless', and 'homeless'?
-* ก. Full of
-* ข. Without or lacking
-* ค. Able to be
-* ง. State of being
-* **Correct Answer**: ข
+* A. Full of
+* B. Without or lacking
+* C. Able to be
+* D. State of being
+* **Correct Answer**: B
 * **Explanation**: The suffix '-less' means 'without' (e.g., homeless = without a home).
 
 #### ข้อ 34
@@ -407,11 +407,11 @@
 * **Learning Objective**: Identify the meaning of the suffix '-ful'.
 * **Difficulty**: Easy
 * **Question**: What does the suffix '-ful' mean in 'successful', 'wonderful', and 'thoughtful'?
-* ก. Without
-* ข. Full of or characterized by
-* ค. Capable of
-* ง. Small
-* **Correct Answer**: ข
+* A. Without
+* B. Full of or characterized by
+* C. Capable of
+* D. Small
+* **Correct Answer**: B
 * **Explanation**: The suffix '-ful' means 'full of' (e.g., thoughtful = full of thought).
 
 #### ข้อ 35
@@ -419,11 +419,11 @@
 * **Learning Objective**: Identify the meaning of the suffix '-able'.
 * **Difficulty**: Medium
 * **Question**: What does the suffix '-able' mean in 'washable', 'payable', and 'acceptable'?
-* ก. Capable of being or fit for
-* ข. Without
-* ค. Past time
-* ง. One who does
-* **Correct Answer**: ก
+* A. Capable of being or fit for
+* B. Without
+* C. Past time
+* D. One who does
+* **Correct Answer**: A
 * **Explanation**: The suffix '-able' means 'capable of being' (e.g., washable = able to be washed).
 
 #### ข้อ 36
@@ -431,11 +431,11 @@
 * **Learning Objective**: Identify the function of the suffix '-ness'.
 * **Difficulty**: Medium
 * **Question**: What grammatical change occurs when '-ness' is added to 'happy' (happiness)?
-* ก. It changes an adjective into an abstract noun
-* ข. It turns a noun into a verb
-* ค. It makes the word past tense
-* ง. It creates an opposite
-* **Correct Answer**: ก
+* A. It changes an adjective into an abstract noun
+* B. It turns a noun into a verb
+* C. It makes the word past tense
+* D. It creates an opposite
+* **Correct Answer**: A
 * **Explanation**: Adding '-ness' converts adjectives into abstract nouns describing a state of being (happy -> happiness).
 
 #### ข้อ 37
@@ -443,11 +443,11 @@
 * **Learning Objective**: Identify the function of '-ment'.
 * **Difficulty**: Medium
 * **Question**: What function does '-ment' serve in words like 'amazement', 'development', and 'excitement'?
-* ก. Forms nouns denoting an action, state, or result
-* ข. Forms past tense verbs
-* ค. Forms opposite adjectives
-* ง. Forms plural nouns
-* **Correct Answer**: ก
+* A. Forms nouns denoting an action, state, or result
+* B. Forms past tense verbs
+* C. Forms opposite adjectives
+* D. Forms plural nouns
+* **Correct Answer**: A
 * **Explanation**: The suffix '-ment' creates nouns expressing the result or state of an action.
 
 #### ข้อ 38
@@ -455,11 +455,11 @@
 * **Learning Objective**: Identify the function of '-en'.
 * **Difficulty**: Medium
 * **Question**: What does the suffix '-en' do in 'darken', 'deepen', 'quicken', and 'straighten'?
-* ก. Turns words into verbs meaning 'to make or become'
-* ข. Makes words plural
-* ค. Turns words into negative nouns
-* ง. Makes vowels long
-* **Correct Answer**: ก
+* A. Turns words into verbs meaning 'to make or become'
+* B. Makes words plural
+* C. Turns words into negative nouns
+* D. Makes vowels long
+* **Correct Answer**: A
 * **Explanation**: The suffix '-en' forms verbs meaning to cause to be or become (e.g., deepen = to make deep).
 
 #### ข้อ 39
@@ -467,11 +467,11 @@
 * **Learning Objective**: Identify the suffix '-ity'.
 * **Difficulty**: Hard
 * **Question**: What does the suffix '-ity' signify in 'purity', 'ability', and 'majority'?
-* ก. State, quality, or condition of being
-* ข. Action happening now
-* ค. Without quality
-* ง. Before time
-* **Correct Answer**: ก
+* A. State, quality, or condition of being
+* B. Action happening now
+* C. Without quality
+* D. Before time
+* **Correct Answer**: A
 * **Explanation**: The suffix '-ity' forms nouns expressing a state, quality, or degree.
 
 #### ข้อ 40
@@ -479,11 +479,11 @@
 * **Learning Objective**: Identify '-tion' vs '-sion' sounds.
 * **Difficulty**: Medium
 * **Question**: How is the suffix '-tion' pronounced in 'nation', 'tradition', and 'lotion'?
-* ก. /tiːɒn/
-* ข. /ʃən/
-* ค. /ʒən/
-* ง. /tʃən/
-* **Correct Answer**: ข
+* A. /tiːɒn/
+* B. /ʃən/
+* C. /ʒən/
+* D. /tʃən/
+* **Correct Answer**: B
 * **Explanation**: The suffix '-tion' is pronounced as /ʃən/ (or /ʃn̩/).
 
 #### ข้อ 41
@@ -491,11 +491,11 @@
 * **Learning Objective**: Identify y-to-i spelling rule.
 * **Difficulty**: Medium
 * **Question**: When adding '-ness' to 'happy', what spelling change occurs?
-* ก. The 'y' changes to 'i' -> happiness
-* ข. The 'y' is dropped -> happness
-* ค. No change -> happyness
-* ง. An 'e' is added -> happyeness
-* **Correct Answer**: ก
+* A. The 'y' changes to 'i' -> happiness
+* B. The 'y' is dropped -> happness
+* C. No change -> happyness
+* D. An 'e' is added -> happyeness
+* **Correct Answer**: A
 * **Explanation**: Rule: When a root ends in a consonant + 'y', change 'y' to 'i' before adding a suffix (happy -> happiness).
 
 #### ข้อ 42
@@ -503,11 +503,11 @@
 * **Learning Objective**: Identify silent-e dropping rule.
 * **Difficulty**: Medium
 * **Question**: What happens to the silent 'e' in 'imagine' when adding the suffix '-ary' (imaginary)?
-* ก. The silent 'e' is kept
-* ข. The silent 'e' is dropped
-* ค. The 'e' turns into 'i'
-* ง. The consonant 'n' is doubled
-* **Correct Answer**: ข
+* A. The silent 'e' is kept
+* B. The silent 'e' is dropped
+* C. The 'e' turns into 'i'
+* D. The consonant 'n' is doubled
+* **Correct Answer**: B
 * **Explanation**: Rule: Drop silent 'e' at the end of a root word before adding a suffix starting with a vowel (-ary -> imaginary).
 
 #### ข้อ 43
@@ -515,11 +515,11 @@
 * **Learning Objective**: Identify silent-e dropping rule in '-ed'.
 * **Difficulty**: Easy
 * **Question**: When adding '-ed' to the verb 'like', how is it correctly spelled?
-* ก. likeed
-* ข. liked
-* ค. likded
-* ง. likid
-* **Correct Answer**: ข
+* A. likeed
+* B. liked
+* C. likded
+* D. likid
+* **Correct Answer**: B
 * **Explanation**: When root ends in silent 'e', simply add 'd' (like + ed = liked).
 
 #### ข้อ 44
@@ -527,11 +527,11 @@
 * **Learning Objective**: Identify y-to-i rule with '-ly'.
 * **Difficulty**: Medium
 * **Question**: How is the word 'easily' formed from 'easy' and '-ly'?
-* ก. easy + ly = easyly
-* ข. easy + ly = easily (y changes to i)
-* ค. easy + ly = easly
-* ง. easy + ly = ease-ly
-* **Correct Answer**: ข
+* A. easy + ly = easyly
+* B. easy + ly = easily (y changes to i)
+* C. easy + ly = easly
+* D. easy + ly = ease-ly
+* **Correct Answer**: B
 * **Explanation**: Root 'easy' ends in consonant + 'y'; change 'y' to 'i' before adding '-ly' -> easily.
 
 #### ข้อ 45
@@ -539,11 +539,11 @@
 * **Learning Objective**: Identify consonant doubling rule.
 * **Difficulty**: Hard
 * **Question**: Why is the consonant 'm' doubled when adding '-ing' to 'swim' (swimming)?
-* ก. Because swim has a short vowel in a 1-syllable word ending in 1 consonant
-* ข. Because swim ends in a vowel
-* ค. Because ing requires two m's
-* ง. To make it a noun
-* **Correct Answer**: ก
+* A. Because swim has a short vowel in a 1-syllable word ending in 1 consonant
+* B. Because swim ends in a vowel
+* C. Because ing requires two m's
+* D. To make it a noun
+* **Correct Answer**: A
 * **Explanation**: 1-1-1 Rule: 1-syllable word, 1 short vowel, 1 final consonant -> double consonant before vowel suffix (-ing).
 
 #### ข้อ 46
@@ -551,11 +551,11 @@
 * **Learning Objective**: Identify doubling rule in 'muddy'.
 * **Difficulty**: Medium
 * **Question**: How is the adjective 'muddy' formed from the noun 'mud'?
-* ก. mud + y = mudy
-* ข. mud + y = muddy (double 'd')
-* ค. mud + y = mudyed
-* ง. mud + y = mudey
-* **Correct Answer**: ข
+* A. mud + y = mudy
+* B. mud + y = muddy (double 'd')
+* C. mud + y = mudyed
+* D. mud + y = mudey
+* **Correct Answer**: B
 * **Explanation**: 1-1-1 Rule: 'mud' doubles final 'd' before vowel suffix '-y' -> muddy.
 
 #### ข้อ 47
@@ -563,11 +563,11 @@
 * **Learning Objective**: Analyze travel + ing spelling variation.
 * **Difficulty**: Hard
 * **Question**: In British/International English, how is 'travel' + '-ing' spelled?
-* ก. traveled
-* ข. travelling (doubled 'l')
-* ค. traveling
-* ง. travelingness
-* **Correct Answer**: ข
+* A. traveled
+* B. travelling (doubled 'l')
+* C. traveling
+* D. travelingness
+* **Correct Answer**: B
 * **Explanation**: In standard international English phonics curriculum, 'travel' doubles the final 'l' -> travelling.
 
 #### ข้อ 48
@@ -575,11 +575,11 @@
 * **Learning Objective**: Form new word with '-ful'.
 * **Difficulty**: Easy
 * **Question**: What word is formed by combining 'care' + '-less'?
-* ก. careful
-* ข. careless
-* ค. caring
-* ง. carely
-* **Correct Answer**: ข
+* A. careful
+* B. careless
+* C. caring
+* D. carely
+* **Correct Answer**: B
 * **Explanation**: care + '-less' = careless (without care).
 
 #### ข้อ 49
@@ -587,11 +587,11 @@
 * **Learning Objective**: Form new word with '-ment'.
 * **Difficulty**: Easy
 * **Question**: What word is formed by combining 'amaze' + '-ment'?
-* ก. amazeful
-* ข. amazement
-* ค. amazing
-* ง. amazely
-* **Correct Answer**: ข
+* A. amazeful
+* B. amazement
+* C. amazing
+* D. amazely
+* **Correct Answer**: B
 * **Explanation**: amaze + '-ment' = amazement (dropping silent 'e' or combining directly).
 
 #### ข้อ 50
@@ -599,11 +599,11 @@
 * **Learning Objective**: Form new word with '-able'.
 * **Difficulty**: Easy
 * **Question**: What word is formed by combining 'pay' + '-able'?
-* ก. payable
-* ข. payless
-* ค. payful
-* ง. payed
-* **Correct Answer**: ก
+* A. payable
+* B. payless
+* C. payful
+* D. payed
+* **Correct Answer**: A
 * **Explanation**: pay + '-able' = payable (able to be paid).
 
 #### ข้อ 51
@@ -611,11 +611,11 @@
 * **Learning Objective**: Identify stress placement on suffix '-tion'.
 * **Difficulty**: Hard
 * **Question**: Where is the PRIMARY stress placed in words ending with '-tion' like 'tradition' and 'education'?
-* ก. On the suffix '-tion'
-* ข. On the syllable immediately BEFORE '-tion'
-* ค. On the very first syllable
-* ง. On the last letter
-* **Correct Answer**: ข
+* A. On the suffix '-tion'
+* B. On the syllable immediately BEFORE '-tion'
+* C. On the very first syllable
+* D. On the last letter
+* **Correct Answer**: B
 * **Explanation**: Stress Rule: Words ending in '-tion' or '-sion' always place primary stress on the syllable immediately preceding the suffix (tra-DI-tion, ed-u-CA-tion).
 
 #### ข้อ 52
@@ -623,11 +623,11 @@
 * **Learning Objective**: Identify stress placement with '-ity'.
 * **Difficulty**: Hard
 * **Question**: Where is primary stress located in words ending with '-ity' such as 'majority' and 'ability'?
-* ก. On the suffix '-ity'
-* ข. On the syllable directly before '-ity'
-* ค. On the first syllable
-* ง. No stress
-* **Correct Answer**: ข
+* A. On the suffix '-ity'
+* B. On the syllable directly before '-ity'
+* C. On the first syllable
+* D. No stress
+* **Correct Answer**: B
 * **Explanation**: Stress Rule: Words ending in '-ity' have primary stress on the syllable right before '-ity' (ma-JOR-i-ty, a-BIL-i-ty).
 
 #### ข้อ 53
@@ -635,11 +635,11 @@
 * **Learning Objective**: Identify neutral suffixes.
 * **Difficulty**: Hard
 * **Question**: Suffixes like '-less', '-ful', '-ness', and '-ly' are called 'neutral suffixes'. What does this mean?
-* ก. They change the primary stress of the root word
-* ข. They DO NOT change the primary stress of the root word
-* ค. They make all vowels short
-* ง. They remove all accents
-* **Correct Answer**: ข
+* A. They change the primary stress of the root word
+* B. They DO NOT change the primary stress of the root word
+* C. They make all vowels short
+* D. They remove all accents
+* **Correct Answer**: B
 * **Explanation**: Neutral suffixes (like '-ful' or '-ness') do not shift the primary stress of the base root word (CARE-less, HAP-pi-ness).
 
 #### ข้อ 54
@@ -647,11 +647,11 @@
 * **Learning Objective**: Identify stress in 'uncomfortable'.
 * **Difficulty**: Hard
 * **Question**: Where is the primary stress in the word 'uncomfortable'?
-* ก. UN-com-fort-a-ble
-* ข. un-COM-fort-a-ble
-* ค. un-com-FORT-a-ble
-* ง. un-com-fort-A-ble
-* **Correct Answer**: ข
+* A. UN-com-fort-a-ble
+* B. un-COM-fort-a-ble
+* C. un-com-FORT-a-ble
+* D. un-com-fort-A-ble
+* **Correct Answer**: B
 * **Explanation**: In 'uncomfortable', primary stress stays on the root syllable 'COM' (un-COM-fort-a-ble).
 
 #### ข้อ 55
@@ -659,11 +659,11 @@
 * **Learning Objective**: Identify stress in 'irregular'.
 * **Difficulty**: Hard
 * **Question**: Which syllable receives primary stress in the word 'irregular'?
-* ก. IR-reg-u-lar
-* ข. ir-REG-u-lar
-* ค. ir-reg-U-lar
-* ง. ir-reg-u-LAR
-* **Correct Answer**: ข
+* A. IR-reg-u-lar
+* B. ir-REG-u-lar
+* C. ir-reg-U-lar
+* D. ir-reg-u-LAR
+* **Correct Answer**: B
 * **Explanation**: Primary stress falls on the second syllable: ir-REG-u-lar.
 
 #### ข้อ 56
@@ -671,11 +671,11 @@
 * **Learning Objective**: Identify stress in 'impossible'.
 * **Difficulty**: Hard
 * **Question**: Which syllable is stressed in 'impossible'?
-* ก. IM-pos-si-ble
-* ข. im-POS-si-ble
-* ค. im-pos-SI-ble
-* ง. im-pos-si-BLE
-* **Correct Answer**: ข
+* A. IM-pos-si-ble
+* B. im-POS-si-ble
+* C. im-pos-SI-ble
+* D. im-pos-si-BLE
+* **Correct Answer**: B
 * **Explanation**: Primary stress falls on 'POS': im-POS-si-ble.
 
 #### ข้อ 57
@@ -683,11 +683,11 @@
 * **Learning Objective**: Identify stress in 'decongestant'.
 * **Difficulty**: Hard
 * **Question**: Where is primary stress located in 'decongestant'?
-* ก. DE-con-ges-tant
-* ข. de-con-GES-tant
-* ค. de-CON-ges-tant
-* ง. de-con-ges-TANT
-* **Correct Answer**: ข
+* A. DE-con-ges-tant
+* B. de-con-GES-tant
+* C. de-CON-ges-tant
+* D. de-con-ges-TANT
+* **Correct Answer**: B
 * **Explanation**: Primary stress falls on 'GES': de-con-GES-tant.
 
 #### ข้อ 58
@@ -695,11 +695,11 @@
 * **Learning Objective**: Identify stress in 'reforestation'.
 * **Difficulty**: Hard
 * **Question**: Which syllable receives the main primary stress in 'reforestation'?
-* ก. re-for-es-TA-tion
-* ข. RE-for-es-ta-tion
-* ค. re-FOR-es-ta-tion
-* ง. re-for-es-ta-TION
-* **Correct Answer**: ก
+* A. re-for-es-TA-tion
+* B. RE-for-es-ta-tion
+* C. re-FOR-es-ta-tion
+* D. re-for-es-ta-TION
+* **Correct Answer**: A
 * **Explanation**: Before '-tion', stress falls on 'TA': re-for-es-TA-tion.
 
 #### ข้อ 59
@@ -707,11 +707,11 @@
 * **Learning Objective**: Analyze unstressed prefix vowel quality.
 * **Difficulty**: Hard
 * **Question**: In prefixed words like 'remember' and 'repeat', how is the vowel in the prefix 're-' pronounced?
-* ก. As a long stressed /iː/
-* ข. As an unstressed short /rɪ/ or schwa /rə/
-* ค. As a silent letter
-* ง. As /rɛ/
-* **Correct Answer**: ข
+* A. As a long stressed /iː/
+* B. As an unstressed short /rɪ/ or schwa /rə/
+* C. As a silent letter
+* D. As /rɛ/
+* **Correct Answer**: B
 * **Explanation**: When the prefix is unstressed, the vowel reduces to short /rɪ/ or schwa /rə/ (re-MEMBER, re-PEAT).
 
 #### ข้อ 60
@@ -719,11 +719,11 @@
 * **Learning Objective**: Identify function of affix study in Phonics Grade 6.
 * **Difficulty**: Medium
 * **Question**: According to the Grade 6 Phonics curriculum, why is learning syllable division and stress in affixes important?
-* ก. To spell words backwards
-* ข. To make long, complex words easier and more correct to pronounce
-* ค. To eliminate suffixes
-* ง. To count letters
-* **Correct Answer**: ข
+* A. To spell words backwards
+* B. To make long, complex words easier and more correct to pronounce
+* C. To eliminate suffixes
+* D. To count letters
+* **Correct Answer**: B
 * **Explanation**: Understanding syllable division and stress patterns makes multi-syllable prefixed/suffixed words easier and correct to pronounce.
 
 ---

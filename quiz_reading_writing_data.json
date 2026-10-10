@@ -46,12 +46,12 @@
       "difficulty": "Easy",
       "question": "What is the definition of the 'setting' of a story?",
       "options": {
-        "ก": "The main message or moral of the story",
-        "ข": "Where and when a story takes place",
-        "ค": "The conflict between the main characters",
-        "ง": "The list of vocabulary words in a book"
+        "A": "The main message or moral of the story",
+        "B": "Where and when a story takes place",
+        "C": "The conflict between the main characters",
+        "D": "The list of vocabulary words in a book"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Setting refers to the location (where) and time period/environment (when) in which a story occurs.",
       "points": 1
     },
@@ -64,12 +64,12 @@
       "difficulty": "Easy",
       "question": "How can the setting affect a story?",
       "options": {
-        "ก": "It only changes the title of the book.",
-        "ข": "It influences the characters' actions, mood, and plot events.",
-        "ค": "It has no impact on what characters do.",
-        "ง": "It replaces the need for any dialogue."
+        "A": "It only changes the title of the book.",
+        "B": "It influences the characters' actions, mood, and plot events.",
+        "C": "It has no impact on what characters do.",
+        "D": "It replaces the need for any dialogue."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Setting sets the atmosphere and directly shapes character decisions and plot events.",
       "points": 1
     },
@@ -82,12 +82,12 @@
       "difficulty": "Easy",
       "question": "In the story 'Lost and Found', what were Jaya and her family doing?",
       "options": {
-        "ก": "Riding bicycles in the city",
-        "ข": "Hiking in their favorite park on a foggy morning",
-        "ค": "Sailing a boat near a lighthouse",
-        "ง": "Visiting a museum on a sunny afternoon"
+        "A": "Riding bicycles in the city",
+        "B": "Hiking in their favorite park on a foggy morning",
+        "C": "Sailing a boat near a lighthouse",
+        "D": "Visiting a museum on a sunny afternoon"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Jaya, Manoj, and their Mom went hiking on a foggy morning to reach a hill with a crooked tree.",
       "points": 1
     },
@@ -100,12 +100,12 @@
       "difficulty": "Medium",
       "question": "What was the family's destination for their picnic in 'Lost and Found'?",
       "options": {
-        "ก": "A lighthouse near town",
-        "ข": "A hill with a tall, crooked tree on top",
-        "ค": "An old wooden bench on the left side of the main trail",
-        "ง": "A crowded restaurant in the city center"
+        "A": "A lighthouse near town",
+        "B": "A hill with a tall, crooked tree on top",
+        "C": "An old wooden bench on the left side of the main trail",
+        "D": "A crowded restaurant in the city center"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Their goal was a hill topped with a distinctive tall, crooked tree where they liked to picnic.",
       "points": 1
     },
@@ -118,12 +118,12 @@
       "difficulty": "Medium",
       "question": "How did Jaya and her family realize they were on the wrong trail?",
       "options": {
-        "ก": "They saw a giant lighthouse right in front of them.",
-        "ข": "They noticed a long bench on the left side of the trail and checked the time.",
-        "ค": "A park ranger stopped them and gave them new directions.",
-        "ง": "They reached the ocean and could not walk any further."
+        "A": "They saw a giant lighthouse right in front of them.",
+        "B": "They noticed a long bench on the left side of the trail and checked the time.",
+        "C": "A park ranger stopped them and gave them new directions.",
+        "D": "They reached the ocean and could not walk any further."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Seeing the bench and noting it was almost noon made them realize they should have already reached their destination.",
       "points": 1
     },
@@ -136,12 +136,12 @@
       "difficulty": "Medium",
       "question": "What weather condition created difficulty during the family's hike?",
       "options": {
-        "ก": "Heavy snowfall and icy wind",
-        "ข": "Thick fog that blocked their view of landmarks",
-        "ค": "A sudden thunderous rainstorm",
-        "ง": "Extreme desert heat and lack of water"
+        "A": "Heavy snowfall and icy wind",
+        "B": "Thick fog that blocked their view of landmarks",
+        "C": "A sudden thunderous rainstorm",
+        "D": "Extreme desert heat and lack of water"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The foggy morning obscured landmarks until they climbed high enough above the fog.",
       "points": 1
     },
@@ -154,12 +154,12 @@
       "difficulty": "Medium",
       "question": "What landmark did Mom use to orient their position relative to south?",
       "options": {
-        "ก": "The crooked tree",
-        "ข": "The lighthouse near town",
-        "ค": "The wooden bench",
-        "ง": "A giant waterfall"
+        "A": "The crooked tree",
+        "B": "The lighthouse near town",
+        "C": "The wooden bench",
+        "D": "A giant waterfall"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Mom identified the lighthouse near town to know which direction was south.",
       "points": 1
     },
@@ -172,12 +172,12 @@
       "difficulty": "Hard",
       "question": "Why did Jaya describe the destination hill as looking like 'an island in a sea of clouds'?",
       "options": {
-        "ก": "The hill was completely surrounded by real ocean water.",
-        "ข": "The top of the hill stood above the thick fog layer surrounding it.",
-        "ค": "They were looking at a painting inside a museum.",
-        "ง": "The hill had a large lake floating on top of it."
+        "A": "The hill was completely surrounded by real ocean water.",
+        "B": "The top of the hill stood above the thick fog layer surrounding it.",
+        "C": "They were looking at a painting inside a museum.",
+        "D": "The hill had a large lake floating on top of it."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Standing above the fog line made the hilltop look like an island rising out of white clouds.",
       "points": 1
     },
@@ -190,12 +190,12 @@
       "difficulty": "Medium",
       "question": "Which question best helps a reader analyze the setting of a story?",
       "options": {
-        "ก": "How many pages long is this chapter?",
-        "ข": "How does the environment shape the choices characters make?",
-        "ค": "What is the author's middle name?",
-        "ง": "Which font size is used for the text?"
+        "A": "How many pages long is this chapter?",
+        "B": "How does the environment shape the choices characters make?",
+        "C": "What is the author's middle name?",
+        "D": "Which font size is used for the text?"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Asking how the setting influences character choices helps readers understand its literary significance.",
       "points": 1
     },
@@ -208,12 +208,12 @@
       "difficulty": "Easy",
       "question": "If a story takes place during a dark, stormy night in a dense forest, what mood is created?",
       "options": {
-        "ก": "Cheerful and relaxing",
-        "ข": "Mysterious and tense",
-        "ค": "Boring and silly",
-        "ง": "Bright and celebratory"
+        "A": "Cheerful and relaxing",
+        "B": "Mysterious and tense",
+        "C": "Boring and silly",
+        "D": "Bright and celebratory"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Darkness, storms, and dense forests naturally evoke tension and mystery.",
       "points": 1
     },
@@ -226,12 +226,12 @@
       "difficulty": "Easy",
       "question": "What are 'visuals' in a reading text?",
       "options": {
-        "ก": "Pictures, diagrams, maps, and charts that provide extra information",
-        "ข": "The hard cover and binding of a physical book",
-        "ค": "The printed letters and font colors of the text",
-        "ง": "Audio recordings attached to a digital textbook"
+        "A": "Pictures, diagrams, maps, and charts that provide extra information",
+        "B": "The hard cover and binding of a physical book",
+        "C": "The printed letters and font colors of the text",
+        "D": "Audio recordings attached to a digital textbook"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Visuals include photos, diagrams, maps, and graphs that visually support and extend reading content.",
       "points": 1
     },
@@ -244,12 +244,12 @@
       "difficulty": "Easy",
       "question": "Why do authors include visuals alongside text?",
       "options": {
-        "ก": "To make the pages heavier",
-        "ข": "To provide information and context not fully described in text alone",
-        "ค": "To confuse readers who don't like pictures",
-        "ง": "To replace all written words in a book"
+        "A": "To make the pages heavier",
+        "B": "To provide information and context not fully described in text alone",
+        "C": "To confuse readers who don't like pictures",
+        "D": "To replace all written words in a book"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Visuals enhance comprehension by adding visual context and details not stated in text.",
       "points": 1
     },
@@ -262,12 +262,12 @@
       "difficulty": "Medium",
       "question": "What is 'orienteering' as described in Unit 5?",
       "options": {
-        "ก": "A indoor board game played with dice",
-        "ข": "An outdoor sport where racers use a map and compass to find controls",
-        "ค": "A swimming race held in an Olympic pool",
-        "ง": "A cooking contest using natural outdoor herbs"
+        "A": "A indoor board game played with dice",
+        "B": "An outdoor sport where racers use a map and compass to find controls",
+        "C": "A swimming race held in an Olympic pool",
+        "D": "A cooking contest using natural outdoor herbs"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Orienteering is a outdoor navigation race requiring map reading and compass skills.",
       "points": 1
     },
@@ -280,12 +280,12 @@
       "difficulty": "Medium",
       "question": "In orienteering, what are 'controls'?",
       "options": {
-        "ก": "Buttons on a stopwatch used to record lap times",
-        "ข": "Checkpoints marked on maps and marked in nature with special flags",
-        "ค": "Rules enforced by race judges along the trail",
-        "ง": "Obstacles like mud and fallen trees placed by organizers"
+        "A": "Buttons on a stopwatch used to record lap times",
+        "B": "Checkpoints marked on maps and marked in nature with special flags",
+        "C": "Rules enforced by race judges along the trail",
+        "D": "Obstacles like mud and fallen trees placed by organizers"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Controls are target checkpoints that competitors must locate using map coordinates.",
       "points": 1
     },
@@ -298,12 +298,12 @@
       "difficulty": "Easy",
       "question": "What two essential tools must racers carry during an orienteering event?",
       "options": {
-        "ก": "A camera and a smartphone",
-        "ข": "A map and a compass",
-        "ค": "A flashlight and a shovel",
-        "ง": "A tent and a sleeping bag"
+        "A": "A camera and a smartphone",
+        "B": "A map and a compass",
+        "C": "A flashlight and a shovel",
+        "D": "A tent and a sleeping bag"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Orienteers rely strictly on a detailed map and a magnetic compass to navigate.",
       "points": 1
     },
@@ -316,12 +316,12 @@
       "difficulty": "Medium",
       "question": "What color scheme is typically used for control flags in orienteering?",
       "options": {
-        "ก": "Black and white",
-        "ข": "Orange and white",
-        "ค": "Green and blue",
-        "ง": "Yellow and purple"
+        "A": "Black and white",
+        "B": "Orange and white",
+        "C": "Green and blue",
+        "D": "Yellow and purple"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Orienteering control flags feature a distinctive square divided diagonally into orange and white.",
       "points": 1
     },
@@ -334,12 +334,12 @@
       "difficulty": "Medium",
       "question": "According to the text on Lighthouses, where are lighthouses built?",
       "options": {
-        "ก": "In the middle of dense mountain forests",
-        "ข": "On coastal shores and rocky cliffs near water",
-        "ค": "In urban town squares far from the ocean",
-        "ง": "On top of tall city skyscrapers"
+        "A": "In the middle of dense mountain forests",
+        "B": "On coastal shores and rocky cliffs near water",
+        "C": "In urban town squares far from the ocean",
+        "D": "On top of tall city skyscrapers"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Lighthouses are positioned along sea coasts and dangerous shorelines to warn vessels.",
       "points": 1
     },
@@ -352,12 +352,12 @@
       "difficulty": "Medium",
       "question": "What key equipment does a lighthouse have to guide ships during heavy fog?",
       "options": {
-        "ก": "A giant searchlight and a loud fog horn",
-        "ข": "A radar tower and radio speakers",
-        "ค": "A fireworks launcher and smoke signals",
-        "ง": "A flashing mirror and tolling church bells"
+        "A": "A giant searchlight and a loud fog horn",
+        "B": "A radar tower and radio speakers",
+        "C": "A fireworks launcher and smoke signals",
+        "D": "A flashing mirror and tolling church bells"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Lighthouses feature powerful lamps (lights) and acoustic fog horns to warn nearby ships.",
       "points": 1
     },
@@ -370,12 +370,12 @@
       "difficulty": "Easy",
       "question": "What primary warning signal does a lighthouse give to ships?",
       "options": {
-        "ก": "It invites ships to dock at the rocky shore.",
-        "ข": "It warns ships where land is so they avoid crashing into rocks.",
-        "ค": "It tells ships that bad weather is ending soon.",
-        "ง": "It signals that fresh drinking water is available."
+        "A": "It invites ships to dock at the rocky shore.",
+        "B": "It warns ships where land is so they avoid crashing into rocks.",
+        "C": "It tells ships that bad weather is ending soon.",
+        "D": "It signals that fresh drinking water is available."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The light and horn warn sailors of dangerous coastline obstacles and shallow waters.",
       "points": 1
     },
@@ -388,12 +388,12 @@
       "difficulty": "Hard",
       "question": "How does combining text with a map diagram help an orienteering racer?",
       "options": {
-        "ก": "It lets them calculate exact walking elevation and terrain features visually.",
-        "ข": "It replaces the need to practice running.",
-        "ค": "It translates English directions into other languages automatically.",
-        "ง": "It provides exact weather forecasts for the entire week."
+        "A": "It lets them calculate exact walking elevation and terrain features visually.",
+        "B": "It replaces the need to practice running.",
+        "C": "It translates English directions into other languages automatically.",
+        "D": "It provides exact weather forecasts for the entire week."
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Visual map diagrams reveal spatial relationships, contours, and landmarks instantly.",
       "points": 1
     },
@@ -406,12 +406,12 @@
       "difficulty": "Easy",
       "question": "What is a 'bar graph' used for in reading informational texts?",
       "options": {
-        "ก": "To display a timeline of historic fictional events",
-        "ข": "To compare quantities or numbers across categories using rectangular bars",
-        "ค": "To show photographs of famous authors",
-        "ง": "To list definitions of vocabulary words in alphabetical order"
+        "A": "To display a timeline of historic fictional events",
+        "B": "To compare quantities or numbers across categories using rectangular bars",
+        "C": "To show photographs of famous authors",
+        "D": "To list definitions of vocabulary words in alphabetical order"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Bar graphs visually compare data across discrete categories using bar lengths.",
       "points": 1
     },
@@ -424,12 +424,12 @@
       "difficulty": "Medium",
       "question": "According to Unit 5, how many countries in the world were surveyed regarding official languages?",
       "options": {
-        "ก": "50 countries",
-        "ข": "196 countries",
-        "ค": "500 countries",
-        "ง": "1,000 countries"
+        "A": "50 countries",
+        "B": "196 countries",
+        "C": "500 countries",
+        "D": "1,000 countries"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The bar graph study evaluated official language policies across 196 countries.",
       "points": 1
     },
@@ -442,12 +442,12 @@
       "difficulty": "Medium",
       "question": "Which language is used as an official language in the highest number of countries?",
       "options": {
-        "ก": "Spanish",
-        "ข": "English",
-        "ค": "French",
-        "ง": "Mandarin"
+        "A": "Spanish",
+        "B": "English",
+        "C": "French",
+        "D": "Mandarin"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "English holds official status in more countries globally than any other single language.",
       "points": 1
     },
@@ -460,12 +460,12 @@
       "difficulty": "Medium",
       "question": "What is an 'official language' of a country?",
       "options": {
-        "ก": "A secret language known only by government officials",
-        "ข": "A language legally recognized and used for law, government, and education",
-        "ค": "Any slang words spoken by teenagers in a nation",
-        "ง": "A language that has no written alphabet"
+        "A": "A secret language known only by government officials",
+        "B": "A language legally recognized and used for law, government, and education",
+        "C": "Any slang words spoken by teenagers in a nation",
+        "D": "A language that has no written alphabet"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "An official language is designated by law for government, legislation, and public education.",
       "points": 1
     },
@@ -478,12 +478,12 @@
       "difficulty": "Easy",
       "question": "What special form of communication is used by people who are deaf or hard of hearing?",
       "options": {
-        "ก": "Whistle signals",
-        "ข": "Sign languages",
-        "ค": "Morse code",
-        "ง": "Braille printing"
+        "A": "Whistle signals",
+        "B": "Sign languages",
+        "C": "Morse code",
+        "D": "Braille printing"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Sign languages are visual-gestural languages used by deaf and hard-of-hearing communities.",
       "points": 1
     },
@@ -496,12 +496,12 @@
       "difficulty": "Medium",
       "question": "Are sign languages identical across all countries worldwide?",
       "options": {
-        "ก": "Yes, there is only one universal sign language everywhere.",
-        "ข": "No, different countries have distinct sign languages (e.g., ASL, BSL).",
-        "ค": "Yes, all sign languages use English spelling rules.",
-        "ง": "No, sign languages are only used in hospitals."
+        "A": "Yes, there is only one universal sign language everywhere.",
+        "B": "No, different countries have distinct sign languages (e.g., ASL, BSL).",
+        "C": "Yes, all sign languages use English spelling rules.",
+        "D": "No, sign languages are only used in hospitals."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Sign languages vary by country and region, such as American Sign Language (ASL) and British Sign Language (BSL).",
       "points": 1
     },
@@ -514,12 +514,12 @@
       "difficulty": "Hard",
       "question": "If a country has 'no official language', what does this mean?",
       "options": {
-        "ก": "Nobody in that country is allowed to speak.",
-        "ข": "The government has not legally designated one single language above all others.",
-        "ค": "The country has banned foreign books.",
-        "ง": "Only sign language is spoken there."
+        "A": "Nobody in that country is allowed to speak.",
+        "B": "The government has not legally designated one single language above all others.",
+        "C": "The country has banned foreign books.",
+        "D": "Only sign language is spoken there."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "It means no single language is legally codified as the sole official national language.",
       "points": 1
     },
@@ -532,12 +532,12 @@
       "difficulty": "Medium",
       "question": "How does a bar graph help a reader understand statistical data faster than paragraph text?",
       "options": {
-        "ก": "It presents numerical comparisons in a clear visual format.",
-        "ข": "It replaces all facts with imaginary stories.",
-        "ค": "It uses smaller font sizes to save paper.",
-        "ง": "It translates all numbers into roman numerals."
+        "A": "It presents numerical comparisons in a clear visual format.",
+        "B": "It replaces all facts with imaginary stories.",
+        "C": "It uses smaller font sizes to save paper.",
+        "D": "It translates all numbers into roman numerals."
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Visual comparison of bar lengths allows readers to digest relative values immediately.",
       "points": 1
     },
@@ -550,12 +550,12 @@
       "difficulty": "Easy",
       "question": "Which country brought the Spanish language to Mexico centuries ago?",
       "options": {
-        "ก": "England",
-        "ข": "Spain",
-        "ค": "France",
-        "ง": "Italy"
+        "A": "England",
+        "B": "Spain",
+        "C": "France",
+        "D": "Italy"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Colonizers and settlers from Spain introduced Spanish to Mexico.",
       "points": 1
     },
@@ -568,12 +568,12 @@
       "difficulty": "Medium",
       "question": "Why do many people in the United States speak English?",
       "options": {
-        "ก": "English originated natively in North America.",
-        "ข": "Settlers from England brought the English language to North America.",
-        "ค": "The United States passed a law banning all other languages.",
-        "ง": "English was created by American scientists in 1900."
+        "A": "English originated natively in North America.",
+        "B": "Settlers from England brought the English language to North America.",
+        "C": "The United States passed a law banning all other languages.",
+        "D": "English was created by American scientists in 1900."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "English was brought to North America by English settlers and historical migration.",
       "points": 1
     },
@@ -586,12 +586,12 @@
       "difficulty": "Easy",
       "question": "What is a 'prediction' in reading comprehension?",
       "options": {
-        "ก": "A exact summary of what happened in chapter one",
-        "ข": "A sensible guess about what will happen next based on clues and knowledge",
-        "ค": "A list of grammatical errors found in a passage",
-        "ง": "The author's biography on the back cover"
+        "A": "A exact summary of what happened in chapter one",
+        "B": "A sensible guess about what will happen next based on clues and knowledge",
+        "C": "A list of grammatical errors found in a passage",
+        "D": "The author's biography on the back cover"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "A prediction is an educated anticipation of future plot events using textual clues.",
       "points": 1
     },
@@ -604,12 +604,12 @@
       "difficulty": "Medium",
       "question": "What clues should a reader use to make accurate predictions?",
       "options": {
-        "ก": "Only the total page count of the book",
-        "ข": "Story clues, character actions/dialogue, and personal background knowledge",
-        "ค": "Random guesses without looking at the text",
-        "ง": "The color of the book cover illustration"
+        "A": "Only the total page count of the book",
+        "B": "Story clues, character actions/dialogue, and personal background knowledge",
+        "C": "Random guesses without looking at the text",
+        "D": "The color of the book cover illustration"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Good predictions blend textual evidence (clues, behavior) with real-world knowledge.",
       "points": 1
     },
@@ -622,12 +622,12 @@
       "difficulty": "Medium",
       "question": "In 'The Mystery Pencil', why did Rosa ask Erico so many rapid questions?",
       "options": {
-        "ก": "She was angry at him for breaking her desk.",
-        "ข": "She was curious and excited to learn about her new classmate.",
-        "ค": "She was testing him for a school examination.",
-        "ง": "She didn't know how to speak English properly."
+        "A": "She was angry at him for breaking her desk.",
+        "B": "She was curious and excited to learn about her new classmate.",
+        "C": "She was testing him for a school examination.",
+        "D": "She didn't know how to speak English properly."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Rosa was enthusiastic, curious, and talkative upon meeting Erico.",
       "points": 1
     },
@@ -640,12 +640,12 @@
       "difficulty": "Medium",
       "question": "What does the term 'bilingual' mean?",
       "options": {
-        "ก": "Speaking only one language fluently",
-        "ข": "Able to speak two languages fluently",
-        "ค": "Able to write without making spelling mistakes",
-        "ง": "Learning a language using computer software"
+        "A": "Speaking only one language fluently",
+        "B": "Able to speak two languages fluently",
+        "C": "Able to write without making spelling mistakes",
+        "D": "Learning a language using computer software"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Bilingual refers to fluency in two distinct languages.",
       "points": 1
     },
@@ -658,12 +658,12 @@
       "difficulty": "Easy",
       "question": "What is a 'living language'?",
       "options": {
-        "ก": "A language that is used by people in daily life and continues to evolve",
-        "ข": "A language that can speak by itself on television",
-        "ค": "A language that was invented last year by children",
-        "ง": "A language that has no written dictionary"
+        "A": "A language that is used by people in daily life and continues to evolve",
+        "B": "A language that can speak by itself on television",
+        "C": "A language that was invented last year by children",
+        "D": "A language that has no written dictionary"
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "A living language has active native speakers and evolves through daily usage.",
       "points": 1
     },
@@ -676,12 +676,12 @@
       "difficulty": "Easy",
       "question": "What is a 'dead language'?",
       "options": {
-        "ก": "A language spoken only during nighttime",
-        "ข": "A language no longer spoken in daily life by any native community",
-        "ค": "A language that uses numbers instead of letters",
-        "ง": "A language that exists only in songs"
+        "A": "A language spoken only during nighttime",
+        "B": "A language no longer spoken in daily life by any native community",
+        "C": "A language that uses numbers instead of letters",
+        "D": "A language that exists only in songs"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "A dead language (such as Latin) is no longer spoken as a primary native tongue in daily communication.",
       "points": 1
     },
@@ -694,12 +694,12 @@
       "difficulty": "Medium",
       "question": "Which language has the largest number of native speakers in the world?",
       "options": {
-        "ก": "English",
-        "ข": "Mandarin Chinese",
-        "ค": "Spanish",
-        "ง": "Hindi"
+        "A": "English",
+        "B": "Mandarin Chinese",
+        "C": "Spanish",
+        "D": "Hindi"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Mandarin Chinese has the highest total number of native speakers globally (~995M).",
       "points": 1
     },
@@ -712,12 +712,12 @@
       "difficulty": "Medium",
       "question": "Latin is considered an example of a:",
       "options": {
-        "ก": "Living language spoken in modern supermarkets",
-        "ข": "Dead language still studied in literature and science but not spoken natively",
-        "ค": "Newly created digital programming language",
-        "ง": "Sign language used in South America"
+        "A": "Living language spoken in modern supermarkets",
+        "B": "Dead language still studied in literature and science but not spoken natively",
+        "C": "Newly created digital programming language",
+        "D": "Sign language used in South America"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Latin is a classical dead language studied in academic contexts but lacking native speakers.",
       "points": 1
     },
@@ -730,12 +730,12 @@
       "difficulty": "Hard",
       "question": "If only 50 elderly people speak a rare regional language today, what can you predict about its future?",
       "options": {
-        "ก": "It will become the official language of the United Nations.",
-        "ข": "It is at high risk of disappearing and becoming a dead language.",
-        "ค": "Millions of students will start speaking it next year.",
-        "ง": "It will replace English on the internet."
+        "A": "It will become the official language of the United Nations.",
+        "B": "It is at high risk of disappearing and becoming a dead language.",
+        "C": "Millions of students will start speaking it next year.",
+        "D": "It will replace English on the internet."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "With very few elderly speakers remaining, a language faces imminent endangerment and extinction.",
       "points": 1
     },
@@ -748,12 +748,12 @@
       "difficulty": "Medium",
       "question": "What does 'accent' mean when discussing language?",
       "options": {
-        "ก": "The volume at which someone shouts",
-        "ข": "A distinctive way of pronouncing words associated with a region or nation",
-        "ค": "The length of sentences in a written story",
-        "ง": "The speed at which a person reads out loud"
+        "A": "The volume at which someone shouts",
+        "B": "A distinctive way of pronouncing words associated with a region or nation",
+        "C": "The length of sentences in a written story",
+        "D": "The speed at which a person reads out loud"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "An accent is a regional or cultural pattern of pronunciation.",
       "points": 1
     },
@@ -766,12 +766,12 @@
       "difficulty": "Easy",
       "question": "What is the main goal of a 'process essay'?",
       "options": {
-        "ก": "To convince readers to buy a specific product",
-        "ข": "To explain step-by-step how to do or make something in chronological order",
-        "ค": "To write a fictional fairy tale about dragons",
-        "ง": "To describe a personal vacation with emotional poems"
+        "A": "To convince readers to buy a specific product",
+        "B": "To explain step-by-step how to do or make something in chronological order",
+        "C": "To write a fictional fairy tale about dragons",
+        "D": "To describe a personal vacation with emotional poems"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "A process essay provides sequential instructions explaining how a task or operation is completed.",
       "points": 1
     },
@@ -784,12 +784,12 @@
       "difficulty": "Easy",
       "question": "Which set of transition words is essential for organizing a process essay?",
       "options": {
-        "ก": "Because, Since, Although, However",
-        "ข": "First, Next, Then, After that, Finally",
-        "ค": "Beautiful, Quickly, Red, Heavy",
-        "ง": "Yesterday, Someday, Never, Always"
+        "A": "Because, Since, Although, However",
+        "B": "First, Next, Then, After that, Finally",
+        "C": "Beautiful, Quickly, Red, Heavy",
+        "D": "Yesterday, Someday, Never, Always"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Chronological sequence markers (First, Next, Then, Finally) guide step-by-step process writing.",
       "points": 1
     },
@@ -802,12 +802,12 @@
       "difficulty": "Medium",
       "question": "Which transition word is most appropriate for starting the very first step of a process?",
       "options": {
-        "ก": "Finally",
-        "ข": "First",
-        "ค": "Meanwhile",
-        "ง": "In conclusion"
+        "A": "Finally",
+        "B": "First",
+        "C": "Meanwhile",
+        "D": "In conclusion"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "'First' or 'To begin with' introduces the initial step of a procedure.",
       "points": 1
     },
@@ -820,12 +820,12 @@
       "difficulty": "Medium",
       "question": "Which transition word signals the final step in a process essay?",
       "options": {
-        "ก": "First",
-        "ข": "Secondly",
-        "ค": "Finally",
-        "ง": "For example"
+        "A": "First",
+        "B": "Secondly",
+        "C": "Finally",
+        "D": "For example"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "C",
       "explanation": "'Finally' or 'Lastly' designates the ultimate concluding step of a process.",
       "points": 1
     },
@@ -838,12 +838,12 @@
       "difficulty": "Medium",
       "question": "Why are imperative action verbs (e.g., 'Fold', 'Cut', 'Mix') useful in process essays?",
       "options": {
-        "ก": "They make sentences longer and harder to read.",
-        "ข": "They give clear, direct instructions to the reader.",
-        "ค": "They describe feelings and emotions.",
-        "ง": "They introduce past history facts."
+        "A": "They make sentences longer and harder to read.",
+        "B": "They give clear, direct instructions to the reader.",
+        "C": "They describe feelings and emotions.",
+        "D": "They introduce past history facts."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Action verbs direct the reader precisely on what action to perform at each step.",
       "points": 1
     },
@@ -856,12 +856,12 @@
       "difficulty": "Hard",
       "question": "If a process essay skips a step or presents steps out of order, what happens?",
       "options": {
-        "ก": "The essay becomes more poetic and interesting.",
-        "ข": "The reader will get confused and fail to achieve the correct result.",
-        "ค": "The essay automatically wins a writing prize.",
-        "ง": "The topic changes to a book review."
+        "A": "The essay becomes more poetic and interesting.",
+        "B": "The reader will get confused and fail to achieve the correct result.",
+        "C": "The essay automatically wins a writing prize.",
+        "D": "The topic changes to a book review."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Strict chronological sequence is crucial for instructional clarity in process writing.",
       "points": 1
     },
@@ -874,12 +874,12 @@
       "difficulty": "Medium",
       "question": "In a process essay explaining 'How to Read a Map', what should be explained first?",
       "options": {
-        "ก": "How to store the map in your backpack after hiking",
-        "ข": "How to orient the map with a compass and locate your starting point",
-        "ค": "What snack to eat when you finish hiking",
-        "ง": "How to draw a map from memory"
+        "A": "How to store the map in your backpack after hiking",
+        "B": "How to orient the map with a compass and locate your starting point",
+        "C": "What snack to eat when you finish hiking",
+        "D": "How to draw a map from memory"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Orienting the map and identifying your starting location is the essential initial step.",
       "points": 1
     },
@@ -892,12 +892,12 @@
       "difficulty": "Easy",
       "question": "What type of organizational structure does a process essay follow?",
       "options": {
-        "ก": "Spatial order",
-        "ข": "Chronological (time) order",
-        "ค": "Compare and contrast order",
-        "ง": "Random order"
+        "A": "Spatial order",
+        "B": "Chronological (time) order",
+        "C": "Compare and contrast order",
+        "D": "Random order"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Process writing adheres strictly to chronological time sequence.",
       "points": 1
     },
@@ -910,12 +910,12 @@
       "difficulty": "Medium",
       "question": "Which sentence uses a sequence transition correctly?",
       "options": {
-        "ก": "First, stir the soup, and finally wash the vegetables before chopping.",
-        "ข": "First, wash the vegetables. Next, chop them into small pieces. Finally, add them to the pot.",
-        "ค": "Finally, turn on the stove. First, serve the hot soup to guests.",
-        "ง": "Then, wash the pot before you buy vegetables at the market first."
+        "A": "First, stir the soup, and finally wash the vegetables before chopping.",
+        "B": "First, wash the vegetables. Next, chop them into small pieces. Finally, add them to the pot.",
+        "C": "Finally, turn on the stove. First, serve the hot soup to guests.",
+        "D": "Then, wash the pot before you buy vegetables at the market first."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The steps follow logical sequence: First (wash) -> Next (chop) -> Finally (cook/add).",
       "points": 1
     },
@@ -928,12 +928,12 @@
       "difficulty": "Medium",
       "question": "What should the introduction of a process essay include?",
       "options": {
-        "ก": "A detailed list of all mistakes you made last year",
-        "ข": "The purpose of the process and what the reader will accomplish",
-        "ค": "A secret code that readers must solve",
-        "ง": "A review of a movie you watched recently"
+        "A": "A detailed list of all mistakes you made last year",
+        "B": "The purpose of the process and what the reader will accomplish",
+        "C": "A secret code that readers must solve",
+        "D": "A review of a movie you watched recently"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "The intro states the objective of the process and why it is useful or important.",
       "points": 1
     },
@@ -946,12 +946,12 @@
       "difficulty": "Easy",
       "question": "What is a 'book review'?",
       "options": {
-        "ก": "A exact copy of all chapters in a book",
-        "ข": "A written evaluation expressing an opinion, summary, and recommendation about a book",
-        "ค": "A list of grammatical spelling rules for authors",
-        "ง": "A legal contract between a printer and a publisher"
+        "A": "A exact copy of all chapters in a book",
+        "B": "A written evaluation expressing an opinion, summary, and recommendation about a book",
+        "C": "A list of grammatical spelling rules for authors",
+        "D": "A legal contract between a printer and a publisher"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "A review analyzes, summarizes, evaluates, and recommends a literary work.",
       "points": 1
     },
@@ -964,12 +964,12 @@
       "difficulty": "Easy",
       "question": "What are the main structural parts of a standard book review?",
       "options": {
-        "ก": "Headline, Advertisements, Coupon",
-        "ข": "Introduction (Summary), Body (Likes/Dislikes), Conclusion (Recommendation)",
-        "ค": "Chapter 1, Chapter 2, Index",
-        "ง": "Vocabulary list, Grammar notes, Quiz"
+        "A": "Headline, Advertisements, Coupon",
+        "B": "Introduction (Summary), Body (Likes/Dislikes), Conclusion (Recommendation)",
+        "C": "Chapter 1, Chapter 2, Index",
+        "D": "Vocabulary list, Grammar notes, Quiz"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Reviews follow Intro/Summary -> Body evaluation -> Conclusion recommendation format.",
       "points": 1
     },
@@ -982,12 +982,12 @@
       "difficulty": "Medium",
       "question": "Which phrases are commonly used in a review body paragraph to introduce supporting examples?",
       "options": {
-        "ก": "First of all, Secondly",
-        "ข": "For example, For instance",
-        "ค": "In spite of, Nevertheless",
-        "ง": "Once upon a time, Long ago"
+        "A": "First of all, Secondly",
+        "B": "For example, For instance",
+        "C": "In spite of, Nevertheless",
+        "D": "Once upon a time, Long ago"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "'For example' and 'For instance' introduce specific text evidence supporting opinions.",
       "points": 1
     },
@@ -1000,12 +1000,12 @@
       "difficulty": "Medium",
       "question": "What belongs in the summary section of a book review?",
       "options": {
-        "ก": "A complete spoiler of the ending twist",
-        "ข": "A brief overview of the main plot, characters, and setting without spoiling the ending",
-        "ค": "A detailed list of the author's family background",
-        "ง": "The price of the book at different bookstores"
+        "A": "A complete spoiler of the ending twist",
+        "B": "A brief overview of the main plot, characters, and setting without spoiling the ending",
+        "C": "A detailed list of the author's family background",
+        "D": "The price of the book at different bookstores"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Summaries provide basic plot/character context while preserving resolution surprises.",
       "points": 1
     },
@@ -1018,12 +1018,12 @@
       "difficulty": "Medium",
       "question": "Where in a review should the writer state their final recommendation and rating?",
       "options": {
-        "ก": "In the very first sentence of the title",
-        "ข": "In the body paragraph describing character names",
-        "ค": "In the conclusion paragraph",
-        "ง": "In a footnote at the bottom of page 10"
+        "A": "In the very first sentence of the title",
+        "B": "In the body paragraph describing character names",
+        "C": "In the conclusion paragraph",
+        "D": "In a footnote at the bottom of page 10"
       },
-      "correctAnswer": "ค",
+      "correctAnswer": "C",
       "explanation": "The conclusion summarizes final thoughts and delivers the final recommendation.",
       "points": 1
     },
@@ -1036,12 +1036,12 @@
       "difficulty": "Medium",
       "question": "Which statement expresses an opinion suitable for a book review?",
       "options": {
-        "ก": "The book has 124 pages and 8 chapters.",
-        "ข": "The author's description of the foggy setting makes the story incredibly exciting.",
-        "ค": "The book was published in London in 2020.",
-        "ง": "The main character is named Jaya."
+        "A": "The book has 124 pages and 8 chapters.",
+        "B": "The author's description of the foggy setting makes the story incredibly exciting.",
+        "C": "The book was published in London in 2020.",
+        "D": "The main character is named Jaya."
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Evaluative opinions highlight strengths like vivid setting descriptions.",
       "points": 1
     },
@@ -1054,12 +1054,12 @@
       "difficulty": "Hard",
       "question": "Why should a reviewer include both likes and dislikes in a balanced review?",
       "options": {
-        "ก": "To make the review look twice as long",
-        "ข": "To give a fair, honest, and objective evaluation of the work",
-        "ค": "Because the publisher requires equal word counts",
-        "ง": "To confuse readers so they buy two books"
+        "A": "To make the review look twice as long",
+        "B": "To give a fair, honest, and objective evaluation of the work",
+        "C": "Because the publisher requires equal word counts",
+        "D": "To confuse readers so they buy two books"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Addressing both strengths and minor drawbacks establishes credibility and fairness.",
       "points": 1
     },
@@ -1072,12 +1072,12 @@
       "difficulty": "Medium",
       "question": "Which phrase is used to introduce a recommendation in a review?",
       "options": {
-        "ก": "I strongly recommend this book to readers who enjoy outdoor mysteries.",
-        "ข": "First, open the front cover of the book.",
-        "ค": "In line 4, the word bench is a noun.",
-        "ง": "The bar graph shows 196 countries."
+        "A": "I strongly recommend this book to readers who enjoy outdoor mysteries.",
+        "B": "First, open the front cover of the book.",
+        "C": "In line 4, the word bench is a noun.",
+        "D": "The bar graph shows 196 countries."
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "Recommending target audiences is a key function of review conclusions.",
       "points": 1
     },
@@ -1090,12 +1090,12 @@
       "difficulty": "Easy",
       "question": "What should a reviewer avoid doing in a book review summary?",
       "options": {
-        "ก": "Mentioning the main characters' names",
-        "ข": "Giving away the entire secret ending (spoilers)",
-        "ค": "Describing the main setting",
-        "ง": "Mentioning the main genre of the book"
+        "A": "Mentioning the main characters' names",
+        "B": "Giving away the entire secret ending (spoilers)",
+        "C": "Describing the main setting",
+        "D": "Mentioning the main genre of the book"
       },
-      "correctAnswer": "ข",
+      "correctAnswer": "B",
       "explanation": "Revealing major plot climaxes or endings ruins the reading experience for potential readers.",
       "points": 1
     },
@@ -1108,12 +1108,12 @@
       "difficulty": "Medium",
       "question": "Which sentence demonstrates proper use of 'for instance' in a review?",
       "options": {
-        "ก": "The plot is fast-paced. For instance, in chapter two the characters get trapped in a foggy cave.",
-        "ข": "For instance, I read the book yesterday at school.",
-        "ค": "I didn't like the book for instance it was too expensive.",
-        "ง": "For instance, the author wrote a process essay."
+        "A": "The plot is fast-paced. For instance, in chapter two the characters get trapped in a foggy cave.",
+        "B": "For instance, I read the book yesterday at school.",
+        "C": "I didn't like the book for instance it was too expensive.",
+        "D": "For instance, the author wrote a process essay."
       },
-      "correctAnswer": "ก",
+      "correctAnswer": "A",
       "explanation": "'For instance' correctly introduces a specific plot event demonstrating fast pacing.",
       "points": 1
     },

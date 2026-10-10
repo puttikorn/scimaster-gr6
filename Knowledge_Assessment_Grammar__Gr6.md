@@ -11,11 +11,11 @@
 * **Learning Objective**: Form correct past continuous affirmative sentences.
 * **Difficulty**: Easy
 * **Question**: Which sentence correctly uses the past continuous tense?
-* ก. She reading a newspaper yesterday.
-* ข. She was reading a newspaper yesterday at 3 PM.
-* ค. She readed a newspaper yesterday.
-* ง. She is reading a newspaper yesterday.
-* **Correct Answer**: ข
+* A. She reading a newspaper yesterday.
+* B. She was reading a newspaper yesterday at 3 PM.
+* C. She readed a newspaper yesterday.
+* D. She is reading a newspaper yesterday.
+* **Correct Answer**: B
 * **Explanation**: The past continuous structure is subject + was/were + verb-ing (e.g., 'She was reading...').
 
 #### ข้อ 2
@@ -23,11 +23,11 @@
 * **Learning Objective**: Form past continuous yes/no questions.
 * **Difficulty**: Easy
 * **Question**: What is the correct past continuous question form for 'you / study / in the library'?
-* ก. Did you study in the library?
-* ข. Were you studying in the library?
-* ค. Was you studying in the library?
-* ง. Are you studying in the library yesterday?
-* **Correct Answer**: ข
+* A. Did you study in the library?
+* B. Were you studying in the library?
+* C. Was you studying in the library?
+* D. Are you studying in the library yesterday?
+* **Correct Answer**: B
 * **Explanation**: Yes/No questions in past continuous start with Was/Were + Subject + Verb-ing ('Were you studying...?').
 
 #### ข้อ 3
@@ -35,11 +35,11 @@
 * **Learning Objective**: Form past continuous negative sentences.
 * **Difficulty**: Easy
 * **Question**: Choose the correct negative past continuous sentence for 'They / practice / the piano'.
-* ก. They didn't practice the piano.
-* ข. They wasn't practicing the piano.
-* ค. They weren't practicing the piano.
-* ง. They not practicing the piano.
-* **Correct Answer**: ค
+* A. They didn't practice the piano.
+* B. They wasn't practicing the piano.
+* C. They weren't practicing the piano.
+* D. They not practicing the piano.
+* **Correct Answer**: C
 * **Explanation**: Plural subject 'They' uses 'weren't' (were not) + verb-ing.
 
 #### ข้อ 4
@@ -47,11 +47,11 @@
 * **Learning Objective**: Distinguish specific time continuous vs completed action.
 * **Difficulty**: Medium
 * **Question**: Complete the sentence: 'Sam watched a movie yesterday afternoon, but at 2:30 yesterday afternoon, he ________ a movie.'
-* ก. watched
-* ข. was watching
-* ค. is watching
-* ง. will watch
-* **Correct Answer**: ข
+* A. watched
+* B. was watching
+* C. is watching
+* D. will watch
+* **Correct Answer**: B
 * **Explanation**: The past continuous ('was watching') describes an action in progress at a specific time in the past (2:30 PM).
 
 #### ข้อ 5
@@ -59,11 +59,11 @@
 * **Learning Objective**: Apply 'when' with past simple in past continuous contexts.
 * **Difficulty**: Medium
 * **Question**: Choose the correct verb form: 'I was taking a nap when the doorbell ________.'
-* ก. rang
-* ข. was ringing
-* ค. rings
-* ง. is ringing
-* **Correct Answer**: ก
+* A. rang
+* B. was ringing
+* C. rings
+* D. is ringing
+* **Correct Answer**: A
 * **Explanation**: A clause introduced by 'when' usually takes the past simple tense ('rang') to show an interrupting action.
 
 #### ข้อ 6
@@ -71,11 +71,11 @@
 * **Learning Objective**: Apply 'while' with past continuous.
 * **Difficulty**: Medium
 * **Question**: Complete the sentence: 'It started to rain while we ________ our bikes.'
-* ก. rode
-* ข. were riding
-* ค. are riding
-* ง. ride
-* **Correct Answer**: ข
+* A. rode
+* B. were riding
+* C. are riding
+* D. ride
+* **Correct Answer**: B
 * **Explanation**: A clause introduced by 'while' takes the past continuous tense ('were riding') to show an ongoing background action.
 
 #### ข้อ 7
@@ -83,11 +83,11 @@
 * **Learning Objective**: Select between 'when' and 'while' conjunctions.
 * **Difficulty**: Medium
 * **Question**: Choose the correct conjunction: 'The teacher came in ________ the students were singing.'
-* ก. while
-* ข. when
-* ค. until
-* ง. before
-* **Correct Answer**: ก
+* A. while
+* B. when
+* C. until
+* D. before
+* **Correct Answer**: A
 * **Explanation**: 'While' introduces the ongoing action clause in the past continuous ('the students were singing').
 
 #### ข้อ 8
@@ -95,11 +95,11 @@
 * **Learning Objective**: Analyze past continuous interrupted by past simple.
 * **Difficulty**: Medium
 * **Question**: Complete the sentence: 'Amy ________ a picture when the teacher came in.'
-* ก. drew
-* ข. was drawing
-* ค. is drawing
-* ง. draws
-* **Correct Answer**: ข
+* A. drew
+* B. was drawing
+* C. is drawing
+* D. draws
+* **Correct Answer**: B
 * **Explanation**: The ongoing activity ('was drawing') was interrupted by the teacher's entry ('came in').
 
 #### ข้อ 9
@@ -107,11 +107,11 @@
 * **Learning Objective**: Identify correct past continuous form in reading context.
 * **Difficulty**: Medium
 * **Question**: In the story: 'While Mom and Dad were building a tent, a park ranger ________ on horseback.'
-* ก. was coming
-* ข. came
-* ค. comes
-* ง. is coming
-* **Correct Answer**: ข
+* A. was coming
+* B. came
+* C. comes
+* D. is coming
+* **Correct Answer**: B
 * **Explanation**: The background action is past continuous ('were building'), and the completed interruption uses past simple ('came').
 
 #### ข้อ 10
@@ -119,11 +119,11 @@
 * **Learning Objective**: Identify background action in camping story.
 * **Difficulty**: Medium
 * **Question**: Complete: 'While we ________ in the tent at night, the ranger came back to check on us.'
-* ก. slept
-* ข. were sleeping
-* ค. are sleeping
-* ง. sleep
-* **Correct Answer**: ข
+* A. slept
+* B. were sleeping
+* C. are sleeping
+* D. sleep
+* **Correct Answer**: B
 * **Explanation**: 'While' requires the past continuous tense ('were sleeping') for the background activity.
 
 #### ข้อ 11
@@ -131,11 +131,11 @@
 * **Learning Objective**: Select correct verb pair for past action.
 * **Difficulty**: Hard
 * **Question**: Which sentence correctly combines past simple and past continuous?
-* ก. Sam was breaking a plate while he did the dishes.
-* ข. Sam broke a plate while he was doing the dishes.
-* ค. Sam broke a plate while he is doing dishes.
-* ง. Sam breaks a plate when he was doing dishes.
-* **Correct Answer**: ข
+* A. Sam was breaking a plate while he did the dishes.
+* B. Sam broke a plate while he was doing the dishes.
+* C. Sam broke a plate while he is doing dishes.
+* D. Sam breaks a plate when he was doing dishes.
+* **Correct Answer**: B
 * **Explanation**: 'Broke' (past simple interrupting event) occurs during 'was doing' (past continuous ongoing process).
 
 #### ข้อ 12
@@ -143,11 +143,11 @@
 * **Learning Objective**: Choose correct auxiliary was/were.
 * **Difficulty**: Easy
 * **Question**: Complete: 'Ken and Sally ________ talking to each other when the teacher came in.'
-* ก. was
-* ข. were
-* ค. are
-* ง. have
-* **Correct Answer**: ข
+* A. was
+* B. were
+* C. are
+* D. have
+* **Correct Answer**: B
 * **Explanation**: Compound subject 'Ken and Sally' requires plural auxiliary 'were'.
 
 #### ข้อ 13
@@ -155,11 +155,11 @@
 * **Learning Objective**: Form simple future affirmative with 'will'.
 * **Difficulty**: Easy
 * **Question**: Which sentence correctly uses 'will' for a future event?
-* ก. My dad will buy a new car soon.
-* ข. My dad will buying a new car soon.
-* ค. My dad will bought a new car soon.
-* ง. My dad is will buy a new car soon.
-* **Correct Answer**: ก
+* A. My dad will buy a new car soon.
+* B. My dad will buying a new car soon.
+* C. My dad will bought a new car soon.
+* D. My dad is will buy a new car soon.
+* **Correct Answer**: A
 * **Explanation**: Future with 'will' uses will + base verb ('will buy').
 
 #### ข้อ 14
@@ -167,11 +167,11 @@
 * **Learning Objective**: Form negative future with 'won't'.
 * **Difficulty**: Easy
 * **Question**: Choose the correct negative future form: 'Jenny ________ watch a movie tonight.'
-* ก. won't
-* ข. don't
-* ค. isn't
-* ง. wasn't
-* **Correct Answer**: ก
+* A. won't
+* B. don't
+* C. isn't
+* D. wasn't
+* **Correct Answer**: A
 * **Explanation**: The negative of 'will' is 'won't' (will not) + base verb.
 
 #### ข้อ 15
@@ -179,11 +179,11 @@
 * **Learning Objective**: Form future questions with 'will'.
 * **Difficulty**: Easy
 * **Question**: Choose the correct question: '________ travel to Europe next summer?'
-* ก. Will you
-* ข. Do you
-* ค. Are you
-* ง. Were you
-* **Correct Answer**: ก
+* A. Will you
+* B. Do you
+* C. Are you
+* D. Were you
+* **Correct Answer**: A
 * **Explanation**: Future questions with 'will' invert subject and modal: Will + Subject + Base Verb.
 
 #### ข้อ 16
@@ -191,11 +191,11 @@
 * **Learning Objective**: Form affirmative 'be going to' for planned actions.
 * **Difficulty**: Easy
 * **Question**: Complete the sentence: 'I ________ open the window.'
-* ก. am going to
-* ข. is going to
-* ค. are going to
-* ง. going to
-* **Correct Answer**: ก
+* A. am going to
+* B. is going to
+* C. are going to
+* D. going to
+* **Correct Answer**: A
 * **Explanation**: First-person singular 'I' pairs with 'am going to' + base verb.
 
 #### ข้อ 17
@@ -203,11 +203,11 @@
 * **Learning Objective**: Form negative 'be going to' sentences.
 * **Difficulty**: Medium
 * **Question**: Choose the correct negative sentence: 'I ________ home this weekend.'
-* ก. am not going to be
-* ข. am going to not be
-* ค. not am going to be
-* ง. don't going to be
-* **Correct Answer**: ก
+* A. am not going to be
+* B. am going to not be
+* C. not am going to be
+* D. don't going to be
+* **Correct Answer**: A
 * **Explanation**: Negative form: Subject + am/is/are + not + going to + base verb.
 
 #### ข้อ 18
@@ -215,11 +215,11 @@
 * **Learning Objective**: Form 'be going to' questions.
 * **Difficulty**: Medium
 * **Question**: Complete the question: '________ John going to help us with this project?'
-* ก. Is
-* ข. Are
-* ค. Will
-* ง. Does
-* **Correct Answer**: ก
+* A. Is
+* B. Are
+* C. Will
+* D. Does
+* **Correct Answer**: A
 * **Explanation**: Third-person singular 'John' takes 'Is' at the start of 'be going to' questions.
 
 #### ข้อ 19
@@ -227,11 +227,11 @@
 * **Learning Objective**: Identify Present Continuous used for fixed future plans.
 * **Difficulty**: Medium
 * **Question**: In the sentence 'Mark is running in a race tomorrow', what does the present continuous tense express?
-* ก. An action happening right now
-* ข. A definite plan or arrangement for the future
-* ค. A past habit
-* ง. A general truth
-* **Correct Answer**: ข
+* A. An action happening right now
+* B. A definite plan or arrangement for the future
+* C. A past habit
+* D. A general truth
+* **Correct Answer**: B
 * **Explanation**: The present continuous + future time word ('tomorrow') expresses a definite planned future arrangement.
 
 #### ข้อ 20
@@ -239,11 +239,11 @@
 * **Learning Objective**: Select correct verb form for future arrangement.
 * **Difficulty**: Medium
 * **Question**: Complete: 'They ________ a birthday party this afternoon.'
-* ก. are having
-* ข. were having
-* ค. had
-* ง. have had
-* **Correct Answer**: ก
+* A. are having
+* B. were having
+* C. had
+* D. have had
+* **Correct Answer**: A
 * **Explanation**: 'are having' (present continuous) is used with 'this afternoon' for a planned future event.
 
 #### ข้อ 21
@@ -251,11 +251,11 @@
 * **Learning Objective**: Select between will and be going to for spontaneous vs planned.
 * **Difficulty**: Hard
 * **Question**: Sam and I can't ski. We ________ to ski this winter.
-* ก. will learn
-* ข. learned
-* ค. were learning
-* ง. are learned
-* **Correct Answer**: ก
+* A. will learn
+* B. learned
+* C. were learning
+* D. are learned
+* **Correct Answer**: A
 * **Explanation**: 'will learn' expresses a decision/intention regarding future learning.
 
 #### ข้อ 22
@@ -263,11 +263,11 @@
 * **Learning Objective**: Analyze Ben's weekend plan dialogue.
 * **Difficulty**: Medium
 * **Question**: In Ben's dialogue: 'My uncle ________ to visit us this weekend. He ________ me how to water-ski.'
-* ก. is coming / will teach
-* ข. came / taught
-* ค. was coming / teaches
-* ง. comes / was teaching
-* **Correct Answer**: ก
+* A. is coming / will teach
+* B. came / taught
+* C. was coming / teaches
+* D. comes / was teaching
+* **Correct Answer**: A
 * **Explanation**: 'is coming' (planned arrival) and 'will teach' (future action/promise).
 
 #### ข้อ 23
@@ -275,11 +275,11 @@
 * **Learning Objective**: Form future question in dialogue.
 * **Difficulty**: Medium
 * **Question**: Choose the correct question: '________ you come to my house next weekend?'
-* ก. Will
-* ข. Are
-* ค. Did
-* ง. Were
-* **Correct Answer**: ก
+* A. Will
+* B. Are
+* C. Did
+* D. Were
+* **Correct Answer**: A
 * **Explanation**: 'Will you come...?' invites someone to a future event.
 
 #### ข้อ 24
@@ -287,11 +287,11 @@
 * **Learning Objective**: Select appropriate future expression.
 * **Difficulty**: Medium
 * **Question**: Complete: 'I'm not hungry now. I ________ eat lunch later.'
-* ก. will
-* ข. was
-* ค. did
-* ง. have
-* **Correct Answer**: ก
+* A. will
+* B. was
+* C. did
+* D. have
+* **Correct Answer**: A
 * **Explanation**: 'will' expresses a future decision.
 
 #### ข้อ 25
@@ -299,11 +299,11 @@
 * **Learning Objective**: Form present perfect affirmative with regular/irregular verbs.
 * **Difficulty**: Easy
 * **Question**: Which sentence is correctly written in the present perfect tense?
-* ก. She has waited for you since three o'clock.
-* ข. She is waiting for you since three o'clock.
-* ค. She waited for you since three o'clock.
-* ง. She has wait for you since three o'clock.
-* **Correct Answer**: ก
+* A. She has waited for you since three o'clock.
+* B. She is waiting for you since three o'clock.
+* C. She waited for you since three o'clock.
+* D. She has wait for you since three o'clock.
+* **Correct Answer**: A
 * **Explanation**: Present perfect form: has/have + past participle (V3) + since/for.
 
 #### ข้อ 26
@@ -311,11 +311,11 @@
 * **Learning Objective**: Form present perfect negative sentences.
 * **Difficulty**: Easy
 * **Question**: Complete: 'He ________ me this week.'
-* ก. hasn't called
-* ข. haven't called
-* ค. didn't called
-* ง. doesn't call
-* **Correct Answer**: ก
+* A. hasn't called
+* B. haven't called
+* C. didn't called
+* D. doesn't call
+* **Correct Answer**: A
 * **Explanation**: Third-person singular 'He' uses 'hasn't' (has not) + V3 ('called').
 
 #### ข้อ 27
@@ -323,11 +323,11 @@
 * **Learning Objective**: Distinguish 'for' (duration) vs 'since' (starting point).
 * **Difficulty**: Medium
 * **Question**: Choose the correct preposition: 'They have studied math ________ two hours.'
-* ก. for
-* ข. since
-* ค. during
-* ง. ago
-* **Correct Answer**: ก
+* A. for
+* B. since
+* C. during
+* D. ago
+* **Correct Answer**: A
 * **Explanation**: 'for' is used with a period of time/duration ('two hours'); 'since' is used with a specific starting point.
 
 #### ข้อ 28
@@ -335,11 +335,11 @@
 * **Learning Objective**: Apply 'since' for starting point.
 * **Difficulty**: Medium
 * **Question**: Complete: 'She has watched TV ________ dinner.'
-* ก. since
-* ข. for
-* ค. in
-* ง. by
-* **Correct Answer**: ก
+* A. since
+* B. for
+* C. in
+* D. by
+* **Correct Answer**: A
 * **Explanation**: 'since' indicates the starting point of an action continuing to the present.
 
 #### ข้อ 29
@@ -347,11 +347,11 @@
 * **Learning Objective**: Form yes/no questions in present perfect.
 * **Difficulty**: Easy
 * **Question**: What is the correct present perfect question form for 'They have saved a lot of money'?
-* ก. Have they saved a lot of money?
-* ข. Did they save a lot of money?
-* ค. Are they saving a lot of money?
-* ง. Do they save a lot of money?
-* **Correct Answer**: ก
+* A. Have they saved a lot of money?
+* B. Did they save a lot of money?
+* C. Are they saving a lot of money?
+* D. Do they save a lot of money?
+* **Correct Answer**: A
 * **Explanation**: Yes/No questions invert auxiliary and subject: Have/Has + Subject + V3...?
 
 #### ข้อ 30
@@ -359,11 +359,11 @@
 * **Learning Objective**: Identify V3 form of 'do'.
 * **Difficulty**: Easy
 * **Question**: What is the past participle (V3) form of the verb 'do'?
-* ก. done
-* ข. did
-* ค. doing
-* ง. does
-* **Correct Answer**: ก
+* A. done
+* B. did
+* C. doing
+* D. does
+* **Correct Answer**: A
 * **Explanation**: The verb 'do' has principal parts: do - did - done (V3 = done).
 
 #### ข้อ 31
@@ -371,11 +371,11 @@
 * **Learning Objective**: Identify V3 form of 'eat'.
 * **Difficulty**: Easy
 * **Question**: Complete: 'We have ________ Thai food before.'
-* ก. eaten
-* ข. ate
-* ค. eating
-* ง. eats
-* **Correct Answer**: ก
+* A. eaten
+* B. ate
+* C. eating
+* D. eats
+* **Correct Answer**: A
 * **Explanation**: The past participle of 'eat' is 'eaten'.
 
 #### ข้อ 32
@@ -383,11 +383,11 @@
 * **Learning Objective**: Express past experience with 'ever' and 'never'.
 * **Difficulty**: Medium
 * **Question**: Choose the correct sentence expressing experience:
-* ก. Have you ever caught a fish?
-* ข. Did you ever caught a fish?
-* ค. Were you ever catch a fish?
-* ง. Have you ever catch a fish?
-* **Correct Answer**: ก
+* A. Have you ever caught a fish?
+* B. Did you ever caught a fish?
+* C. Were you ever catch a fish?
+* D. Have you ever catch a fish?
+* **Correct Answer**: A
 * **Explanation**: Present perfect question for life experience: Have/Has + subject + ever + V3...?
 
 #### ข้อ 33
@@ -395,11 +395,11 @@
 * **Learning Objective**: Identify action continuing from past to present.
 * **Difficulty**: Medium
 * **Question**: In 'Tom is my friend. I have known him for three years', what does the present perfect show?
-* ก. An action that started in the past and continues into the present
-* ข. An action that ended yesterday
-* ค. A future prediction
-* ง. A past habit
-* **Correct Answer**: ก
+* A. An action that started in the past and continues into the present
+* B. An action that ended yesterday
+* C. A future prediction
+* D. A past habit
+* **Correct Answer**: A
 * **Explanation**: Present perfect with 'for/since' describes a state that started in the past and continues into the present.
 
 #### ข้อ 34
@@ -407,11 +407,11 @@
 * **Learning Objective**: Select correct V3 form of 'be'.
 * **Difficulty**: Medium
 * **Question**: Complete: 'This winter has been cold. The old tree has ________ here for 100 years.'
-* ก. been
-* ข. was
-* ค. were
-* ง. being
-* **Correct Answer**: ก
+* A. been
+* B. was
+* C. were
+* D. being
+* **Correct Answer**: A
 * **Explanation**: The past participle of 'be' is 'been'.
 
 #### ข้อ 35
@@ -419,11 +419,11 @@
 * **Learning Objective**: Apply 'yet' in present perfect negative.
 * **Difficulty**: Medium
 * **Question**: Complete: 'Mike hasn't read the book ________.'
-* ก. yet
-* ข. already
-* ค. since
-* ง. ever
-* **Correct Answer**: ก
+* A. yet
+* B. already
+* C. since
+* D. ever
+* **Correct Answer**: A
 * **Explanation**: 'yet' is used in present perfect negative sentences and questions, usually placed at the end.
 
 #### ข้อ 36
@@ -431,11 +431,11 @@
 * **Learning Objective**: Analyze amusement park Drop Tower dialogue.
 * **Difficulty**: Hard
 * **Question**: In the Drop Tower dialogue: 'Have you ________ on the Drop Tower before?' - 'No, I haven't. Have you ________ your safety belt yet?'
-* ก. ridden / put on
-* ข. rode / putted on
-* ค. ride / put on
-* ง. riding / putting on
-* **Correct Answer**: ก
+* A. ridden / put on
+* B. rode / putted on
+* C. ride / put on
+* D. riding / putting on
+* **Correct Answer**: A
 * **Explanation**: V3 of 'ride' is 'ridden'; V3 of 'put' is 'put'. Both use present perfect in context.
 
 #### ข้อ 37
@@ -443,11 +443,11 @@
 * **Learning Objective**: Identify 'may' for possibility.
 * **Difficulty**: Easy
 * **Question**: Complete: 'Amy is not in the classroom. She ________ be in the library.'
-* ก. may
-* ข. mustn't
-* ค. shall
-* ง. wouldn't
-* **Correct Answer**: ก
+* A. may
+* B. mustn't
+* C. shall
+* D. wouldn't
+* **Correct Answer**: A
 * **Explanation**: 'may' expresses possibility (something that is likely to happen).
 
 #### ข้อ 38
@@ -455,11 +455,11 @@
 * **Learning Objective**: Identify 'might' for possibility.
 * **Difficulty**: Easy
 * **Question**: Complete: 'Take an umbrella with you. It ________ rain this afternoon.'
-* ก. might
-* ข. must
-* ค. shall
-* ง. would
-* **Correct Answer**: ก
+* A. might
+* B. must
+* C. shall
+* D. would
+* **Correct Answer**: A
 * **Explanation**: 'might' expresses future possibility.
 
 #### ข้อ 39
@@ -467,11 +467,11 @@
 * **Learning Objective**: Form negative possibility with may/might not.
 * **Difficulty**: Medium
 * **Question**: Complete: 'John has a bad cold. He ________ go to school tomorrow.'
-* ก. may not
-* ข. must
-* ค. should
-* ง. will
-* **Correct Answer**: ก
+* A. may not
+* B. must
+* C. should
+* D. will
+* **Correct Answer**: A
 * **Explanation**: 'may not' indicates negative possibility (likely won't happen).
 
 #### ข้อ 40
@@ -479,11 +479,11 @@
 * **Learning Objective**: Use 'May I' for polite permission requests.
 * **Difficulty**: Easy
 * **Question**: Which question politely asks for permission to use a phone?
-* ก. May I use your phone?
-* ข. Will I use your phone?
-* ค. Must I use your phone?
-* ง. Should I use your phone?
-* **Correct Answer**: ก
+* A. May I use your phone?
+* B. Will I use your phone?
+* C. Must I use your phone?
+* D. Should I use your phone?
+* **Correct Answer**: A
 * **Explanation**: 'May I...?' is used to ask for permission politely.
 
 #### ข้อ 41
@@ -491,11 +491,11 @@
 * **Learning Objective**: Use 'Could I' for polite permission requests.
 * **Difficulty**: Easy
 * **Question**: Choose the polite request for water:
-* ก. Could I have some water?
-* ข. Must I have some water?
-* ค. Shall I have some water?
-* ง. Will I have some water?
-* **Correct Answer**: ก
+* A. Could I have some water?
+* B. Must I have some water?
+* C. Shall I have some water?
+* D. Will I have some water?
+* **Correct Answer**: A
 * **Explanation**: 'Could I...?' asks for permission or requests something politely.
 
 #### ข้อ 42
@@ -503,11 +503,11 @@
 * **Learning Objective**: Use 'Would you' for polite action requests.
 * **Difficulty**: Medium
 * **Question**: Which question politely asks someone to close the door?
-* ก. Would you close the door, please?
-* ข. May you close the door, please?
-* ค. Must you close the door, please?
-* ง. Shall you close the door, please?
-* **Correct Answer**: ก
+* A. Would you close the door, please?
+* B. May you close the door, please?
+* C. Must you close the door, please?
+* D. Shall you close the door, please?
+* **Correct Answer**: A
 * **Explanation**: 'Would you...?' or 'Could you...?' asks someone else to perform an action politely.
 
 #### ข้อ 43
@@ -515,11 +515,11 @@
 * **Learning Objective**: Identify appropriate responses to polite requests.
 * **Difficulty**: Medium
 * **Question**: What is a polite positive response to 'Could I borrow your pen, please?'
-* ก. Of course. / Certainly.
-* ข. No, you don't.
-* ค. Yes, I will.
-* ง. I am not.
-* **Correct Answer**: ก
+* A. Of course. / Certainly.
+* B. No, you don't.
+* C. Yes, I will.
+* D. I am not.
+* **Correct Answer**: A
 * **Explanation**: Polite responses to 'May I / Could I' include 'Of course', 'Certainly', or 'Sure'.
 
 #### ข้อ 44
@@ -527,11 +527,11 @@
 * **Learning Objective**: Select modal for messy room situation.
 * **Difficulty**: Medium
 * **Question**: In context: 'Your room is a mess. ________ clean your room?'
-* ก. Could you
-* ข. May I
-* ค. Might you
-* ง. Shall I
-* **Correct Answer**: ก
+* A. Could you
+* B. May I
+* C. Might you
+* D. Shall I
+* **Correct Answer**: A
 * **Explanation**: 'Could you...?' is used to ask someone to clean their room.
 
 #### ข้อ 45
@@ -539,11 +539,11 @@
 * **Learning Objective**: Select modal for asking teacher's permission.
 * **Difficulty**: Medium
 * **Question**: To ask your teacher for permission to go out, you should say: '________ go to the restroom, please?'
-* ก. May I
-* ข. Would you
-* ค. Must you
-* ง. Shall you
-* **Correct Answer**: ก
+* A. May I
+* B. Would you
+* C. Must you
+* D. Shall you
+* **Correct Answer**: A
 * **Explanation**: 'May I...?' is the formal, polite way to ask a teacher for permission.
 
 #### ข้อ 46
@@ -551,11 +551,11 @@
 * **Learning Objective**: Arrange scrambled modal polite request.
 * **Difficulty**: Medium
 * **Question**: Unscramble: 'please / phone / Would / the / you / answer / ?'
-* ก. Would you answer the phone, please?
-* ข. Would please you answer the phone?
-* ค. Answer you would the phone, please?
-* ง. You would answer the phone, please?
-* **Correct Answer**: ก
+* A. Would you answer the phone, please?
+* B. Would please you answer the phone?
+* C. Answer you would the phone, please?
+* D. You would answer the phone, please?
+* **Correct Answer**: A
 * **Explanation**: Correct order: Modal (Would) + Subject (you) + Verb (answer) + Object (the phone) + please?
 
 #### ข้อ 47
@@ -563,11 +563,11 @@
 * **Learning Objective**: Distinguish 'May I' vs 'Would you'.
 * **Difficulty**: Hard
 * **Question**: What is the functional difference between 'May I open the window?' and 'Would you open the window?'
-* ก. 'May I' asks permission for speaker; 'Would you' asks listener to act
-* ข. 'May I' asks listener to act; 'Would you' asks speaker permission
-* ค. Both ask for speaker permission
-* ง. Both ask listener to act
-* **Correct Answer**: ก
+* A. 'May I' asks permission for speaker; 'Would you' asks listener to act
+* B. 'May I' asks listener to act; 'Would you' asks speaker permission
+* C. Both ask for speaker permission
+* D. Both ask listener to act
+* **Correct Answer**: A
 * **Explanation**: 'May I' = permission for speaker; 'Would you' = request for listener to act.
 
 #### ข้อ 48
@@ -575,11 +575,11 @@
 * **Learning Objective**: Select modal for turning on lights in dark room.
 * **Difficulty**: Medium
 * **Question**: Dialogue: 'It's dark in here. ________ turn on the lights?' - 'Certainly.'
-* ก. Could you
-* ข. May I
-* ค. Might you
-* ง. Shall I
-* **Correct Answer**: ก
+* A. Could you
+* B. May I
+* C. Might you
+* D. Shall I
+* **Correct Answer**: A
 * **Explanation**: 'Could you...?' asks another person to turn on the lights.
 
 #### ข้อ 49
@@ -587,11 +587,11 @@
 * **Learning Objective**: Contrast past ability 'could' vs present ability 'can'.
 * **Difficulty**: Medium
 * **Question**: Complete: 'I ________ inline skate last year, but I CAN now.'
-* ก. couldn't
-* ข. can't
-* ค. mustn't
-* ง. shouldn't
-* **Correct Answer**: ก
+* A. couldn't
+* B. can't
+* C. mustn't
+* D. shouldn't
+* **Correct Answer**: A
 * **Explanation**: 'couldn't' expresses past inability ('last year'), contrasted with present ability ('can now').
 
 #### ข้อ 50
@@ -599,11 +599,11 @@
 * **Learning Objective**: Identify 'must' for strong rule/obligation.
 * **Difficulty**: Easy
 * **Question**: Complete: 'All passengers ________ wear seat belts.'
-* ก. must
-* ข. may
-* ค. might
-* ง. could
-* **Correct Answer**: ก
+* A. must
+* B. may
+* C. might
+* D. could
+* **Correct Answer**: A
 * **Explanation**: 'must' expresses strong rule or mandatory obligation.
 
 #### ข้อ 51
@@ -611,11 +611,11 @@
 * **Learning Objective**: Identify 'mustn't' for prohibition.
 * **Difficulty**: Easy
 * **Question**: Complete: 'You ________ cross the street at a red crossing light.'
-* ก. mustn't
-* ข. don't have to
-* ค. might not
-* ง. shall not
-* **Correct Answer**: ก
+* A. mustn't
+* B. don't have to
+* C. might not
+* D. shall not
+* **Correct Answer**: A
 * **Explanation**: 'mustn't' expresses strict prohibition (forbidden action).
 
 #### ข้อ 52
@@ -623,11 +623,11 @@
 * **Learning Objective**: Identify 'should' for advice.
 * **Difficulty**: Easy
 * **Question**: Complete: 'Tom has a fever. He ________ see a doctor and rest.'
-* ก. should
-* ข. mustn't
-* ค. shall
-* ง. would
-* **Correct Answer**: ก
+* A. should
+* B. mustn't
+* C. shall
+* D. would
+* **Correct Answer**: A
 * **Explanation**: 'should' is used to give advice or recommendations.
 
 #### ข้อ 53
@@ -635,11 +635,11 @@
 * **Learning Objective**: Distinguish 'don't have to' from 'mustn't'.
 * **Difficulty**: Hard
 * **Question**: Complete: 'Tomorrow is a holiday. I ________ get up early!'
-* ก. don't have to
-* ข. mustn't
-* ค. shouldn't
-* ง. can't
-* **Correct Answer**: ก
+* A. don't have to
+* B. mustn't
+* C. shouldn't
+* D. can't
+* **Correct Answer**: A
 * **Explanation**: 'don't have to' means lack of necessity/obligation (you can sleep in if you want), unlike 'mustn't' which means forbidden.
 
 #### ข้อ 54
@@ -647,11 +647,11 @@
 * **Learning Objective**: Identify past obligation 'had to'.
 * **Difficulty**: Medium
 * **Question**: Complete: 'It was raining hard yesterday. They ________ stop the baseball game.'
-* ก. had to
-* ข. must
-* ค. have to
-* ง. shall
-* **Correct Answer**: ก
+* A. had to
+* B. must
+* C. have to
+* D. shall
+* **Correct Answer**: A
 * **Explanation**: The past tense of obligation ('must' / 'have to') is 'had to'.
 
 #### ข้อ 55
@@ -659,11 +659,11 @@
 * **Learning Objective**: Use 'Shall we' for making suggestions.
 * **Difficulty**: Medium
 * **Question**: Which modal is used to make a polite suggestion to a group: '________ we go to the park this afternoon?'
-* ก. Shall
-* ข. Must
-* ค. Will
-* ง. Would
-* **Correct Answer**: ก
+* A. Shall
+* B. Must
+* C. Will
+* D. Would
+* **Correct Answer**: A
 * **Explanation**: 'Shall we...?' is used to make suggestions to a group.
 
 #### ข้อ 56
@@ -671,11 +671,11 @@
 * **Learning Objective**: Identify 'has to' for personal duty.
 * **Difficulty**: Medium
 * **Question**: Complete: 'Tom ________ feed his dog after breakfast. It's his responsibility.'
-* ก. has to
-* ข. mustn't
-* ค. shall
-* ง. would
-* **Correct Answer**: ก
+* A. has to
+* B. mustn't
+* C. shall
+* D. would
+* **Correct Answer**: A
 * **Explanation**: 'has to' expresses external responsibility or duty.
 
 #### ข้อ 57
@@ -683,11 +683,11 @@
 * **Learning Objective**: Contrast prohibition vs lack of obligation.
 * **Difficulty**: Hard
 * **Question**: What is the difference between 'You MUSTN'T talk to strangers' and 'You DON'T HAVE TO go shopping today'?
-* ก. 'Mustn't' means forbidden; 'Don't have to' means optional
-* ข. 'Mustn't' means optional; 'Don't have to' means forbidden
-* ค. Both mean forbidden
-* ง. Both mean optional
-* **Correct Answer**: ก
+* A. 'Mustn't' means forbidden; 'Don't have to' means optional
+* B. 'Mustn't' means optional; 'Don't have to' means forbidden
+* C. Both mean forbidden
+* D. Both mean optional
+* **Correct Answer**: A
 * **Explanation**: 'Mustn't' = prohibition/forbidden; 'Don't have to' = optional/not necessary.
 
 #### ข้อ 58
@@ -695,11 +695,11 @@
 * **Learning Objective**: Select modals in weekend study dialogue.
 * **Difficulty**: Hard
 * **Question**: Dialogue: 'We have a test next week. I ________ study. - Come on, you SHOULD have some fun. ________ we go to the park?'
-* ก. have to / Shall
-* ข. mustn't / Would
-* ค. don't have to / Will
-* ง. could / May
-* **Correct Answer**: ก
+* A. have to / Shall
+* B. mustn't / Would
+* C. don't have to / Will
+* D. could / May
+* **Correct Answer**: A
 * **Explanation**: 'have to study' (obligation) and 'Shall we go...?' (suggestion).
 
 #### ข้อ 59
@@ -707,11 +707,11 @@
 * **Learning Objective**: Identify 'won't' for refusal.
 * **Difficulty**: Medium
 * **Question**: Complete: 'Mr. Lewis is leaving our school. He ________ teach us next year.'
-* ก. won't
-* ข. can
-* ค. must
-* ง. shall
-* **Correct Answer**: ก
+* A. won't
+* B. can
+* C. must
+* D. shall
+* **Correct Answer**: A
 * **Explanation**: 'won't' expresses future negative fact/refusal.
 
 #### ข้อ 60
@@ -719,11 +719,11 @@
 * **Learning Objective**: Summarize core Grade 6 grammar topics.
 * **Difficulty**: Medium
 * **Question**: Which set of topics represents the core Grade 6 Grammar curriculum in the textbook?
-* ก. Past Continuous, Future (Will/Going to), Present Perfect, and Modals
-* ข. Past Simple only
-* ค. Alphabet spelling only
-* ง. Passive Voice only
-* **Correct Answer**: ก
+* A. Past Continuous, Future (Will/Going to), Present Perfect, and Modals
+* B. Past Simple only
+* C. Alphabet spelling only
+* D. Passive Voice only
+* **Correct Answer**: A
 * **Explanation**: The textbook units cover Past Continuous, Future Tenses, Present Perfect, and Modal Verbs 1 & 2.
 
 ---

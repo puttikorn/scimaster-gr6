@@ -23,11 +23,11 @@ RULES Section A:
 * **Learning Objective**: Identify correct comparative form for short adjectives.
 * **Difficulty**: Easy
 * **Prompt**: What is the comparative form of the adjective 'simple'?
-* ก. more simple
-* ข. simpler
-* ค. simplest
-* ง. simplier
-* **Correct Answer**: ข
+* A. more simple
+* B. simpler
+* C. simplest
+* D. simplier
+* **Correct Answer**: B
 * **Explanation**: Short adjectives or those ending in -e take '-r' or '-er' to form comparatives: 'simple' becomes 'simpler'.
 
 #### ข้อ 2
@@ -35,11 +35,11 @@ RULES Section A:
 * **Learning Objective**: Identify correct comparative form for long adjectives.
 * **Difficulty**: Easy
 * **Prompt**: Which is the correct comparative form of 'peaceful'?
-* ก. peacefuler
-* ข. more peaceful
-* ค. most peaceful
-* ง. peacefully
-* **Correct Answer**: ข
+* A. peacefuler
+* B. more peaceful
+* C. most peaceful
+* D. peacefully
+* **Correct Answer**: B
 * **Explanation**: Adjectives with two or more syllables (like 'peaceful') use 'more' before the adjective: 'more peaceful'.
 
 #### ข้อ 3
@@ -47,11 +47,11 @@ RULES Section A:
 * **Learning Objective**: Identify correct comparative form of 'modern'.
 * **Difficulty**: Easy
 * **Prompt**: Complete the comparative pair: 'modern' -> ________.
-* ก. moderner
-* ข. more modern
-* ค. most modern
-* ง. modernest
-* **Correct Answer**: ข
+* A. moderner
+* B. more modern
+* C. most modern
+* D. modernest
+* **Correct Answer**: B
 * **Explanation**: The adjective 'modern' forms its comparative by adding 'more': 'more modern'.
 
 #### ข้อ 4
@@ -59,11 +59,11 @@ RULES Section A:
 * **Learning Objective**: Identify correct comparative form of 'traditional'.
 * **Difficulty**: Easy
 * **Prompt**: What is the comparative form of 'traditional'?
-* ก. traditionaler
-* ข. more traditional
-* ค. most traditional
-* ง. traditionalest
-* **Correct Answer**: ข
+* A. traditionaler
+* B. more traditional
+* C. most traditional
+* D. traditionalest
+* **Correct Answer**: B
 * **Explanation**: Long adjectives like 'traditional' use 'more' for comparison: 'more traditional'.
 
 #### ข้อ 5
@@ -71,11 +71,11 @@ RULES Section A:
 * **Learning Objective**: Compare lifestyle characteristics of city and countryside.
 * **Difficulty**: Easy
 * **Prompt**: Complete the sentence: 'Life in the city is ________ than in the countryside.'
-* ก. more traditional
-* ข. simpler
-* ค. more modern
-* ง. more quiet
-* **Correct Answer**: ค
+* A. more traditional
+* B. simpler
+* C. more modern
+* D. more quiet
+* **Correct Answer**: C
 * **Explanation**: According to the textbook dialogue, life in the city is 'more modern' than in the countryside.
 
 #### ข้อ 6
@@ -83,11 +83,11 @@ RULES Section A:
 * **Learning Objective**: Identify comparative sentence structure.
 * **Difficulty**: Easy
 * **Prompt**: Complete the sentence: 'Life in the countryside is ________ than in the city.'
-* ก. simpler
-* ข. more modern
-* ค. more populated
-* ง. busier
-* **Correct Answer**: ก
+* A. simpler
+* B. more modern
+* C. more populated
+* D. busier
+* **Correct Answer**: A
 * **Explanation**: The textbook states: 'Life in the countryside is simpler than in the city.'
 
 #### ข้อ 7
@@ -95,11 +95,11 @@ RULES Section A:
 * **Learning Objective**: Use 'than' in comparative sentences.
 * **Difficulty**: Easy
 * **Prompt**: Which word is used to connect two items being compared in a comparative sentence?
-* ก. then
-* ข. than
-* ค. that
-* ง. from
-* **Correct Answer**: ข
+* A. then
+* B. than
+* C. that
+* D. from
+* **Correct Answer**: B
 * **Explanation**: The conjunction 'than' is used after comparative adjectives (e.g., 'more modern than...').
 
 #### ข้อ 8
@@ -107,11 +107,11 @@ RULES Section A:
 * **Learning Objective**: Identify correct comparative of 'interesting'.
 * **Difficulty**: Easy
 * **Prompt**: Sue thinks life in the city is ________ than life in the countryside.
-* ก. interesting
-* ข. interestinger
-* ค. more interesting
-* ง. most interesting
-* **Correct Answer**: ค
+* A. interesting
+* B. interestinger
+* C. more interesting
+* D. most interesting
+* **Correct Answer**: C
 * **Explanation**: The comparative form of 'interesting' is 'more interesting'.
 
 #### ข้อ 9
@@ -119,11 +119,11 @@ RULES Section A:
 * **Learning Objective**: Analyze traditional vs modern life.
 * **Difficulty**: Medium
 * **Prompt**: Complete the conversation: A: 'Life in the countryside is more traditional than in the city.' B: 'Yes, but life in the city is ________.'
-* ก. simpler
-* ข. more interesting
-* ค. harder
-* ง. peacefuler
-* **Correct Answer**: ข
+* A. simpler
+* B. more interesting
+* C. harder
+* D. peacefuler
+* **Correct Answer**: B
 * **Explanation**: From the textbook dialogue on Page 2: 'Yes, but life in the city is more interesting.'
 
 #### ข้อ 10
@@ -131,11 +131,11 @@ RULES Section A:
 * **Learning Objective**: Identify comparative form of 'hard'.
 * **Difficulty**: Easy
 * **Prompt**: What is the comparative form of 'hard'?
-* ก. harder
-* ข. more hard
-* ค. hardest
-* ง. hardly
-* **Correct Answer**: ก
+* A. harder
+* B. more hard
+* C. hardest
+* D. hardly
+* **Correct Answer**: A
 * **Explanation**: One-syllable adjectives take '-er': 'hard' becomes 'harder'.
 
 #### ข้อ 11
@@ -143,11 +143,11 @@ RULES Section A:
 * **Learning Objective**: Complete comparative exchanges.
 * **Difficulty**: Medium
 * **Prompt**: Complete: 'Life in the countryside is ________ (peaceful) than in the city.'
-* ก. peacefuler
-* ข. more peaceful
-* ค. most peaceful
-* ง. peacefully
-* **Correct Answer**: ข
+* A. peacefuler
+* B. more peaceful
+* C. most peaceful
+* D. peacefully
+* **Correct Answer**: B
 * **Explanation**: 'Peaceful' takes 'more peaceful' in comparative sentences.
 
 #### ข้อ 12
@@ -155,11 +155,11 @@ RULES Section A:
 * **Learning Objective**: Recognize correct comparative syntax.
 * **Difficulty**: Medium
 * **Prompt**: Which sentence is grammatically CORRECT?
-* ก. Life in the city is more simpler than in the countryside.
-* ข. Life in the city is simpler than in the countryside.
-* ค. Life in the city is simplest than in the countryside.
-* ง. Life in the city is more simple than in the countryside.
-* **Correct Answer**: ข
+* A. Life in the city is more simpler than in the countryside.
+* B. Life in the city is simpler than in the countryside.
+* C. Life in the city is simplest than in the countryside.
+* D. Life in the city is more simple than in the countryside.
+* **Correct Answer**: B
 * **Explanation**: 'Simpler' is already a comparative form and should not be combined with 'more'.
 
 #### ข้อ 13
@@ -167,11 +167,11 @@ RULES Section A:
 * **Learning Objective**: Identify superlative form of 'fast'.
 * **Difficulty**: Easy
 * **Prompt**: What is the superlative form of the adjective 'fast'?
-* ก. faster
-* ข. the fastest
-* ค. most fast
-* ง. fastly
-* **Correct Answer**: ข
+* A. faster
+* B. the fastest
+* C. most fast
+* D. fastly
+* **Correct Answer**: B
 * **Explanation**: Short adjectives add '-est' with the definite article 'the': 'the fastest'.
 
 #### ข้อ 14
@@ -179,11 +179,11 @@ RULES Section A:
 * **Learning Objective**: Recall world record facts from text.
 * **Difficulty**: Easy
 * **Prompt**: Which animal is the fastest land animal in the world according to the text?
-* ก. The lion
-* ข. The cheetah
-* ค. The monkey
-* ง. The elephant
-* **Correct Answer**: ข
+* A. The lion
+* B. The cheetah
+* C. The monkey
+* D. The elephant
+* **Correct Answer**: B
 * **Explanation**: Page 3 quiz question: 'The cheetah is the fastest land animal in the world.'
 
 #### ข้อ 15
@@ -191,11 +191,11 @@ RULES Section A:
 * **Learning Objective**: Identify superlative form of 'deep'.
 * **Difficulty**: Easy
 * **Prompt**: The Congo River is over 200 metres deep. It is the ________ river in the world.
-* ก. deeper
-* ข. deepest
-* ค. more deep
-* ง. most deepest
-* **Correct Answer**: ข
+* A. deeper
+* B. deepest
+* C. more deep
+* D. most deepest
+* **Correct Answer**: B
 * **Explanation**: The superlative form of 'deep' is 'deepest'.
 
 #### ข้อ 16
@@ -203,11 +203,11 @@ RULES Section A:
 * **Learning Objective**: Identify world fact about Congo River.
 * **Difficulty**: Medium
 * **Prompt**: What is the deepest river in the world mentioned in the textbook?
-* ก. The Amazon River
-* ข. The Nile River
-* ค. The Congo River
-* ง. The Mekong River
-* **Correct Answer**: ค
+* A. The Amazon River
+* B. The Nile River
+* C. The Congo River
+* D. The Mekong River
+* **Correct Answer**: C
 * **Explanation**: Page 4 text: 'The Congo River... It's over 200 metres deep.'
 
 #### ข้อ 17
@@ -215,11 +215,11 @@ RULES Section A:
 * **Learning Objective**: Identify superlative of multi-syllable adjective 'populated'.
 * **Difficulty**: Medium
 * **Prompt**: What is the superlative form of 'populated'?
-* ก. the populatedest
-* ข. the most populated
-* ค. the populateder
-* ง. more populated
-* **Correct Answer**: ข
+* A. the populatedest
+* B. the most populated
+* C. the populateder
+* D. more populated
+* **Correct Answer**: B
 * **Explanation**: Multi-syllable adjectives use 'the most': 'the most populated'.
 
 #### ข้อ 18
@@ -227,11 +227,11 @@ RULES Section A:
 * **Learning Objective**: Identify London's population fact.
 * **Difficulty**: Medium
 * **Prompt**: What is the most populated city in the UK with around 9 million people?
-* ก. Manchester
-* ข. London
-* ค. Edinburgh
-* ง. Liverpool
-* **Correct Answer**: ข
+* A. Manchester
+* B. London
+* C. Edinburgh
+* D. Liverpool
+* **Correct Answer**: B
 * **Explanation**: Page 4 text: 'What's the most populated city in the UK? It's London. It has around 9 million people.'
 
 #### ข้อ 19
@@ -239,11 +239,11 @@ RULES Section A:
 * **Learning Objective**: Recall facts about the ostrich.
 * **Difficulty**: Easy
 * **Prompt**: Which bird is the largest bird in the world, weighing up to 160 kg?
-* ก. The eagle
-* ข. The ostrich
-* ค. The penguin
-* ง. The flamingo
-* **Correct Answer**: ข
+* A. The eagle
+* B. The ostrich
+* C. The penguin
+* D. The flamingo
+* **Correct Answer**: B
 * **Explanation**: Page 4 text: 'What's the largest bird? It's the ostrich. It weighs up to 160kg.'
 
 #### ข้อ 20
@@ -251,11 +251,11 @@ RULES Section A:
 * **Learning Objective**: Recall facts about the sailfish.
 * **Difficulty**: Medium
 * **Prompt**: Which sea animal can swim at 110 kilometres per hour?
-* ก. The dolphin
-* ข. The sailfish
-* ค. The blue whale
-* ง. The shark
-* **Correct Answer**: ข
+* A. The dolphin
+* B. The sailfish
+* C. The blue whale
+* D. The shark
+* **Correct Answer**: B
 * **Explanation**: Page 4 text: 'What's the fastest sea animal? It's the sailfish. It can swim at 110 kilometres per hour.'
 
 #### ข้อ 21
@@ -263,11 +263,11 @@ RULES Section A:
 * **Learning Objective**: Form superlative of 'large'.
 * **Difficulty**: Easy
 * **Prompt**: What is the superlative form of 'large'?
-* ก. larger
-* ข. the largest
-* ค. the most large
-* ง. the largestest
-* **Correct Answer**: ข
+* A. larger
+* B. the largest
+* C. the most large
+* D. the largestest
+* **Correct Answer**: B
 * **Explanation**: Adjectives ending in -e add '-st' with 'the': 'the largest'.
 
 #### ข้อ 22
@@ -275,11 +275,11 @@ RULES Section A:
 * **Learning Objective**: Form superlative of adjectives ending in -y.
 * **Difficulty**: Medium
 * **Prompt**: What is the superlative form of 'noisy'?
-* ก. noisier
-* ข. the noisiest
-* ค. the most noisy
-* ง. noisiest
-* **Correct Answer**: ข
+* A. noisier
+* B. the noisiest
+* C. the most noisy
+* D. noisiest
+* **Correct Answer**: B
 * **Explanation**: Adjectives ending in -y change -y to -i and add '-est': 'the noisiest'.
 
 #### ข้อ 23
@@ -287,11 +287,11 @@ RULES Section A:
 * **Learning Objective**: Construct superlative wh- questions.
 * **Difficulty**: Medium
 * **Prompt**: Choose the correct question format to ask about world records:
-* ก. What's the most populated island in the world?
-* ข. What's populated island in the world?
-* ค. Which is more populated island in the world?
-* ง. What's populatedest island in the world?
-* **Correct Answer**: ก
+* A. What's the most populated island in the world?
+* B. What's populated island in the world?
+* C. Which is more populated island in the world?
+* D. What's populatedest island in the world?
+* **Correct Answer**: A
 * **Explanation**: Superlative questions use: 'What's the + superlative adjective + noun...?'
 
 #### ข้อ 24
@@ -299,11 +299,11 @@ RULES Section A:
 * **Learning Objective**: Recall largest lake fact.
 * **Difficulty**: Medium
 * **Prompt**: According to the class quiz on Page 3, where is the largest lake in the world located?
-* ก. In Russia
-* ข. In Japan
-* ค. In Australia
-* ง. In Egypt
-* **Correct Answer**: ก
+* A. In Russia
+* B. In Japan
+* C. In Australia
+* D. In Egypt
+* **Correct Answer**: A
 * **Explanation**: Page 3 listening quiz: 'The largest lake in the world is in Russia.'
 
 #### ข้อ 25
@@ -311,11 +311,11 @@ RULES Section A:
 * **Learning Objective**: Identify travel vocabulary items.
 * **Difficulty**: Easy
 * **Prompt**: Which document is essential when traveling to another country by plane?
-* ก. first aid kit
-* ข. passport
-* ค. bug spray
-* ง. bumbag
-* **Correct Answer**: ข
+* A. first aid kit
+* B. passport
+* C. bug spray
+* D. bumbag
+* **Correct Answer**: B
 * **Explanation**: A passport is the official document required for international travel.
 
 #### ข้อ 26
@@ -323,11 +323,11 @@ RULES Section A:
 * **Learning Objective**: Identify travel health items.
 * **Difficulty**: Easy
 * **Prompt**: What do you take on holiday to protect your skin from insect bites?
-* ก. sunscreen
-* ข. bug spray
-* ค. purse
-* ง. passport
-* **Correct Answer**: ข
+* A. sunscreen
+* B. bug spray
+* C. purse
+* D. passport
+* **Correct Answer**: B
 * **Explanation**: Bug spray protects skin against insect bites while outdoors.
 
 #### ข้อ 27
@@ -335,11 +335,11 @@ RULES Section A:
 * **Learning Objective**: Identify emergency travel equipment.
 * **Difficulty**: Easy
 * **Prompt**: What contains bandages and basic medical supplies for minor injuries during a trip?
-* ก. bumbag
-* ข. first aid kit
-* ค. suitcase
-* ง. passport
-* **Correct Answer**: ข
+* A. bumbag
+* B. first aid kit
+* C. suitcase
+* D. passport
+* **Correct Answer**: B
 * **Explanation**: A first aid kit contains bandages and basic medical supplies.
 
 #### ข้อ 28
@@ -347,11 +347,11 @@ RULES Section A:
 * **Learning Objective**: Apply adverbs of frequency.
 * **Difficulty**: Easy
 * **Prompt**: Complete: 'I ________ take my passport on holiday because I cannot travel without it.'
-* ก. never
-* ข. sometimes
-* ค. always
-* ง. seldom
-* **Correct Answer**: ค
+* A. never
+* B. sometimes
+* C. always
+* D. seldom
+* **Correct Answer**: C
 * **Explanation**: An essential item like a passport is 'always' packed for travel.
 
 #### ข้อ 29
@@ -359,11 +359,11 @@ RULES Section A:
 * **Learning Objective**: Distinguish frequency adverbs.
 * **Difficulty**: Easy
 * **Prompt**: Which adverb of frequency means 'at no time' or 'not ever'?
-* ก. always
-* ข. sometimes
-* ค. never
-* ง. usually
-* **Correct Answer**: ค
+* A. always
+* B. sometimes
+* C. never
+* D. usually
+* **Correct Answer**: C
 * **Explanation**: 'Never' means at no time or not ever.
 
 #### ข้อ 30
@@ -371,11 +371,11 @@ RULES Section A:
 * **Learning Objective**: Form negative question tags for affirmative statements.
 * **Difficulty**: Medium
 * **Prompt**: Complete the question tag: 'You packed your passport, ________?'
-* ก. did you
-* ข. didn't you
-* ค. don't you
-* ง. haven't you
-* **Correct Answer**: ข
+* A. did you
+* B. didn't you
+* C. don't you
+* D. haven't you
+* **Correct Answer**: B
 * **Explanation**: An affirmative past simple statement takes a negative past tag: 'didn't you?'
 
 #### ข้อ 31
@@ -383,11 +383,11 @@ RULES Section A:
 * **Learning Objective**: Select correct positive answer to question tag.
 * **Difficulty**: Medium
 * **Prompt**: A: 'You packed your purse, didn't you?' B: '________, I packed it in my bag.'
-* ก. No, I didn't
-* ข. Yes, I did
-* ค. Yes, I am
-* ง. No, I don't
-* **Correct Answer**: ข
+* A. No, I didn't
+* B. Yes, I did
+* C. Yes, I am
+* D. No, I don't
+* **Correct Answer**: B
 * **Explanation**: Confirming an action in response to a tag question uses 'Yes, I did.'
 
 #### ข้อ 32
@@ -395,11 +395,11 @@ RULES Section A:
 * **Learning Objective**: Select correct negative answer to question tag.
 * **Difficulty**: Medium
 * **Prompt**: A: 'You packed your medicine, didn't you?' B: '________, I forgot it on the table.'
-* ก. Yes, I did
-* ข. No, I didn't
-* ค. No, I don't
-* ง. Yes, I have
-* **Correct Answer**: ข
+* A. Yes, I did
+* B. No, I didn't
+* C. No, I don't
+* D. Yes, I have
+* **Correct Answer**: B
 * **Explanation**: Denying an action in response to a tag question uses 'No, I didn't.'
 
 #### ข้อ 33
@@ -407,11 +407,11 @@ RULES Section A:
 * **Learning Objective**: Understand statement-tag polarity rule.
 * **Difficulty**: Medium
 * **Prompt**: What is the basic rule for forming question tags?
-* ก. Positive statement -> Positive tag
-* ข. Positive statement -> Negative tag
-* ค. Negative statement -> Negative tag
-* ง. Tag tense is independent of statement tense
-* **Correct Answer**: ข
+* A. Positive statement -> Positive tag
+* B. Positive statement -> Negative tag
+* C. Negative statement -> Negative tag
+* D. Tag tense is independent of statement tense
+* **Correct Answer**: B
 * **Explanation**: A positive statement requires a negative tag (and vice versa).
 
 #### ข้อ 34
@@ -419,11 +419,11 @@ RULES Section A:
 * **Learning Objective**: Identify small waist bag vocabulary.
 * **Difficulty**: Easy
 * **Prompt**: A small pouch or bag worn around the waist or hips during travel is called a:
-* ก. backpack
-* ข. bumbag
-* ค. suitcase
-* ง. duffel bag
-* **Correct Answer**: ข
+* A. backpack
+* B. bumbag
+* C. suitcase
+* D. duffel bag
+* **Correct Answer**: B
 * **Explanation**: In British English, a small waist pouch is called a 'bumbag'.
 
 #### ข้อ 35
@@ -431,11 +431,11 @@ RULES Section A:
 * **Learning Objective**: Form tag question for packing bug spray.
 * **Difficulty**: Medium
 * **Prompt**: Complete: 'You packed your bug spray, ________?'
-* ก. did you
-* ข. didn't you
-* ค. aren't you
-* ง. haven't you
-* **Correct Answer**: ข
+* A. did you
+* B. didn't you
+* C. aren't you
+* D. haven't you
+* **Correct Answer**: B
 * **Explanation**: Past simple positive verb 'packed' takes the negative tag 'didn't you?'.
 
 #### ข้อ 36
@@ -443,11 +443,11 @@ RULES Section A:
 * **Learning Objective**: Analyze story details from Page 5 listening.
 * **Difficulty**: Medium
 * **Prompt**: In Nick's family story on Page 5, why did Mum and Dad need to go back home from the airport?
-* ก. They forgot the money.
-* ข. Dad forgot his passport.
-* ค. They lost their bags.
-* ง. They missed the plane.
-* **Correct Answer**: ข
+* A. They forgot the money.
+* B. Dad forgot his passport.
+* C. They lost their bags.
+* D. They missed the plane.
+* **Correct Answer**: B
 * **Explanation**: Page 5 answer key: 'Dad forgot his passport.'
 
 #### ข้อ 37
@@ -455,11 +455,11 @@ RULES Section A:
 * **Learning Objective**: Identify geographical landforms.
 * **Difficulty**: Easy
 * **Prompt**: A low area of land between hills or mountains, often with a river running through it, is a:
-* ก. desert
-* ข. valley
-* ค. ocean
-* ง. cave
-* **Correct Answer**: ข
+* A. desert
+* B. valley
+* C. ocean
+* D. cave
+* **Correct Answer**: B
 * **Explanation**: A valley is a low land area situated between hills or mountains.
 
 #### ข้อ 38
@@ -467,11 +467,11 @@ RULES Section A:
 * **Learning Objective**: Identify underground hollow features.
 * **Difficulty**: Easy
 * **Prompt**: A large natural hole in the side of a cliff or hill, or under the ground, is called a:
-* ก. cave
-* ข. waterfall
-* ค. reef
-* ง. valley
-* **Correct Answer**: ก
+* A. cave
+* B. waterfall
+* C. reef
+* D. valley
+* **Correct Answer**: A
 * **Explanation**: A cave is a natural underground chamber or hole in a hill/cliff.
 
 #### ข้อ 39
@@ -479,11 +479,11 @@ RULES Section A:
 * **Learning Objective**: Identify dense tropical forest.
 * **Difficulty**: Easy
 * **Prompt**: A thick tropical forest that receives high amounts of rainfall is called a:
-* ก. desert
-* ข. rainforest
-* ค. valley
-* ง. glacier
-* **Correct Answer**: ข
+* A. desert
+* B. rainforest
+* C. valley
+* D. glacier
+* **Correct Answer**: B
 * **Explanation**: A rainforest is a dense forest in a tropical area with heavy rainfall.
 
 #### ข้อ 40
@@ -491,11 +491,11 @@ RULES Section A:
 * **Learning Objective**: Identify dry arid landform.
 * **Difficulty**: Easy
 * **Prompt**: A large, dry, sandy area of land with very little rainfall is a:
-* ก. rainforest
-* ข. desert
-* ค. valley
-* ง. waterfall
-* **Correct Answer**: ข
+* A. rainforest
+* B. desert
+* C. valley
+* D. waterfall
+* **Correct Answer**: B
 * **Explanation**: A desert is a dry region with minimal rainfall.
 
 #### ข้อ 41
@@ -503,11 +503,11 @@ RULES Section A:
 * **Learning Objective**: Identify main topic of Daisy's letter to grandparents.
 * **Difficulty**: Medium
 * **Prompt**: In Daisy's letter on Page 8, what is she writing to her grandparents about?
-* ก. Her school exam results
-* ข. Her upcoming holiday plans and places to visit
-* ค. Her new pet dog
-* ง. Her trip to the market
-* **Correct Answer**: ข
+* A. Her school exam results
+* B. Her upcoming holiday plans and places to visit
+* C. Her new pet dog
+* D. Her trip to the market
+* **Correct Answer**: B
 * **Explanation**: Daisy writes to her grandparents about her upcoming holiday and deciding what places to visit.
 
 #### ข้อ 42
@@ -515,11 +515,11 @@ RULES Section A:
 * **Learning Objective**: Identify specific details from reading passage.
 * **Difficulty**: Medium
 * **Prompt**: Where does Daisy want to go hiking during her holiday?
-* ก. In the desert
-* ข. In the large valley with a rainforest
-* ค. In the city center
-* ง. On top of Mount Everest
-* **Correct Answer**: ข
+* A. In the desert
+* B. In the large valley with a rainforest
+* C. In the city center
+* D. On top of Mount Everest
+* **Correct Answer**: B
 * **Explanation**: Letter excerpt: 'There's a large valley with a rainforest at the bottom. I want to go hiking there...'
 
 #### ข้อ 43
@@ -527,11 +527,11 @@ RULES Section A:
 * **Learning Objective**: Identify planned activities near hotel.
 * **Difficulty**: Medium
 * **Prompt**: What does Daisy want to do at the beach near the hotel?
-* ก. Go skiing
-* ข. Take a photo inside a big cave
-* ค. Build a wooden house
-* ง. Visit a farm
-* **Correct Answer**: ข
+* A. Go skiing
+* B. Take a photo inside a big cave
+* C. Build a wooden house
+* D. Visit a farm
+* **Correct Answer**: B
 * **Explanation**: Letter excerpt: 'There's a beach with some caves on it... I want to take a photo inside one.'
 
 #### ข้อ 44
@@ -539,11 +539,11 @@ RULES Section A:
 * **Learning Objective**: Analyze character opinions in text.
 * **Difficulty**: Medium
 * **Prompt**: Why does Daisy NOT want to visit the desert?
-* ก. It is too cold.
-* ข. It is far away and she thinks it will be boring.
-* ค. She lost her map.
-* ง. Her parents forbid it.
-* **Correct Answer**: ข
+* A. It is too cold.
+* B. It is far away and she thinks it will be boring.
+* C. She lost her map.
+* D. Her parents forbid it.
+* **Correct Answer**: B
 * **Explanation**: Letter excerpt: '...it's far away, and I don't want to go. I think it'll be boring.'
 
 #### ข้อ 45
@@ -551,11 +551,11 @@ RULES Section A:
 * **Learning Objective**: Apply 'could' for holiday activity suggestions.
 * **Difficulty**: Medium
 * **Prompt**: Complete: 'When we are at the beach, we ________ go kayaking in the ocean.'
-* ก. must
-* ข. could
-* ค. shouldn't
-* ง. can't
-* **Correct Answer**: ข
+* A. must
+* B. could
+* C. shouldn't
+* D. can't
+* **Correct Answer**: B
 * **Explanation**: 'Could' expresses possibility or suggestions for holiday activities.
 
 #### ข้อ 46
@@ -563,11 +563,11 @@ RULES Section A:
 * **Learning Objective**: Match outdoor activities with appropriate geographical features.
 * **Difficulty**: Medium
 * **Prompt**: Which activity is best matched with a river or ocean?
-* ก. climbing a volcano
-* ข. kayaking
-* ค. hiking up a mountain
-* ง. exploring a dry cave
-* **Correct Answer**: ข
+* A. climbing a volcano
+* B. kayaking
+* C. hiking up a mountain
+* D. exploring a dry cave
+* **Correct Answer**: B
 * **Explanation**: Kayaking is a water activity conducted on rivers or oceans.
 
 #### ข้อ 47
@@ -575,11 +575,11 @@ RULES Section A:
 * **Learning Objective**: Verify passage statement.
 * **Difficulty**: Medium
 * **Prompt**: True or False: Daisy wants to stay near the hotel instead of traveling far to the desert.
-* ก. True
-* ข. False
-* ค. Not Mentioned
-* ง. Both True and False
-* **Correct Answer**: ก
+* A. True
+* B. False
+* C. Not Mentioned
+* D. Both True and False
+* **Correct Answer**: A
 * **Explanation**: Daisy explicitly writes: 'I think we should stay near the hotel instead.'
 
 #### ข้อ 48
@@ -587,11 +587,11 @@ RULES Section A:
 * **Learning Objective**: Identify marine coral structure.
 * **Difficulty**: Easy
 * **Prompt**: A line of rocks or coral underwater near the surface of the ocean is a:
-* ก. reef
-* ข. valley
-* ค. volcano
-* ง. desert
-* **Correct Answer**: ก
+* A. reef
+* B. valley
+* C. volcano
+* D. desert
+* **Correct Answer**: A
 * **Explanation**: A coral reef is an underwater marine ecosystem formed by coral colonies.
 
 #### ข้อ 49
@@ -599,11 +599,11 @@ RULES Section A:
 * **Learning Objective**: Identify alternative name for Northern Lights.
 * **Difficulty**: Easy
 * **Prompt**: What is another official scientific name for the Northern Lights?
-* ก. Aurora Australis
-* ข. Aurora Borealis
-* ค. Grand Canyon
-* ง. Victoria Falls
-* **Correct Answer**: ข
+* A. Aurora Australis
+* B. Aurora Borealis
+* C. Grand Canyon
+* D. Victoria Falls
+* **Correct Answer**: B
 * **Explanation**: Page 9 text: 'Another name for this wonder is the Aurora Borealis.'
 
 #### ข้อ 50
@@ -611,11 +611,11 @@ RULES Section A:
 * **Learning Objective**: Recall natural phenomenon facts.
 * **Difficulty**: Medium
 * **Prompt**: What is the most common normal color of the Northern Lights?
-* ก. red
-* ข. pink
-* ค. green
-* ง. blue
-* **Correct Answer**: ค
+* A. red
+* B. pink
+* C. green
+* D. blue
+* **Correct Answer**: C
 * **Explanation**: Page 9 text: 'The lights are usually green, but you might see pink, red or white.'
 
 #### ข้อ 51
@@ -623,11 +623,11 @@ RULES Section A:
 * **Learning Objective**: Identify countries where Northern Lights are best viewed.
 * **Difficulty**: Medium
 * **Prompt**: Which of the following countries is one of the best places to see the Northern Lights?
-* ก. Thailand
-* ข. Norway
-* ค. Egypt
-* ง. Brazil
-* **Correct Answer**: ข
+* A. Thailand
+* B. Norway
+* C. Egypt
+* D. Brazil
+* **Correct Answer**: B
 * **Explanation**: Page 9 text: 'The best places to see them are Iceland, Norway and Sweden.'
 
 #### ข้อ 52
@@ -635,11 +635,11 @@ RULES Section A:
 * **Learning Objective**: Identify location of Grand Canyon.
 * **Difficulty**: Easy
 * **Prompt**: Where is the Grand Canyon located?
-* ก. In the desert in Arizona, USA
-* ข. In Australia
-* ค. In Zambia, Africa
-* ง. In Mexico
-* **Correct Answer**: ก
+* A. In the desert in Arizona, USA
+* B. In Australia
+* C. In Zambia, Africa
+* D. In Mexico
+* **Correct Answer**: A
 * **Explanation**: Page 9 text: 'This amazing natural wonder is in the desert in Arizona, USA.'
 
 #### ข้อ 53
@@ -647,11 +647,11 @@ RULES Section A:
 * **Learning Objective**: Recall geographical dimensions from text.
 * **Difficulty**: Medium
 * **Prompt**: How long is the Grand Canyon according to the textbook?
-* ก. 100 km
-* ข. 446 km
-* ค. 2,300 km
-* ง. 8,849 m
-* **Correct Answer**: ข
+* A. 100 km
+* B. 446 km
+* C. 2,300 km
+* D. 8,849 m
+* **Correct Answer**: B
 * **Explanation**: Page 9 text: 'It's 446km long, and in one place, it's 29km wide.'
 
 #### ข้อ 54
@@ -659,11 +659,11 @@ RULES Section A:
 * **Learning Objective**: Identify highest mountain facts.
 * **Difficulty**: Easy
 * **Prompt**: How high is Mount Everest, the highest mountain in the world?
-* ก. 2,800 m
-* ข. 4,400 m
-* ค. 8,849 m
-* ง. 10,000 m
-* **Correct Answer**: ค
+* A. 2,800 m
+* B. 4,400 m
+* C. 8,849 m
+* D. 10,000 m
+* **Correct Answer**: C
 * **Explanation**: Page 9 text: 'This mountain in Asia is 8,849m high...'
 
 #### ข้อ 55
@@ -671,11 +671,11 @@ RULES Section A:
 * **Learning Objective**: Identify historical mountaineering facts.
 * **Difficulty**: Medium
 * **Prompt**: Who were the first two people to reach the summit of Mount Everest in 1953?
-* ก. Edmund Hillary and Tenzing Norgay
-* ข. Neil Armstrong and Buzz Aldrin
-* ค. Christopher Columbus and Marco Polo
-* ง. Frank and Nick
-* **Correct Answer**: ก
+* A. Edmund Hillary and Tenzing Norgay
+* B. Neil Armstrong and Buzz Aldrin
+* C. Christopher Columbus and Marco Polo
+* D. Frank and Nick
+* **Correct Answer**: A
 * **Explanation**: Page 9 text: 'The first people to climb it were Edmund Hillary and Tenzing Norgay in 1953.'
 
 #### ข้อ 56
@@ -683,11 +683,11 @@ RULES Section A:
 * **Learning Objective**: Identify facts about Parícutin Volcano.
 * **Difficulty**: Medium
 * **Prompt**: What makes Parícutin Volcano in Mexico unique among world volcanoes?
-* ก. It is the highest mountain in the world.
-* ข. It is the youngest volcano in the world, growing in a farmer's field in 1943.
-* ค. It is located under the ocean.
-* ง. It is covered in ice.
-* **Correct Answer**: ข
+* A. It is the highest mountain in the world.
+* B. It is the youngest volcano in the world, growing in a farmer's field in 1943.
+* C. It is located under the ocean.
+* D. It is covered in ice.
+* **Correct Answer**: B
 * **Explanation**: Page 10 text: 'Before 1943, this was just a farmer's field... It's the youngest volcano in the world.'
 
 #### ข้อ 57
@@ -695,11 +695,11 @@ RULES Section A:
 * **Learning Objective**: Identify river location of Victoria Falls.
 * **Difficulty**: Medium
 * **Prompt**: On which river in Africa is Victoria Falls located?
-* ก. The Amazon River
-* ข. The Congo River
-* ค. The Zambezi River
-* ง. The Nile River
-* **Correct Answer**: ค
+* A. The Amazon River
+* B. The Congo River
+* C. The Zambezi River
+* D. The Nile River
+* **Correct Answer**: C
 * **Explanation**: Page 10 text: 'This large waterfall is on the Zambezi River in Africa.'
 
 #### ข้อ 58
@@ -707,11 +707,11 @@ RULES Section A:
 * **Learning Objective**: Identify geographic border countries.
 * **Difficulty**: Medium
 * **Prompt**: Victoria Falls is located on the border between which two African countries?
-* ก. Egypt and Sudan
-* ข. Zambia and Zimbabwe
-* ค. Kenya and Tanzania
-* ง. South Africa and Namibia
-* **Correct Answer**: ข
+* A. Egypt and Sudan
+* B. Zambia and Zimbabwe
+* C. Kenya and Tanzania
+* D. South Africa and Namibia
+* **Correct Answer**: B
 * **Explanation**: Page 10 text: '...is in two different countries - Zambia and Zimbabwe.'
 
 #### ข้อ 59
@@ -719,11 +719,11 @@ RULES Section A:
 * **Learning Objective**: Recall biological facts of Great Barrier Reef.
 * **Difficulty**: Medium
 * **Prompt**: How many types of coral are found in Australia's Great Barrier Reef?
-* ก. 100 types
-* ข. 400 types
-* ค. 1,500 types
-* ง. 4,000 types
-* **Correct Answer**: ข
+* A. 100 types
+* B. 400 types
+* C. 1,500 types
+* D. 4,000 types
+* **Correct Answer**: B
 * **Explanation**: Page 10 text: '...famous for its 400 types of coral and 1,500 types of fish.'
 
 #### ข้อ 60
@@ -731,11 +731,11 @@ RULES Section A:
 * **Learning Objective**: Identify environmental conservation threat.
 * **Difficulty**: Medium
 * **Prompt**: Why is the coral in the Great Barrier Reef starting to die?
-* ก. Because the ocean water is getting too cold
-* ข. Because the ocean is getting warmer
-* ค. Because there are too many fish
-* ง. Because tourists take all the coral
-* **Correct Answer**: ข
+* A. Because the ocean water is getting too cold
+* B. Because the ocean is getting warmer
+* C. Because there are too many fish
+* D. Because tourists take all the coral
+* **Correct Answer**: B
 * **Explanation**: Page 10 text: 'Sadly, as the ocean gets warmer, the coral is starting to die.'
 
 ---

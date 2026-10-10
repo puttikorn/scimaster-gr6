@@ -11,11 +11,11 @@
 * **Learning Objective**: Identify pure substances vs mixtures.
 * **Difficulty**: Easy
 * **Question**: Which of the following is considered a PURE SUBSTANCE because it contains only one type of particle?
-* ก. Coffee
-* ข. Water
-* ค. Salad
-* ง. Wine
-* **Correct Answer**: ข
+* A. Coffee
+* B. Water
+* C. Salad
+* D. Wine
+* **Correct Answer**: B
 * **Explanation**: Water is a pure substance containing only water molecules. Coffee, salad, and wine are mixtures.
 
 #### ข้อ 2
@@ -23,11 +23,11 @@
 * **Learning Objective**: Define what a mixture is.
 * **Difficulty**: Easy
 * **Question**: What is a mixture?
-* ก. A substance containing only one type of element
-* ข. A combination of two or more different substances mixed together
-* ค. A liquid that has completely boiled away
-* ง. A rock formed from magma
-* **Correct Answer**: ข
+* A. A substance containing only one type of element
+* B. A combination of two or more different substances mixed together
+* C. A liquid that has completely boiled away
+* D. A rock formed from magma
+* **Correct Answer**: B
 * **Explanation**: A mixture consists of two or more different particles/substances mixed together physically.
 
 #### ข้อ 3
@@ -35,11 +35,11 @@
 * **Learning Objective**: Identify characteristics of homogeneous mixtures.
 * **Difficulty**: Easy
 * **Question**: Which characteristic best describes a HOMOGENEOUS mixture?
-* ก. Components are visibly different and easily separated by eye
-* ข. The composition is uniform throughout the mixture
-* ค. It contains only one type of atom
-* ง. It always settles at the bottom
-* **Correct Answer**: ข
+* A. Components are visibly different and easily separated by eye
+* B. The composition is uniform throughout the mixture
+* C. It contains only one type of atom
+* D. It always settles at the bottom
+* **Correct Answer**: B
 * **Explanation**: A homogeneous mixture has a uniform appearance and composition throughout.
 
 #### ข้อ 4
@@ -47,11 +47,11 @@
 * **Learning Objective**: Identify examples of homogeneous mixtures.
 * **Difficulty**: Medium
 * **Question**: Which of the following is a HOMOGENEOUS mixture?
-* ก. Muddy water
-* ข. Shrimp paste sauce
-* ค. Vinegar
-* ง. Cendol dessert
-* **Correct Answer**: ค
+* A. Muddy water
+* B. Shrimp paste sauce
+* C. Vinegar
+* D. Cendol dessert
+* **Correct Answer**: C
 * **Explanation**: Vinegar is a homogeneous mixture with a uniform appearance. Muddy water, shrimp paste sauce, and cendol are heterogeneous.
 
 #### ข้อ 5
@@ -59,11 +59,11 @@
 * **Learning Objective**: Identify characteristics of heterogeneous mixtures.
 * **Difficulty**: Easy
 * **Question**: Which characteristic describes a HETEROGENEOUS mixture?
-* ก. The components are uniformly distributed
-* ข. The composition is NOT uniform throughout and components are visibly different
-* ค. It cannot be separated
-* ง. It is identical to a pure substance
-* **Correct Answer**: ข
+* A. The components are uniformly distributed
+* B. The composition is NOT uniform throughout and components are visibly different
+* C. It cannot be separated
+* D. It is identical to a pure substance
+* **Correct Answer**: B
 * **Explanation**: Heterogeneous mixtures have a non-uniform composition with visibly distinct parts.
 
 #### ข้อ 6
@@ -71,11 +71,11 @@
 * **Learning Objective**: Analyze why soil is a heterogeneous mixture.
 * **Difficulty**: Medium
 * **Question**: Why is soil classified as a HETEROGENEOUS mixture?
-* ก. Because it contains only one type of particle
-* ข. Because one sample may contain dirt while another contains grass, rocks, or earthworms
-* ค. Because it is completely uniform throughout
-* ง. Because it dissolves in water
-* **Correct Answer**: ข
+* A. Because it contains only one type of particle
+* B. Because one sample may contain dirt while another contains grass, rocks, or earthworms
+* C. Because it is completely uniform throughout
+* D. Because it dissolves in water
+* **Correct Answer**: B
 * **Explanation**: Soil is heterogeneous because its composition varies depending on the sample taken (dirt, grass, organic matter, worms).
 
 #### ข้อ 7
@@ -83,11 +83,11 @@
 * **Learning Objective**: Classify fish sauce and ketchup.
 * **Difficulty**: Medium
 * **Question**: Fish sauce, tomato ketchup, and syrup all share which mixture classification?
-* ก. Heterogeneous mixtures
-* ข. Homogeneous mixtures
-* ค. Pure elements
-* ง. Igneous mixtures
-* **Correct Answer**: ข
+* A. Heterogeneous mixtures
+* B. Homogeneous mixtures
+* C. Pure elements
+* D. Igneous mixtures
+* **Correct Answer**: B
 * **Explanation**: Fish sauce, ketchup, and syrup have a uniform appearance throughout, making them homogeneous mixtures.
 
 #### ข้อ 8
@@ -95,11 +95,11 @@
 * **Learning Objective**: Classify muddy water and cendol.
 * **Difficulty**: Medium
 * **Question**: Muddy water, cendol dessert, and shrimp paste sauce are classified as:
-* ก. Homogeneous mixtures
-* ข. Heterogeneous mixtures
-* ค. Pure substances
-* ง. Gaseous solutions
-* **Correct Answer**: ข
+* A. Homogeneous mixtures
+* B. Heterogeneous mixtures
+* C. Pure substances
+* D. Gaseous solutions
+* **Correct Answer**: B
 * **Explanation**: These mixtures have visibly different components and non-uniform appearance, making them heterogeneous.
 
 #### ข้อ 9
@@ -107,11 +107,11 @@
 * **Learning Objective**: Identify gold and salt as pure substances.
 * **Difficulty**: Easy
 * **Question**: Which pair consists of PURE SUBSTANCES?
-* ก. Gold ring and pure salt
-* ข. Coffee and tea
-* ค. Salad and soup
-* ง. Milk and soda
-* **Correct Answer**: ก
+* A. Gold ring and pure salt
+* B. Coffee and tea
+* C. Salad and soup
+* D. Milk and soda
+* **Correct Answer**: A
 * **Explanation**: A golden ring (gold) and pure salt (sodium chloride) consist of one type of particle/compound.
 
 #### ข้อ 10
@@ -119,11 +119,11 @@
 * **Learning Objective**: Define component in a mixture.
 * **Difficulty**: Easy
 * **Question**: What are the 'components' of a mixture?
-* ก. The individual substances or items that are mixed together
-* ข. The heat required to boil the mixture
-* ค. The chemical symbols of elements
-* ง. The container holding the liquid
-* **Correct Answer**: ก
+* A. The individual substances or items that are mixed together
+* B. The heat required to boil the mixture
+* C. The chemical symbols of elements
+* D. The container holding the liquid
+* **Correct Answer**: A
 * **Explanation**: Components are the distinct individual materials that come together to form a mixture.
 
 #### ข้อ 11
@@ -131,11 +131,11 @@
 * **Learning Objective**: Differentiate homogeneous mixture from pure substance.
 * **Difficulty**: Hard
 * **Question**: Why can a homogeneous mixture be easily confused with a pure substance?
-* ก. Because both have a uniform appearance
-* ข. Because both are made of rocks
-* ค. Because both settle at the bottom
-* ง. Because both cannot be dissolved
-* **Correct Answer**: ก
+* A. Because both have a uniform appearance
+* B. Because both are made of rocks
+* C. Because both settle at the bottom
+* D. Because both cannot be dissolved
+* **Correct Answer**: A
 * **Explanation**: Both pure substances and homogeneous mixtures look completely uniform to the naked eye.
 
 #### ข้อ 12
@@ -143,11 +143,11 @@
 * **Learning Objective**: Classify saline solution.
 * **Difficulty**: Medium
 * **Question**: Saline solution (salt dissolved in water) is classified as a:
-* ก. Homogeneous mixture
-* ข. Heterogeneous mixture
-* ค. Pure element
-* ง. Sediment
-* **Correct Answer**: ก
+* A. Homogeneous mixture
+* B. Heterogeneous mixture
+* C. Pure element
+* D. Sediment
+* **Correct Answer**: A
 * **Explanation**: Saline solution is a uniform mixture of dissolved salt in water (homogeneous).
 
 #### ข้อ 13
@@ -155,11 +155,11 @@
 * **Learning Objective**: Identify conditions for handpicking.
 * **Difficulty**: Easy
 * **Question**: When is HANDPICKING the most suitable method to separate a mixture?
-* ก. When solid particles are dissolved in water
-* ข. When unwanted solids are mixed with wanted solids and their sizes/shapes are visibly different
-* ค. When separating salt from seawater
-* ง. When separating gas from liquid
-* **Correct Answer**: ข
+* A. When solid particles are dissolved in water
+* B. When unwanted solids are mixed with wanted solids and their sizes/shapes are visibly different
+* C. When separating salt from seawater
+* D. When separating gas from liquid
+* **Correct Answer**: B
 * **Explanation**: Handpicking is used when components are solid, visibly distinct, and large enough to pick by hand (e.g., shells on beach, husks from rice).
 
 #### ข้อ 14
@@ -167,11 +167,11 @@
 * **Learning Objective**: Identify winnowing process.
 * **Difficulty**: Medium
 * **Question**: What is WINNOWING used for in agriculture?
-* ก. Separating chaff or husk from grain using wind/air current
-* ข. Filtering coconut debris from milk
-* ค. Attracting iron clips with a magnet
-* ง. Heating saltwater to get salt
-* **Correct Answer**: ก
+* A. Separating chaff or husk from grain using wind/air current
+* B. Filtering coconut debris from milk
+* C. Attracting iron clips with a magnet
+* D. Heating saltwater to get salt
+* **Correct Answer**: A
 * **Explanation**: Winnowing uses air flow/wind to blow away lighter chaff/husks from heavier grains.
 
 #### ข้อ 15
@@ -179,11 +179,11 @@
 * **Learning Objective**: Identify sieving process.
 * **Difficulty**: Easy
 * **Question**: What property allows particles to be separated by SIEVING?
-* ก. Difference in magnetic property
-* ข. Difference in particle size using a mesh/sieve
-* ค. Difference in boiling point
-* ง. Difference in color
-* **Correct Answer**: ข
+* A. Difference in magnetic property
+* B. Difference in particle size using a mesh/sieve
+* C. Difference in boiling point
+* D. Difference in color
+* **Correct Answer**: B
 * **Explanation**: Sieving separates solid particles of varying sizes (e.g., sieving flour or sand).
 
 #### ข้อ 16
@@ -191,11 +191,11 @@
 * **Learning Objective**: Identify filtration process.
 * **Difficulty**: Easy
 * **Question**: FILTRATION is best used to separate:
-* ก. A soluble solid dissolved in a liquid
-* ข. An insoluble solid from a liquid using a porous filter paper or cloth
-* ค. Two magnetic metals
-* ง. Two gases
-* **Correct Answer**: ข
+* A. A soluble solid dissolved in a liquid
+* B. An insoluble solid from a liquid using a porous filter paper or cloth
+* C. Two magnetic metals
+* D. Two gases
+* **Correct Answer**: B
 * **Explanation**: Filtration separates insoluble solid particles (like coconut pulp or tea leaves) from a liquid using a filter.
 
 #### ข้อ 17
@@ -203,11 +203,11 @@
 * **Learning Objective**: Identify evaporation process.
 * **Difficulty**: Easy
 * **Question**: Which method is used to separate dissolved salt from seawater in salt farming?
-* ก. Filtration
-* ข. Evaporation
-* ค. Magnetic separation
-* ง. Handpicking
-* **Correct Answer**: ข
+* A. Filtration
+* B. Evaporation
+* C. Magnetic separation
+* D. Handpicking
+* **Correct Answer**: B
 * **Explanation**: Evaporation heats the mixture until the liquid solvent turns to vapor, leaving the soluble solid (salt) behind.
 
 #### ข้อ 18
@@ -215,11 +215,11 @@
 * **Learning Objective**: Identify sedimentation process.
 * **Difficulty**: Medium
 * **Question**: What happens during SEDIMENTATION in muddy water?
-* ก. The mud evaporates into air
-* ข. Heavier solid mud particles settle to the bottom over time, leaving a clear liquid layer on top
-* ค. A magnet attracts the mud
-* ง. The mud dissolves completely
-* **Correct Answer**: ข
+* A. The mud evaporates into air
+* B. Heavier solid mud particles settle to the bottom over time, leaving a clear liquid layer on top
+* C. A magnet attracts the mud
+* D. The mud dissolves completely
+* **Correct Answer**: B
 * **Explanation**: Sedimentation allows dense insoluble solids in a liquid to settle at the container bottom over time.
 
 #### ข้อ 19
@@ -227,11 +227,11 @@
 * **Learning Objective**: Identify magnetic separation.
 * **Difficulty**: Easy
 * **Question**: Which tool is used to separate paper clips or iron nails from sand?
-* ก. A sieve
-* ข. A filter paper
-* ค. A magnet
-* ง. A magnifying glass
-* **Correct Answer**: ค
+* A. A sieve
+* B. A filter paper
+* C. A magnet
+* D. A magnifying glass
+* **Correct Answer**: C
 * **Explanation**: Magnetic separation uses a magnet to attract magnetic materials (iron clips/nails) away from non-magnetic sand.
 
 #### ข้อ 20
@@ -239,11 +239,11 @@
 * **Learning Objective**: Select method for filtering coconut debris.
 * **Difficulty**: Easy
 * **Question**: To separate black debris from freshly squeezed coconut milk, what method should be used?
-* ก. Filtration using filter cloth
-* ข. Evaporation using solar heat
-* ค. Winnowing
-* ง. Magnetic separation
-* **Correct Answer**: ก
+* A. Filtration using filter cloth
+* B. Evaporation using solar heat
+* C. Winnowing
+* D. Magnetic separation
+* **Correct Answer**: A
 * **Explanation**: Filtration through cloth traps solid debris while liquid coconut milk passes through.
 
 #### ข้อ 21
@@ -251,11 +251,11 @@
 * **Learning Objective**: Select method for flour refinement.
 * **Difficulty**: Easy
 * **Question**: To separate large lumps from fine flour, bakers use:
-* ก. Sieving
-* ข. Sedimentation
-* ค. Evaporation
-* ง. Winnowing
-* **Correct Answer**: ก
+* A. Sieving
+* B. Sedimentation
+* C. Evaporation
+* D. Winnowing
+* **Correct Answer**: A
 * **Explanation**: Sieving allows fine flour particles to pass through the mesh while trapping larger lumps.
 
 #### ข้อ 22
@@ -263,11 +263,11 @@
 * **Learning Objective**: Select method for rice husk removal.
 * **Difficulty**: Medium
 * **Question**: Removing light husks from harvested rice grains using wind is called:
-* ก. Winnowing
-* ข. Sedimentation
-* ค. Filtration
-* ง. Evaporation
-* **Correct Answer**: ก
+* A. Winnowing
+* B. Sedimentation
+* C. Filtration
+* D. Evaporation
+* **Correct Answer**: A
 * **Explanation**: Winnowing separates light rice husks from heavy rice grains via wind/air current.
 
 #### ข้อ 23
@@ -275,11 +275,11 @@
 * **Learning Objective**: Analyze solar heat in salt farms.
 * **Difficulty**: Medium
 * **Question**: In solar salt farming, how does the Sun's energy produce salt crystals?
-* ก. Solar heat causes water to evaporate, leaving solid salt crystals behind
-* ข. Solar light turns salt into gas
-* ค. Solar heat filters the seawater
-* ง. Solar energy attracts salt magnetically
-* **Correct Answer**: ก
+* A. Solar heat causes water to evaporate, leaving solid salt crystals behind
+* B. Solar light turns salt into gas
+* C. Solar heat filters the seawater
+* D. Solar energy attracts salt magnetically
+* **Correct Answer**: A
 * **Explanation**: Solar heat evaporates the water solvent, leaving pure salt crystals behind.
 
 #### ข้อ 24
@@ -287,11 +287,11 @@
 * **Learning Objective**: Select method for sand and iron clips.
 * **Difficulty**: Easy
 * **Question**: Paper clips mixed with sand can be most quickly separated by:
-* ก. Using a magnet (Magnetic Separation)
-* ข. Handpicking one by one
-* ค. Evaporation
-* ง. Winnowing
-* **Correct Answer**: ก
+* A. Using a magnet (Magnetic Separation)
+* B. Handpicking one by one
+* C. Evaporation
+* D. Winnowing
+* **Correct Answer**: A
 * **Explanation**: Magnetic separation rapidly attracts all iron paper clips out of the sand.
 
 #### ข้อ 25
@@ -299,11 +299,11 @@
 * **Learning Objective**: Define what a geologist studies.
 * **Difficulty**: Easy
 * **Question**: What is a GEOLOGIST?
-* ก. A scientist who studies plants and animals
-* ข. A scientist who studies the solid, liquid, and gaseous matter of Earth and its rock processes
-* ค. A scientist who studies weather patterns
-* ง. A doctor who treats skin
-* **Correct Answer**: ข
+* A. A scientist who studies plants and animals
+* B. A scientist who studies the solid, liquid, and gaseous matter of Earth and its rock processes
+* C. A scientist who studies weather patterns
+* D. A doctor who treats skin
+* **Correct Answer**: B
 * **Explanation**: A geologist is a scientist who studies Earth's rocks, minerals, and geological processes.
 
 #### ข้อ 26
@@ -311,11 +311,11 @@
 * **Learning Objective**: Define fossils and their origin.
 * **Difficulty**: Easy
 * **Question**: What are FOSSILS?
-* ก. Man-made plastic models of animals
-* ข. Preserved remains or traces of ancient dead plants and animals found in rocks
-* ค. Crystals formed from magma
-* ง. Volcanic ash particles
-* **Correct Answer**: ข
+* A. Man-made plastic models of animals
+* B. Preserved remains or traces of ancient dead plants and animals found in rocks
+* C. Crystals formed from magma
+* D. Volcanic ash particles
+* **Correct Answer**: B
 * **Explanation**: Fossils are preserved remains or impressions of ancient organisms found in rock layers.
 
 #### ข้อ 27
@@ -323,11 +323,11 @@
 * **Learning Objective**: Define rock and mineral composition.
 * **Difficulty**: Easy
 * **Question**: What is a ROCK?
-* ก. A synthetic plastic block
-* ข. A naturally occurring solid mass or combination of minerals
-* ค. A liquid chemical solution
-* ง. A frozen gas cube
-* **Correct Answer**: ข
+* A. A synthetic plastic block
+* B. A naturally occurring solid mass or combination of minerals
+* C. A liquid chemical solution
+* D. A frozen gas cube
+* **Correct Answer**: B
 * **Explanation**: A rock is a naturally occurring solid mass composed of one or more minerals.
 
 #### ข้อ 28
@@ -335,11 +335,11 @@
 * **Learning Objective**: Identify the 3 main categories of rocks.
 * **Difficulty**: Easy
 * **Question**: What are the THREE main categories of rocks on Earth?
-* ก. Igneous, Sedimentary, and Metamorphic
-* ข. Hard, Soft, and Medium
-* ค. Granite, Marble, and Gold
-* ง. Volcanic, Oceanic, and Desert
-* **Correct Answer**: ก
+* A. Igneous, Sedimentary, and Metamorphic
+* B. Hard, Soft, and Medium
+* C. Granite, Marble, and Gold
+* D. Volcanic, Oceanic, and Desert
+* **Correct Answer**: A
 * **Explanation**: The three primary rock classes are Igneous, Sedimentary, and Metamorphic rocks.
 
 #### ข้อ 29
@@ -347,11 +347,11 @@
 * **Learning Objective**: Explain how igneous rocks form.
 * **Difficulty**: Medium
 * **Question**: How do IGNEOUS rocks form?
-* ก. From compressed plant leaves
-* ข. Through the cooling and solidification of molten magma or lava
-* ค. From ocean water evaporation
-* ง. From high pressure on marble
-* **Correct Answer**: ข
+* A. From compressed plant leaves
+* B. Through the cooling and solidification of molten magma or lava
+* C. From ocean water evaporation
+* D. From high pressure on marble
+* **Correct Answer**: B
 * **Explanation**: Igneous rocks form when molten rock (magma under crust or lava on surface) cools and solidifies.
 
 #### ข้อ 30
@@ -359,11 +359,11 @@
 * **Learning Objective**: Distinguish magma from lava.
 * **Difficulty**: Medium
 * **Question**: What is the difference between MAGMA and LAVA?
-* ก. Magma is cold; lava is hot
-* ข. Magma is molten rock UNDER Earth's surface; lava is molten rock ON Earth's surface
-* ค. Magma is solid; lava is gas
-* ง. There is no difference
-* **Correct Answer**: ข
+* A. Magma is cold; lava is hot
+* B. Magma is molten rock UNDER Earth's surface; lava is molten rock ON Earth's surface
+* C. Magma is solid; lava is gas
+* D. There is no difference
+* **Correct Answer**: B
 * **Explanation**: Magma is molten rock beneath Earth's crust; lava is molten rock that erupts onto Earth's surface.
 
 #### ข้อ 31
@@ -371,11 +371,11 @@
 * **Learning Objective**: Identify intrusive igneous rocks.
 * **Difficulty**: Medium
 * **Question**: Granite, quartz, feldspar, and mica are examples of:
-* ก. Igneous rocks formed from slow-cooling magma inside Earth's crust
-* ข. Sedimentary rocks from mud
-* ค. Metamorphic rocks from slate
-* ง. Fossils
-* **Correct Answer**: ก
+* A. Igneous rocks formed from slow-cooling magma inside Earth's crust
+* B. Sedimentary rocks from mud
+* C. Metamorphic rocks from slate
+* D. Fossils
+* **Correct Answer**: A
 * **Explanation**: Granite and its component minerals (quartz, feldspar, mica) form from slow-cooling intrusive magma.
 
 #### ข้อ 32
@@ -383,11 +383,11 @@
 * **Learning Objective**: Identify obsidian and pumice.
 * **Difficulty**: Medium
 * **Question**: Which igneous rock is a natural volcanic glass formed by extremely rapid cooling of lava?
-* ก. Obsidian
-* ข. Limestone
-* ค. Marble
-* ง. Shale
-* **Correct Answer**: ก
+* A. Obsidian
+* B. Limestone
+* C. Marble
+* D. Shale
+* **Correct Answer**: A
 * **Explanation**: Obsidian is a volcanic glass formed when lava cools so rapidly that crystals cannot form.
 
 #### ข้อ 33
@@ -395,11 +395,11 @@
 * **Learning Objective**: Explain sedimentary rock formation.
 * **Difficulty**: Medium
 * **Question**: How do SEDIMENTARY rocks form?
-* ก. From direct volcanic lava cooling
-* ข. When layers of sediment (sand, silt, mud, organic remains) compress and cement over long periods
-* ค. From extreme heat melting rock inside the mantle
-* ง. From nuclear reactions
-* **Correct Answer**: ข
+* A. From direct volcanic lava cooling
+* B. When layers of sediment (sand, silt, mud, organic remains) compress and cement over long periods
+* C. From extreme heat melting rock inside the mantle
+* D. From nuclear reactions
+* **Correct Answer**: B
 * **Explanation**: Sedimentary rocks form when layers of accumulated sediment compress and cement together over time.
 
 #### ข้อ 34
@@ -407,11 +407,11 @@
 * **Learning Objective**: Identify sedimentary rock examples.
 * **Difficulty**: Medium
 * **Question**: Shale, sandstone, limestone, conglomerate, and gypsum are all examples of:
-* ก. Sedimentary rocks
-* ข. Igneous rocks
-* ค. Metamorphic rocks
-* ง. Molten rocks
-* **Correct Answer**: ก
+* A. Sedimentary rocks
+* B. Igneous rocks
+* C. Metamorphic rocks
+* D. Molten rocks
+* **Correct Answer**: A
 * **Explanation**: Shale, sandstone, limestone, conglomerate, and gypsum are major sedimentary rock types.
 
 #### ข้อ 35
@@ -419,11 +419,11 @@
 * **Learning Objective**: Identify limestone calcium carbonate origin.
 * **Difficulty**: Hard
 * **Question**: Limestone is a sedimentary rock formed primarily from:
-* ก. Cooling lava
-* ข. Materials rich in calcium carbonate, such as ancient shells and marine skeletons
-* ค. Volcanic ash
-* ง. Compressed granite
-* **Correct Answer**: ข
+* A. Cooling lava
+* B. Materials rich in calcium carbonate, such as ancient shells and marine skeletons
+* C. Volcanic ash
+* D. Compressed granite
+* **Correct Answer**: B
 * **Explanation**: Limestone forms from accumulated shells, coral, and marine debris rich in calcium carbonate.
 
 #### ข้อ 36
@@ -431,11 +431,11 @@
 * **Learning Objective**: Explain metamorphic rock formation.
 * **Difficulty**: Hard
 * **Question**: How do METAMorphic rocks form?
-* ก. When igneous or sedimentary rocks are transformed by intense heat and pressure deep within Earth's crust without melting
-* ข. From ocean water freezing
-* ค. From dust blowing in wind
-* ง. From river sediments
-* **Correct Answer**: ก
+* A. When igneous or sedimentary rocks are transformed by intense heat and pressure deep within Earth's crust without melting
+* B. From ocean water freezing
+* C. From dust blowing in wind
+* D. From river sediments
+* **Correct Answer**: A
 * **Explanation**: Metamorphic rocks form when existing rocks undergo intense heat and pressure, altering their mineral structure without fully melting.
 
 #### ข้อ 37
@@ -443,11 +443,11 @@
 * **Learning Objective**: Identify parent rocks of gneiss, slate, and marble.
 * **Difficulty**: Hard
 * **Question**: Which metamorphic rock forms from the parent rock GRANITE under intense heat and pressure?
-* ก. Gneiss
-* ข. Slate
-* ค. Marble
-* ง. Quartzite
-* **Correct Answer**: ก
+* A. Gneiss
+* B. Slate
+* C. Marble
+* D. Quartzite
+* **Correct Answer**: A
 * **Explanation**: Gneiss is a foliated metamorphic rock that forms from granite.
 
 #### ข้อ 38
@@ -455,11 +455,11 @@
 * **Learning Objective**: Identify parent rock of slate.
 * **Difficulty**: Hard
 * **Question**: SLATE is a metamorphic rock that forms from which parent sedimentary rock?
-* ก. Shale
-* ข. Limestone
-* ค. Sandstone
-* ง. Basalt
-* **Correct Answer**: ก
+* A. Shale
+* B. Limestone
+* C. Sandstone
+* D. Basalt
+* **Correct Answer**: A
 * **Explanation**: Slate forms when the sedimentary rock shale is subjected to heat and pressure.
 
 #### ข้อ 39
@@ -467,11 +467,11 @@
 * **Learning Objective**: Identify parent rock of marble.
 * **Difficulty**: Hard
 * **Question**: MARBLE is a metamorphic rock formed from the transformation of:
-* ก. Limestone
-* ข. Granite
-* ค. Pumice
-* ง. Obsidian
-* **Correct Answer**: ก
+* A. Limestone
+* B. Granite
+* C. Pumice
+* D. Obsidian
+* **Correct Answer**: A
 * **Explanation**: Marble forms when limestone undergoes metamorphism under heat and pressure.
 
 #### ข้อ 40
@@ -479,11 +479,11 @@
 * **Learning Objective**: Identify characteristics of metamorphic rocks.
 * **Difficulty**: Medium
 * **Question**: What is a key physical characteristic of many METAMORPHIC rocks?
-* ก. They are soft and crumble easily in water
-* ข. They often have visible layered/foliated bands and are harder than their parent rocks
-* ค. They contain active lava
-* ง. They float on water
-* **Correct Answer**: ข
+* A. They are soft and crumble easily in water
+* B. They often have visible layered/foliated bands and are harder than their parent rocks
+* C. They contain active lava
+* D. They float on water
+* **Correct Answer**: B
 * **Explanation**: Metamorphic rocks are generally harder than parent rocks and frequently display layered/foliated banding.
 
 #### ข้อ 41
@@ -491,11 +491,11 @@
 * **Learning Objective**: Identify floating volcanic rock.
 * **Difficulty**: Medium
 * **Question**: Which light volcanic igneous rock has a porous structure filled with air bubbles that allows it to float on water?
-* ก. Pumice
-* ข. Granite
-* ค. Gneiss
-* ง. Marble
-* **Correct Answer**: ก
+* A. Pumice
+* B. Granite
+* C. Gneiss
+* D. Marble
+* **Correct Answer**: A
 * **Explanation**: Pumice contains trapped volcanic gas bubbles, making it lightweight and porous enough to float on water.
 
 #### ข้อ 42
@@ -503,11 +503,11 @@
 * **Learning Objective**: Define the Rock Cycle concept.
 * **Difficulty**: Medium
 * **Question**: What is the ROCK CYCLE?
-* ก. A bicycle made of stone
-* ข. A continuous geological process by which rocks are created, transformed, destroyed, and reformed over time
-* ค. A single eruption of a volcano
-* ง. The rotation of Earth on its axis
-* **Correct Answer**: ข
+* A. A bicycle made of stone
+* B. A continuous geological process by which rocks are created, transformed, destroyed, and reformed over time
+* C. A single eruption of a volcano
+* D. The rotation of Earth on its axis
+* **Correct Answer**: B
 * **Explanation**: The Rock Cycle is the continuous process connecting the creation, transformation, and recycling of igneous, sedimentary, and metamorphic rocks.
 
 #### ข้อ 43
@@ -515,11 +515,11 @@
 * **Learning Objective**: Analyze rock cycle pathways.
 * **Difficulty**: Hard
 * **Question**: If a metamorphic rock is pushed deep into the Earth and subjected to extreme heat until it melts into magma, what type of rock will form when that magma cools?
-* ก. Igneous rock
-* ข. Sedimentary rock
-* ค. Metamorphic rock
-* ง. Fossil rock
-* **Correct Answer**: ก
+* A. Igneous rock
+* B. Sedimentary rock
+* C. Metamorphic rock
+* D. Fossil rock
+* **Correct Answer**: A
 * **Explanation**: When melted magma cools and solidifies, it forms an igneous rock.
 
 #### ข้อ 44
@@ -527,11 +527,11 @@
 * **Learning Objective**: Analyze weathering and erosion in rock cycle.
 * **Difficulty**: Hard
 * **Question**: When igneous rocks on Earth's surface undergo weathering and erosion by wind and water, what will the resulting sediments eventually become?
-* ก. Sedimentary rock
-* ข. Magma
-* ค. Lava
-* ง. Metamorphic rock
-* **Correct Answer**: ก
+* A. Sedimentary rock
+* B. Magma
+* C. Lava
+* D. Metamorphic rock
+* **Correct Answer**: A
 * **Explanation**: Sediments produced by weathering and erosion accumulate and compress into sedimentary rock.
 
 #### ข้อ 45
@@ -539,11 +539,11 @@
 * **Learning Objective**: Identify rock uses in building & construction.
 * **Difficulty**: Easy
 * **Question**: Granite, limestone, and marble are widely used in daily life as:
-* ก. Food additives
-* ข. Construction materials, flooring, countertops, and building decorations
-* ค. Fuel for cars
-* ง. Clothing fibers
-* **Correct Answer**: ข
+* A. Food additives
+* B. Construction materials, flooring, countertops, and building decorations
+* C. Fuel for cars
+* D. Clothing fibers
+* **Correct Answer**: B
 * **Explanation**: Granite, limestone, and marble are major construction materials for buildings, tiles, and monuments.
 
 #### ข้อ 46
@@ -551,11 +551,11 @@
 * **Learning Objective**: Identify granite mortar and pestle.
 * **Difficulty**: Easy
 * **Question**: Which hard igneous rock is commonly used to make heavy kitchen mortar and pestle sets?
-* ก. Granite
-* ข. Gypsum
-* ค. Shale
-* ง. Pumice
-* **Correct Answer**: ก
+* A. Granite
+* B. Gypsum
+* C. Shale
+* D. Pumice
+* **Correct Answer**: A
 * **Explanation**: Granite's hardness and durability make it ideal for kitchen mortar and pestle sets.
 
 #### ข้อ 47
@@ -563,11 +563,11 @@
 * **Learning Objective**: Identify everyday uses of aluminum.
 * **Difficulty**: Easy
 * **Question**: Aluminum is a metal derived from minerals used to make:
-* ก. Cans, foil, electrical wiring, and aircraft parts
-* ข. Cement blocks
-* ค. Glass bottles
-* ง. Paper towels
-* **Correct Answer**: ก
+* A. Cans, foil, electrical wiring, and aircraft parts
+* B. Cement blocks
+* C. Glass bottles
+* D. Paper towels
+* **Correct Answer**: A
 * **Explanation**: Aluminum is lightweight and corrosion-resistant, used for cans, foil, wiring, and transportation.
 
 #### ข้อ 48
@@ -575,11 +575,11 @@
 * **Learning Objective**: Identify copper electrical wiring and lead batteries.
 * **Difficulty**: Medium
 * **Question**: COPPER is widely used for ________, while LEAD is used for ________.
-* ก. electrical wiring / car batteries and wire covering
-* ข. making glass / food packaging
-* ค. clothing / shoes
-* ง. fertilizer / plastic
-* **Correct Answer**: ก
+* A. electrical wiring / car batteries and wire covering
+* B. making glass / food packaging
+* C. clothing / shoes
+* D. fertilizer / plastic
+* **Correct Answer**: A
 * **Explanation**: Copper is an excellent electrical conductor (wiring); Lead is dense and corrosion-resistant (batteries/shielding).
 
 #### ข้อ 49
@@ -587,11 +587,11 @@
 * **Learning Objective**: Define weathering and erosion.
 * **Difficulty**: Medium
 * **Question**: What process breaks down solid rocks into smaller sediment particles at Earth's surface?
-* ก. Weathering and erosion
-* ข. Volcanic melting
-* ค. Magnetic pull
-* ง. Sedimentation
-* **Correct Answer**: ก
+* A. Weathering and erosion
+* B. Volcanic melting
+* C. Magnetic pull
+* D. Sedimentation
+* **Correct Answer**: A
 * **Explanation**: Weathering (chemical/physical breakdown) and erosion (transport by wind/water) reduce rocks to sediments.
 
 #### ข้อ 50
@@ -599,11 +599,11 @@
 * **Learning Objective**: Identify conglomerate sedimentary rock.
 * **Difficulty**: Hard
 * **Question**: Which sedimentary rock forms when rounded gravel and sand particles are cemented together by iron oxide?
-* ก. Conglomerate
-* ข. Basalt
-* ค. Slate
-* ง. Obsidian
-* **Correct Answer**: ก
+* A. Conglomerate
+* B. Basalt
+* C. Slate
+* D. Obsidian
+* **Correct Answer**: A
 * **Explanation**: Conglomerate is a sedimentary rock composed of rounded gravel and sand cemented by iron oxide or calcite.
 
 #### ข้อ 51
@@ -611,11 +611,11 @@
 * **Learning Objective**: Identify gypsum origin.
 * **Difficulty**: Hard
 * **Question**: GYPSUM is a sedimentary rock formed when:
-* ก. Ocean water rich in calcium and sulfate evaporates and deposits minerals
-* ข. Granite melts inside mantle
-* ค. Lava cools in air
-* ง. Plant roots compress
-* **Correct Answer**: ก
+* A. Ocean water rich in calcium and sulfate evaporates and deposits minerals
+* B. Granite melts inside mantle
+* C. Lava cools in air
+* D. Plant roots compress
+* **Correct Answer**: A
 * **Explanation**: Gypsum forms by chemical precipitation/evaporation of calcium and sulfate from ocean water.
 
 #### ข้อ 52
@@ -623,11 +623,11 @@
 * **Learning Objective**: Identify sandstone quartz composition.
 * **Difficulty**: Medium
 * **Question**: Sandstone is formed primarily from compressed grains of:
-* ก. Quartz sand and silt
-* ข. Volcanic glass
-* ค. Dead dinosaurs
-* ง. Clay particles only
-* **Correct Answer**: ก
+* A. Quartz sand and silt
+* B. Volcanic glass
+* C. Dead dinosaurs
+* D. Clay particles only
+* **Correct Answer**: A
 * **Explanation**: Sandstone is a clastic sedimentary rock composed mainly of quartz sand grains.
 
 #### ข้อ 53
@@ -635,11 +635,11 @@
 * **Learning Objective**: Identify shale mud/clay origin.
 * **Difficulty**: Medium
 * **Question**: Which sedimentary rock is formed from compressed fine mud and clay?
-* ก. Shale
-* ข. Granite
-* ค. Pumice
-* ง. Gneiss
-* **Correct Answer**: ก
+* A. Shale
+* B. Granite
+* C. Pumice
+* D. Gneiss
+* **Correct Answer**: A
 * **Explanation**: Shale forms from the compaction of fine-grained mud and clay sediments.
 
 #### ข้อ 54
@@ -647,11 +647,11 @@
 * **Learning Objective**: Identify pumice for water filtration.
 * **Difficulty**: Medium
 * **Question**: Because of its porous bubble structure, pumice can be used for:
-* ก. Water filtration and abrasive polishing
-* ข. Making computer microchips
-* ค. Fueling rockets
-* ง. Baking bread
-* **Correct Answer**: ก
+* A. Water filtration and abrasive polishing
+* B. Making computer microchips
+* C. Fueling rockets
+* D. Baking bread
+* **Correct Answer**: A
 * **Explanation**: Pumice's porous structure makes it useful as a filtration medium and abrasive agent.
 
 #### ข้อ 55
@@ -659,11 +659,11 @@
 * **Learning Objective**: Identify basalt for road construction.
 * **Difficulty**: Medium
 * **Question**: BASALT is a dark, dense igneous rock commonly crushed and used for:
-* ก. Road base construction and railway ballast
-* ข. Jewelry rings
-* ค. Writing paper
-* ง. Cosmetics
-* **Correct Answer**: ก
+* A. Road base construction and railway ballast
+* B. Jewelry rings
+* C. Writing paper
+* D. Cosmetics
+* **Correct Answer**: A
 * **Explanation**: Basalt is extremely tough and dense, making it ideal for crushed road bases and railway ballast.
 
 #### ข้อ 56
@@ -671,11 +671,11 @@
 * **Learning Objective**: Identify rock type containing fossils.
 * **Difficulty**: Hard
 * **Question**: In which type of rock are FOSSILS almost exclusively found?
-* ก. Sedimentary rocks
-* ข. Intrusive igneous rocks
-* ค. High-grade metamorphic rocks
-* ง. Molten magma
-* **Correct Answer**: ก
+* A. Sedimentary rocks
+* B. Intrusive igneous rocks
+* C. High-grade metamorphic rocks
+* D. Molten magma
+* **Correct Answer**: A
 * **Explanation**: Fossils are preserved in sedimentary rocks because the gentle deposition of sediment does not destroy organism remains (unlike molten igneous or high-heat metamorphic processes).
 
 #### ข้อ 57
@@ -683,11 +683,11 @@
 * **Learning Objective**: Analyze sea salt production method.
 * **Difficulty**: Medium
 * **Question**: In sea salt production, seawater is trapped in shallow coastal fields. What natural energy source drives the separation process?
-* ก. Solar heat (Sunlight)
-* ข. Wind turbines
-* ค. Magnetic fields
-* ง. Chemical explosives
-* **Correct Answer**: ก
+* A. Solar heat (Sunlight)
+* B. Wind turbines
+* C. Magnetic fields
+* D. Chemical explosives
+* **Correct Answer**: A
 * **Explanation**: Solar heat from sunlight supplies the energy to evaporate water and crystallize sea salt.
 
 #### ข้อ 58
@@ -695,11 +695,11 @@
 * **Learning Objective**: Analyze Thai food mixture classification.
 * **Difficulty**: Medium
 * **Question**: Thai 'Nam Prik Kapi' (Shrimp paste sauce) contains lime juice, fish sauce, sugar, chili, and turkey berries. It is classified as:
-* ก. A heterogeneous mixture because chili and berries are visibly distinct
-* ข. A homogeneous mixture
-* ค. A pure substance
-* ง. An igneous solution
-* **Correct Answer**: ก
+* A. A heterogeneous mixture because chili and berries are visibly distinct
+* B. A homogeneous mixture
+* C. A pure substance
+* D. An igneous solution
+* **Correct Answer**: A
 * **Explanation**: Shrimp paste sauce has visibly distinct components (chili flakes, berries, liquid), making it heterogeneous.
 
 #### ข้อ 59
@@ -707,11 +707,11 @@
 * **Learning Objective**: Analyze Cendol mixture classification.
 * **Difficulty**: Medium
 * **Question**: Thai Cendol (Lod Chong) contains coconut milk, pandan noodles, palm sugar, and ice. It is a:
-* ก. Heterogeneous mixture
-* ข. Homogeneous mixture
-* ค. Pure element
-* ง. Geological sediment
-* **Correct Answer**: ก
+* A. Heterogeneous mixture
+* B. Homogeneous mixture
+* C. Pure element
+* D. Geological sediment
+* **Correct Answer**: A
 * **Explanation**: Cendol contains visibly distinct green noodles, coconut milk, and syrup, forming a heterogeneous mixture.
 
 #### ข้อ 60
@@ -719,11 +719,11 @@
 * **Learning Objective**: Summarize core Grade 6 Science modules.
 * **Difficulty**: Easy
 * **Question**: Which two major topics comprise the Grade 6 Science curriculum module in the textbook?
-* ก. Separating Mixtures & Rocks/Minerals (including Rock Cycle)
-* ข. Plant Anatomy & Electricity only
-* ค. Space travel & Chemistry lab
-* ง. Animal classification only
-* **Correct Answer**: ก
+* A. Separating Mixtures & Rocks/Minerals (including Rock Cycle)
+* B. Plant Anatomy & Electricity only
+* C. Space travel & Chemistry lab
+* D. Animal classification only
+* **Correct Answer**: A
 * **Explanation**: The curriculum covers Unit 2 (Separating Mixtures) and Unit 3 (Rocks, Minerals, and the Rock Cycle).
 
 ---

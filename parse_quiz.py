@@ -33,16 +33,17 @@ def parse_quiz_file(md_filename, output_json, title_name):
         lo = re.search(r'\* \*\*(?:จุดประสงค์การเรียนรู้|Learning Objective)\*\*:\s*(.*)', block)
         diff = re.search(r'\* \*\*(?:ระดับความยาก|Difficulty)\*\*:\s*(.*)', block)
         prompt = re.search(r'\* \*\*(?:โจทย์|Prompt|Question)\*\*:\s*(.*)', block)
-        ans = re.search(r'\* \*\*(?:คำตอบที่ถูกต้อง|คำตอบ|Correct Answer|Answer)\*\*:\s*([ก-งA-D])', block)
+        ans = re.search(r'\* \*\*(?:คำตอบที่ถูกต้อง|คำตอบ|Correct Answer|Answer)\*\*:\s*([ก-งA-Da-d])', block)
+        ans_str = ans.group(1).strip().upper() if ans else ''
         exp = re.search(r'\* \*\*(?:คำอธิบาย|Explanation)\*\*:\s*(.*)', block)
-        
-        # Options
+
+        # Options (Supports both Thai: ก, ข, ค, ง and English: A, B, C, D)
         options = {}
-        for opt in ['ก', 'ข', 'ค', 'ง']:
-            opt_m = re.search(rf'\* {opt}\.\s*(.*)', block)
+        for opt in ['A', 'B', 'C', 'D', 'ก', 'ข', 'ค', 'ง']:
+            opt_m = re.search(rf'\*\s+{opt}\.\s*(.*)', block)
             if opt_m:
                 options[opt] = opt_m.group(1).strip()
-        
+
         questions.append({
             'id': q_num,
             'section': 'MCQ',
@@ -52,7 +53,7 @@ def parse_quiz_file(md_filename, output_json, title_name):
             'difficulty': diff.group(1).strip() if diff else 'Medium',
             'question': prompt.group(1).strip() if prompt else '',
             'options': options,
-            'correctAnswer': ans.group(1).strip() if ans else '',
+            'correctAnswer': ans_str,
             'explanation': exp.group(1).strip() if exp else '',
             'points': 1
         })
