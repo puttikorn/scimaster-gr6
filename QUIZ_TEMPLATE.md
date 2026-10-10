@@ -1,231 +1,230 @@
-# Knowledge Assessment Quiz: [วิชา] ชั้นประถมศึกษาปีที่ 6 (ชุดข้อสอบประเมินผลกลางภาค/ปลายภาค)
+# Knowledge Assessment Quiz: [Subject] Grade 6 (Midterm/Final Exam Suite)
 
+<!--
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  QUIZ TEMPLATE — SciMaster Gr.6 Platform                           ║
-║  วิธีใช้: แทนที่ข้อความใน [วงเล็บเหลี่ยม] ด้วยข้อมูลจริง           ║
-║  แล้วรัน: python3 parse_quiz.py  เพื่อแปลงเป็น JSON               ║
+║  HOW TO USE: Replace placeholders in [square brackets] with actual   ║
+║  content, then run: python3 parse_quiz.py to convert to JSON.        ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  CHECKLIST ก่อน Parse                                               ║
-║  [ ] แทนที่ [วิชา] ทุกจุด (เช่น ภาษาอังกฤษ, สังคมศึกษา)           ║
-║  [ ] แทนที่ [XX] ด้วย Subject Code (เช่น ENG, SOC, HEA)            ║
-║  [ ] กรอก Document Summary                                          ║
-║  [ ] กรอก Learning Objectives                                       ║
-║  [ ] Section A: ครบ 60 ข้อ (ข้อ 1–60)                              ║
-║  [ ] Section B: ครบ 30 ข้อ (ข้อ 61–90)                             ║
-║  [ ] Section C: ครบ 15 ข้อ (ข้อ 91–105)                            ║
-║  [ ] Section D: ครบ 10 ข้อ (ข้อ 106–115)                           ║
-║  [ ] ตัวเลือก MCQ ใช้ "* ก." ไม่มีช่องว่างนำหน้า                  ║
+║  PRE-PARSE CHECKLIST                                                 ║
+║  [ ] Replace [Subject] everywhere (e.g., English, Science, Math)      ║
+║  [ ] Replace [XX] with Subject Code (e.g., ENG, SCI, MATH)            ║
+║  [ ] Fill in Document Summary                                        ║
+║  [ ] Fill in Learning Objectives                                     ║
+║  [ ] Section A: Exactly 60 questions (Q1–Q60)                        ║
+║  [ ] Section B: Exactly 30 questions (Q61–Q90)                       ║
+║  [ ] Section C: Exactly 15 questions (Q91–Q105)                      ║
+║  [ ] Section D: Exactly 10 questions (Q106–Q115)                     ║
+║  [ ] MCQ options use "* A." with no leading space                    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 ---
 
-## Document Summary (สรุปเนื้อหาเอกสารและหลักสูตร[วิชา] ป.6)
+## Document Summary ([Subject] Grade 6 Assessment Overview)
 
-เอกสารฉบับนี้รวบรวมเนื้อหาและโจทย์ประเมินผลการเรียนรู้กลุ่มสาระการเรียนรู้[วิชา]
-ระดับชั้นประถมศึกษาปีที่ 6 ครอบคลุมสาระสำคัญ [N] หน่วยการเรียนรู้หลัก ได้แก่:
+This document contains the complete curriculum summary and assessment items for [Subject] Grade 6, covering [N] main learning units:
 
-### 1. หน่วยการเรียนรู้ที่ N: [ชื่อหน่วย Unit 1]
-* **[หัวข้อย่อย 1]**: [คำอธิบายโดยย่อ]
-* **[หัวข้อย่อย 2]**: [คำอธิบายโดยย่อ]
+### 1. Learning Unit N: [Unit Title 1]
+* **[Subtopic 1]**: [Brief summary/description]
+* **[Subtopic 2]**: [Brief summary/description]
 
-### 2. หน่วยการเรียนรู้ที่ N+1: [ชื่อหน่วย Unit 2]
-* **[หัวข้อย่อย 1]**: [คำอธิบายโดยย่อ]
-* **[หัวข้อย่อย 2]**: [คำอธิบายโดยย่อ]
-
----
-
-## Learning Objectives Mapping (แผนผังจุดประสงค์การเรียนรู้)
-
-* **LO-[XX]1**: [จุดประสงค์ข้อที่ 1 — ระดับ จำ/เข้าใจ]
-* **LO-[XX]2**: [จุดประสงค์ข้อที่ 2 — ระดับ นำไปใช้]
-* **LO-[XX]3**: [จุดประสงค์ข้อที่ 3 — ระดับ วิเคราะห์]
-* **LO-[XX]4**: [จุดประสงค์ข้อที่ 4 — ระดับ ประเมิน/สร้างสรรค์]
+### 2. Learning Unit N+1: [Unit Title 2]
+* **[Subtopic 1]**: [Brief summary/description]
+* **[Subtopic 2]**: [Brief summary/description]
 
 ---
 
-## สรุปคะแนนรวม
+## Learning Objectives Mapping
 
-| ส่วน | จำนวนข้อ | คะแนน/ข้อ | คะแนนรวม |
-|------|----------|-----------|----------|
-| A: ปรนัย (MCQ) | 60 | 1 | 60 |
-| B: ถูก/ผิด (TF) | 30 | 1 | 30 |
-| C: สถานการณ์ (Scenario) | 15 | 2 | 30 |
-| D: อัตนัย (ShortAnswer) | 10 | 3 | 30 |
-| **รวม** | **115** | — | **150** |
-| **เกณฑ์ผ่าน (80%)** | — | — | **120** |
+* **LO-[XX]1**: [Objective 1 — Remember / Understand Level]
+* **LO-[XX]2**: [Objective 2 — Apply Level]
+* **LO-[XX]3**: [Objective 3 — Analyze Level]
+* **LO-[XX]4**: [Objective 4 — Evaluate / Create Level]
 
 ---
 
-# Section A: Multiple Choice Questions (ปรนัย 4 ตัวเลือก)
+## Total Score Summary
+
+| Section | Questions | Points/Question | Total Points |
+|---------|-----------|-----------------|--------------|
+| A: Multiple Choice (MCQ) | 60 | 1 | 60 |
+| B: True / False (TF) | 30 | 1 | 30 |
+| C: Scenario-Based | 15 | 2 | 30 |
+| D: Short Answer | 10 | 3 | 30 |
+| **Total** | **115** | — | **150** |
+| **Passing Criteria (80%)** | — | — | **120** |
+
+---
+
+# Section A: Multiple Choice Questions (60 Questions)
 
 <!--
 RULES Section A:
-- ข้อ 1–60 (60 ข้อ, 1 คะแนน/ข้อ)
-- ตัวเลือก: "* ก." ต้องไม่มีช่องว่างนำหน้า (parser sensitive!)
-- คำตอบ: ก | ข | ค | ง เท่านั้น
-- สัดส่วนความยาก: Easy ~30% / Medium ~50% / Hard ~20%
-- สัดส่วน LO: กระจายครอบคลุมทุก LO
+- Q1–Q60 (60 Questions, 1 Point/Question)
+- Options: "* A." must have no leading space (parser sensitive!)
+- Answer: A | B | C | D only
+- Difficulty Ratio: Easy ~30% / Medium ~50% / Hard ~20%
+- LO Distribution: Balanced coverage across all LOs
 -->
 
 #### ข้อ 1
-* **หัวข้อ**: [ชื่อหัวข้อ/บทเรียน]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]1
-* **ระดับความยาก**: Easy
-* **โจทย์**: [คำถามระดับจำ/เข้าใจ]
-* ก. [ตัวเลือก A]
-* ข. [ตัวเลือก B — ✓ คำตอบถูกต้อง]
-* ค. [ตัวเลือก C]
-* ง. [ตัวเลือก D]
-* **คำตอบที่ถูกต้อง**: ข
-* **คำอธิบาย**: [อธิบายว่า ข ถูกเพราะอะไร และ ก ค ง ผิดเพราะอะไร]
+* **Topic**: [Topic / Lesson Title]
+* **Learning Objective**: LO-[XX]1
+* **Difficulty**: Easy
+* **Prompt**: [Remember / Understand level question]
+* A. [Option A]
+* B. [Option B — ✓ Correct Answer]
+* C. [Option C]
+* D. [Option D]
+* **Correct Answer**: B
+* **Explanation**: [Explain why B is correct and A, C, D are incorrect]
 
 #### ข้อ 2
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]1
-* **ระดับความยาก**: Easy
-* **โจทย์**: [คำถาม]
-* ก. [ตัวเลือก A]
-* ข. [ตัวเลือก B]
-* ค. [ตัวเลือก C — ✓]
-* ง. [ตัวเลือก D]
-* **คำตอบที่ถูกต้อง**: ค
-* **คำอธิบาย**: [อธิบาย]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]1
+* **Difficulty**: Easy
+* **Prompt**: [Question]
+* A. [Option A]
+* B. [Option B]
+* C. [Option C — ✓]
+* D. [Option D]
+* **Correct Answer**: C
+* **Explanation**: [Explanation]
 
 #### ข้อ 3
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]2
-* **ระดับความยาก**: Medium
-* **โจทย์**: [คำถามระดับนำไปใช้]
-* ก. [ตัวเลือก A — ✓]
-* ข. [ตัวเลือก B]
-* ค. [ตัวเลือก C]
-* ง. [ตัวเลือก D]
-* **คำตอบที่ถูกต้อง**: ก
-* **คำอธิบาย**: [อธิบาย]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]2
+* **Difficulty**: Medium
+* **Prompt**: [Application level question]
+* A. [Option A — ✓]
+* B. [Option B]
+* C. [Option C]
+* D. [Option D]
+* **Correct Answer**: A
+* **Explanation**: [Explanation]
 
-<!-- ★ COPY ข้อ 4–60 ที่นี่ (วางบล็อก #### ข้อ N ซ้ำ แล้วแก้เลข) -->
-<!-- ข้อ 1–20   → LO-[XX]1 เป็นหลัก (Easy) -->
-<!-- ข้อ 21–50  → LO-[XX]2, LO-[XX]3 (Medium) -->
-<!-- ข้อ 51–60  → LO-[XX]3, LO-[XX]4 (Hard) -->
+<!-- ★ COPY Q4–Q60 HERE (Duplicate #### ข้อ N block and change the number) -->
+<!-- Q1–Q20   → Mainly LO-[XX]1 (Easy) -->
+<!-- Q21–Q50  → LO-[XX]2, LO-[XX]3 (Medium) -->
+<!-- Q51–Q60  → LO-[XX]3, LO-[XX]4 (Hard) -->
 
 ---
 
-# Section B: True / False Questions (ถูก-ผิด)
+# Section B: True / False Questions (30 Questions)
 
 <!--
 RULES Section B:
-- ข้อ 61–90 (30 ข้อ, 1 คะแนน/ข้อ)
-- field: "* **ข้อความ**:" (ไม่ใช่ "* **โจทย์**:")
-- คำตอบ: True หรือ False (ตัวพิมพ์ใหญ่ขึ้นต้น)
-- ใส่ข้อความในเครื่องหมายคำพูด " "
-- True ~15 ข้อ / False ~15 ข้อ
+- Q61–Q90 (30 Questions, 1 Point/Question)
+- Field: "* **Statement**:" or "* **Prompt**:"
+- Answer: True or False (Capitalized)
+- Enclose statement in double quotes " "
+- True ~15 items / False ~15 items
 -->
 
 #### ข้อ 61
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]1
-* **ระดับความยาก**: Easy
-* **ข้อความ**: "[ข้อความที่ถูกต้อง]"
-* **คำตอบ**: True
-* **คำอธิบาย**: [อธิบายว่าข้อความนี้ถูกเพราะอะไร]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]1
+* **Difficulty**: Easy
+* **Statement**: "[Correct Statement]"
+* **Answer**: True
+* **Explanation**: [Explain why this statement is true]
 
 #### ข้อ 62
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]2
-* **ระดับความยาก**: Easy
-* **ข้อความ**: "[ข้อความที่ผิด]"
-* **คำตอบ**: False
-* **คำอธิบาย**: [อธิบายว่าผิดเพราะอะไร และข้อความที่ถูกต้องควรเป็นอย่างไร]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]2
+* **Difficulty**: Easy
+* **Statement**: "[False Statement]"
+* **Answer**: False
+* **Explanation**: [Explain why it is false and what the correct statement should be]
 
 #### ข้อ 63
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]2
-* **ระดับความยาก**: Medium
-* **ข้อความ**: "[ข้อความที่ต้องคิดวิเคราะห์ก่อนตัดสิน]"
-* **คำตอบ**: True
-* **คำอธิบาย**: [อธิบาย]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]2
+* **Difficulty**: Medium
+* **Statement**: "[Statement requiring analysis before deciding]"
+* **Answer**: True
+* **Explanation**: [Explanation]
 
-<!-- ★ COPY ข้อ 64–90 ที่นี่ -->
+<!-- ★ COPY Q64–Q90 HERE -->
 
 ---
 
-# Section C: Scenario-Based Questions (สถานการณ์จำลอง)
+# Section C: Scenario-Based Questions (15 Questions)
 
 <!--
 RULES Section C:
-- ข้อ 91–105 (15 ข้อ, 2 คะแนน/ข้อ)
-- MUST มี "* **สถานการณ์**:" — parser ใช้ field นี้แสดงใน UI กล่องสีน้ำเงิน
-- ใช้ "* **คำถาม**:" (ไม่ใช่ "* **โจทย์**:")
-- ใช้ "* **คำตอบ**:" สำหรับแนวคำตอบ
-- เกณฑ์ JS: >15 chars → 2pt, >0 chars → 1pt
+- Q91–Q105 (15 Questions, 2 Points/Question)
+- MUST contain "* **Scenario**:" — parser uses this field to render blue highlight box in UI
+- Use "* **Question**:"
+- Use "* **Answer**:" for expected model answer
+- JS Grading Heuristic: >15 chars → 2pt, >0 chars → 1pt
 -->
 
 #### ข้อ 91
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]3
-* **ระดับความยาก**: Hard
-* **สถานการณ์**: [บริบทจำลอง 2-4 ประโยค เช่น "นักเรียนชื่อ... ต้องการ... โดยมีข้อมูลว่า... จงช่วย..."]
-* **คำถาม**: [คำถามที่ต้องการคำตอบเชิงอธิบาย/วิเคราะห์]
-* **คำตอบ**: [แนวคำตอบที่คาดหวัง — อธิบายหลักการและเหตุผลที่ถูกต้อง]
-* **คำอธิบาย**: [คำอธิบายเพิ่มเติมสำหรับผู้เรียน]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]3
+* **Difficulty**: Hard
+* **Scenario**: [2-4 sentences scenario context e.g., "Student named... wants to... given that... Please help..."]
+* **Question**: [Explanatory / Analytical question]
+* **Answer**: [Expected model answer explaining core principles and reasoning]
+* **Explanation**: [Additional explanation for learners]
 
 #### ข้อ 92
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]3
-* **ระดับความยาก**: Hard
-* **สถานการณ์**: [สถานการณ์จำลอง]
-* **คำถาม**: [คำถาม]
-* **คำตอบ**: [แนวคำตอบ]
-* **คำอธิบาย**: [คำอธิบาย]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]3
+* **Difficulty**: Hard
+* **Scenario**: [Scenario Context]
+* **Question**: [Question]
+* **Answer**: [Expected Answer]
+* **Explanation**: [Explanation]
 
 #### ข้อ 93
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]4
-* **ระดับความยาก**: Hard
-* **สถานการณ์**: [สถานการณ์จำลอง]
-* **คำถาม**: [คำถาม]
-* **คำตอบ**: [แนวคำตอบ]
-* **คำอธิบาย**: [คำอธิบาย]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]4
+* **Difficulty**: Hard
+* **Scenario**: [Scenario Context]
+* **Question**: [Question]
+* **Answer**: [Expected Answer]
+* **Explanation**: [Explanation]
 
-<!-- ★ COPY ข้อ 94–105 ที่นี่ -->
+<!-- ★ COPY Q94–Q105 HERE -->
 
 ---
 
-# Section D: Short Answer Questions (อัตนัย / อธิบายความรู้)
+# Section D: Short Answer Questions (10 Questions)
 
 <!--
 RULES Section D:
-- ข้อ 106–115 (10 ข้อ, 3 คะแนน/ข้อ)
-- ใช้ "* **โจทย์**:" (ไม่ใช่ "* **คำถาม**:")
-- MUST มี "* **แนวคำตอบที่คาดหวัง**:" — parser ใช้ field นี้
-- ไม่ต้องมี "* **คำตอบ**:" (ต่างจาก Section C)
-- เกณฑ์ JS: >20 chars → 3pt, >0 chars → 1pt
-- ควรเป็นคำถามปลายเปิดที่ต้องตอบ 3-5 ประโยค
+- Q106–Q115 (10 Questions, 3 Points/Question)
+- Use "* **Prompt**:" or "* **Question**:"
+- MUST contain "* **Expected Answer**:" — parser uses this field
+- Do NOT use "* **Answer**:" (unlike Section C)
+- JS Grading Heuristic: >20 chars → 3pt, >0 chars → 1pt
+- Open-ended question requiring 3-5 sentences answer
 -->
 
 #### ข้อ 106
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]3
-* **ระดับความยาก**: Hard
-* **โจทย์**: [คำถามปลายเปิด — อธิบาย/เปรียบเทียบ/ยกตัวอย่าง/วิเคราะห์]
-* **แนวคำตอบที่คาดหวัง**: [ประเด็นที่คาดหวัง เช่น "(1) นักเรียนควรระบุว่า... (2) ยกตัวอย่าง... (3) อธิบายเหตุผล..."]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]3
+* **Difficulty**: Hard
+* **Prompt**: [Open-ended question — Explain / Compare / Exemplify / Analyze]
+* **Expected Answer**: [Expected key points e.g., "(1) Student should state that... (2) Provide examples of... (3) Explain the rationale..."]
 
 #### ข้อ 107
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]4
-* **ระดับความยาก**: Hard
-* **โจทย์**: [คำถามปลายเปิด]
-* **แนวคำตอบที่คาดหวัง**: [แนวคำตอบ]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]4
+* **Difficulty**: Hard
+* **Prompt**: [Open-ended question]
+* **Expected Answer**: [Expected Answer]
 
 #### ข้อ 108
-* **หัวข้อ**: [ชื่อหัวข้อ]
-* **จุดประสงค์การเรียนรู้**: LO-[XX]4
-* **ระดับความยาก**: Hard
-* **โจทย์**: [คำถามปลายเปิด]
-* **แนวคำตอบที่คาดหวัง**: [แนวคำตอบ]
+* **Topic**: [Topic Title]
+* **Learning Objective**: LO-[XX]4
+* **Difficulty**: Hard
+* **Prompt**: [Open-ended question]
+* **Expected Answer**: [Expected Answer]
 
-<!-- ★ COPY ข้อ 109–115 ที่นี่ -->
-<!-- Section D ควรครอบคลุม LO ระดับสูงทุกข้อ -->
-<!-- ทุกข้อต้องมี "แนวคำตอบที่คาดหวัง" ไม่เช่นนั้น parser จะข้ามข้อนั้น -->
-
+<!-- ★ COPY Q109–Q115 HERE -->
+<!-- Section D should cover all high-level LOs -->
+<!-- Every item MUST have "Expected Answer", otherwise parser will skip the item -->
