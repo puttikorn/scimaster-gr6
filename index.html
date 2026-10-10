@@ -45,6 +45,16 @@
       </div>
 
       <div class="header-right">
+        <button id="studentBadgeBtn" class="student-badge-btn" title="ข้อมูลนักเรียน / เปลี่ยนผู้สอบ">
+          <i class="fa-solid fa-user-graduate"></i>
+          <span id="studentBadgeLabel">ลงชื่อเข้าสอบ</span>
+        </button>
+        <button id="myHistoryBtn" class="header-icon-btn" title="ประวัติคะแนนของฉัน">
+          <i class="fa-solid fa-clock-rotate-left"></i>
+        </button>
+        <button id="teacherDashboardBtn" class="header-icon-btn" title="แดชบอร์ดครู (Admin)">
+          <i class="fa-solid fa-chalkboard-user"></i>
+        </button>
         <div class="progress-pill">
           <span class="progress-text"><span id="answeredCount">0</span>/115 ข้อ</span>
           <div class="progress-bar-bg">
@@ -274,6 +284,9 @@
             </div>
           </div>
 
+          <!-- Score save status (filled by score_store.js) -->
+          <div class="score-sync-status" id="scoreSyncStatus" style="display: none;"></div>
+
           <!-- Section Breakdown Cards -->
           <div class="section-breakdown-grid">
             <div class="breakdown-card">
@@ -455,7 +468,110 @@
     </div>
   </div>
 
+  <!-- Modal: Student Identity -->
+  <div class="modal-backdrop" id="studentLoginModal" style="display: none;">
+    <div class="modal-card modal-sm">
+      <div class="modal-header">
+        <h2><i class="fa-solid fa-user-graduate" style="color: var(--accent-cyan);"></i> ลงชื่อเข้าสอบ</h2>
+        <button class="close-modal-btn" id="closeStudentModal">&times;</button>
+      </div>
+      <div class="modal-body student-login-body">
+        <p class="student-login-hint">กรอกข้อมูลก่อนเริ่มทำข้อสอบ คะแนนทุกครั้งที่ส่งข้อสอบจะถูกบันทึกในชื่อของนักเรียน</p>
+        <div class="form-field">
+          <label for="studentNameInput"><i class="fa-solid fa-user"></i> ชื่อ-นามสกุล</label>
+          <input type="text" id="studentNameInput" class="text-input" maxlength="80" placeholder="เช่น ด.ช. สมชาย ใจดี" autocomplete="name">
+        </div>
+        <div class="form-row">
+          <div class="form-field">
+            <label for="studentIdInput"><i class="fa-solid fa-id-card"></i> รหัสนักเรียน</label>
+            <input type="text" id="studentIdInput" class="text-input" maxlength="20" placeholder="เช่น 12345" autocomplete="off">
+          </div>
+          <div class="form-field">
+            <label for="studentClassInput"><i class="fa-solid fa-school"></i> ห้อง</label>
+            <input type="text" id="studentClassInput" class="text-input" maxlength="20" list="classOptions" placeholder="ป.6/1" autocomplete="off">
+            <datalist id="classOptions"></datalist>
+          </div>
+        </div>
+        <div class="admin-auth-error" id="studentLoginError" style="display: none;">
+          <i class="fa-solid fa-triangle-exclamation"></i> กรุณากรอกชื่อ รหัสนักเรียน และห้องให้ครบ
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn-secondary" id="switchStudentBtn" style="display: none;"><i class="fa-solid fa-right-from-bracket"></i> เปลี่ยนผู้สอบ</button>
+        <button class="btn-primary" id="saveStudentBtn"><i class="fa-solid fa-play"></i> บันทึก &amp; เริ่มสอบ</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: My Score History -->
+  <div class="modal-backdrop" id="historyModal" style="display: none;">
+    <div class="modal-card modal-lg">
+      <div class="modal-header">
+        <h2><i class="fa-solid fa-clock-rotate-left"></i> ประวัติคะแนนของฉัน</h2>
+        <button class="close-modal-btn" id="closeHistoryModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="history-student-info" id="historyStudentInfo"></div>
+        <div class="best-cards" id="historyBestCards"></div>
+        <div class="dash-note" id="historyNote" style="display: none;"></div>
+        <div class="table-responsive">
+          <table class="score-table">
+            <thead>
+              <tr><th>วันที่</th><th>วิชา</th><th>ครั้งที่</th><th>คะแนน</th><th>%</th><th>ผล</th><th>A/B/C/D</th><th>เวลา</th><th></th></tr>
+            </thead>
+            <tbody id="historyTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Teacher Dashboard -->
+  <div class="modal-backdrop" id="dashboardModal" style="display: none;">
+    <div class="modal-card modal-xl">
+      <div class="modal-header">
+        <h2><i class="fa-solid fa-chalkboard-user" style="color: var(--accent-amber);"></i> แดชบอร์ดครู: คะแนนนักเรียนทุกครั้งที่สอบ</h2>
+        <button class="close-modal-btn" id="closeDashboardModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="dash-key-row" id="dashboardKeyRow" style="display: none;">
+          <i class="fa-solid fa-key"></i>
+          <input type="password" id="dashboardKeyInput" class="text-input" placeholder="Sheet Admin Key (ADMIN_KEY ใน Apps Script)" autocomplete="off">
+          <button class="btn-secondary" id="dashSaveKeyBtn">เชื่อมต่อ</button>
+        </div>
+        <div class="dash-note" id="dashboardNote" style="display: none;"></div>
+
+        <div class="dash-stats">
+          <div class="dash-stat"><span class="dash-stat-value" id="dashStatAttempts">0</span><span class="dash-stat-label">ครั้งที่สอบ</span></div>
+          <div class="dash-stat"><span class="dash-stat-value" id="dashStatStudents">0</span><span class="dash-stat-label">นักเรียน</span></div>
+          <div class="dash-stat"><span class="dash-stat-value" id="dashStatAvg">0%</span><span class="dash-stat-label">คะแนนเฉลี่ย</span></div>
+          <div class="dash-stat"><span class="dash-stat-value" id="dashStatPass">0%</span><span class="dash-stat-label">อัตราผ่าน (80%)</span></div>
+        </div>
+
+        <div class="dash-filters">
+          <select id="dashSubjectFilter" class="text-input"></select>
+          <select id="dashClassFilter" class="text-input"></select>
+          <input type="search" id="dashSearch" class="text-input" placeholder="ค้นหาชื่อ / รหัสนักเรียน">
+          <label class="dash-check"><input type="checkbox" id="dashLatestOnly"> เฉพาะครั้งล่าสุด</label>
+          <button class="btn-secondary" id="dashRefreshBtn"><i class="fa-solid fa-rotate"></i> รีเฟรช</button>
+          <button class="btn-primary" id="dashExportBtn"><i class="fa-solid fa-file-csv"></i> Export CSV</button>
+        </div>
+
+        <div class="table-responsive">
+          <table class="score-table">
+            <thead>
+              <tr><th>วันที่</th><th>รหัส</th><th>ชื่อ</th><th>ห้อง</th><th>วิชา</th><th>ครั้งที่</th><th>คะแนน</th><th>%</th><th>ผล</th><th>A/B/C/D</th><th>เวลา</th></tr>
+            </thead>
+            <tbody id="dashboardTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="config.js"></script>
   <script src="app.js"></script>
+  <script src="score_store.js"></script>
 </body>
 </html>
 

@@ -15,6 +15,7 @@ const state = {
   paletteFilter: 'all', // 'all', 'unanswered', 'bookmarked'
   practiceMode: false,
   isAdmin: sessionStorage.getItem('scimaster_admin_authenticated') === 'true',
+  adminAuthPurpose: 'practice', // why the Admin PIN modal is open: 'practice' | 'dashboard'
   timerSeconds: 3600,  // 60 minutes
   timerInterval: null,
   timerPaused: false,
@@ -137,6 +138,11 @@ function updateAdminUI() {
 function showAdminAuthModal() {
   if (adminPinInput) adminPinInput.value = '';
   if (adminAuthError) adminAuthError.style.display = 'none';
+  if (submitAdminAuthBtn) {
+    submitAdminAuthBtn.innerHTML = state.adminAuthPurpose === 'dashboard'
+      ? '<i class="fa-solid fa-unlock"></i> ยืนยันสิทธิ์ &amp; เปิดแดชบอร์ดครู'
+      : '<i class="fa-solid fa-unlock"></i> ยืนยันสิทธิ์ &amp; เปิดโหมดฝึกฝน';
+  }
   if (adminAuthModal) {
     adminAuthModal.style.display = 'flex';
     setTimeout(() => {
@@ -147,6 +153,7 @@ function showAdminAuthModal() {
 
 function hideAdminAuthModal() {
   if (adminAuthModal) adminAuthModal.style.display = 'none';
+  state.adminAuthPurpose = 'practice';
   if (!state.isAdmin) {
     if (practiceModeToggle) practiceModeToggle.checked = false;
     state.practiceMode = false;
@@ -158,14 +165,19 @@ function verifyAdminPIN() {
   const validPins = ['admin', 'admin1234', 'admin2026', 'scimaster', 'scimaster2026', '1234', 'teacher'];
 
   if (validPins.includes(pin)) {
+    const purpose = state.adminAuthPurpose || 'practice';
     state.isAdmin = true;
     sessionStorage.setItem('scimaster_admin_authenticated', 'true');
-    state.practiceMode = true;
-    if (practiceModeToggle) practiceModeToggle.checked = true;
+    // Only turn on practice mode when the PIN was requested for it (not for the dashboard)
+    if (purpose === 'practice') {
+      state.practiceMode = true;
+      if (practiceModeToggle) practiceModeToggle.checked = true;
+    }
     updateAdminUI();
     saveState();
     renderCurrentQuestion();
     hideAdminAuthModal();
+    if (purpose === 'dashboard' && window.ScoreStore) window.ScoreStore.openDashboard();
   } else {
     if (adminAuthError) {
       adminAuthError.style.display = 'flex';
@@ -1086,6 +1098,24 @@ function submitExam() {
     isPassed, timeSpentSeconds: state.timeSpentSeconds
   });
   saveState(); // Also persist the final answers
+
+  // Store this attempt in the student's score history (local + Google Sheets)
+  if (window.ScoreStore) {
+    const answeredTotal = Object.values(state.userAnswers)
+      .filter(v => v !== undefined && v !== null && String(v).trim() !== '').length;
+    window.ScoreStore.recordAttempt({
+      subject: state.currentSubject,
+      subjectTitle: brandTitle ? brandTitle.innerText : state.currentSubject,
+      totalScore,
+      maxScore,
+      percent: Number(pct),
+      passed: isPassed,
+      secA: secAScore, secB: secBScore, secC: secCScore, secD: secDScore,
+      timeSpentSec: state.timeSpentSeconds,
+      answeredCount: answeredTotal,
+      totalQuestions: state.questions.length
+    });
+  }
 }
 
 // Run on page load
