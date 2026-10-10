@@ -1,0 +1,49 @@
+  loop(); 
+}
+Unlike programs running on your computer, Arduino code can never quit. This is because the 
+microcontroller only has one program loaded into it. If this program quit there would be nothing to 
+tell the microcontroller what to do.
+Blink
+Here's a short example that demonstrates the setup() and loop() functions. This can be loaded 
+into the Arduino IDE by choosing File > Examples > 01. Basics > Blink. (Note: Most Arduino 
+boards have an LED already connected to pin 13, but you may need to add an external LED to 
+see the effects of this sketch.)
+// the setup function runs once when you press reset or power the board 
+void setup() { 
+  // initialize digital pin 13 as an output. 
+  pinMode(13, OUTPUT); 
+} 
+ 
+// the loop function runs over and over again forever 
+void loop() { 
+  digitalWrite(13, HIGH);   // turn the LED on (HIGH is the voltage level) 
+  delay(1000);              // wait for a second 
+  digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW 
+  delay(1000);              // wait for a second 
+}
+The above snippet:
+Defines the setup() function. The setup() function gets called first on execution in every 
+Arduino program.
+Sets pin 13 as an output.
+Without this, it might be set to an input, which would make the LED not work; however 
+once it is set as an output it will stay that way so this only needs to be done once when 
+the program starts.
+1. 
+1. 
+Defines the loop() function. The loop() function is called repeatedly for as long as the 
+program is running.
+digitalWrite(13, HIGH); turns the LED on.
+1. 
+delay(1000); waits one second (1000 milliseconds).
+2. 
+digitalWrite(13, LOW); turns the LED off.
+3. 
+delay(1000); waits one second (1000 milliseconds).
+4. 
+2. 
+Because loop() is run repeatedly for as long as the program is running, the LED will flash on and 
+off with a period of 2 seconds (1 second on, 1 second off). This example is based off of the 
+Arduino Uno and any other board that already has an LED connected to Pin 13. If the board that is 
+being used does not have an on-board LED connected to that pin, one can be attached externally.
+https://riptutorial.com/
+3

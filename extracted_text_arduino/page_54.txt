@@ -1,0 +1,36 @@
+The above loop is equivalent to a for loop:
+for (;;) { 
+    // do something 
+}
+For
+for loops are simplified syntax for a very common loop pattern, which could be accomplished in 
+more lines with a while loop.
+The following is a common example of a for loop, which will execute 100 times and then stop.
+for (int i = 0; i < 100; i++) { 
+    // do something 
+}
+This is equivalent to a while loop:
+int num = 0; 
+while (num < 100) { 
+    // do something 
+    num++; 
+}
+You can create an endless loop by omitting the condition.
+for (;;) { 
+    // do something 
+}
+This is equivalent to a while loop:
+while (true) { 
+    // do something 
+}
+Do ... While
+A do while loop is the same as a while loop, except that it is guaranteed to execute at least one 
+time.
+The following loop will execute 100 times.
+int i = 0; 
+do { 
+    i++; 
+} while (i < 100);
+A similar loop, but with a different condition, will execute 1 time.
+https://riptutorial.com/
+47

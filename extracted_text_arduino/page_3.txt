@@ -1,0 +1,62 @@
+Basic Note Outputs
+12
+Chapter 5: Bluetooth Communication
+13
+Parameters
+13
+Remarks
+14
+Examples
+14
+Basic bluetooth hello world
+14
+Chapter 6: Data Storage
+15
+Examples
+15
+cardInfo
+15
+SD card datalogger
+17
+SD card file dump
+18
+SD card basic file example
+19
+Listfiles
+20
+SD card read/write
+22
+Chapter 7: Digital Inputs
+24
+Syntax
+24
+Parameters
+24
+Remarks
+24
+Examples
+24
+Pushbutton reading
+24
+Chapter 8: Digital Output
+26
+Syntax
+26
+Examples
+26
+Write to pin
+26
+Chapter 9: Functions
+27
+Remarks
+27
+Examples
+27
+Create simple function
+27
+Call a function
+27
+Chapter 10: Hardware pins
+29
+Examples
+29

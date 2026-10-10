@@ -1,0 +1,34 @@
+18
+MIDI Communication
+Rich Maes
+19
+PWM - Pulse Width 
+Modulation
+Danny_ds, Johnny Mopp, JorgeGT, Martin Carney
+20
+Random Numbers
+Danny_ds, Javier Rizzo Aguirre, MikeCAT
+21
+Serial 
+Communication
+blainedwards8, Danny_ds, geek1011, Leah, Martin Carney, 
+MikeS159, Morgoth, Nufail Achath, Peter Mortensen, uruloke
+22
+Servo
+geek1011, mactro, Morgoth
+23
+SPI Communication
+Christoph
+24
+Time Management
+Christoph, Rei
+25
+Using Arduino with 
+Atmel Studio 7
+Danny_ds, Nate
+26
+Variables and Data 
+Types
+Leah, MikeCAT
+https://riptutorial.com/
+85

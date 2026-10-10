@@ -1,0 +1,19 @@
+Chapter 25: Using Arduino with Atmel Studio 
+7
+Remarks
+Setup
+Download and install Atmel Studio 7 from here.
+•
+Purchase a debugger. You can get by with a ISP programmer, but if you want debugging 
+capabilities, which is one of the big advantages of using Atmel Studio, you will want a 
+debugger. I recommend the Atmel ICE, as it provides debugging capabilities for AVR based 
+arduinos (like the Uno, pro mini, etc) and the ARM based Arduinos, such as the Zero and 
+Due. If you are on a budget, you can get it without the plastic case and be careful not to 
+shock it.
+•
+Connections
+For the Uno, use the 6-pin ICSP cable. Plug one side into the Uno as shown. Plug the other 
+side into the debugger's AVR port.
+•
+https://riptutorial.com/
+75

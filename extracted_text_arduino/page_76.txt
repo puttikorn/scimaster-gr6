@@ -1,0 +1,3 @@
+Read SPI Communication online: https://riptutorial.com/arduino/topic/4919/spi-communication
+https://riptutorial.com/
+69

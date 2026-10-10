@@ -1,0 +1,26 @@
+In loop(), the first message we would like to send is "Hello World!". This message is transmitted by 
+using Serial.println("Hello World!") as it will send this string to serial port in ASCII format. At the 
+end of the message, there are Carriage Return (CR, \r) and Newline character (\n). Also, a delay 
+of 100 milliseconds is used each time program prints to serial port.
+Next, upload this Arduino sketch via COM port (remember this COM port number as it will be used 
+in Python program).
+The Python program reading serial data sent from Arduino device is shown below:
+import serial 
+import time 
+ 
+ser = serial.Serial('COM8', 9600) 
+while (1): 
+    print ser.readline() 
+    time.sleep(0.1)
+First, pyserial package should be imported. For more information about installing pyserial in 
+Windows environment, please check this instruction: Installing Python and pyserial. Then, we 
+initialize the serial port with COM port number and baud rate. The baud rate needs to be the same 
+as used in Arduino sketch.
+Received message will be printed in while loop using readline() function. A delay of 100 
+milliseconds is also used here as same as in Arduino sketch. Please notice that pyserial 
+readline() function requires a timeout when opening a serial port (pyserial documentation: 
+PySerial ReadLine).
+Read How Python integrates with Arduino Uno online: 
+https://riptutorial.com/arduino/topic/6722/how-python-integrates-with-arduino-uno
+https://riptutorial.com/
+33

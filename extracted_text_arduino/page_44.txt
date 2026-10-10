@@ -1,0 +1,60 @@
+          buffer[i] = Wire.read();  // gets the data 
+        } 
+ 
+        // Parse the buffer 
+        // In order to convert the incoming bytes info short, I use union 
+        union short_tag { 
+          byte b[2]; 
+          short val; 
+        } short_cast; 
+ 
+        // Parse the temperature 
+        short_cast.b[0] = buffer[0]; 
+        short_cast.b[1] = buffer[1]; 
+        float temperature = ((float)(short_cast.val)) / 10; 
+ 
+        // Parse the moisture 
+        short_cast.b[0] = buffer[2]; 
+        short_cast.b[1] = buffer[3]; 
+        short moisture = short_cast.val; 
+ 
+        // Prints the income data 
+        Serial.print("Slave address "); 
+        Serial.print(slaveAddress); 
+        Serial.print(": Temprature = "); 
+        Serial.print(temprature); 
+        Serial.print("; Moisture = "); 
+        Serial.println(moisture); 
+      } 
+    } 
+    Serial.println("*************************"); 
+ 
+    delay(READ_CYCLE_DELAY); 
+  } 
+}
+And now the slave code:
+#include <Wire.h> 
+#include <OneWire.h> 
+#include <DallasTemperature.h> 
+ 
+//===================== 
+// This is the hard-coded address. Change it from one device to another 
+#define SLAVE_ADDRESS 1 
+//===================== 
+ 
+// I2C Variables 
+#define BUFFER_SIZE 2 
+#define READ_CYCLE_DELAY 1000 
+short data[BUFFER_SIZE]; 
+ 
+// Temprature Variables 
+OneWire oneWire(8); 
+DallasTemperature temperatureSensors(&oneWire); 
+float m_temperature; 
+ 
+// Moisture Variables 
+short m_moisture; 
+ 
+// General Variables 
+https://riptutorial.com/
+37

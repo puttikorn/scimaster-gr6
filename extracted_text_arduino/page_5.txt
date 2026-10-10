@@ -1,0 +1,62 @@
+Parameters
+44
+Examples
+44
+Basic Usage
+44
+Chapter 17: Loops
+46
+Syntax
+46
+Remarks
+46
+Examples
+46
+While
+46
+For
+47
+Do ... While
+47
+Flow Control
+48
+Chapter 18: MIDI Communication
+49
+Introduction
+49
+Examples
+49
+MIDI THRU Example
+49
+MIDI Thru with Queue
+49
+MIDI Clock Generation
+51
+MIDI Messages Defined
+52
+Chapter 19: PWM - Pulse Width Modulation
+57
+Examples
+57
+Control a DC motor through the Serial port using PWM
+57
+The basics
+57
+Bill of materials: what do you need to build this example
+58
+The build
+58
+The code
+58
+PWM with a TLC5940
+59
+Chapter 20: Random Numbers
+60
+Syntax
+60
+Parameters
+60
+Remarks
+60
+Examples
+60

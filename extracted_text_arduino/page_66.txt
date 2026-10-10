@@ -1,0 +1,49 @@
+between 0 and 255. The actual code of this example is very simple. An explanation is provided in 
+each line.
+int in = 0;                   // Variable to store the desired value 
+byte pinOut = 10;             // PWM output pin 
+ 
+void setup() {                // This executes once 
+  Serial.begin(9600);             // Initialize serial port 
+  pinMode(pinOut, OUTPUT);        // Prepare output pin 
+} 
+ 
+void loop() {                 // This loops continuously 
+  if(Serial.available()){         // Check if there's data 
+    in = Serial.read();           // Read said data into the variable "in" 
+    analogWrite(pinOut, in);      // Pass the value of "in" to the pin 
+  } 
+}
+And that's it! Now you can use Arduino's PWM capabilities to control applications that require 
+analog signals even when the power requirements exceed the board's limits.
+PWM with a TLC5940
+The TLC5940 is a handy item to have when you run out of PWM ports on the Arduino. It has 16 
+channels, each individually controllable with 12 bits of resolution (0-4095). An existing library is 
+available at http://playground.arduino.cc/Learning/TLC5940. It is useful for controlling multiple 
+servos or RGB LEDs. Just keep in mind, the LEDs must be common anode to work. Also, the 
+chips are daisy-chainable, allowing even more PWM ports.
+Example:
+// Include the library 
+#include <Tlc5940.h> 
+ 
+void setup() { 
+    // Initialize 
+    Tlc.init(); 
+    Tlc.clear(); 
+} 
+ 
+unsigned int level = 0; 
+void loop() { 
+    // Set all 16 outputs to same value 
+    for (int i = 0; i < 16; i++) { 
+        Tlc.set(i, level); 
+    } 
+    level = (level + 1) % 4096; 
+    // Tell the library to send the values to the chip 
+    Tlc.update(); 
+    delay(10); 
+}
+Read PWM - Pulse Width Modulation online: https://riptutorial.com/arduino/topic/1658/pwm---
+pulse-width-modulation
+https://riptutorial.com/
+59

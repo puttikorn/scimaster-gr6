@@ -1,0 +1,39 @@
+int m_timestamp; 
+ 
+void setup() 
+{ 
+  Serial.begin(9600); 
+  Serial.println("SLAVE SENDER"); 
+  Serial.print("Node address: "); 
+  Serial.println(SLAVE_ADDRESS); 
+  Serial.print("Buffer size: "); 
+  Serial.println(BUFFER_SIZE * sizeof(short)); 
+  Serial.println("***********************"); 
+ 
+  m_timestamp = millis(); 
+  Wire.begin(NODE_ADDRESS);  // Activate I2C network 
+  Wire.onRequest(requestEvent); // Set the request event handler 
+  temperatureSensors.begin(); 
+} 
+ 
+void loop() 
+{ 
+  if(millis() - m_timestamp < READ_CYCLE_DELAY) return; 
+ 
+  // Reads the temperature 
+  temperatureSensors.requestTemperatures(); 
+  m_temperature = temperatureSensors.getTempCByIndex(0); 
+ 
+  // Reads the moisture 
+  m_moisture = analogRead(A0); 
+} 
+ 
+void requestEvent() 
+{ 
+  data[0] = m_temperature * 10; // In order to use short, I multiple by 10 
+  data[1] = m_moisture; 
+  Wire.write((byte*)data, BUFFER_SIZE * sizeof(short)); 
+}
+Read I2C Communication online: https://riptutorial.com/arduino/topic/9092/i2c-communication
+https://riptutorial.com/
+38

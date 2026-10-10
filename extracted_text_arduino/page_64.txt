@@ -1,0 +1,24 @@
+Chapter 19: PWM - Pulse Width Modulation
+Examples
+Control a DC motor through the Serial port using PWM
+In this example we aim to accomplish one of the most common tasks: I have a small DC motor 
+laying around, how do I use my Arduino to control it? Easy, with PWM and serial communication, 
+using the function analogWrite() and the Serial library.
+The basics
+Pulse Width Modulation or PWM for short is a technique for mimicking analog signals using digital 
+output. How does this work? Using a pulse train whose relation D (duty cycle) between time at 
+high level (digital 1, usually 5V) and time at low level (digital 0, 0V) in each period can be modified 
+to produce an average voltage between these two levels:
+By using Arduino's analogWrite(pin,value) function we can vary the value of the duty cycle of pin's 
+output. Note that the pin must be put into output mode and the value must be between 0 (0V) and 
+255 (5V). Any value in between will simulate a proportional intermediate analog output.
+However, the purpose of analog signals is usually related to the control of mechanical systems 
+that require more voltage and current than the Arduino board alone is capable of. In this example, 
+we will learn how to amplify Arduino's PWM capabilities.
+For this a MOSFET diode is used. In essence, this diode acts as a switch. It allows or interrupts 
+the electric flow between its source and drain terminals. But instead of a mechanical switch, it 
+features a third terminal called gate. A very small current (<1mA) will "open" this gate and allow 
+the current to flow. This is very convenient, because we can send Arduino's PWM output to this 
+gate, thereby creating another PWM pulse train with the same duty cycle through the MOSFET, 
+https://riptutorial.com/
+57

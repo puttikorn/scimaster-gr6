@@ -1,0 +1,47 @@
+Looking into the source code of elapsedMillis reveals that it indeed uses millis() internally to 
+compare two points in time, so it suffers from this effect as well. Again, there's the alternative 
+elapsedMicros for higher precision, from the same library.
+Examples
+blocking blinky with delay()
+One of the most straight forward way of making an LED blink is: turn it on, wait a bit, turn it off, 
+wait again, and repeat endlessly:
+// set constants for blinking the built-in LED at 1 Hz 
+#define OUTPIN LED_BUILTIN 
+#define PERIOD 500 
+ 
+void setup() 
+{ 
+  pinMode(OUTPIN, OUTPUT);      // sets the digital pin as output 
+} 
+ 
+void loop() 
+{ 
+  digitalWrite(OUTPIN, HIGH);   // sets the pin on 
+  delayMicroseconds(PERIOD);        // pauses for 500 miliseconds 
+  digitalWrite(OUTPIN, LOW);    // sets the pin off 
+  delayMicroseconds(PERIOD);        // pauses for 500 milliseconds 
+ 
+  // doing other time-consuming stuff here will skew the blinking 
+}
+However, waiting as done in the example above wastes CPU cycles, because it just sits there in a 
+loop waiting for a certain point in time to go past. That's what the non-blocking ways, using 
+millis() or elapsedMillis, do better - in the sense that they don't burn as much of the hardware's 
+capabilities.
+Non-blocking blinky with the elapsedMillis library (and class)
+The elapsedMillis library provides a class with the same name that keeps track of the time that 
+passed since it was created or set to a certain value:
+#include <elapsedMillis.h> 
+ 
+#define OUTPIN LED_BUILTIN 
+#define PERIOD 500 
+ 
+elapsedMillis ledTime; 
+ 
+bool ledState = false; 
+ 
+void setup() 
+{ 
+  // initialize the digital pin as an output. 
+  pinMode(OUTPIN, OUTPUT); 
+https://riptutorial.com/
+71

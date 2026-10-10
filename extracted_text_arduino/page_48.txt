@@ -1,0 +1,17 @@
+Chapter 15: Libraries
+Introduction
+Here you will find documentation on:
+-Installing libraries into the Arduino IDE
+-Including libraries into a Sketch
+Examples
+Installing libraries with the Library Manager
+To install a new library into the Arduino IDE:
+Open Sketch Menu > Include Library > Manage Libraries.
+•
+Once you have opened the Library Manager you can use the menu in the top to filter 
+the results.
+Click on the library you want, select a version in the drop down menu, and click 
+install.
+•
+https://riptutorial.com/
+41

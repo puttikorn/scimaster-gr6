@@ -1,0 +1,35 @@
+Chapter 17: Loops
+Syntax
+for (declaration, condition, iteration) { }
+•
+while (condition) { }
+•
+do { } while (condition)
+•
+Remarks
+General Remark If you intend to create a loop to wait for something to happen, you're probably on 
+the wrong track here. Rather remember that all code after setup() is run from a method called 
+loop(). So if you need to wait for something, it's easiest to not do anything (or only other 
+independent stuff) and come back to check for the waiting condition next time.
+do { } while(condition) will not evaluate the condition statement until after the first iteration. This 
+is important to keep in mind if the condition statement has side effects.
+Examples
+While
+A while loop will evaluate its condition, and if true, it will execute the code inside and start over. 
+That is, as long as its condition evaluates to true, the while loop will execute over and over.
+This loop will execute 100 times, each time adding 1 to the variable num:
+int num = 0; 
+while (num < 100) { 
+    // do something 
+    num++; 
+}
+The above loop is equivalent to a for loop:
+for (int i = 0; i < 100; i++) { 
+    // do something 
+}
+This loop will execute forever:
+while (true) { 
+    // do something 
+}
+https://riptutorial.com/
+46

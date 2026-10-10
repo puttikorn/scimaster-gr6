@@ -1,0 +1,56 @@
+    tailQ++; 
+    tailQ = tailQ % QUEUE_DEPTH;  // Keep this tailQ contained within a limit 
+    // Now that we dequeed the byte, it must be sent. 
+    return myByte; 
+} 
+ 
+void loop() { 
+    captClock = micros(); 
+ 
+    if (lastClock > captClock) { 
+        // we have a roll over condition - Again, maybe we don't need to do this. 
+        if (clk_period_us <= (4294967295 - (lastClock - captClock))) { 
+            // Add a the ideal clock period for this BPM to the last measurement value 
+            lastClock = lastClock + clk_period_us; 
+            // Send a clock, bypasing the transmit queue 
+            Serial.write(MIDI_SYSRT_CLK); 
+        } 
+    } else if (clk_period_us <= captClock-lastClock) { 
+        // Basically the same two commands above, but not within a roll over check 
+        lastClock = lastClock + clk_period_us; 
+        // Send a clock, bypasing the transmit queue 
+        Serial.write(MIDI_SYSRT_CLK); 
+    } 
+ 
+    if (getQDepth>0) { 
+        Serial.write(deQueue()); 
+    } 
+} 
+ 
+// The little function that gets called each time loop is called. 
+// This is automated somwhere in the Arduino code. 
+void serialEvent() { 
+  if (Serial.available()) { 
+    // get the new byte: 
+    addQueue((unsigned char)Serial.read());; 
+  } 
+}
+MIDI Messages Defined
+In general, MIDI protocol is broken down into "messages". There are 4 general classes of 
+messages:
+Channel Voice
+•
+Channel Mode
+•
+System Common
+•
+System Real-Time Messages
+•
+Messages start with a byte value above 0x80. Any value below 0x7F is considered data. 
+Effectively meaning that 127 is the maximum value that can be encoded into a single MIDI data 
+byte. To encode larger values, two or more MIDI data bytes are required.
+It should be pointed out that messages must be sent start to finish without interruption... 
+EXCEPT... System Real-Time messages, which are a single byte, which can be injected in the 
+middle of any message.
+https://riptutorial.com/
+52

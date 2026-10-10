@@ -1,0 +1,24 @@
+Status 
+D7..D0
+Data 
+Bytes
+Description
+11111100
+Stop. Stop the current sequence.
+11111101
+Undefined. (Reserved)
+11111110
+Active Sensing. This message is intended to be sent repeatedly to tell 
+the receiver that a connection is alive. Use of this message is optional. 
+When initially received, the receiver will expect to receive another 
+Active Sensing message each 300ms (max), and if it does not then it 
+will assume that the connection has been terminated. At termination, 
+the receiver will turn off all voices and return to normal (non- active 
+sensing) operation.
+11111111
+Reset. Reset all receivers in the system to power-up status. This 
+should be used sparingly, preferably under manual control. In 
+particular, it should not be sent on power-up.
+Read MIDI Communication online: https://riptutorial.com/arduino/topic/9406/midi-communication
+https://riptutorial.com/
+56

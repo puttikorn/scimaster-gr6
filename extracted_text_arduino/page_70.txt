@@ -1,0 +1,48 @@
+7 data bits, no parity and 1 stop bit would be - SERIAL_7N1
+Examples
+Simple read and write
+This example listens for input coming in over the serial connection, then repeats it back out the 
+same connection.
+byte incomingBytes; 
+ 
+void setup() { 
+  Serial.begin(9600); // Opens serial port, sets data rate to 9600 bps. 
+} 
+ 
+void loop() { 
+  // Send data only when you receive data. 
+  if (Serial.available() > 0) { 
+    // Read the incoming bytes. 
+    incomingBytes = Serial.read(); 
+ 
+    // Echo the data. 
+    Serial.println(incomingBytes); 
+  } 
+}
+Base64 filtering for serial input data
+String base64="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="; 
+ 
+void setup() { 
+ 
+    Serial.begin(9600); // Turn the serial protocol ON 
+    Serial.println("Start Typing"); 
+} 
+ 
+void loop() { 
+ 
+    if (Serial.available() > 0) { // Check if data has been sent from the user 
+        char c = Serial.read();   // Gets one byte/Character from serial buffer 
+        int result = base64.indexOf(c); // Base64 filtering 
+        if (result>=0) 
+            Serial.print(c); // Only print Base64 string 
+    } 
+}
+Command Handling over Serial
+byte incoming; 
+String inBuffer; 
+ 
+void setup() { 
+    Serial.begin(9600); // or whatever baud rate you would like 
+} 
+https://riptutorial.com/
+63

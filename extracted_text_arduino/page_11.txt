@@ -1,0 +1,5 @@
+More on timing (for example delays and measuring time): Time Management
+First Time Setup
+Software needed: Arduino IDE
+https://riptutorial.com/
+4

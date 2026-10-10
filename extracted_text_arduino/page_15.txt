@@ -1,0 +1,12 @@
+        digitalWrite(13, LOW); 
+    } 
+    else 
+    { 
+        // turn LED off: 
+        digitalWrite(13, HIGH); 
+    } 
+}
+Read Getting started with arduino online: https://riptutorial.com/arduino/topic/610/getting-started-
+with-arduino
+https://riptutorial.com/
+8

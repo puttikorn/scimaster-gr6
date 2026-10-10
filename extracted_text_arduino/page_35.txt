@@ -1,0 +1,18 @@
+void setup(){ 
+  Serial.begin(9600); 
+} 
+ 
+void loop() { 
+  int i = 2; 
+ 
+  int k = squareNum(i); // k now contains 4 
+  Serial.println(k); 
+  delay(500); 
+} 
+ 
+int squareNum(int a) { 
+    return a*a; 
+}
+Read Functions online: https://riptutorial.com/arduino/topic/2380/functions
+https://riptutorial.com/
+28

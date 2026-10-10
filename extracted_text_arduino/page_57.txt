@@ -1,0 +1,63 @@
+some 
+// MIDI messages can be interrupted for real time events.  If you are generating your own 
+messages, 
+// you may need to stop your message to let a "real time" message through and then resume your 
+message. 
+ 
+ 
+#define QUEUE_DEPTH 128 
+ 
+// Queue Logic for storing messages 
+int headQ = 0; 
+int tailQ = 0; 
+unsigned char tx_queue[QUEUE_DEPTH]; 
+ 
+void setup() { 
+    // put your setup code here, to run once: 
+    //  Set MIDI baud rate: 
+    Serial.begin(31250); 
+} 
+ 
+// getQDepth checks for roll over.  Folks have told me this 
+// is not required.  Feel free to experiment. 
+int getQDepth() { 
+int depth = 0; 
+    if (headQ < tailQ) { 
+        depth = QUEUE_DEPTH - (tailQ - headQ); 
+    } else { 
+        depth = headQ - tailQ; 
+    } 
+    return depth; 
+} 
+ 
+void addQueue (unsigned char myByte) { 
+    int depth = 0; 
+    depth = getQDepth(); 
+ 
+    if (depth < (QUEUE_DEPTH-2)) { 
+        tx_queue[headQ] = myByte; 
+        headQ++; 
+        headQ = headQ % QUEUE_DEPTH; // Always keep the headQ limited between 0 and 127 
+    } 
+} 
+ 
+unsigned char deQueue() { 
+    unsigned char myByte; 
+    myByte = tx_queue[tailQ]; 
+    tailQ++; 
+    tailQ = tailQ % QUEUE_DEPTH;  // Keep this tailQ contained within a limit 
+    // Now that we dequeed the byte, it must be sent. 
+    return myByte; 
+} 
+ 
+void loop() { 
+   if (getQDepth>0) { 
+        Serial.write(deQueue()); 
+    } 
+} 
+ 
+// The little function that gets called each time loop is called. 
+// This is automated somwhere in the Arduino code. 
+void serialEvent() { 
+https://riptutorial.com/
+50

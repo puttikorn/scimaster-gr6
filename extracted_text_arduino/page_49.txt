@@ -1,0 +1,7 @@
+Now your library is installed. In order to use it, you need to include it in your sketch.
+Including libraries in your sketch.
+Once you have installed a library, you need to include it in your sketch in order to use it.
+Open the Sketch Menu > Include Library and click the Library you want to include.
+•
+https://riptutorial.com/
+42

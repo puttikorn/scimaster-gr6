@@ -1,0 +1,29 @@
+This example uses a push button (tact switch) attached to digital pin 2 and GND, using an internal 
+pull-up resistor so pin 2 is HIGH when the button is not pressed.
+const int LED_PIN = 13; 
+const int INTERRUPT_PIN = 2; 
+volatile bool ledState = LOW; 
+ 
+void setup() { 
+    pinMode(LED_PIN, OUTPUT); 
+    pinMode(INTERRUPT_PIN, INPUT_PULLUP); 
+    attachInterrupt(digitalPinToInterrupt(INTERRUPT_PIN), myISR, FALLING); // trigger when 
+button pressed, but not when released. 
+} 
+ 
+void loop() { 
+    digitalWrite(LED_PIN, ledState); 
+} 
+ 
+void myISR() { 
+    ledState = !ledState; 
+    // note: LOW == false == 0, HIGH == true == 1, so inverting the boolean is the same as 
+switching between LOW and HIGH. 
+}
+One gotcha with this simple example is that push buttons tend to bounce, meaning that when 
+pressing or releasing, the circuit opens and closes more than once before it settles into the final 
+closed or open state. This example doesn't take that into account. As a result, sometimes pressing 
+the button will toggle the LED multiple times, instead of the expected once.
+Read Interrupts online: https://riptutorial.com/arduino/topic/2913/interrupts
+https://riptutorial.com/
+40

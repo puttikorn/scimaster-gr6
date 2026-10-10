@@ -1,0 +1,7 @@
+Using the Pro Mini, if you intend to connect the serial port to your computer using an FTDI board, 
+do not connect the DTR line, as it will interfere with Atmel's Serial Wire Debug (SWD) interface. I 
+simply connect power, ground, Tx and Rx as shown here below. Rx and Tx on Arduino go to Tx 
+and Rx, respectively on FTDI board. Some FTDI boards are labeled differently, so if the serial port 
+doesn't work, swap Rx and Tx.
+https://riptutorial.com/
+78

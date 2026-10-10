@@ -1,0 +1,22 @@
+float voltage = 0; 
+ 
+void setup() 
+{ 
+    Serial.begin(9600); 
+} 
+ 
+void loop() 
+{ 
+    readADC(); 
+    Serial.print(voltage); Serial.println("V"); 
+} 
+ 
+void readADC() 
+{ 
+    ADCValue = analogRead(analogPin); 
+    float = ( ( (float)ADCValue/ADCRange ) * AREFValue );    //Convert the ADC value to a 
+float, devide by the ADC resolution and multiply by the AREF voltage 
+}
+Read Analog Inputs online: https://riptutorial.com/arduino/topic/2382/analog-inputs
+https://riptutorial.com/
+10

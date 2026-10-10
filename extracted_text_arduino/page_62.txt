@@ -1,0 +1,57 @@
+Status 
+D7..D0
+Data Bytes
+Description
+11110111
+mechanism for creating additional MIDI Specification 
+messages. The Manufacturer's ID code (assigned by MMA or 
+AMEI) is either 1 byte (0iiiiiii) or 3 bytes (0iiiiiii 0iiiiiii 0iiiiiii). 
+Two of the 1 Byte IDs are reserved for extensions called 
+Universal Exclusive Messages, which are not manufacturer-
+specific. If a device recognizes the ID code as its own (or as 
+a supported Universal message) it will listen to the rest of the 
+message (0ddddddd). Otherwise, the message will be 
+ignored. (Note: Only Real-Time messages may be 
+interleaved with a System Exclusive.)
+11110001
+0nnndddd
+MIDI Time Code Quarter Frame. nnn = Message Type dddd 
+= Values
+11110010
+0lllllll 
+0mmmmmmm
+Song Position Pointer. This is an internal 14 bit register that 
+holds the number of MIDI beats (1 beat= six MIDI clocks) 
+since the start of the song. l is the LSB, m the MSB.
+11110011
+0sssssss
+Song Select. The Song Select specifies which sequence or 
+song is to be played.
+11110100
+Undefined. (Reserved)
+11110101
+Undefined. (Reserved)
+11110110
+Tune Request. Upon receiving a Tune Request, all analog 
+synthesizers should tune their oscillators.
+11110111
+End of Exclusive. Used to terminate a System Exclusive 
+dump (see above).
+System Real-Time Messages
+Status 
+D7..D0
+Data 
+Bytes
+Description
+11111000
+Timing Clock. Sent 24 times per quarter note when synchronization is 
+required (see text).
+11111001
+Undefined. (Reserved)
+11111010
+Start. Start the current sequence playing. (This message will be 
+followed with Timing Clocks).
+11111011
+Continue. Continue at the point the sequence was Stopped.
+https://riptutorial.com/
+55

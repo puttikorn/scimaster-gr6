@@ -1,0 +1,37 @@
+Chapter 1: Getting started with arduino
+Remarks
+What is Arduino?
+Arduino is an open-source electronics platform based on easy-to-use hardware and software.
+Why Use Arduino?
+Inexpensive. You can also buy clones that are even cheaper.
+•
+Easy to use and get started with
+•
+Huge community
+•
+Completely Open Source
+•
+Versions
+Version
+Release Date
+1.0.0
+2016-05-08
+Examples
+Bare Minimum
+Here's the 'bare minimum' Arduino sketch. This can be loaded into the Arduino IDE by choosing 
+File > Examples > 01. Basics > Bare Minimum.
+void setup() { 
+  // put your setup code here, to run once 
+} 
+ 
+void loop() { 
+  // put your main code here, to run repeatedly 
+}
+Code in the setup() function will be run once when the program starts. This is useful to set up I/O 
+pins, initialize variables, etc. Code in the loop() function will be run repeatedly until the Arduino is 
+switched off or a new program is uploaded. Effectively, the code above looks like this inside the 
+Arduino runtime library:
+setup(); 
+while(1) { 
+https://riptutorial.com/
+2

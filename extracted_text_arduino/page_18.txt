@@ -1,0 +1,41 @@
+Chapter 3: Arduino IDE
+Examples
+Installing on Windows
+Go to https://www.arduino.cc/en/Main/Software
+1. 
+Click the "Windows Installer" link
+2. 
+Follow the instructions
+3. 
+Portable app on Windows
+To use the Arduino IDE on Windows without needing to install it:
+Go to https://www.arduino.cc/en/Main/Software
+1. 
+Click the "Windows ZIP file for non admin install" link
+2. 
+Extract the archive to a folder
+3. 
+Open the folder, and double click Arduino.exe
+4. 
+Installing on Fedora
+Open a terminal and run: sudo dnf install arduino
+1. 
+Open the Arduino application, or type arduino into the terminal
+2. 
+Installing on Ubuntu
+Open a terminal and run: sudo apt-get install arduino
+1. 
+Open the Arduino application, or type arduino into the terminal
+2. 
+Installing on macOS
+Go to https://www.arduino.cc/en/Main/Software
+1. 
+Click the Mac OS X link.
+2. 
+Unzip the .zipfile.
+3. 
+Move the Arduino application to Applications.
+4. 
+Read Arduino IDE online: https://riptutorial.com/arduino/topic/3790/arduino-ide
+https://riptutorial.com/
+11

@@ -1,0 +1,62 @@
+Generate a random number
+60
+Setting a seed
+61
+Chapter 21: Serial Communication
+62
+Syntax
+62
+Parameters
+62
+Remarks
+62
+Examples
+63
+Simple read and write
+63
+Base64 filtering for serial input data
+63
+Command Handling over Serial
+63
+Serial Communication with Python
+64
+Arduino:
+64
+Python:
+65
+Chapter 22: Servo
+66
+Introduction
+66
+Syntax
+66
+Examples
+66
+Moving the servo back and forth
+66
+Chapter 23: SPI Communication
+67
+Remarks
+67
+Chip select signals
+67
+Transactions
+67
+Using the SPI in Interrupt Service Routines
+68
+Examples
+68
+Basics: initialize the SPI and a chip select pin, and perform a 1-byte transfer
+68
+Chapter 24: Time Management
+70
+Syntax
+70
+Remarks
+70
+Blocking vs. non-blocking code
+70
+Implementation details
+70
+Examples
+71

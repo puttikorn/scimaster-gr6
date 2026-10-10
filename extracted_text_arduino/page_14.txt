@@ -1,0 +1,37 @@
+is usually already present, and your board will create a new one, e.g. COM 4. Select this from 
+Tools → Port → COM 4 (or other COM number).
+Some boards have additional settings in the Tools menu, such as clock speed. These vary from 
+board to board, but usually an acceptable set of defaults is already selected.
+Upload
+You are now ready to upload Blink. Click the Upload button or select Sketch → Upload. The 
+sketch will compile, then upload to your Arduino board. If everything worked, the on-board LED will 
+start blinking on and off every second.
+Serial monitor
+In the Arduino IDE ypu hava a serial monitor. To open it use the button serial monitor at the right 
+side of the window.
+Be sure that the code is uploaded before you open the monitor. The upload and monitor will not 
+run at the same time!
+LED - With Button control
+You can also use this code to setup an LED with a button switch with a pull up resistor, this could 
+preferably be with the next step after setting up the intial LED controller
+int buttonState = 0; // variable for reading the pushbutton status 
+ 
+void setup() 
+{ 
+    // initialize the LED pin as an output: 
+    pinMode(13, OUTPUT); // You can set it just using its number 
+    // initialize the pushbutton pin as an input: 
+    pinMode(2, INPUT); 
+} 
+ 
+void loop() 
+{ 
+    // read the state of the pushbutton value: 
+    buttonState = DigitalRead(2); 
+ 
+    // check if the pushbutton is pressed. 
+    // If it's not, the buttonState is HIGH : if (buttonState == HIGH) 
+    { 
+        // turn LED off: 
+https://riptutorial.com/
+7

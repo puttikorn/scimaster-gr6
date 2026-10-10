@@ -1,0 +1,5 @@
+Debugging considerations
+For debugging with the Uno, you will need to cut the Reset-enable trace (you can always solder it 
+back for using with the Arduino IDE):
+https://riptutorial.com/
+77

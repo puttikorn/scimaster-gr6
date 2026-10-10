@@ -1,0 +1,12 @@
+You will have to provide power separately to the Arduino because the debugger will not power it. 
+This can be done on the Pro Mini through the FTDI board as shown above, or with a USB cable or 
+AC adaptor on the Uno.
+Software setup
+Plug the Atmel ICE into your computer, start Atmel Studio and you can now import an existing 
+Arduino project.
+In Atmel Studio, go to File -> New -> Project and select "Create project from Arduino sketch". Fill 
+out options including board and device dropdown menus.
+Go to Project -> yourProjectName Properties, click on Tool, select Atmel ICE under 
+debugger/programmer and debugWire under interface. Go to Debug -> Start debugging and 
+https://riptutorial.com/
+79

@@ -1,0 +1,8 @@
+functions. This is enough to upload to an Arduino board, but it will do nothing at all. The "Blink" 
+example sketch works as a simple test when first using an Arduino board. Go to File → Examples 
+→ 01.Basics → Blink. This will open a new window with the Blink sketch.
+Select your board. Go to Tools → Board → [name of your Arduino board].
+Select the COM port for your board. Most Aurduino-compatible boards will create a fake COM 
+port, which is used for serial communication (debugging) and for programming the board. COM 1 
+https://riptutorial.com/
+6

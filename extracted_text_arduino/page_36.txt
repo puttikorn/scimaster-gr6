@@ -1,0 +1,9 @@
+Chapter 10: Hardware pins
+Examples
+Arduino Uno R3
+Microcontrollers use pins to interact with the rest of the circuit. These pins will usually be one of 
+input / output pins, vin or ground. I/O pins can be simple digital I/O pins, or they can have some 
+special carachteristics like being able to vary the voltage of their output using pulse width 
+modulation. Here's a schematic of the Arduino R3 Uno and its pins.
+https://riptutorial.com/
+29

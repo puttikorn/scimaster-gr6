@@ -1,0 +1,4 @@
+For the Arduino Pro Mini, use the mini squid cable as shown, again connecting the other side the 
+debugger's AVR port.
+https://riptutorial.com/
+76

@@ -1,0 +1,14 @@
+  Serial.println("Hello, Python!"); 
+  delay(1000); 
+}
+Python:
+import serial 
+ 
+ 
+ser = serial.Serial('/dev/ttyACM0', 9600)  # Start serial communication 
+while True: 
+    data = ser.readline()  # Wait for line from Arduino and read it 
+    print("Received: '{}'".format(data))  # Print the line to the console
+Read Serial Communication online: https://riptutorial.com/arduino/topic/1674/serial-communication
+https://riptutorial.com/
+65

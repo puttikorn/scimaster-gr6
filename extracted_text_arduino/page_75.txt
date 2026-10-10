@@ -1,0 +1,46 @@
+If another part of the code tries to use the SPI between a pair of calls to beginTransaction() and 
+endTransaction(), an error may be raised - how that is done depends on the implementation.
+Also see Arduino Reference: SPISettings
+Using the SPI in Interrupt Service Routines
+If the SPI has to be used within an ISR, no other transaction may be taking place at the same 
+time. The SPI library provides usingInterrupt(interrupt_number) to facilitate this. It works by 
+disabling the given interrupt whenever beginTransaction() is called, so the interrupt cannot fire 
+between that pair fo calls to beginTransaction() and endTransaction().
+Also see Arduino Reference: SPI: usingInterrupt
+Examples
+Basics: initialize the SPI and a chip select pin, and perform a 1-byte transfer
+#include <SPI.h> 
+#define CSPIN 1 
+ 
+void setup() { 
+  pinMode(CSPIN, OUTPUT); // init chip select pin as an output 
+  digitalWrite(CSPIN, 1); // most slaves interpret a high level on CS as "deasserted" 
+ 
+  SPI.begin(); 
+ 
+  SPI.beginTransaction(SPISettings(1000000, MSBFIRST, SPI_MODE0)); 
+  digitalWrite(CSPIN, 0); 
+ 
+  unsigned char sent = 0x01; 
+  unsigned char received = SPI.transfer(sent); 
+  // more data could be transferred here 
+ 
+  digitalWrite(CSPIN, 1); 
+  SPI.endTransaction(); 
+ 
+  SPI.end(); 
+} 
+ 
+void loop() { 
+  // we don't need loop code in this example. 
+}
+This example:
+properly initializes and uses a chip select pin (see remarks)
+•
+properly uses an SPI transaction (see remarks)
+•
+only uses the SPI to transfer one single byte. There is also a method for transferring arrays, 
+which is not used here.
+•
+https://riptutorial.com/
+68

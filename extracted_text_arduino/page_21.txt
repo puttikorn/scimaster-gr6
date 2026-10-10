@@ -1,0 +1,44 @@
+method
+details
+listening).
+write(data)
+Prints data to the transmit pin of the software serial port as raw 
+bytes. Works the same as the Serial.write() function.
+Remarks
+Common Mistake : If you keep the rx and tx pins at default values (0 and 1), you cannot upload 
+new code until and unless you remove it, so it's almost always better to change the tx and rx pins 
+in the SoftwareSerial constructor.
+Examples
+Basic bluetooth hello world
+#include <SoftwareSerial.h> 
+// its always better to change the default tx and rx as the may interfere with other process 
+in future. 
+ 
+// configure tx , rx by defualt they will be 0 and 1 in arduino UNO 
+SoftwareSerial blue(3,2); 
+void setup() { 
+  // preferred baud rate/data transfer rate in general is 38400 
+     blue.begin(38400); 
+  // do initialization or put one time executing code here 
+} 
+ 
+void loop() { 
+ 
+  // put code that you want it to run every time no matter what 
+    if(blue.available()){ 
+        // put only that code which needsd to run when there is some data 
+        // This means that the their is some data sent over the bluetooth 
+        // You can do something with the data 
+ 
+        int n; 
+        // consider that the data received to be integer, read it by using blue.parseInt(); 
+ 
+        n = blue.parseInt(); 
+ 
+    } 
+ 
+}
+Read Bluetooth Communication online: https://riptutorial.com/arduino/topic/2543/bluetooth-
+communication
+https://riptutorial.com/
+14

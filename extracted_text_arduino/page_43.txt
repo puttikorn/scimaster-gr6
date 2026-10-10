@@ -1,0 +1,47 @@
+Chapter 13: I2C Communication
+Introduction
+I2C is a communication protocol that can make two or more Arduino boards talk to each other. 
+The protocol uses two pins - SDA (data line) and SCL (clock line). Those pins are different from 
+one Arduino board type to another, so check the board specification. The I2C protocol set one 
+Arduino board as the master, and all the others as a slave. Each slave has a different address that 
+the programmer set hard-coded. Remark: Make sure all boards connected to the same VCC 
+source
+Examples
+Multiple slaves
+The following example shows how the master can receive data from multiple slaves. In this 
+example the slave sends two short numbers. The first one is for temperature, and the second one 
+is for moisture. Please notice that the temperature is a float (24.3). In order to use only two bytes 
+and not four (float is four bytes), I multiple the temperature in 10, and save it as a short. So here is 
+the master code:
+#include <Wire.h> 
+ 
+#define BUFFER_SIZE  4 
+#define MAX_NUMBER_OF_SLAVES 24 
+#define FIRST_SLAVE_ADDRESS 1 
+#define READ_CYCLE_DELAY 1000 
+ 
+byte buffer[BUFFER_SIZE]; 
+ 
+void setup() 
+{ 
+  Serial.begin(9600); 
+  Serial.println("MASTER READER"); 
+  Serial.println("*************"); 
+ 
+  Wire.begin();        // Activate I2C link 
+} 
+ 
+void loop() 
+{ 
+  for (int slaveAddress = FIRST_SLAVE_ADDRESS; 
+       slaveAddress <= MAX_NUMBER_OF_SLAVES; 
+       slaveAddress++) 
+  { 
+    Wire.requestFrom(slaveAddress, BUFFER_SIZE);    // request data from the slave 
+    if(Wire.available() == BUFFER_SIZE) 
+      {  // if the available data size is same as I'm expecting 
+        // Reads the buffer the slave sent 
+        for (int i = 0; i < BUFFER_SIZE; i++) 
+        { 
+https://riptutorial.com/
+36

@@ -1,0 +1,25 @@
+float : 4-byte floating point number
+•
+double : 4-byte (on ATMEGA based boards) or 8-byte (on Arduino Due) floating point number
+•
+Examples:
+char a = 'A'; 
+char a = 65; 
+ 
+byte b = B10010; 
+ 
+int c = 2; 
+ 
+unsigned int d = 3; 
+ 
+long e = 186000L; 
+ 
+unsigned long f = millis(); // as an example 
+ 
+float g = 1.117; 
+ 
+double h = 1.117;
+Read Variables and Data Types online: https://riptutorial.com/arduino/topic/2565/variables-and-
+data-types
+https://riptutorial.com/
+83

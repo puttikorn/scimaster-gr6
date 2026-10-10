@@ -1,0 +1,59 @@
+  if (Serial.available()) { 
+    // get the new byte: 
+    addQueue((unsigned char)Serial.read());; 
+  } 
+}
+MIDI Clock Generation
+// This is a MiDI clk generator.  This takes a #defined BPM and 
+// makes the appropriate clk rate.  The queue is used to let other messages 
+// through, but allows a clock to go immediately to reduce clock jitter 
+ 
+#define QUEUE_DEPTH 128 
+#define BPM 121 
+#define MIDI_SYSRT_CLK 0xF8 
+ 
+// clock tracking and calculation 
+unsigned long lastClock; 
+unsigned long captClock; 
+unsigned long clk_period_us; 
+ 
+// Queue Logic for storing messages 
+int headQ = 0; 
+int tailQ = 0; 
+unsigned char tx_queue[QUEUE_DEPTH]; 
+ 
+void setup() { 
+    //  Set MIDI baud rate: 
+    Serial.begin(31250); 
+    clk_period_us = 60000000 / (24 * BPM); 
+    lastClock = micros(); 
+} 
+ 
+// getQDepth checks for roll over.  Folks have told me this 
+// is not required.  Feel free to experiment. 
+int getQDepth() { 
+int depth = 0; 
+    if (headQ < tailQ) { 
+        depth = QUEUE_DEPTH - (tailQ - headQ); 
+    } else { 
+        depth = headQ - tailQ; 
+    } 
+    return depth; 
+} 
+ 
+void addQueue (unsigned char myByte) { 
+    int depth = 0; 
+    depth = getQDepth(); 
+ 
+    if (depth < (QUEUE_DEPTH-2)) { 
+        tx_queue[headQ] = myByte; 
+        headQ++; 
+        headQ = headQ % QUEUE_DEPTH; // Always keep the headQ limited between 0 and 127 
+    } 
+} 
+ 
+unsigned char deQueue() { 
+    unsigned char myByte; 
+    myByte = tx_queue[tailQ]; 
+https://riptutorial.com/
+51

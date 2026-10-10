@@ -1,0 +1,45 @@
+Chapter 18: MIDI Communication
+Introduction
+The intent of this topic to demonstrate some basic MIDI programs that show how to operate with 
+the protocol and progressively add useful features that more complex applications require.
+Examples
+MIDI THRU Example
+The MIDI Thru is simple and easy to test. When working properly you will be able to install your 
+Arduino project between two MIDI devices, MIDI IN to MIDI OUT and you will be able to verify that 
+the two device operate together. If you have the ability to measure latency, you will see an 
+increase due to the serial buffer capture and re-transmit instructions.
+// This is a simple MIDI THRU.  Everything in, goes right out. 
+// This has been validate on an Arduino UNO and a Olimex MIDI Shield 
+ 
+boolean byteReady; 
+unsigned char midiByte; 
+ 
+void setup() { 
+    // put your setup code here, to run once: 
+    //  Set MIDI baud rate: 
+    Serial.begin(31250); 
+    byteReady = false; 
+    midiByte = 0; 
+} 
+ 
+// The Loop that always gets called... 
+void loop() { 
+   if (byteReady) { 
+        byteReady = false; 
+        Serial.write(midiByte); 
+    } 
+} 
+ 
+// The little function that gets called each time loop is called. 
+// This is automated somwhere in the Arduino code. 
+void serialEvent() { 
+  if (Serial.available()) { 
+    // get the new byte: 
+    midiByte = (unsigned char)Serial.read(); 
+    byteReady = true; 
+  } 
+}
+MIDI Thru with Queue
+// This is a more complex MIDI THRU.  This version uses a queue.  Queues are important because 
+https://riptutorial.com/
+49

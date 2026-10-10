@@ -1,0 +1,32 @@
+which allows voltages and currents that would destroy the Arduino.
+Bill of materials: what do you need to build 
+this example
+MOSFET diode: for instance, the popular BUZ11
+•
+Protection diode for the motor: Schottky SB320
+•
+Resistor: anything 10K ~ 1M Ohm
+•
+Motor: A typical small motor (a typical one can be 12V)
+•
+A power source compatible with the motor you have selected
+•
+A breadboard
+•
+Colorful cables!
+•
+An Arduino, but you already knew that.
+•
+The build
+Put everything together! Power the rails of the breadboard and place the MOSFET diode in it. 
+Connect the motor between the positive rail and the MOSFET drain. Connect the protection diode 
+in the same way: between the MOSFET drain and the positive rail. Connect the source of the 
+MOSFET to the common ground rail. Finally, connect the PWM pin (we're using pin 10 in this 
+example) to the gate of the MOSFET and also to the common ground through the resistor (we 
+need very low current!).
+Here's an example of how this build looks. If you prefer an scheme here's one.
+The code
+Now we can connect the Arduino to a computer, upload the code and control the motor, by 
+sending values through the serial communication. Recall that these values should be integers 
+https://riptutorial.com/
+58

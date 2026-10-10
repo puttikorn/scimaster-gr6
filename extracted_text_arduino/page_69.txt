@@ -1,0 +1,46 @@
+Chapter 21: Serial Communication
+Syntax
+Serial.begin(speed) // Opens the serial port on the given baud rate
+•
+Serial.begin(speed, config)
+•
+Serial[1-3].begin(speed) // Arduino Mega only! When writing 1-3 it means you can choose 
+between the numbers 1 to 3 when choosing the serial port.
+•
+Serial[1-3].begin(speed, config) // Arduino Mega only! When writing 1-3 it means you can 
+choose between the numbers 1 to 3 when choosing the serial port.
+•
+Serial.peek() // Reads the next byte of input without removing it from the buffer
+•
+Serial.available() // Gets the number of bytes in the buffer
+•
+Serial.print(text) // Writes text to the serial port
+•
+Serial.println(text) // Same as Serial.print() but with a trailing newline
+•
+Parameters
+Parameter
+Details
+Speed
+The rate of the serial port (usually 9600)
+Text
+The text to write to the serial port (any data type)
+Data bits
+Number of data bits in a packet (from 5 - 8), default is 8
+Parity
+Parity options for error detection: none (default), even, odd
+Stop bits
+Number of stop bits in a packet: one (default), two
+Remarks
+The Arduino Mega has four serial ports which there can be choosed from. They are accesed in the 
+following way
+  Serial.begin(9600); 
+  Serial1.begin(38400); 
+  Serial2.begin(19200); 
+  Serial3.begin(4800);
+The serial port on an Arduino can be set with additional parameters. The config parameter sets 
+data bits, parity, and stop bits. For example:
+8 data bits, even parity and 1 stop bit would be - SERIAL_8E1
+6 data bits, odd parity and 2 stop bit would be - SERIAL_6O2
+https://riptutorial.com/
+62

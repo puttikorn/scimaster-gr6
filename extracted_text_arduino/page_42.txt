@@ -1,0 +1,23 @@
+#include <EEPROM.h>
+Then your other code:
+// Stores value in a particular address in EEPROM. There are almost 512 addresses present. 
+ 
+    // Store value 24 to Address 0 in EEPROM 
+    int addr = 0; 
+    int val = 24; 
+    EEPROM.write(addr, val);     // Writes 24 to address 0 
+ 
+    // --------- 
+    // Retrieves value from a particular address in EEPROM 
+    // Retrieve value from address 0 in EEPROM 
+    int retrievedVal = EEPROM.read(0);    // Retrieves value stored in 0 address in 
+                                          // EEPROM 
+ 
+    // *[NOTE: put Serial.begin(9600); at void setup()]* 
+    Serial.println(retrievedVal);        // Prints value stored in EEPROM Address 0 to 
+                                         // Serial (screen)
+Read How to store variables in EEPROM and use them for permanent storage online: 
+https://riptutorial.com/arduino/topic/5987/how-to-store-variables-in-eeprom-and-use-them-for-
+permanent-storage
+https://riptutorial.com/
+35

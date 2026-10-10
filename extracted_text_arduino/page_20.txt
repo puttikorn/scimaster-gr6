@@ -1,0 +1,49 @@
+Chapter 5: Bluetooth Communication
+Parameters
+method
+details
+SoftwareSerial.h
+Documentation
+SoftwareSerial(rxPin, 
+txPin, inverse_logic)
+Constructor. rxPin: Data in (receive) pin, defaults to 0. txPin: 
+Data out (transmit) pin, defaults to 1. inverse_logic: If true, treats 
+LOW as if it were HIGH and HIGH as LOW when determining bit 
+values. defaults to false.
+begin(speed)
+Sets the baud rate for serial communication. Supported baud 
+rates are 300, 600, 1200, 2400, 4800, 9600, 14400, 19200, 
+28800, 31250, 38400, 57600, and 115200.
+available()
+Check if there is some data over serial
+read()
+Reads a string from serial
+isListening()
+Checks to see if requested software serial port is actively 
+listening.
+overflow()
+Checks if a software serial buffer overflow has occurred. Calling 
+this function clears the overflow flag, meaning that subsequent 
+calls will return false unless another byte of data has been 
+received and discarded in the meantime. The software serial 
+buffer can hold 64 bytes.
+peek()
+Return a character that was received on the RX pin of the 
+software serial port. Unlike read(), however, subsequent calls to 
+this function will return the same character. Note that only one 
+SoftwareSerial instance can receive incoming data at a time 
+(select which one with the listen() function).
+print(data)
+Prints data to the transmit pin of the software serial port. Works 
+the same as the Serial.print() function.
+println(data)
+Prints data to the transmit pin of the software serial port, followed 
+by a carriage return and line feed. Works the same as the 
+Serial.println() function.
+Enables the selected software serial port to listen. Only one 
+software serial port can listen at a time; data that arrives for other 
+ports will be discarded. Any data already received is discarded 
+during the call to listen() (unless the given instance is already 
+listen()
+https://riptutorial.com/
+13

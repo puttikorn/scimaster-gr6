@@ -1,0 +1,62 @@
+Arduino Uno R3
+29
+Chapter 11: How Python integrates with Arduino Uno
+32
+Syntax
+32
+Parameters
+32
+Remarks
+32
+Examples
+32
+First serial communication between Arduino and Python
+32
+Chapter 12: How to store variables in EEPROM and use them for permanent storage
+34
+Syntax
+34
+Parameters
+34
+Remarks
+34
+Examples
+34
+Store a variable in EEPROM and then retrieve it and print to screen
+34
+Chapter 13: I2C Communication
+36
+Introduction
+36
+Examples
+36
+Multiple slaves
+36
+Chapter 14: Interrupts
+39
+Syntax
+39
+Parameters
+39
+Remarks
+39
+Examples
+39
+Interrupt on Button Press
+39
+Chapter 15: Libraries
+41
+Introduction
+41
+Examples
+41
+Installing libraries with the Library Manager
+41
+Including libraries in your sketch.
+42
+Chapter 16: Liquid Crystal Library
+44
+Introduction
+44
+Syntax
+44

@@ -1,0 +1,21 @@
+void firstTask(){ 
+  //let's toggle the built-in led 
+  digitalWrite(LED_BUILTIN, digitalRead(LED_BUILTIN)?0:1); 
+} 
+ 
+void secondTask(){ 
+  //say hello 
+  Serial.println("hello from secondTask()"); 
+}
+To add another task to execute every 15 seconds, extend the variables intervals and last:
+unsigned long intervals[] = {250,2000,15000}; 
+unsigned long last[] = {0,0,0};
+Then add an if statement to execute the new task. In this example, I named it thirdTask.
+if(now-last[2]>=intervals[2]){ last[2]=now; thirdTask(); }
+Finally declare the function:
+void thirdTask(){ 
+  //your code here 
+}
+Read Time Management online: https://riptutorial.com/arduino/topic/4852/time-management
+https://riptutorial.com/
+74

@@ -1,0 +1,32 @@
+Examples
+Atmel Studio 7 imported sketch example
+This is an example of what a simple Arduino sketch looks like after being imported into Atmel 
+Studio. Atmel Studio added the auto generated sections at the top. The rest is identical to the 
+original Arduino code. If you expand the ArduinoCore project that was created and look in the src -
+> core folder, you will find main.cpp, the entry point for the program. There you can see the call to 
+the the Arduino setup function and a never ending for loop that calls the Arduino loop function over 
+and over.
+/* Begining of Auto generated code by Atmel studio */ 
+#include <Arduino.h> 
+/* End of auto generated code by Atmel studio */ 
+ 
+ 
+// Beginning of Auto generated function prototypes by Atmel Studio 
+void printA(); 
+// End of Auto generated function prototypes by Atmel Studio 
+ 
+void setup() { 
+  Serial.begin(9600); 
+} 
+ 
+void loop() { 
+    printA(); 
+} 
+ 
+void printA() { 
+    Serial.println("A"); 
+}
+Read Using Arduino with Atmel Studio 7 online: https://riptutorial.com/arduino/topic/2567/using-
+arduino-with-atmel-studio-7
+https://riptutorial.com/
+81

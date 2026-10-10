@@ -1,0 +1,45 @@
+Chapter 24: Time Management
+Syntax
+unsigned long millis()
+•
+unsigned long micros()
+•
+void delay(unsigned long milliseconds)
+•
+void delayMicroseconds(unsigned long microseconds)
+•
+See the elapsedMillis header for constructors and operators of that class. In short:
+elapsedMillis elapsedMillisObject; creates an object to keep track of time since it was 
+created or since some other explicitly set point in time
+○
+elapsedMillisObject = 0; reset the time tracked by the object to "since now"
+○
+unsigned long deltaT = elapsedMillisObject; lets us look at the tracked time
+○
+elapsedMillisObject += and -= these work as expected
+○
+•
+Remarks
+Blocking vs. non-blocking code
+For very simple sketches, writing blocking code using delay() and delayMicroseconds() can be 
+appropriate. When things get more complex, using these functions can have some drawbacks. 
+Some of these are:
+Wasting CPU time: More complex sketches might need the CPU for something else while 
+waiting for an LED blinking period to end.
+•
+unexpected delays: when delay() is called in subroutines that are not obviously called, for 
+example in libraries you include.
+•
+missing events that happen during the delay and are not handled by an interrupt handler, for 
+example polled button presses: A button might be pressed for 100 ms, but this might be 
+shadowed by a delay(500).
+•
+Implementation details
+millis() usually relies on a hardware timer that runs at a speed that's much higher than 1 kHz. 
+When millis() is called, the implementation returns some value, but you don't know how old that 
+actually is. It's possible that the "current" millisecond just started, or that it will end right after that 
+function call. That means that, when calculating the difference between two results from millis(), 
+you can be off by anything between almost zero and almost one millisecond. Use micros() if higher 
+precision is needed.
+https://riptutorial.com/
+70

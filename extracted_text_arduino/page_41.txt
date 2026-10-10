@@ -1,0 +1,40 @@
+Chapter 12: How to store variables in 
+EEPROM and use them for permanent 
+storage
+Syntax
+EEPROM.write(address, value); //(Store variables in EEPROM in a particular address)
+•
+EEPROM.read(address); //(Retrieve values from EEPROM and read data stored in 
+EEPROM)
+•
+Parameters
+Parameters of 
+EEPROM.write
+Detail
+address
+The address where value is to be stored in EEPROM
+value
+Main variable to store in EEPROM. Note that this is a uint_8 (single 
+byte)—you must split multiple-byte data types into single bytes 
+yourself. Or you can use EEPROM.put to store floats or other data types.
+Parameters of 
+EEPROM.Read
+Detail
+address
+The address from which the variable is to be read
+Remarks
+The allowable addresses vary by hardware.
+ATMega328 (Uno, Pro Mini, etc.): 0–1023
+•
+ATMega168: 0-511
+•
+ATMega1280: 0-4095
+•
+ATMega2560: 0-4095
+•
+source
+Examples
+Store a variable in EEPROM and then retrieve it and print to screen
+First, add a reference to <EEPROM.h> at the start of your sketch:
+https://riptutorial.com/
+34

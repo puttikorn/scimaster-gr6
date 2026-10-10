@@ -1,0 +1,35 @@
+Chapter 26: Variables and Data Types
+Examples
+Create variable
+To create a variable:
+variableType variableName;
+For example:
+int a;
+To create a variable and initialize it:
+variableType variableName = initialValue;
+For example:
+int a = 2;
+Assign value to a variable
+If you have a variable declared before, you can assign some value to it:
+For example:
+int a;  // declared previously 
+a = 2;
+Or change the value:
+int a = 3;  // initalized previously 
+a = 2;
+Variable types
+char : signed 1-byte character value
+•
+byte : unsigned 8-bit integer
+•
+int : signed 16-bit (on ATMEGA based boards) or 32-bit (on Arduino Due) integer
+•
+unsigned int : unsigned 16-bit (on ATMEGA based boards) or 32-bit (on Arduino Due) 
+integer
+•
+long : signed 32-bit integer
+•
+unsigned long : unsigned 32-bit integer
+•
+https://riptutorial.com/
+82

@@ -1,0 +1,61 @@
+Table of Contents
+About
+1
+Chapter 1: Getting started with arduino
+2
+Remarks
+2
+What is Arduino?
+2
+Why Use Arduino?
+2
+Versions
+2
+Examples
+2
+Bare Minimum
+2
+Blink
+3
+First Time Setup
+4
+Setup
+5
+Upload
+7
+Serial monitor
+7
+LED - With Button control
+7
+Chapter 2: Analog Inputs
+9
+Syntax
+9
+Remarks
+9
+Examples
+9
+Print out an Analog Value
+9
+Get Voltage From Analog Pin
+9
+Chapter 3: Arduino IDE
+11
+Examples
+11
+Installing on Windows
+11
+Portable app on Windows
+11
+Installing on Fedora
+11
+Installing on Ubuntu
+11
+Installing on macOS
+11
+Chapter 4: Audio Output
+12
+Parameters
+12
+Examples
+12

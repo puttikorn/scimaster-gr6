@@ -1,0 +1,54 @@
+ 
+void loop(){ 
+    // setup as non-blocking code 
+    if(Serial.available() > 0) { 
+        incoming = Serial.read(); 
+ 
+        if(incoming == '\n') {  // newline, carriage return, both, or custom character 
+ 
+            // handle the incoming command 
+            handle_command(); 
+ 
+            // Clear the string for the next command 
+            inBuffer = ""; 
+        } else{ 
+            // add the character to the buffer 
+            inBuffer += incoming; 
+        } 
+    } 
+ 
+    // since code is non-blocking, execute something else . . . . 
+} 
+ 
+void handle_command() { 
+    // expect something like 'pin 3 high' 
+    String command = inBuffer.substring(0, inBuffer.indexOf(' ')); 
+    String parameters = inBuffer.substring(inBuffer.indexOf(' ') + 1); 
+ 
+    if(command.equalsIgnoreCase('pin')){ 
+        // parse the rest of the information 
+        int pin = parameters.substring("0, parameters.indexOf(' ')).toInt(); 
+        String state = parameters.substring(parameters.indexOf(' ') + 1); 
+ 
+        if(state.equalsIgnoreCase('high')){ 
+            digitalWrite(pin, HIGH); 
+        }else if(state.equalsIgnoreCase('low)){ 
+            digitalWrite(pin, LOW); 
+        }else{ 
+            Serial.println("did not compute"); 
+        } 
+    } // add code for more commands 
+}
+Serial Communication with Python
+If you have an Arduino connected to a computer or a Raspberry Pi, and want to send data from 
+the Arduino to the PC you can do the following:
+Arduino:
+void setup() { 
+  // Opens serial port, sets data rate to 9600 bps: 
+  Serial.begin(9600); 
+} 
+ 
+void loop() { 
+  // Sends a line over serial: 
+https://riptutorial.com/
+64

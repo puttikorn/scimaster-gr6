@@ -1,0 +1,40 @@
+break. You should see a warning and be asked if you want to set the DWEN fuse. Choose OK, 
+unplug the Arduino from power and plug it in again. You can stop debugging by clicking the red 
+square button and start by clicking the green triangle button. To return the Arduino to a state that it 
+can be used in the Arduino IDE, while you're debugging, choose Debug -> disable debugWIRE 
+and close.
+Note that any functions you add must include a function prototype as well (loop and setup don't 
+need them). You can see the ones Atmel Studio added at the top of the sketch if there were any 
+functions when you imported your project into Atmel Studio (see sample code for example).
+C++11 support is enabled by default in Arduino 1.6.6 and above. This provides more C++ 
+language features and enabling it may increase compatibility with the Arduinio system. To enable 
+C++11 in Atmel Studio 7, right click on your project file, select properties, click on ToolChain on 
+the left, Click on Miscellaneous under AVR/GNU C++ Compiler and put -std=c++11 in the Other 
+flags field.
+To include libraries in your sketch
+Copy the .cpp library file into C:\Users\YourUserName\Documents\Atmel 
+Studio\7.0\YourSolutionName\YourProjectName\ArduinoCore\src\core, then in Atmel Studio, open the 
+Solution Explorer window right click on the Arduino Core/src/core folder, choose add -> existing 
+item and choose the file you added. Do the same with the .h library file and the 
+YourProjectName/Dependancies folder.
+To add the terminal window
+You can always have the Android IDE open and use that Serial window (just select the correct 
+serial port), however to add a built in Serial window to Atmel Studio, go to Tools -> Extensions and 
+Updates, click on Available downloads and search for Terminal Window or Terminal for Atmel 
+Studio and install it. Once installed, go to View -> Terminal Window.
+Benefits
+Programming Arduino with a moder IDE like Atmel Studio 7 gives you numerous advantages over 
+the Arduino IDE, including debugging, autocompletion, jump to definition and declaration, 
+forward/backward navigation, bookmarks and refactoring options to name a few.
+You can configure key bindings by going to Tools -> Options -> Environment -> Keyboard. Some 
+that really speed up development are:
+Edit.CommentSelection, Edit.UncommentSelection
+•
+View.NavigateForward, View.NavigateBackward
+•
+Edit.MoveSelectedLinesUp, Edit.MoveSelectedLinesDown
+•
+Edit.GoToDefinition
+•
+https://riptutorial.com/
+80

@@ -1,0 +1,44 @@
+blocking blinky with delay()
+71
+Non-blocking blinky with the elapsedMillis library (and class)
+71
+Non-blocking blinky with millis()
+72
+Measure how long something took, using elapsedMillis and elapsedMicros
+73
+More than 1 task without delay()
+73
+Chapter 25: Using Arduino with Atmel Studio 7
+75
+Remarks
+75
+Setup
+75
+Connections
+75
+Debugging considerations
+77
+Software setup
+79
+To include libraries in your sketch
+80
+To add the terminal window
+80
+Benefits
+80
+Examples
+81
+Atmel Studio 7 imported sketch example
+81
+Chapter 26: Variables and Data Types
+82
+Examples
+82
+Create variable
+82
+Assign value to a variable
+82
+Variable types
+82
+Credits
+84

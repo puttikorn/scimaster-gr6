@@ -1,0 +1,21 @@
+Chapter 9: Functions
+Remarks
+Other than in ordinary C / C++ , the Arduino IDE allows to call a function before it is defined.
+In .cpp files, you have to define the function, or at least declare the function prototype before you 
+can use it.  
+In an .ino file, the Arduino IDE creates such a prototype behind the scenes.
+Arduino - function declaration - official
+Examples
+Create simple function
+int squareNum (int a) { 
+    return a*a; 
+}
+int : return type
+squareNum : function name
+int a : parameter type and name
+return a*a : return a value (same type as the return type defined at the beginning)
+Call a function
+If you have a function declared you can call it anywhere else in the code. Here is an example of 
+calling a function:
+https://riptutorial.com/
+27

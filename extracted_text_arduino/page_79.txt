@@ -1,0 +1,54 @@
+} 
+ 
+void loop() 
+{ 
+    if (ledTime >= PERIOD) 
+    { 
+        ledState = !ledState; 
+        digitalWrite(OUTPIN, ledState); 
+        ledTime = 0; 
+    } 
+    // do other stuff here 
+}
+You can see in the example that the ledTime object is assigned zero when the LED pin was 
+toggled. This might not be surprising at first glance, but it has an effect if more time-consuming 
+things are happening:
+Consider a situation where the comparison between ledTime and PERIOD is done after 750 
+milliseconds. Then setting ledTime to zero means that all following toggle operations will be 250 ms 
+"late". If, in contrast, PERIOD was subtracted from ledTime, the LED would see one short period and 
+then continue blinking as if nothing happened.
+Non-blocking blinky with millis()
+This is very close to an example from the arduino docs:
+// set constants for blinking the built-in LED at 1 Hz 
+#define OUTPIN LED_BUILTIN 
+#define PERIOD 500  // this is in milliseconds 
+ 
+int ledState = LOW; 
+ 
+// millis() returns an unsigned long so we'll use that to keep track of time 
+unsigned long lastTime = 0; 
+ 
+void setup() { 
+  // set the digital pin as output: 
+  pinMode(OUTPIN, OUTPUT); 
+} 
+ 
+void loop() { 
+  unsigned long now = millis(); 
+  if (now - lastTime >= PERIOD) // this will be true every PERIOD milliseconds 
+  { 
+    lastTime = now; 
+    if (ledState == LOW) 
+    { 
+      ledState = HIGH; 
+    } 
+    else 
+    { 
+      ledState = LOW; 
+    } 
+    digitalWrite(OUTPIN, ledState); 
+  } 
+ 
+  // now there's lots of time to do other stuff here 
+https://riptutorial.com/
+72

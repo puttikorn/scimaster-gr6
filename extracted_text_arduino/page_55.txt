@@ -1,0 +1,33 @@
+int i = 0; 
+do { 
+    i++; 
+} while (i < 0);
+If the above loop were merely a while loop, it would execute 0 times, because the condition would 
+evaluate to false before the first iteration. But since it is a do while loop, it executes once, then 
+checks its condition before executing again.
+Flow Control
+There are some ways to break or change a loop's flow.
+break; will exit the current loop, and will not execute any more lines within that loop.
+continue; will not execute any more code within the current iteration of the loop, but will remain in 
+the loop.
+The following loop will execute 101 times (i = 0, 1, ..., 100 ) instead of 1000, due to the break 
+statement:
+for (int i = 0; i < 1000; i++) { 
+    // execute this repeatedly with i = 0, 1, 2, ... 
+    if (i >= 100) { 
+        break; 
+    } 
+}
+The following loop will result in j's value being 50 instead of 100, because of the continue 
+statement:
+int j=0; 
+for (int i = 0; i < 100; i++) { 
+    if (i % 2 == 0) { // if `i` is even 
+        continue; 
+    } 
+    j++; 
+} 
+// j has the value 50 now.
+Read Loops online: https://riptutorial.com/arduino/topic/2802/loops
+https://riptutorial.com/
+48
